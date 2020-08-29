@@ -30,7 +30,6 @@ httplib2==0.14.0
 hyperlink==19.0.0
 idna==2.8
 incremental==16.10.1
-iotop==0.6
 ipython==7.16.1
 ipython-genutils==0.2.0
 jedi==0.17.2
