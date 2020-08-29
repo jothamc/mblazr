@@ -24,7 +24,7 @@ SECRET_KEY = '(jb(b+5r68^(-ye))k-x@f%gyhy=1w)b!4#%g*(pg-9cti3u@y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['172.104.7.112', 'hermes'] #Linode server
+ALLOWED_HOSTS = ['172.104.7.112', 'hermes', 'caprap.herokuapp.com'] #Linode server
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 #EMAIL_USE_SSL = True
