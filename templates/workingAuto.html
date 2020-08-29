@@ -1,0 +1,61 @@
+<div class="col-sm-3"></div>
+<div class="col-sm-5">
+  <p>This is my search bar test:</p>
+  <form class="autocomplete" autocomplete="off" action="{% url 'companyOverview' %}" method="get">
+    <div style="position:relative;">
+      <input type="text" class="form-control" id="testInput" name="q" spellcheck="false" placeholder="Search...">
+      <input type="hidden" id="project-id">
+      <p id="project-description"></p>
+      <button type="submit" id="testBtn" class="btn btn-primary" style="position:absolute;top:0;right:0;"><div style="-webkit-transform: rotate(45deg); 
+                     -moz-transform: rotate(45deg); 
+                       -o-transform: rotate(45deg);
+                          transform: rotate(45deg);">
+          &#9906; <!--division to add the tilted search symbol-->
+    </div></button>
+    </div>
+  </form>
+  <h1>&nbsp;</h1>
+</div>
+<script>
+  $( function() {
+    var projects = [
+      {
+        value: "jquery",
+        label: "jQuery",
+        desc: "the write less, do more, JavaScript library",
+      },
+      {
+        value: "jquery-ui",
+        label: "jQuery UI",
+        desc: "the official user interface library for jQuery",
+      },
+      {
+        value: "sizzlejs",
+        label: "Sizzle JS",
+        desc: "a pure-JavaScript CSS selector engine",
+      }
+    ];
+
+    $( "#testInput" ).autocomplete({
+      minLength: 0,
+      source: projects,
+      focus: function( event, ui ) {
+        $( "#testInput" ).val( ui.item.label );
+        return false;
+      },
+      select: function( event, ui ) {
+        $( "#testInput" ).val( ui.item.label );
+        $( "#project-id" ).val( ui.item.value );
+        $( "#project-description" ).html( ui.item.desc );
+
+        return false;
+      }
+    })
+    .autocomplete( "instance" )._renderItem = function( ul, item ) {
+      return $( "<table class=\"table table-hover\"><tbody>" )
+        .append( "<tr><td>" + item.label + "</td><td>" + item.desc + "</td></tr>" )
+        .append("</tbody></table>")
+        .appendTo( ul );
+    };
+  });
+</script>
