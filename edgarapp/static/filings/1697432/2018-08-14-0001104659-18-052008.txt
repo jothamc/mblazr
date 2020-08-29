@@ -1,0 +1,609 @@
+<SEC-DOCUMENT>0001104659-18-052008.txt : 20180814
+<SEC-HEADER>0001104659-18-052008.hdr.sgml : 20180814
+<ACCEPTANCE-DATETIME>20180814171101
+ACCESSION NUMBER:		0001104659-18-052008
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20180630
+FILED AS OF DATE:		20180814
+DATE AS OF CHANGE:		20180814
+EFFECTIVENESS DATE:		20180814
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Franklin Square Holdings, L.P.
+		CENTRAL INDEX KEY:			0001697432
+		IRS NUMBER:				260196373
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-17764
+		FILM NUMBER:		181018793
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 ROUSE BOULEVARD
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19112
+		BUSINESS PHONE:		2154951150
+
+	MAIL ADDRESS:	
+		STREET 1:		201 ROUSE BOULEVARD
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19112
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <filer>
+        <credentials>
+          <cik>0001697432</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2018</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2018</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>Franklin Square Holdings, L.P.</name>
+        <address>
+          <ns1:street1>201 Rouse Boulevard</ns1:street1>
+          <ns1:city>Philadelphia</ns1:city>
+          <ns1:stateOrCountry>PA</ns1:stateOrCountry>
+          <ns1:zipCode>19112</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-17764</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Stephen S. Sypherd</name>
+      <title>Managing Director and General Counsel</title>
+      <phone>215-495-1150</phone>
+      <signature>/s/ Stephen S. Sypherd</signature>
+      <city>Philadelphia</city>
+      <stateOrCountry>PA</stateOrCountry>
+      <signatureDate>08-14-2018</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>31</tableEntryTotal>
+      <tableValueTotal>87900</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>a18-18751_1informationtable.xml
+<DESCRIPTION>INFORMATION TABLE
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <infoTable>
+    <nameOfIssuer>ANDEAVOR LOGISTICS LP</nameOfIssuer>
+    <titleOfClass>COM UNIT LP INT</titleOfClass>
+    <cusip>03350F106</cusip>
+    <value>1241</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>29190</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>29190</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ANTERO MIDSTREAM GP LP</nameOfIssuer>
+    <titleOfClass>COM SHS REPSTG</titleOfClass>
+    <cusip>03675Y103</cusip>
+    <value>748</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>39650</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>39650</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ANTERO MIDSTREAM PARTNERS LP</nameOfIssuer>
+    <titleOfClass>UNT LTD PARTN</titleOfClass>
+    <cusip>03673L103</cusip>
+    <value>425</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>14400</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>14400</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>BP PLC</nameOfIssuer>
+    <titleOfClass>SPONSORED ADR</titleOfClass>
+    <cusip>055622104</cusip>
+    <value>1934</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>42350</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>42350</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CHENIERE ENERGY PTNRS LP HLD</nameOfIssuer>
+    <titleOfClass>COM REP LLC IN</titleOfClass>
+    <cusip>16411W108</cusip>
+    <value>821</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>26100</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>26100</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>DOMINION ENERGY MIDSTRM PRTN</nameOfIssuer>
+    <titleOfClass>COM UT REP LTD</titleOfClass>
+    <cusip>257454108</cusip>
+    <value>408</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>30000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>30000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>DOMINION ENERGY INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>25746U109</cusip>
+    <value>1193</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>17500</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>17500</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ENBRIDGE ENERGY MANAGEMENT L</nameOfIssuer>
+    <titleOfClass>SHS UNITS LLI</titleOfClass>
+    <cusip>29250X103</cusip>
+    <value>339</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>33300</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>33300</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ENERGY TRANSFER PARTNERS LP</nameOfIssuer>
+    <titleOfClass>UNIT LTD PRT INT</titleOfClass>
+    <cusip>29278N103</cusip>
+    <value>2058</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>108100</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>108100</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ENLINK MIDSTREAM PARTNERS LP</nameOfIssuer>
+    <titleOfClass>COM UNIT REP LTD</titleOfClass>
+    <cusip>29336U107</cusip>
+    <value>777</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>50000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>50000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ENLINK MIDSTREAM LLC</nameOfIssuer>
+    <titleOfClass>COM UNIT REP LTD</titleOfClass>
+    <cusip>29336T100</cusip>
+    <value>341</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>20720</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>20720</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ENVIVA PARTNERS LP</nameOfIssuer>
+    <titleOfClass>COM UNIT</titleOfClass>
+    <cusip>29414J107</cusip>
+    <value>18729</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>643596</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>643596</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>HARVEST CAP CR CORP</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>41753F109</cusip>
+    <value>29714</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1350620</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1350620</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>HESS MIDSTREAM PARTNERS LP</nameOfIssuer>
+    <titleOfClass>UNIT LTD PR INT</titleOfClass>
+    <cusip>428104103</cusip>
+    <value>703</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>35675</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>35675</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>BARCLAYS BK PLC</nameOfIssuer>
+    <titleOfClass>IPATH S&amp;P500 VIX</titleOfClass>
+    <cusip>06746L422</cusip>
+    <value>342</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2500000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <putCall>Call</putCall>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>2500000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ISHARES TR</nameOfIssuer>
+    <titleOfClass>RUSSELL 2000 ETF</titleOfClass>
+    <cusip>464287655</cusip>
+    <value>1771</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1250000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <putCall>Put</putCall>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1250000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>KINDER MORGAN INC DEL</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>49456B101</cusip>
+    <value>2343</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>132600</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>132600</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>NOBLE MIDSTREAM PARTNERS LP</nameOfIssuer>
+    <titleOfClass>COM UNIT REPST</titleOfClass>
+    <cusip>65506L105</cusip>
+    <value>914</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>17900</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>17900</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>PEMBINA PIPELINE CORP</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>706327103</cusip>
+    <value>1968</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>56812</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>56812</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>PLAINS GP HLDGS L P</nameOfIssuer>
+    <titleOfClass>LTD PARTNR INT A</titleOfClass>
+    <cusip>72651A207</cusip>
+    <value>1524</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>63720</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>63720</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>RICE MIDSTREAM PARTNERS LP</nameOfIssuer>
+    <titleOfClass>UNIT LTD PARTN</titleOfClass>
+    <cusip>762819100</cusip>
+    <value>800</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>47000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>47000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ROYAL DUTCH SHELL PLC</nameOfIssuer>
+    <titleOfClass>SPON ADR B</titleOfClass>
+    <cusip>780259107</cusip>
+    <value>2452</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>33750</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>33750</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SPDR S&amp;P 500 ETF TR</nameOfIssuer>
+    <titleOfClass>TR UNIT</titleOfClass>
+    <cusip>78462F103</cusip>
+    <value>1467</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>750000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <putCall>Put</putCall>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>750000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>TALLGRASS ENERGY GP LP</nameOfIssuer>
+    <titleOfClass>SHS CL A</titleOfClass>
+    <cusip>874696107</cusip>
+    <value>951</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>42900</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>42900</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>TARGA RES CORP</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>87612G101</cusip>
+    <value>1924</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>38870</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>38870</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>WILLIAMS COS INC DEL</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>969457100</cusip>
+    <value>2441</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>90030</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>90030</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>TOTAL S A</nameOfIssuer>
+    <titleOfClass>SPONSORED ADR</titleOfClass>
+    <cusip>89151E109</cusip>
+    <value>1571</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>25940</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>25940</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>TRANSCANADA CORP</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>89353D107</cusip>
+    <value>2570</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>59500</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>59500</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>WARRIOR MET COAL INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>93627C101</cusip>
+    <value>3756</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>136249</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>136249</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>WESTERN GAS EQUITY PARTNERS</nameOfIssuer>
+    <titleOfClass>COMUNT LTD PT</titleOfClass>
+    <cusip>95825R103</cusip>
+    <value>425</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>11900</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>11900</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>WESTERN GAS PARTNERS LP</nameOfIssuer>
+    <titleOfClass>COM UNIT LP IN</titleOfClass>
+    <cusip>958254104</cusip>
+    <value>1250</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>25840</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>25840</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,1246 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>s2s10q209.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+[X]                  QUARTERLY REPORT PURSUANT TO SECTION 13
+                 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                For the quarterly period ended February 28, 2009
+
+                                       OR
+
+[ ]                 TRANSITION REPORT PURSUANT TO SECTION 13
+                 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+           For the transition period from __________ to ______________
+
+                        Commission File Number 333-138989
+
+                              SEA 2 SKY CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+
+            Nevada                                      98-0479847
+-------------------------------                ------------------------------
+State or other jurisdiction of                       (I.R.S. Employer
+incorporation or organization                       Identification No.)
+
+                      2287 Stater Road, Ferndale, WA 98248
+                      ------------------------------------
+               (Address of principal executive offices) (Zip Code)
+
+      Registrant's telephone number, including area code: 1 (866) 732-2759
+
+                                    Formerly
+
+                        RPO 75156, White Rock, BC V4B 5L4
+                        ---------------------------------
+
+Indicate by check mark whether the registrant (1) filed all reports  required to
+be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of 1934 during
+the past 12 months (or for such shorter  period that the registrant was required
+to file such reports),  and (2) has been subject to such filing requirements for
+the past 90 days.
+
+Yes [X]    No [_]
+
+Indicate by check mark whether the registrant is a large  accelerated  filer, an
+accelerated filer, a non-accelerated  filer, or a smaller reporting company. See
+definition  of "large  accelerated  filer",  "accelerated  filer"  and  "smaller
+reporting company" in Rule 12b-2 of the Exchange Act.
+
+Larger accelerated filer [_]                       Accelerated filer [_]
+Non-accelerated filer [_]                          Smaller reporting company [X]
+
+Indicate by check mark whether registrant is a shell company (as defined in Rule
+12b-2 of the Exchange Act).
+Yes [_]    No [X]
+
+Number of shares  issued and  outstanding  of the  registrant's  class of common
+stock as of March 31, 2009: 83,400,000 shares of common stock.
+
+Authorized share capital of the registrant: 225,000,000 common shares, par value
+of $0.001.
+
+The Company did not recognize  any revenues for the quarter  ended  February 28,
+2009.
+
+
+                                        1
+<PAGE>
+
+PART I - FINANCIAL INFORMATION
+
+
+Item 1            Financial Statements (Unaudited)                      Page
+                                                                        ----
+
+            Balance Sheets                                               F-2
+
+            Interim Statements of Operations                             F-3
+
+            Interim Statements of Cash Flows                             F-4
+
+            Interim Statement of Stockholders' Equity                    F-5
+
+            Notes to Interim Financial Statements                    F-6 to F-10
+
+
+Item 2        Management's Discussion and Analysis                         3
+
+Item 3        Quantitative and Qualitative Disclosure about Market
+              Risk                                                         10
+
+Item 4        Controls and Procedures                                      10
+
+Item 4T       Controls and Procedures                                      10
+
+PART II - OTHER INFORMATION
+
+Item 1        Legal Proceedings - Not Applicable                           10
+
+Item 2        Unregistered Sales of Equity Securities and Use of
+              Proceeds - Not Applicable                                    10
+
+Item 3        Defaults upon Senior Securities - Not Applicable             10
+
+Item 4        Submission of Matters to a Vote of Security Holders
+              - Not Applicable                                             10
+
+Item 5        Other Information - Not Applicable                           11
+
+Item 6        Exhibits                                                     13
+
+SIGNATURES                                                                 14
+
+
+
+                                       2
+<PAGE>
+
+                         PART I - FINANCIAL INFORMATION
+
+
+ITEM 1.  FINANCIAL STATEMENTS
+
+
+
+
+
+
+                              SEA 2 SKY CORPORATION
+
+                          (A Development Stage Company)
+
+                          INTERIM FINANCIAL STATEMENTS
+
+                                February 28, 2009
+
+                                   (Unaudited)
+
+                                                                       Page
+
+Financial Statements:
+
+         Balance Sheets                                                F-2
+
+         Interim Statements of Operations                              F-3
+
+         Interim Statements of Cash Flows                              F-4
+
+         Interim Statement of Stockholders' Equity                     F-5
+
+         Notes to Interim Financial Statements                     F-6 to F-10
+
+
+
+
+
+
+
+
+                                      F-1
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+                                      SEA 2 SKY CORPORATION
+
+                                         BALANCE SHEETS
+                                         --------------
+
+                                                                               February 28, 2009         August 31,
+                                                                                  (unaudited)               2008
+                                                                                                        (See Note 1)
+<S>                                                                         <C>                  <C>
+
+ ASSETS
+
+ Current Assets:
+    Cash                                                                    $        9,504       $        36,465
+    Prepaid expenses                                                                 2,512                   417
+                                                                           ---------------------------------------------
+
+    Total Current Assets                                                            12,016                36,882
+                                                                           ---------------------------------------------
+
+ Office Equipment, net of depreciation of $504                                       1,386                 1,575
+ Computer Equipment, net of depreciation of $1,444                                   1,805                 2,347
+ Website Development, net of amortization of $28                                       972                 3,372
+                                                                           ---------------------------------------------
+
+                                                                                     4,163                 7,294
+                                                                           ---------------------------------------------
+
+ Total Assets                                                               $       16,179       $        44,176
+                                                                           =============================================
+
+ LIABILITIES
+
+ Current Liabilities:
+    Accounts payable                                                        $            -       $         2,000
+    Accrued liabilities                                                              2,982                 6,500
+                                                                           ---------------------------------------------
+
+    Total Current Liabilities                                                        2,982                 8,500
+                                                                           ---------------------------------------------
+
+
+ STOCKHOLDERS' EQUITY
+
+ Capital Stock
+     Authorized:
+         225,000,000 common shares, par value $0.001 per share
+     Issued and outstanding:
+          83,400,000 and 131,400,000 common shares at
+          February 28, 2009 and August 31, 2008, respectfully                       83,400               107,213
+
+      Additional paid-in capital                                                    23,813                     -
+
+      Accumulated comprehensive income                                               2,843                 5,587
+
+ Accumulated (Deficit)                                                             (96,859)              (77,124)
+                                                                           ---------------------------------------------
+
+    Total Stockholders' Equity                                                      13,197                35,676
+                                                                           ---------------------------------------------
+
+      Total Liabilities and Stockholders' Equity                            $       16,179       $        44,176
+                                                                           =============================================
+
+                The accompanying notes are an integral part of these statements
+                                              F-2
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+                                         SEA 2 SKY CORPORATION
+
+                                   INTERIM STATEMENTS OF OPERATIONS
+                                   --------------------------------
+                                              (Unaudited)
+
+
+                                          Three months           Three months         Six months ended         Six months
+                                              ended                  ended           February 28, 2009            ended
+                                        February 28, 2009      February 28, 2008                            February 28, 2008
+                                     -----------------------------------------------------------------------------------------
+<S>                                  <C>                   <C>                      <C>                     <C>
+
+Revenue                              $              -      $             9,605                 1,165                  9,605
+                                     -----------------------------------------------------------------------------------------
+
+Cost of Goods Sold                                  -                    8,800                 1,603                  8,800
+                                     -----------------------------------------------------------------------------------------
+
+                                                    -                      805                  (438)                   805
+                                     -----------------------------------------------------------------------------------------
+
+Expenses
+  Amortization & depreciation                   3,376                      754                 4,130                  1,006
+  Marketing                                         -                    9,600                   742                 19,929
+  Office and administration                     2,213                      146                 3,087                  1,113
+  Professional fees                             4,360                    3,748                11,338                 15,470
+                                     -----------------------------------------------------------------------------------------
+
+                                                9,949                   14,248                19,297                 37,518
+                                     -----------------------------------------------------------------------------------------
+
+Net Loss From Operations                       (9,949)                 (13,443)              (19,735)               (36,713)
+                                     -----------------------------------------------------------------------------------------
+
+  Other Income
+  Interest Income                                   -                        -                     -                      -
+                                     -----------------------------------------------------------------------------------------
+
+Net Loss                             $         (9,949)     $           (13,443)              (19,735)               (36,713)
+                                     =========================================================================================
+
+
+Basic And Diluted Loss Per Share     $              *      $                *                  $  *                   $   *
+                                     =========================================================================================
+
+
+Weighted Average Number Of Shares
+Outstanding                                 128,733,333            131,400,000             130,074,333           131,400,000
+                                     =========================================================================================
+
+                                             *Less than $(0.01) per share.
+
+                   The accompanying notes are an integral part of these statements.
+                                                 F-3
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+                              SEA 2 SKY CORPORATION
+
+                        INTERIM STATEMENTS OF CASH FLOWS
+                        --------------------------------
+                                   (Unaudited)
+
+
+                                                     Six months ended            Six months ended
+                                                     February 28, 2009          February 29, 2008
+-----------------------------------------------------------------------------------------------------
+<S>                                           <C>                          <C>
+
+Cash Flows from Operating Activities
+     Net loss                                 $          (19,735)          $         (36,713)
+     Adjustments to Reconcile Net Loss
+     to Net Cash Used by Operating
+     Activities:
+     Amortization and depreciation                         4,130                       1,006
+
+Changes in Operating Assets and
+Liabilities:
+     (Increase) in prepaid expenses                       (2,095)                          -
+     (Decrease) in accounts payable and
+     accrued liabilities                                  (5,518)                     (3,628)
+                                              -------------------------------------------------------
+     Net Cash (Used In) Operating Activities             (23,218)                    (39,335)
+                                              -------------------------------------------------------
+
+Cash Flows from Investing Activities
+     Purchase  of fixed assets                            (1,000)                     (9,808)
+                                              -------------------------------------------------------
+     Net Cash (Used In) Investing Activities              (1,000)                     (9,808)
+                                              -------------------------------------------------------
+
+Cash Flows From Financing Activities
+     Foreign currency translation adjustment              (2,744)                      3,915
+                                              -------------------------------------------------------
+     Net Cash Provided by Financing
+     Activities                                           (2,744)                      3,915
+                                              -------------------------------------------------------
+
+      Net (Decrease) in Cash                             (26,962)                    (45,228)
+
+Cash, Beginning Of Period                                 36,466                      91,858
+                                              -------------------------------------------------------
+
+Cash, End Of Period                           $            9,504           $          46,630
+                                              =======================================================
+
+Supplemental Disclosure Of Cash Flow
+Information
+     Cash paid for:
+         Interest                             $                -           $               -
+         Income taxes                         $                -           $               -
+                                              =======================================================
+
+           The accompanying notes are an integral part of these statements.
+                                         F-4
+</TABLE>
+
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+                                              SEA 2 SKY CORPORATION
+
+                                    INTERIM STATEMENT OF STOCKHOLDERS' EQUITY
+                                    -----------------------------------------
+
+                           For the Period from September 1, 2007 to February 28, 2009
+
+                                                   (Unaudited)
+
+
+
+                                               CAPITAL STOCK                                          ACCUMULATED
+                               -----------------------------------------------
+                                                                ADDITIONAL                              COMPRE-
+                                                                  PAID-IN         ACCUMULATED           HENSIVE
+                                  SHARES          AMOUNT          CAPITAL          (DEFICIT)         INCOME (LOSS)         TOTAL
+                               -------------- --- ----------- -- ------------- -- ---------------- -- ---------------- -- ----------
+                               -------------- --- ----------- -- ------------- -- ---------------- -- ---------------- -- ----------
+<S>                            <C>            <C> <C>         <C><C>           <C>(C>              <C><C>              <C><C>
+
+Balance, September 1, 2007       131,400,000  $    107,213    $            -   $       (25,110)    $      2,976        $     85,079
+                               -------------- --- ----------- -- ------------- -- ---------------- -- ---------------- -- ----------
+
+Foreign currency translation
+adjustment                                 -             -                 -                 -             2,611              2,611
+
+Net loss for the year ended
+August 31, 2008                            -             -                 -           (52,014)                -            (52,014)
+                               -------------- --- ----------- -- ------------- -- ---------------- -- ---------------- -- ----------
+
+Balance, August 31, 2008         131,400,000       107,213                 -           (77,124)            5,587             35,676
+                               -------------- --- ----------- -- ------------- -- ---------------- -- ---------------- -- ----------
+
+Foreign currency translation
+adjustment                                 -             -                 -                 -            (2,744)            (2,744)
+
+February 24, 2009 -
+Shares returned to
+treasury                         (48,000,000)      (23,813)           23,813                 -                 -                  -
+
+Net loss for the period
+ended February 28, 2009                    -             -                 -           (19,735)                -            (19,735)
+                               -------------- --- ----------- -- ------------- -- ---------------- -- ---------------- -- ----------
+
+Balance,
+February 28, 2009                 83,400,000  $     83,400    $       23,813   $       (96,859)    $       2,843       $     13,197
+                               ============== === =========== == ============= == ================ == ================ == ==========
+
+
+
+
+
+                        The accompanying notes are an integral part of these statements.
+                                                      F-5
+</TABLE>
+
+
+<PAGE>
+
+                              SEA 2 SKY CORPORATION
+
+                      NOTES TO INTERIM FINANCIAL STATEMENTS
+                      -------------------------------------
+                                February 28, 2009
+                                   (Unaudited)
+
+
+1.    BASIS OF PRESENTATION
+
+      While the  information  presented in the  accompanying  interim  financial
+      statements is  unaudited,  it includes all  adjustments  which are, in the
+      opinion of management, necessary to present fairly the financial position,
+      results of operations  and cash flows for the interim  periods  presented.
+      Except as disclosed below,  these interim financial  statements follow the
+      same accounting policies and methods of their application as the Company's
+      audited August 31, 2008 annual financial statements.  It is suggested that
+      these  interim  financial  statements  be read  in  conjunction  with  the
+      Company's August 31, 2008 audited financial statements.
+
+      The information as of August 31, 2008 is taken from the audited  financial
+      statements of that date.
+
+
+2.    NATURE AND CONTINUENCE OF OPERATIONS
+
+     a)  Organization
+
+         The Company was  incorporated in the State of Nevada,  United States of
+         America, on November 16, 2005. The Company's year end is August 31st.
+
+3.   SIGNIFICANT ACCOUNTING POLICIES
+
+         This summary of significant  accounting policies is presented to assist
+         in  understanding  the Company's  financial  statements.  The financial
+         statements and notes are  representations  of the Company's  management
+         who  is  responsible  for  their  integrity  and   objectivity.   These
+         accounting policies conform to generally accepted accounting principles
+         in the United States of America and have been  consistently  applied in
+         the preparation of the financial  statements.  The financial statements
+         are stated in United States of America dollars.
+
+         a)   Organizational and Start-up Costs
+
+
+              Costs of start-up activities,  including organizational costs, are
+              expensed as incurred in accordance with SOP 98-5.
+
+         b)   Income Taxes
+
+              The  Company has adopted the  Statement  of  Financial  Accounting
+              Standards No. 109 - "Accounting for Income Taxes" (SFAS 109). SFAS
+              109  requires  the  use of  the  asset  and  liability  method  of
+              accounting of income taxes.  Under the asset and liability  method
+              of SFAS 109,  deferred tax assets and  liabilities  are recognized
+              for  the  future  tax   consequences   attributable  to  temporary
+              differences  between the financial  statements carrying amounts of
+              existing assets and  liabilities  and their  respective tax bases.
+              Deferred tax assets and liabilities are measured using enacted tax
+              rates  expected  to apply to taxable  income in the years in which
+              those  temporary  differences  are  expected  to be  recovered  or
+              settled.
+
+         c)   Basic and Diluted Loss per Share
+
+              In accordance with SFAS No. 128 - "Earnings Per Share",  the basic
+              loss per common share is computed by dividing  net loss  available
+              to common  stockholders  by the weighted  average number of common
+              shares  outstanding.  Diluted  loss per common  share is  computed
+              similar to basic loss per common share except that the denominator
+              is increased  to include the number of  additional  common  shares
+              that would have been  outstanding  if the potential  common shares
+
+                                       F-6
+<PAGE>
+
+                              SEA 2 SKY CORPORATION
+
+                      NOTES TO INTERIM FINANCIAL STATEMENTS
+                      -------------------------------------
+                                February 28, 2009
+                                   (Unaudited)
+
+              had been issued and if the additional common shares were dilutive.
+              At February 28, 2009,  the Company had no stock  equivalents  that
+              were   anti-dilutive  and  excluded  in  the  earnings  per  share
+              computation.
+
+         d)   Estimated Fair Value of Financial Instruments
+
+              The  carrying  value  of  the  Company's  financial   instruments,
+              consisting of cash, prepaid expenses, accounts payable and accrued
+              liabilities  approximate  their fair  value due to the  short-term
+              maturity  of  such  instruments.  Unless  otherwise  noted,  it is
+              management's   opinion   that  the   Company  is  not  exposed  to
+              significant interest,  currency or credit risks arising from these
+              financial statements.
+
+         e)   Revenue Recognition
+
+              The Company's policy is that revenues are recognized in accordance
+              with  SEC  Staff  Accounting  Bulletin  (SAB)  No.  104,  "Revenue
+              Recognition."   Under  SAB  104,   product  revenues  (or  service
+              revenues)  are   recognized   when   persuasive   evidence  of  an
+              arrangement  exists,  delivery  has  occurred (or service has been
+              performed),   the  sales  price  is  fixed  and  determinable  and
+              collectability is reasonably assured.
+
+         f)   Foreign Currency Translations
+
+              The Company's uses the  Canadian dollar and the U.S. dollar as its
+              functional currency.  The Company's reporting currency is the U.S.
+              dollar.  All  transactions initiated  in  other currencies are re-
+              measured into the functional currency as follows:
+
+              Monetary  assets and liabilities at the rate of exchange in effect
+              at the balance sheet date,
+              ii)  Non-monetary assets and liabilities, and equity at historical
+              rates, and
+              iii) Revenue and  expense  items at  the average  rate of exchange
+              prevailing during the period.
+
+              Gains and losses on re-measurement are included in determining net
+              income for the period.
+
+              Translation  of balances  from the  functional  currency  into the
+              reporting currency is conducted as follows:
+
+              Assets and  liabilities  at the rate of  exchange in effect at the
+              balance sheet date,
+              ii)  Equity at historical rates, and
+              iii) Revenue  and expense  items at the  average  rate of exchange
+              prevailing during the period.
+
+              Translation  adjustments  resulting  from  translation of balances
+              from  functional  to  reporting  currency  are  accumulated  as  a
+              separate  component  of  shareholders'  equity as a  component  of
+              comprehensive income or loss.
+
+         g)   Comprehensive Income (Loss)
+
+              The  Company has adopted  SFAS No. 130,  "Reporting  Comprehensive
+              Income".  SFAS 130 requires that the  components and total amounts
+              of comprehensive  income be displayed in the financial  statements
+              beginning in 1998.  Comprehensive  income  includes net income and
+              all changes in equity  during a period that arises from  non-owner
+              sources,  such as foreign  currency items and unrealized gains and
+              losses on certain investments in equity securities.
+
+         h)   Use of Estimates
+
+              The   preparation  of  the  Company's   financial   statements  in
+              conformity with generally accepted accounting  principles requires
+
+                                      F-7
+
+<PAGE>
+
+                              SEA 2 SKY CORPORATION
+
+                      NOTES TO INTERIM FINANCIAL STATEMENTS
+                      -------------------------------------
+                                February 28, 2009
+                                   (Unaudited)
+
+              management  to make  estimates  and  assumptions  that  affect the
+              amounts  reported in these financial  statements and  accompanying
+              notes. Actual results could differ from those estimates.
+
+         i)   Cash and Cash Equivalents
+
+              The Company  considers all highly liquid debt  instruments with an
+              original maturity of three months or less to be cash equivalents.
+
+         j)   Property and Equipment
+
+              Property and equipment are recorded at cost and  depreciated  over
+              their estimated useful lives.  The Company uses the  straight-line
+              method of depreciation.
+
+              Expenditures  for  maintenance and repairs which do not materially
+              extend the useful lives of property and  equipment  are charged to
+              earnings. When property or equipment is sold or otherwise disposed
+              of, the cost and related accumulated depreciation are removed from
+              the respective  accounts with the resulting gain or loss reflected
+              in earnings.
+
+         k)   Website Development Costs
+
+              Website  development  costs  representing   capitalized  costs  of
+              design,  configuration,  coding,  installation  and testing of the
+              Company's  website is  capitalized  until initial  implementation.
+              Upon  implementation,  the asset is  amortized to expense over its
+              estimated  useful  life of three  years  using  the  straight-line
+              method.  In February  2009 the  original  website had no remaining
+              useful life and was expensed.
+
+              A  new  website  was  developed  in  February  2009.   Accumulated
+              amortization  at  February  28,  2009  was  $28.  Ongoing  website
+              post-implementation  costs of  operation,  including  training and
+              application maintenance, will be charged to expense as incurred.
+
+         l)   Long-Lived Assets
+
+              The Company accounts for its long-lived  assets in accordance with
+              Statement of Financial  Accounting  Standards 144,  Accounting for
+              the  Impairment or Disposal of Long-Lived  Assets (SFAS 144).  The
+              Company's primary long-lived assets are property and equipment and
+              website  development  costs. SFAS 144 requires a company to assess
+              the  recoverability  of its long-lived  assets whenever events and
+              circumstances  indicate  the  carrying  value of an asset or asset
+              group may not be  recoverable  from  estimated  future  cash flows
+              expected  to  result  from  its  use  and  eventual   disposition.
+              Additionally,  the standard  requires  expected  future  operating
+              losses  from   discontinued   operations   to  be   displayed   in
+              discontinued  operations  in the  period in which the  losses  are
+              incurred,  rather than as of the  measurement  date. No impairment
+              charges have been recorded as of February 28, 2009.
+
+         m)   Advertising
+
+              The  Company  expenses  the  cost of  advertising  when  incurred.
+              Advertising   expenses   are  included   with   marketing  in  the
+              accompanying statements of operations.
+
+         n)   Concentrations
+
+              Financial  instruments that potentially  subject  the company  to
+              concentrations of credit risk consist principally of cash and cash
+              equivalents. At February 28, 2009, the Company had $8,749 US Funds
+              in deposit in a business  bank account,  and US equivalent of $755
+              in Canadian funds in a business bank account which are not insured
+              by agencies of the U.S. Government.
+
+         n)   Recent Accounting Pronouncements
+
+              There were various accounting standards and interpretations issued
+              during  2008  and  2007,  none of  which  are  expected  to have a
+
+                                      F-8
+
+<PAGE>
+
+                              SEA 2 SKY CORPORATION
+
+                      NOTES TO INTERIM FINANCIAL STATEMENTS
+                      -------------------------------------
+                                February 28, 2009
+                                   (Unaudited)
+
+              material impact on the Company's  consolidated financial position,
+              operations or cash flows.
+
+         o)   Other
+
+              The  Company  consists of one  reportable  business  segment.  The
+              Company paid no dividends during the periods presented.
+
+
+4.       BASIS OF PRESENTATION - GOING CONCERN
+
+         The accompanying  financial statements have been prepared in conformity
+         with generally accepted  accounting  principles in the United States of
+         America,  which  contemplates  continuation  of the  Company as a going
+         concern.  However,  the Company has an accumulated  deficit as February
+         28, 2009 of $96,859.  This matter  raises  substantial  doubt about the
+         Company's  ability to  continue  as a going  concern.  In view of these
+         matters,  realization  of  certain  of the  assets in the  accompanying
+         balance  sheet is  dependent  upon the  Company's  ability  to meet its
+         financing  requirements,  raise additional capital,  and the success of
+         its  future  operations.  There is no  assurance  that  future  capital
+         raising  plans will be  successful  in  obtaining  sufficient  funds to
+         assure the eventual  profitability of the Company.  Management believes
+         that actions  planned and presently being taken to revise the Company's
+         operating and financial  requirements  provide the  opportunity for the
+         Company to continue as a going concern. The financial statements do not
+         include any adjustments that might result from these uncertainties.
+
+5.       COMMON STOCK
+
+         The Company's  authorized  common stock consists of 225,000,000  shares
+         with a par value of $0.001 per share.
+
+         On December  30,  2008,  our Board of  Directors  authorized a 30-for-1
+         forward  stock split of our $0.001 par value common  stock.  This share
+         dividend became effective February 17, 2009. As a result of the forward
+         stock split,  127,020,000  additional  shares were issued.  Capital and
+         additional  paid-in  capital  have  been  adjusted   accordingly.   All
+         references in the  accompanying  financial  statements to the number of
+         common shares and per share amounts have been retroactively restated to
+         reflect the forward stock split.
+
+         On February 10, 2009,  our  Articles of  Incorporation  were amended to
+         change the aggregate  number of shares which we have authority to issue
+         to two  hundred  twenty  five  million  (225,000,000)  shares of common
+         stock, par value $0.001 per share.
+
+         On  February  10,  2009,   our  Board  of  Directors   authorized   the
+         cancellation of 48,000,000  post  forward-split  common  shares.  These
+         restricted shares were owned  by Mr. Dennis  Cox and were cancelled for
+         no consideration  at his request.  This became  effective  February 24,
+         2009. There are presently 83,400,000 common shares issued and outstand-
+         ing.
+
+6.       INCOME TAXES
+
+         The Company is subject to US federal income taxes.  The Company has had
+         losses to date, and therefore has paid no income tax.
+
+<PAGE>
+
+                              SEA 2 SKY CORPORATION
+
+                      NOTES TO INTERIM FINANCIAL STATEMENTS
+                      -------------------------------------
+                                February 28, 2009
+                                   (Unaudited)
+
+         Deferred  income taxes arise from temporary  timing  differences in the
+         recognition  of income and expenses  for  financial  reporting  and tax
+         purposes.  The Company's  deferred tax assets  consist  entirely of the
+         benefit from net operating loss (NOL) carry-forwards. The net operating
+         loss carry forwards  expire in 2028. The Company's  deferred tax assets
+         are  offset by a  valuation  allowance  due to the  uncertainty  of the
+         realization  of the net operating  loss  carry-forwards.  Net operating
+         loss  carry-forwards  may be  further  limited  by a change in  company
+         ownership and other provisions of the tax laws.
+
+         The Company's deferred tax assets,  valuation allowance,  and change in
+         valuation allowance are as follows:
+
+<TABLE>
+<CAPTION>
+                                                        Estimated Tax                  Change in
+                         Estimated NOL                  Benefit from     Valuation     Valuation      Net Tax
+       Period Ending     Carry-forward   NOL Expires    NOL              Allowance     Allowance      Benefit
+<S>                      <C>             <C>            <C>              <C>           <C>            <C>
+      August 31, 2008        $77,124         various         $19,281      $(19,281)      $(13,004)         -
+     February 28, 2009       $19,735           2029          $ 4,934      $( 4,934)      $( 4,934)         -
+</TABLE>
+
+         Income taxes at the  statutory  rate are  reconciled  to the  Company's
+         actual income taxes as follows:
+
+        Income tax benefit at statutory rate resulting from net operating
+        loss carry forward                                             (25%)
+        Deferred income tax valuation allowance                         25%
+                                                                 ---------------
+        Actual tax rate                                                 0%
+                                                                 ===============
+
+
+
+
+
+
+
+
+
+
+                                      F-10
+
+
+<PAGE>
+
+
+Item 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATIONS
+
+The  following  discussion  should  be read in  conjunction  with our  unaudited
+financial  statements and notes thereto included herein. In connection with, and
+because we desire to take  advantage  of, the "safe  harbor"  provisions  of the
+Private  Securities  Litigation Reform Act of 1995, we caution readers regarding
+certain forward looking statements in the following  discussion and elsewhere in
+this report and in any other statement made by, or on our behalf, whether or not
+in future filings with the Securities and Exchange  Commission.  Forward-looking
+statements are statements not based on historical  information  and which relate
+to future  operations,  strategies,  financial results,  or other  developments.
+Forward-looking  statements are necessarily based upon estimates and assumptions
+that are inherently subject to significant business,  economic, and competitive,
+uncertainties and  contingencies,  many of which are beyond our control and many
+of which,  with  respect to future  business  decisions,  are subject to change.
+These  uncertainties and contingencies can affect actual results and could cause
+actual results to differ materially from those expressed in any  forward-looking
+statements  made by, or on our behalf.  We  disclaim  any  obligation  to update
+forward-looking statements.
+
+The following discussion of the plan of operation,  financial condition, results
+of  operations,  cash flows and  changes in  financial  position  of our Company
+should be read in  conjunction  with our most recent  financial  statements  and
+notes appearing  elsewhere in this Form 10-Q, in our Form 10-Q filed January 12,
+2009 and in our Form 10-K filed on November  25, 2008 and our Current  Report on
+Form 8K filed March 31, 2009.
+
+The  independent  registered  public  accounting  firm's report on the Company's
+financial   statements  as  of  August  31,  2008,  include  a  "going  concern"
+explanatory  paragraph  that  describes  substantial  doubt about the  Company's
+ability to  continue  as a going  concern.  Management's  plans in regard to the
+factors prompting the explanatory paragraph are discussed below and also in Note
+4 to the unaudited quarterly financial statements.
+
+Plan of Operations
+
+Sea 2 Sky Corporation  (the "Company") has had limited  operations over the last
+three  years.  Our  business  plan  focused  on  providing  a  professional  and
+personalized  all-inclusive  travel package to tourists  visiting western Canada
+and specifically the Province of Alberta. A personal assistant would be assigned
+to each  client to ensure  that  every  aspect  of the trip was  considered  and
+addressed and to bridge the language barrier in order to prevent frustration for
+travelers.
+
+We had planned to establish a travel  agency  affiliate in a major city in Japan
+and eventually develop in five major cities overseas while continuing  marketing
+efforts through the Internet.  The intent was to create  strategic  partnerships
+with travel and special-event  companies in order to grow the customer base. The
+desired results were not achieved.
+
+Change in Management
+
+As a result of limited revenues in a very difficult economic environment, two of
+the founding  directors Ms. Rose and Ms. Hamilton resigned.  Messrs.  Dennis Cox
+and Stan Dusza were  appointed to the Board of Directors on July 29, 2008.  Both
+had increased business experience;  however, their experience was not in tourism
+and travel. With continuing limited revenues from travel operations,  management
+had to consider other business growth opportunities.
+
+The Company has expanded the number of Board members from three (3) to seven (7)
+members to broaden the experience  base. In December 2008,  Messrs.  Henry James
+and Doug Robertson,  both having  extensive  experience in the forestry  sector,
+were appointed to the Company's Board of Directors.
+
+Messrs. James and Robertson have worked in the forestry sector together and have
+been  involved  with forestry  issues  between  Canada and the United States and
+cross border  shipping of forest  products.  As a Native  American,  Henry James
+suggested  the Company begin to  investigate  opportunities  in working  between
+indigenous groups in Canada to see if opportunities  existed for forest products
+trading in United States, Canada or abroad.
+
+                                       3
+
+<PAGE>
+
+Due to  their  legal,  accounting  and  international  business  experience,  on
+February  23,  2009,  Messrs.  David  Siebenga,  Erik Odeen and Ira Steiner were
+appointed to the Board of Directors to continue  investigations  of trading wood
+supplies between United States,  Canada and abroad. David Siebenga was appointed
+the Company's Chief Executive Officer on February 26, 2009 and is an attorney in
+and from the  Province  of British  Columbia,  who over the 20 plus years of his
+career, has dealt with companies in different international contexts. The  Board
+accepted the  resignation  of Irene Getty who had served as the Company's  Chief
+Executive Officer since its inception in November 2005.
+
+Erik  Odeen who was  appointed  the  Company's  new Chief  Financial  Officer on
+February 26, 2009, is a Certified  Public  Accountant in the State of California
+and a Certified Fraud Examiner,  with over 20 years  experience in manufacturing
+operations,  financial management, and public accounting. The Board accepted the
+resignation  of Dennis  Cox who had  served  as the  Company's  Chief  Financial
+Officer since July 2008.
+
+Ira Steiner was  appointed to the Board of Directors to provide the Company with
+contacts in the European  marketplace.  An Austrian  native with  long-term wood
+sales experience, Mr. Steiner's role within the Company is to source markets and
+contacts to sell biomass and alternative fuels in Europe and other countries.
+
+Change of Operational Focus
+
+The  Company is  exploring  an emerging  opportunity  in the  alternative  fuel,
+biomass  sector of the  forest  industry.  As a result  of the  native to native
+contacts,  the  Canadian  First  Nations  people  have shown  great  interest in
+developing  a working  relationship  with the  Company  by  providing  long term
+biomass (wood supply) contracts,  provided that those First Nations could obtain
+jobs in their local community.
+
+Plan of Operations
+
+In order to fully evaluate the emerging opportunity, we intend to proceed in two
+stages.  The  first  stage  is  to  establish  ourselves  in  the  supply  chain
+marketplace by meeting and finalizing various  memorandums of understanding with
+First Nations peoples who wish to deal with us. Concurrently,  we will meet with
+various Pellet Plant  manufacturers  to determine the best fit for the Company's
+needs for plants as well as continue to pursue markets for the pellets produced.
+Once this preliminary evaluation is done, we anticipate placing a deposit on our
+first plant.  Thereafter,  upon  production  and having the ability to go to the
+market with its Pellet product,  we anticipate creating further plants as demand
+increases.  We intend to raise  $1,000,000 to fund its initial  requirement.  We
+cannot make any assurances that we will be able to raise such funds.
+
+In anticipation of achieving our funding requirements,  we, as a manufacturer of
+wood  pellets,  are  beginning to negotiate  with  various  consumer  groups and
+suppliers of wood pellets to market  within Europe and North America in order to
+secure contracts to deliver  pellet-able  biomass for their customers.  Once the
+supply  and  market  positions  are  secured,  we will  seek  financing  for the
+construction  of pellet mills to be placed on the First Nations (or other) sites
+within  western  Canada,  thus producing jobs for the local area and pellets for
+sale in the  marketplace.  Based on current  research,  we are aware of and have
+leads into  approximately 20 different  locations suitable for pellet production
+within British Columbia;  Alberta, Canada; three states within the United States
+of America; and New Zealand. Based on current market demand and trends, we see a
+market opportunity to produce for sale and sell over 1.3 million tons of pellets
+per year.
+
+Once the pellet mill has been  constructed,  we plan to market these  pellets to
+both North American and international markets.  There is no assurance,  however,
+that we will be able to raise such funds and allow us to carry out its business.
+
+Equity Events
+
+On December 30, 2008, our Board of Directors authorized a 30-for-1 forward stock
+split of our $0.001 par value common stock. This share dividend became effective
+February  17,  2009.  As a  result  of  the  forward  stock  split,  127,020,000
+additional shares were issued.  Capital and additional paid-in capital have been
+adjusted accordingly. All references in the accompanying financial statements to
+the  number  of common  shares  and per share  amounts  have been  retroactively
+restated to reflect the forward stock split.
+
+
+                                       4
+<PAGE>
+
+On February 10, 2009, our Articles of  Incorporation  were amended to change the
+aggregate  number  of shares  which we have  authority  to issue to two  hundred
+twenty five million  (225,000,000)  shares of common stock, par value $0.001 per
+share.  Also,  on February  10,  2009,  our Board of  Directors  authorized  the
+cancellation of 48,000,000 post  forward-split  common shares.  These restricted
+shares were owned by Mr. Dennis Cox and were cancelled for no  consideration  at
+his  request.  This became  effective  February 24,  2009.  There are  presently
+83,400,000 common shares issued and outstanding.
+
+
+Liquidity
+
+At February  28,  2009,  we had working  capital of $9,034,  compared to working
+capital of $28,382 at August 31, 2008.  At February  28, 2009,  our total assets
+consisted of cash of $9,504, prepaid expenses of $2,512, net office equipment of
+$1,386, net computer  equipment of $1,805,  and net website  development of $972
+for a total of $16,179.  This compares with total assets at August 31, 2008 that
+consisted of cash of $36,465,  prepaid expenses of $417, net office equipment of
+$1,575, net computer equipment of $2,347, and net website  development of $3,372
+for a total of $44,176.
+
+At February 28, 2009, our total current  liabilities were accrued liabilities of
+$2,982.  This was a decrease from total current  liabilities of $8,500 at August
+31, 2008, which consisted of accounts payable of $2,000 and accrued  liabilities
+of $6,500.
+
+Cash on hand is  currently  our only  source  of  liquidity.  We do not have any
+lending  arrangements in place with banking or financial  institutions and we do
+not anticipate that we will be able to secure these funding  arrangements in the
+near future.
+
+We recognized  $1,165 in revenues from  operations  during the six months ending
+February 28, 2009.  Our short and long term  survival is dependent on sufficient
+revenue resulting in a profitable  operation or funding from sales of securities
+as necessary.
+
+We believe our  existing  cash  balances  are  insufficient  to carry our normal
+operations over the next three (3) months.  Our short and long-term  survival is
+dependent on funding from sales of securities  as necessary or from  shareholder
+loans,  and thus, to the extent that we require  additional funds to support our
+operations or the expansion of our business,  we may attempt to sell  additional
+equity  shares or issue debt.  Any sale of  additional  equity  securities  will
+result in dilution  to our  stockholders.  Recent  events in  worldwide  capital
+markets may make it more difficult for us to raise additional equity or capital.
+There can be no  assurance  that  additional  financing,  if  required,  will be
+available to us or on acceptable terms.
+
+In  addition,  the  United  States is  experiencing  severe  instability  in the
+commercial  and investment  banking  systems which is likely to continue to have
+far-reaching   effects  on  the   economic   activity  in  the  country  for  an
+indeterminable period. The long-term impact on the United States economy and the
+Company's operating  activities and ability to raise capital cannot be predicted
+at this time, but may be substantial.
+
+Results of Operations
+
+For The Three Months Ended  February 28, 2009 Compared To The Three Months Ended
+February 28, 2008.
+
+We did not recognize any revenues from operations during the three months ending
+February  28,  2009,  compared  to  $9,605 in  revenues  from the sale of travel
+packages  during the three months ending  February 28, 2008.  Cost of goods sold
+for the three months ended  February 28, 2008 were $8,800,  resulting in a gross
+profit of $805.  The  decrease of $9,605 in revenues was a result of our efforts
+during the six months ended  February 28, 2009 to modify and change our business
+plan, as discussed previously.
+
+For the three months ended  February 28, 2009,  operating  expenses  were $9,949
+compared  to $14,248  during the three  months  ended  February  28,  2008.  The
+decrease of $4,299 was due to a decrease in our operational  activities over the
+prior  period.  Operating  expenses  during the three months ended  February 28,
+2009, consisted of professional fees of $4,360, amortization and depreciation of
+$3,376 and office and administration  costs of $2,213,  compared to professional
+fees of $3,748, marketing costs of $9,600, amortization and depreciation of $754
+and office and administration costs of $146, for the three months ended February
+28, 2008.
+
+                                       5
+<PAGE>
+
+During the three months ended  February  28, 2009,  we  recognized a net loss of
+$9,949 compared to a net loss of $13,443 for the three months ended February 28,
+2008.  The decrease of $3,494 is due to a decrease in the Company's  operational
+activities over the prior period as discussed above.
+
+For The Six Months  Ended  February  28, 2009  Compared To The Six Months  Ended
+February 29, 2008
+
+We recognized  $1,165 in revenues from  operations  during the six months ending
+February  28,  2009.  Cost of goods sold for the six months  ended  February 28,
+2009,  were  $1,603,  resulting  in a net loss of $438 for the six months  ended
+February  28, 2009.  We  recognized  $9,605 in revenues  from the sale of travel
+packages  during the six months ending February 28, 2008. Cost of goods sold for
+the six months ended February 28, 2008 were $8,800,  resulting in a gross profit
+of $805.  The decrease of $8,440 in revenues was a result of our efforts  during
+the six months ended  February 28, 2009 to modify and change our business  plan,
+as discussed previously.
+
+During the six months ended February 28, 2009, we incurred operating expenses of
+$19,297  compared to $37,518  during the six months ended February 28, 2008. The
+decrease  of  $18,221  is a  result  of  our  decreased  operational  activities
+primarily  in our sales and  marketing  efforts.  During  the six  months  ended
+February 28, 2009, operational expenses consisted of $742 in marketing,  $11,338
+in professional fees, $3,087 in office and administrative expenses and $4,130 in
+depreciation  and amortization  costs.  During the six months ended February 28,
+2008,  operational  expenses  consisted  of  $19,929  in  marketing,  $15,470 in
+professional  fees, $1,113 in office and  administrative  expenses and $1,006 in
+depreciation and amortization costs.
+
+During the six months  ended  February  28,  2009,  we  recognized a net loss of
+$19,735  compared  to a net  loss of  $36,713  for the six  month  period  ended
+February  28,  2008.  The  $16,978  decreased  loss is a result  of the  factors
+described above.
+
+Off-Balance Sheet Arrangements
+
+Sea 2 Sky currently does not have any off-balance sheet arrangements.
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+As a "smaller  reporting  company" as defined by Item 10 of Regulation  S-K, the
+Company is not required to provide information required by this Item.
+
+ITEM 4.  CONTROLS AND PROCEDURES
+
+As of the end of the period covered by this report,  we conducted an evaluation,
+under the supervision and with the  participation of our Chief Executive Officer
+and Chief  Financial  Officer,  of our  disclosure  controls and  procedures (as
+defined in Rules  13a-15(e)  and  15d-15(e)  under the 1934 Act).  Based on this
+evaluation,  the Chief Executive  Officer and Chief Financial  Officer concluded
+that our  disclosure  controls  and  procedures  are  effective  to ensure  that
+information  required to be  disclosed  by us in reports  that we file or submit
+under the 1934 Act is recorded,  processed,  summarized and reported  within the
+time periods  specified in the  Securities  and  Exchange  Commission  rules and
+forms.
+
+ITEM 4T.  CONTROLS AND PROCEDURES
+
+There have been no changes  in the  issuer's  internal  control  over  financial
+reporting identified in connection with the evaluation required by paragraph (d)
+of Rule  240.15d-15  that occurred  during the issuer's last fiscal quarter that
+has  materially  affected,  or is reasonable  likely to materially  affect,  the
+issuer's internal control over financial reporting.
+
+
+
+                                       6
+<PAGE>
+
+                           PART II - OTHER INFORMATION
+
+
+Item 1.  Legal Proceedings
+
+None.
+
+Item 2.           Changes in Securities and Use of Proceeds
+
+On December 30, 2008,  our Board of Directors  authorized a 30-for-1 stock split
+of our $0.001 par value  common  stock.  This share  dividend  became  effective
+February 17, 2009. As a result of the split,  127,020,000 additional shares were
+issued. Capital and additional paid-in capital have been adjusted accordingly.
+
+On February 10, 2009,  our Board of Directors  authorized  the  cancellation  of
+48,000,000 post forward-split  common shares. This became effective February 24,
+2009. There are presently 83,400,000 common shares issued and outstanding.
+
+Exemption From Registration Claimed
+
+All of the sales by the Company of its unregistered  securities were made by the
+Company in reliance  upon Section 4(2) of the Act.  The  affiliate  listed above
+that  purchased  the  unregistered  securities  was known to the Company and its
+management,  through  pre-existing  business  relationships.  The  purchaser was
+provided  access to all  material  information,  which they  requested,  and all
+information  necessary to verify such  information  and was  afforded  access to
+management of the Company in connection with the purchases. The purchaser of the
+unregistered  securities  acquired such securities for investment and not with a
+view  toward  distribution,  acknowledging  such  intent  to  the  Company.  All
+certificates  or  agreements  representing  such  securities  that  were  issued
+contained restrictive legends,  prohibiting further transfer of the certificates
+or agreements representing such securities, without such securities either being
+first registered or otherwise exempt from  registration in any further resale or
+disposition.
+
+
+Item 3.  DEFAULTS UPON SENIOR SECURITIES
+
+None.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+None.
+
+Item 5.  Other Information
+
+On  December  31,  2008,  the  Board of  Directors  (the  `Board')  of Sea 2 Sky
+Corporation (the `Company')  appointed Mr. Douglas Robertson and Mr. Henry James
+to the Board of the  Company.  These  events have been  previously  disclosed in
+Current Report on Form 8-K filed on March 31, 2009.
+
+On February 23, 2009, the Board of the Company  appointed David  Siebenga,  Erik
+Odeen and Erwin  Steiner to the Board of the  Company.  These  events  have been
+previously  disclosed in Current  Report on Form 8-K filed on March 31, 2009. In
+addition on February 23, 2009, the Board of the Company appointed Henry James as
+Chairman of the Board for the Company.
+
+And also on February 23, 2009, the Board of the Company appointed Doug Robertson
+as  Vice-President  and Chief  Operations  Officer  (COO) for the  Company.  Mr.
+Robertson has been a director of the Company since December 2008.
+
+On February 26, 2009, the Board of the Company accepted the resignation of Irene
+Getty as a member of the Company's Board, and as President,  and Chief Executive
+
+                                       7
+<PAGE>
+
+Officer  (CEO) of the  Company.  In  addition,,  the Board of  Directors  of the
+Company  accepted the resignation of Dennis Cox as a member of the Board, and as
+Secretary/Treasurer and Chief Financial Officer (CFO) of the Company.
+
+On  February  26,  2009,  the Board of  Directors  the Company  appointed  David
+Siebenga as President, and Chief Executive Officer (CEO) of the Company and Eric
+Odeen was appointed as Secretary/Treasurer  and Chief Financial Officer (CFO) of
+the Company.
+
+These events have been previously  disclosed in Current Report on Form 8-K filed
+on March 31, 2009.
+
+Item 6.           Exhibits
+
+(a) Pursuant to Rule 601 of Regulation S-K, the following  exhibits are included
+herein or incorporated by reference.
+
+     Exhibit
+     Number          Description
+
+     31.1 CERTIFICATION OF CEO PURSUANT TO 18 U.S.C. ss. 1350, SECTION 302
+     31.2 CERTIFICATION OF CFO PURSUANT TO 18 U.S.C. ss. 1350, SECTION 302
+     32.1 CERTIFICATION PURSUANT TO 18 U.S.C.  ss.1350, SECTION 906
+     32.2 CERTIFICATION PURSUANT TO 18 U.S.C.  ss. 1350, SECTION 906
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       8
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the  requirements of Section 13 or 15(d) of the Securities  Exchange
+Act of 1934,  the  registrant  has duly  caused  this report to be signed on its
+behalf by the undersigned, thereunto duly authorized, on this 17th day of April,
+2009.
+
+
+                              SEA 2 SKY CORPORATION
+
+
+Date: April 17, 2009              By: /s/ David Siebenga
+                                      ---------------------------------
+
+                                  Name: David Siebenga
+                                  Title: President/CEO, principal executive
+                                  officer
+
+
+
+Date: April 17, 2009              By: /s/ Erik Odeen
+                                      ----------------------------------
+
+                                  Name: Erik Odeen
+                                  Title: Chief Financial Officer, principal
+                                  financial officer and principal accounting
+                                  officer
+
+
+
+
+
+                                       9
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,236 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DvuaKFQ5RJhyIb3lsE4GLUMb/Wnpms7eB3vlSr/Fn/dr/3hqlcY/yD4hlXxgcewW
+ kdfzN/vPV9ZyNIkWHm3vMw==
+
+<SEC-DOCUMENT>0000073076-11-000002.txt : 20110214
+<SEC-HEADER>0000073076-11-000002.hdr.sgml : 20110214
+<ACCEPTANCE-DATETIME>20110214133552
+ACCESSION NUMBER:		0000073076-11-000002
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20101231
+FILED AS OF DATE:		20110214
+DATE AS OF CHANGE:		20110214
+EFFECTIVENESS DATE:		20110214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORTHWESTERN MUTUAL LIFE INSURANCE CO
+		CENTRAL INDEX KEY:			0000073076
+		IRS NUMBER:				390509570
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-00229
+		FILM NUMBER:		11604771
+
+	BUSINESS ADDRESS:	
+		STREET 1:		720 E WISCONSIN AVENUE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+		BUSINESS PHONE:		4142992508
+
+	MAIL ADDRESS:	
+		STREET 1:		720 EAST WISCONSIN AVENUE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>nml10q4.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: December 31, 2010
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    The Northwestern Mutual Life Insurance Company
+Address: 720 East Wisconsin Avenue
+
+         Milwaukee, WI  53202
+
+13F File Number:  28-00229
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Mark G. Doll
+Title:     Chief Investment Officer
+Phone:     414-665-3336
+
+Signature, Place, and Date of Signing:
+
+
+
+
+
+     Mark G. Doll     Milwaukee, WI     February 14, 2011
+
+
+Report Type (Check only one.):
+
+[  ]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[ X]         13F COMBINATION REPORT.
+
+
+List of Other Managers Reporting for this Manager:
+
+       Form 13F File Number          Name
+
+       28-01096                 Russell Trust Company
+       28-01190                 Frank Russell Company
+       28-05583                 Northwestern Investment Management Company, LLC
+       28-10206                 Mason Street Advisors, LLC
+       28-11160                 Northwestern Mutual Wealth Management Company
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:         0
+
+Form13F Information Table Entry Total:     82
+
+Form13F Information Table Value Total:     $46,034 (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+NONE
+
+
+<PAGE>
+
+
+
+<TABLE>                       <C>             <C>
+                                                     FORM 13F INFORMATION TABLE
+                                                             VALUE  SHARES/ SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP     (x$1000)  PRN AMT PRN CALL DSCRETN MANAGERS         SOLE   SHARED     NONE
+- ------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+AMERICAN EXPRESS CO            COM              025816109        8      195 SH       DEFINED                                     195
+ANGLOGOLD ASHANTI LTD          SPONSORED ADR    035128206        9      192 SH       DEFINED                                     192
+AT&T INC                       COM              00206R102        4      122 SH       DEFINED                                     122
+CISCO SYS INC                  COM              17275R102        1       26 SH       DEFINED                                      26
+DELL INC                       COM              24702R101        1       48 SH       DEFINED                                      48
+DELTA AIR LINES INC DEL        COM NEW          247361702        1       48 SH       DEFINED                                      48
+E M C CORP MASS                COM              268648102        1       26 SH       DEFINED                                      26
+EATON VANCE TX MGD DIV EQ IN   COM              27828N102        0       13 SH       DEFINED                                      13
+ENTREMED INC                   COM NEW          29382F202        0        2 SH       DEFINED                                       2
+FORD MTR CO DEL                COM PAR $0.01    345370860       13      800 SH       DEFINED                                     800
+ISHARES GOLD TRUST             ISHARES          464285105        1       81 SH       DEFINED                                      81
+ISHARES TR                     RUSL 3000 GROW   464287671       87     1850 SH       DEFINED                                    1850
+ISHARES TR                     RUSSELL 1000     464287622     1718    24596 SH       DEFINED                                   24596
+ISHARES TR                     RUSSELL1000VAL   464287598     1069    16484 SH       DEFINED                                   16484
+ISHARES TR                     RUSL 2000 GROW   464287648       39      447 SH       DEFINED                                     447
+ISHARES TR                     RUSSELL 2000     464287655      285     3644 SH       DEFINED                                    3644
+ISHARES TR                     RUSL 2000 VALU   464287630       46      651 SH       DEFINED                                     651
+ISHARES TR                     RUSSELL 3000     464287689      219     2920 SH       DEFINED                                    2920
+ISHARES TR                     RUSL 3000 VALU   464287663      525     6154 SH       DEFINED                                    6154
+ISHARES TR                     RUSSELL MCP GR   464287481      223     3947 SH       DEFINED                                    3947
+ISHARES TR                     RUSSELL MIDCAP   464287499      825     8106 SH       DEFINED                                    8106
+ISHARES TR                     RUSSELL1000GRW   464287614      667    11654 SH       DEFINED                                   11654
+ISHARES TR                     S&P500 GRW       464287309     1042    15873 SH       DEFINED                                   15873
+ISHARES TR                     DJ SEL DIV INX   464287168       29      579 SH       DEFINED                                     579
+ISHARES TR                     RUSSELL MCP VL   464287473      239     5314 SH       DEFINED                                    5314
+ISHARES TR                     COHEN&ST RLTY    464287564     1027    15628 SH       DEFINED                                   15628
+ISHARES TR                     BARCLYS 1-3 YR   464287457      184     2186 SH       DEFINED                                    2186
+ISHARES TR                     BARCLYS 20+ YR   464287432      298     3168 SH       DEFINED                                    3168
+ISHARES TR                     BARCLYS 7-10 YR  464287440      217     2309 SH       DEFINED                                    2309
+ISHARES TR                     BARCLY USAGG B   464287226     1056     9986 SH       DEFINED                                    9986
+ISHARES TR                     BARCLYS CR BD    464288620     1712    16444 SH       DEFINED                                   16444
+ISHARES TR                     IBOXX INV CPBD   464287242      180     1657 SH       DEFINED                                    1657
+ISHARES TR                     BARCLYS TIPS BD  464287176     1806    16799 SH       DEFINED                                   16799
+ISHARES TR                     MSCI EMERG MKT   464287234      374     7850 SH       DEFINED                                    7850
+ISHARES TR                     S&P GLB100INDX   464287572       28      451 SH       DEFINED                                     451
+ISHARES TR                     DJ US REAL EST   464287739       31      552 SH       DEFINED                                     552
+ISHARES TR                     S&P 500 VALUE    464287408      307     5150 SH       DEFINED                                    5150
+ISHARES TR                     MSCI GRW IDX     464288885      133     2176 SH       DEFINED                                    2176
+ISHARES TR                     MSCI EAFE IDX    464287465     6180   106154 SH       DEFINED                                  106154
+ISHARES TR                     MSCI VAL IDX     464288877      158     3110 SH       DEFINED                                    3110
+ISHARES TR                     BARCLYS MBS BD   464288588       20      189 SH       DEFINED                                     189
+ISHARES TR                     S&P MC 400 GRW   464287606      125     1239 SH       DEFINED                                    1239
+ISHARES TR                     S&P MIDCAP 400   464287507     2362    26041 SH       DEFINED                                   26041
+ISHARES TR                     S&P MIDCP VALU   464287705      151     1898 SH       DEFINED                                    1898
+ISHARES TR                     S&P NTL AMTFREE  464288414       20      204 SH       DEFINED                                     204
+ISHARES TR                     S&P SMLCP GROW   464287887       32      434 SH       DEFINED                                     434
+ISHARES TR                     S&P SMLCAP 600   464287804     1118    16329 SH       DEFINED                                   16329
+ISHARES TR                     S&P SMLCP VALU   464287879       10      138 SH       DEFINED                                     138
+ISHARES TR                     US PFD STK IDX   464288687        3       68 SH       DEFINED                                      68
+ISHARES TR                     S&P 500 INDEX    464287200      762     6035 SH       DEFINED                                    6035
+JABIL CIRCUIT INC              COM              466313103        0       20 SH       DEFINED                                      20
+KINDER MORGAN ENERGY PARTNER   UT LTD PARTNER   494550106        6       80 SH       DEFINED                                      80
+MICROSOFT CORP                 COM              594918104        3      120 SH       DEFINED                                     120
+MYLAN INC                      COM              628530107        1       58 SH       DEFINED                                      58
+PFIZER INC                     COM              717081103       14      822 SH       DEFINED                                     822
+PLAINS EXPL& PRODTN CO         COM              726505100        3       87 SH       DEFINED                                      87
+PROVIDENT ENERGY TR            TR UNIT          74386K104        4      495 SH       DEFINED                                     495
+QWEST COMMUNICATIONS INTL IN   COM              749121109        0       65 SH       DEFINED                                      65
+SALIX PHARMACEUTICALS INC      NOTE 2.750% 5/1  795435AC0        3     2000 SH       DEFINED                                    2000
+SPDR DOW JONES INDL AVRG ETF   UT SER 1         78467X109      190     1645 SH       DEFINED                                    1645
+SPDR INDEX SHS FDS             DJ INTL RL ETF   78463X863       36      937 SH       DEFINED                                     937
+SPDR S&P 500 ETF TR            TR UNIT          78462F103     7295    58015 SH       DEFINED                                   58015
+SPDR S&P MIDCAP 400 ETF TR     UTSER1 S&PDCRP   78467Y107        4       24 SH       DEFINED                                      24
+SPDR SERIES TRUST              BRCLYS INTL ETF  78464A516      861    14736 SH       DEFINED                                   14736
+SPDR SERIES TRUST              BRCLYS YLD ETF   78464A417     1053    26522 SH       DEFINED                                   26522
+VANGUARD BD INDEX FD INC       SHORT TRM BOND   921937827     1421    17666 SH       DEFINED                                   17666
+VANGUARD BD INDEX FD INC       TOTAL BND MRKT   921937835     3954    49262 SH       DEFINED                                   49262
+VANGUARD INDEX FDS             EXTEND MKT ETF   922908652        5       88 SH       DEFINED                                      88
+VANGUARD INDEX FDS             VALUE ETF        922908744      265     4963 SH       DEFINED                                    4963
+VANGUARD INDEX FDS             STK MRK ETF      922908769       11      173 SH       DEFINED                                     173
+VANGUARD INDEX FDS             SM CP VAL ETF    922908611       21      314 SH       DEFINED                                     314
+VANGUARD INDEX FDS             SML CP GRW ETF   922908595       61      778 SH       DEFINED                                     778
+VANGUARD INDEX FDS             SMALL CP ETF     922908751      142     1959 SH       DEFINED                                    1959
+VANGUARD INDEX FDS             MID CAP ETF      922908629      423     5676 SH       DEFINED                                    5676
+VANGUARD INDEX FDS             GROWTH ETF       922908736      101     1637 SH       DEFINED                                    1637
+VANGUARD INDEX FDS             REIT ETF         922908553     1592    28752 SH       DEFINED                                   28752
+VANGUARD INDEX FDS             MCAP VL IDXVIP   922908512      272     5131 SH       DEFINED                                    5131
+VANGUARD INDEX FDS             MCAP GR IDXVIP   922908538      127     2035 SH       DEFINED                                    2035
+VANGUARD INDEX FDS             LARGE CAP ETF    922908637      720    12496 SH       DEFINED                                   12496
+VANGUARD INTL EQUITY INDEX F   PACIFIC ETF      922042866       52      914 SH       DEFINED                                     914
+VANGUARD INTL EQUITY INDEX F   EMR MKT ETF      922042858     1997    41480 SH       DEFINED                                   41480
+VANGUARD TAX-MANAGED FD        EUROPE PAC ETF   921943858       51     1404 SH       DEFINED                                    1404
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001140361-13-018135.txt : 20130501
+<SEC-HEADER>0001140361-13-018135.hdr.sgml : 20130501
+<ACCEPTANCE-DATETIME>20130501154755
+ACCESSION NUMBER:		0001140361-13-018135
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20130331
+FILED AS OF DATE:		20130501
+DATE AS OF CHANGE:		20130501
+EFFECTIVENESS DATE:		20130501
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HS Management Partners, LLC
+		CENTRAL INDEX KEY:			0001455253
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13328
+		FILM NUMBER:		13802985
+
+	BUSINESS ADDRESS:	
+		STREET 1:		598 MADISON AVE, 14TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			11791
+		BUSINESS PHONE:		212-888-0060
+
+	MAIL ADDRESS:	
+		STREET 1:		598 MADISON AVE, 14TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			11791
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>form13fhr.txt
+<DESCRIPTION>NONE
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+                               Form 13F COVER PAGE
+Report for the Calendar Year or Quarter Ended: 3/31/2013
+Check here if Amendment []; Amendment Number:
+                                               -------
+This Amendment (Check only one.):               [] is a restatement.
+                                                [] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+
+Name:      HS Management Partners, LLC
+
+Address:   598 Madison Ave; 14th Floor
+           New York, NY  10022
+
+
+Form 13F File Number: 28-13328
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this submission.
+
+Persons Signing this Report on Behalf of Reporting Manager:
+
+Name:   Ronald R. Staib
+Title:  CCO/SVP
+Phone:  212-823-0576
+
+Signature,  Place,  and  Date  of  Signing:
+
+/s/ Ronald R. Staib                New York, NY 10022                 5/1/2013
+---------------------------------  ---------------------------------  ----------
+[Signature]                        [City, State]                      [Date]
+
+
+
+Report  Type  (Check  only  one):
+
+[ ]     13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+        manager are reported in this report.)
+
+[ ]     13F NOTICE. (Check here if no holdings reported are in this report,
+        and all holdings are reported by other reporting manager(s).)
+
+[X]     13F COMBINATION REPORT. (Check here if a portion of the holdings for
+        this reporting manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+
+13F File Number  Name
+
+028-01190        Frank Russell Company
+---------------  ---------------------------------------------------------------
+
+
+<PAGE>
+                              Form 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:                    0
+
+Form 13F Information Table Entry Total:              24
+
+Form 13F Information Table Value Total:  $    1,673,371
+                                         --------------
+                                         (In Thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+NONE
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+              COLUMN 1                   COLUMN 2    COLUMN 3  COLUMN 4      COLUMN 5       COLUMN 6  COLUMN 7       COLUMN 8
+------------------------------------- -------------- --------- -------- ------------------ ---------- -------- ---------------------
+                                                                VALUE    SHRS OR  SH/ PUT/ INVESTMENT  OTHER     VOTING AUTHORITY
+           NAME OF ISSUER             TITLE OF CLASS   CUSIP   (x$1000)  PRN AMT  PRN CALL DISCRETION MANAGERS   SOLE    SHARED NONE
+------------------------------------- -------------- --------- -------- --------- --- ---- ---------- -------- --------- ------ ----
+<S>                                   <C>            <C>       <C>      <C>       <C> <C>  <C>        <C>      <C>       <C>    <C>
+3M CO COM                             COM            88579Y101   43,631   410,411 SH       SOLE                  410,411      0    0
+ANHEUSER BUSCH INBEV SA/NV            SPONSORED ADR  03524A108   56,227   564,814 SH       SOLE                  564,814      0    0
+SPONSOREDADR
+APPLE INC                             COM            037833100  118,392   267,475 SH       SOLE                  267,475      0    0
+BLACKROCK INC COM STK                 COM            09247X101   46,068   179,336 SH       SOLE                  179,336      0    0
+CHEESECAKE FACTORY INC COM            COM            163072101   65,014 1,683,853 SH       SOLE                1,683,853      0    0
+COACH INC COM                         COM            189754904   76,658 1,533,475 SH       SOLE                1,533,475      0    0
+COCA COLA CO COM                      COM            191098102   65,699 1,624,600 SH       SOLE                1,624,600      0    0
+DIAGEO PLC SPONSORED ADR NEW          SPONSORED ADR  25243Q205   51,604   410,080 SH       SOLE                  410,080      0    0
+DOMINOS PIZZA INC COM                 COM            25754A201   59,559 1,157,834 SH       SOLE                1,157,834      0    0
+DUNKIN BRANDS GROUP INC COM           COM            265504100   19,374   525,323 SH       SOLE                  525,323      0    0
+EBAY INC COM                          COM            278642103  100,484 1,853,261 SH       SOLE                1,853,261      0    0
+GOOGLE INC CL A                       CL A           38259P508   88,746   111,767 SH       SOLE                  111,767      0    0
+KELLOGG CO COM USD0.25                COM            487836108   72,265 1,121,600 SH       SOLE                1,121,600      0    0
+MACYS INC COM STK                     COM            55616P104   85,808 2,050,850 SH       SOLE                2,050,850      0    0
+MC DONALDS CORP COM                   COM            580135101   71,138   713,596 SH       SOLE                  713,596      0    0
+NIELSEN HOLDINGS N V COM              COM            N63218106   63,729 1,779,157 SH       SOLE                1,779,157      0    0
+NIKE INC CL B                         CL B           654106103   40,149   680,375 SH       SOLE                  680,375      0    0
+PANERA BREAD CO                       CL A           69840W108   31,177   188,675 SH       SOLE                  188,675      0    0
+QUALCOMM INC                          COM            747525103   74,417 1,111,528 SH       SOLE                1,111,528      0    0
+SCRIPPS NETWORKS INTERACTIVE INC CL   CL A NEW       811065101   83,357 1,295,565 SH       SOLE                1,295,565      0    0
+A COM STK
+TARGET CORP COM STK                   COM            87612E106   77,635 1,134,186 SH       SOLE                1,134,186      0    0
+TIME WARNER INC USD0.01               COM NEW        887317303  112,997 1,961,074 SH       SOLE                1,961,074      0    0
+DISNEY WALT CO                        COM            254687106   85,459 1,504,566 SH       SOLE                1,504,566      0    0
+WILLIAMS SONOMA INC COM               COM            969904101   83,784 1,626,247 SH       SOLE                1,626,247      0    0
+</TABLE>
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

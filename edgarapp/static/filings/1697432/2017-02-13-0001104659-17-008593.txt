@@ -1,0 +1,238 @@
+<SEC-DOCUMENT>0001104659-17-008593.txt : 20170213
+<SEC-HEADER>0001104659-17-008593.hdr.sgml : 20170213
+<ACCEPTANCE-DATETIME>20170213160310
+ACCESSION NUMBER:		0001104659-17-008593
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20161231
+FILED AS OF DATE:		20170213
+DATE AS OF CHANGE:		20170213
+EFFECTIVENESS DATE:		20170213
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Franklin Square Holdings, L.P.
+		CENTRAL INDEX KEY:			0001697432
+		IRS NUMBER:				260196373
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-17764
+		FILM NUMBER:		17598980
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 ROUSE BOULEVARD
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19112
+		BUSINESS PHONE:		2154951150
+
+	MAIL ADDRESS:	
+		STREET 1:		201 ROUSE BOULEVARD
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19112
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <filer>
+        <credentials>
+          <cik>0001697432</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2016</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>Franklin Square Holdings, L.P.</name>
+        <address>
+          <ns1:street1>201 Rouse Boulevard</ns1:street1>
+          <ns1:city>Philadelphia</ns1:city>
+          <ns1:stateOrCountry>PA</ns1:stateOrCountry>
+          <ns1:zipCode>19112</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-17764</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Stephen S. Sypherd</name>
+      <title>Managing Director and General Counsel</title>
+      <phone>215-495-1150</phone>
+      <signature>/s/ Stephen S. Sypherd</signature>
+      <city>Philadelphia</city>
+      <stateOrCountry>PA</stateOrCountry>
+      <signatureDate>02-13-2017</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>8</tableEntryTotal>
+      <tableValueTotal>137797</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>a17-4348_1informationtable.xml
+<DESCRIPTION>INFORMATION TABLE
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <infoTable>
+    <nameOfIssuer>Cheniere Energy Partners LP Holdings, LLC</nameOfIssuer>
+    <titleOfClass>COM REP LLC IN</titleOfClass>
+    <cusip>16411W108</cusip>
+    <value>4252</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>190077</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>190077</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Eastman Kodak Co.</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>277461406</cusip>
+    <value>987</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>63705</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>63705</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Enviva Partners, LP</nameOfIssuer>
+    <titleOfClass>COM UNIT</titleOfClass>
+    <cusip>29414J107</cusip>
+    <value>17607</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>656974</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>656974</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Extraction Oil &amp; Gas Holdings, LLC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>30227M105</cusip>
+    <value>22858</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1140637</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1140637</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SandRidge Energy, Inc.</nameOfIssuer>
+    <titleOfClass>COM NEW</titleOfClass>
+    <cusip>80007P869</cusip>
+    <value>20219</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>858568</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>858568</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SandRidge Energy, Inc.</nameOfIssuer>
+    <titleOfClass>NOTE 10/0</titleOfClass>
+    <cusip>80007PBC2</cusip>
+    <value>25412</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>20240962</sshPrnamt>
+      <sshPrnamtType>PRN</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>20240962</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Sequential Brands Group, Inc.</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>81734P107</cusip>
+    <value>3467</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>740740</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>740740</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SolarCity Corporation</nameOfIssuer>
+    <titleOfClass>NOTE 1.625%11/0</titleOfClass>
+    <cusip>83416TAC4</cusip>
+    <value>42995</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>50619000</sshPrnamt>
+      <sshPrnamtType>PRN</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>50619000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

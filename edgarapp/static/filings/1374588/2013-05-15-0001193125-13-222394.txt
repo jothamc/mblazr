@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001193125-13-222394.txt : 20130515
+<SEC-HEADER>0001193125-13-222394.hdr.sgml : 20130515
+<ACCEPTANCE-DATETIME>20130515161629
+ACCESSION NUMBER:		0001193125-13-222394
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20130331
+FILED AS OF DATE:		20130515
+DATE AS OF CHANGE:		20130515
+EFFECTIVENESS DATE:		20130515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RED MOUNTAIN CAPITAL PARTNERS LLC
+		CENTRAL INDEX KEY:			0001374588
+		IRS NUMBER:				731726370
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13680
+		FILM NUMBER:		13847297
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10100 SANTA MONICA BOULEVARD, SUITE 925
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+		BUSINESS PHONE:		(310) 432-0207
+
+	MAIL ADDRESS:	
+		STREET 1:		10100 SANTA MONICA BOULEVARD, SUITE 925
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d537333d13fhr.txt
+<DESCRIPTION>FORM 13F
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+
+                               FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: March 31, 2013
+
+
+Check here if Amendment [ ]; Amendment Number: _______
+
+     This Amendment (Check only one): [ ] is a restatement.
+                                      [ ] adds new holdings entries.
+
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Red Mountain Capital Partners LLC
+Address: 10100 Santa Monica Boulevard, Suite 925
+         Los Angeles, California  90067
+
+Form 13F File Number: 28- 13680
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:  Willem Mesdag
+Title: Authorized Signatory
+Phone: (310) 432-0200
+
+Signature, Place, and Date of Signing:
+
+/s/ Willem Mesdag                          Los Angeles, CA    May 15, 2013
+----------------------------------------   ----------------   -----------------
+[Signature]                                [City, State]         [Date]
+
+
+Report Type (Check only one):
+
+[X]   13F HOLDINGS REPORT. (Check here if all holdings of this reporting manager
+      are reported in this report.)
+
+[ ]   13F NOTICE. (Check here if no holdings reported are in this report, and
+      all holdings are reported by other reporting manager(s).)
+
+[ ]   13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+      reporting manager are reported in this report and a portion are reported
+      by other reporting manager(s).)
+
+<PAGE>
+
+                             FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:                         1
+                                        -------------------------------
+
+Form 13F Information Table Entry Total:                    11
+                                        -------------------------------
+
+Form 13F Information Table Value Total:              $230,935
+                                        -------------------------------
+                                                   (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+
+      No.          Form 13F File Number                  Name
+
+      1            28- 13678                             RMCP GP LLC
+      ---          -----------------                     -----------------------
+
+<PAGE>
+
+                           FORM 13F INFORMATION TABLE
+<TABLE>
+<CAPTION>
+
+   COLUMN 1                     COLUMN 2    COLUMN 3  COLUMN 4       COLUMN 5        COLUMN 6  COLUMN 7        COLUMN 8
+--------------               -------------- --------- -------- ------------------- ---------- -------- -----------------------
+                                                                                                            VOTING AUTHORITY
+                                                       VALUE     SHRS OR  SH/ PUT/ INVESTMENT  OTHER   -----------------------
+NAME OF ISSUER               TITLE OF CLASS   CUSIP   (X$1000)   PRN AMT  PRN CALL DISCRETION MANAGERS    SOLE    SHARED  NONE
+--------------               -------------- --------- -------- ---------- --- ---- ---------- -------- ---------- ------  ----
+<S>                          <C>            <C>       <C>        <C>      <C> <C>  <C>        <C>            <C>   <C>     <C>
+AIR TRANSPORT SERVICES
+GRP I                        COM            00922R105   65,019 11,152,425  SH       DEFINED      1     11,152,425   0     0
+
+ANDERSONS INC                COM            034164103   10,187    190,340  SH       DEFINED      1        190,340   0     0
+
+BRAVO BRIO RESTAURANT GROUP  COM            10567B109    9,376    592,297  SH       DEFINED      1        592,297   0     0
+
+CALAVO GROWERS INC           COM            128246105    8,395    291,075  SH       DEFINED      1        291,075   0     0
+
+DESTINATION XL GROUP INC     COM            25065K104   18,112  3,558,324  SH       DEFINED      1      3,558,324   0     0
+
+ENCORE CAP GROUP INC         COM            292554102   29,559    982,036  SH       DEFINED      1        982,036   0     0
+
+MARLIN BUSINESS SVCS CORP    COM            571157106   29,489  1,271,608  SH       DEFINED      1      1,271,608   0     0
+
+NATURES SUNSHINE
+PRODUCTS IN                  COM            639027101   36,695  2,407,801  SH       DEFINED      1      2,407,801   0     0
+
+RADNET INC                   COM            750491102   10,374  3,705,048  SH       DEFINED      1      3,705,048   0     0
+
+STR HLDGS INC                COM            78478V100   13,463  6,204,132  SH       DEFINED      1      6,204,132   0     0
+
+SUNOPTA INC                  COM            8676EP108      266     37,000  SH       DEFINED      1         37,000   0     0
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

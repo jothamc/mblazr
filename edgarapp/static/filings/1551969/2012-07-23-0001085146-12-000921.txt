@@ -1,0 +1,226 @@
+<SEC-DOCUMENT>0001085146-12-000921.txt : 20120723
+<SEC-HEADER>0001085146-12-000921.hdr.sgml : 20120723
+<ACCEPTANCE-DATETIME>20120723100054
+ACCESSION NUMBER:		0001085146-12-000921
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120630
+FILED AS OF DATE:		20120723
+DATE AS OF CHANGE:		20120723
+EFFECTIVENESS DATE:		20120723
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Gilman Hill Asset Management, LLC
+		CENTRAL INDEX KEY:			0001551969
+		IRS NUMBER:				208806725
+		STATE OF INCORPORATION:			CT
+		FISCAL YEAR END:			1211
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14994
+		FILM NUMBER:		12973660
+
+	BUSINESS ADDRESS:	
+		STREET 1:		156 KINGS HIGHWAY NORTH
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+		BUSINESS PHONE:		203-571-0225
+
+	MAIL ADDRESS:	
+		STREET 1:		156 KINGS HIGHWAY NORTH
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>gilman2q2012.txt
+<DESCRIPTION>GILMAN HILL ASSET MANAGEMENT, LLC
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: June 30, 2012
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Gilman Hill Asset Management, LLC
+Address: 156 Kings Highway North
+         Westport, CT  06880
+
+13F File Number:  028-14994
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      John B. Harrington
+Title:     Chief Compliance Officer
+Phone:     203-571-0225
+
+Signature, Place, and Date of Signing:
+
+ /s/  John B. Harrington     Westport, CT     July 20, 2012
+
+Report Type (Check only one.):
+
+[ X]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[  ]         13F COMBINATION REPORT.
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:         0
+
+Form 13F Information Table Entry Total:    104
+
+Form 13F Information Table Value Total:    $124,459 (thousands)
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+NONE
+
+<PAGE>
+
+<TABLE>                       <C>             <C>
+                                                     FORM 13F INFORMATION TABLE
+                                                             VALUE  SHARES/ SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP     (x$1000)  PRN AMT PRN CALL DSCRETN MANAGERS         SOLE   SHARED     NONE
+------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+1 800 FLOWERS COM              CL A             68243Q106       65    18591 SH       SOLE                    18591        0        0
+3M CO                          COM              88579Y101      863     9627 SH       SOLE                     9627        0        0
+ABBOTT LABS                    COM              002824100      729    11313 SH       SOLE                     9313        0     2000
+ALLIANCEBERNSTEIN INCOME FUN   COM              01881E101      100    12000 SH       SOLE                     2000        0    10000
+ALTRIA GROUP INC               COM              02209S103      708    20500 SH       SOLE                      500        0    20000
+AMERICAN WTR WKS CO INC NEW    COM              030420103      490    14300 SH       SOLE                     4300        0    10000
+ANNALY CAP MGMT INC            COM              035710409      235    14000 SH       SOLE                     2000        0    12000
+APPLE INC                      COM              037833100     1052     1802 SH       SOLE                     1702        0      100
+AT&T INC                       COM              00206R102      244     6839 SH       SOLE                     6839        0        0
+B & G FOODS INC NEW            COM              05508R106     2336    87810 SH       SOLE                    75440        0    12370
+BIO-REFERENCE LABS INC         COM $.01 NEW     09057G602      291    11084 SH       SOLE                    11084        0        0
+BLDRS INDEX FDS TR             EMER MK 50 ADR   09348R300      209     5576 SH       SOLE                     5576        0        0
+BRISTOL MYERS SQUIBB CO        COM              110122108     4035   112229 SH       SOLE                    58574        0    53655
+BUCKEYE PARTNERS L P           UNIT LTD PARTN   118230101     1806    34625 SH       SOLE                     2575        0    32050
+CALGON CARBON CORP             COM              129603106      204    14320 SH       SOLE                    14320        0        0
+CAPLEASE INC                   COM              140288101     1292   311345 SH       SOLE                   261785        0    49560
+CHEROKEE INC DEL NEW           COM              16444H102     1852   132915 SH       SOLE                   109670        0    23245
+CHEVRON CORP NEW               COM              166764100     1978    18748 SH       SOLE                    14517        0     4231
+COCA COLA CO                   COM              191216100     4009    51277 SH       SOLE                     5540        0    45737
+COMPASS DIVERSIFIED HOLDINGS   SH BEN INT       20451Q104     1687   120880 SH       SOLE                   104785        0    16095
+CREDIT SUISSE ASSET MGMT INC   COM              224916106       89    22750 SH       SOLE                     2750        0    20000
+CREDIT SUISSE NASSAU BRH       ETN LKD 30MLP    22542D852      856    36955 SH       SOLE                    20105        0    16850
+CUBESMART                      COM              229663109      164    14026 SH       SOLE                    14026        0        0
+DEERE & CO                     COM              244199105      394     4877 SH       SOLE                     3377        0     1500
+DICE HLDGS INC                 COM              253017107      132    14088 SH       SOLE                    14088        0        0
+DIGITAL RLTY TR INC            COM              253868103     2332    31058 SH       SOLE                    26298        0     4760
+DOMINION RES INC VA NEW        COM              25746U109      385     7132 SH       SOLE                     7132        0        0
+DOUGLAS DYNAMICS INC           COM              25960R105     1872   131375 SH       SOLE                   114175        0    17200
+DU PONT E I DE NEMOURS & CO    COM              263534109      637    12590 SH       SOLE                     8340        0     4250
+ENBRIDGE ENERGY MANAGEMENT L   SHS UNITS LLI    29250X103      333    10402 SH       SOLE                     5517        0     4885
+ENERGY TRANSFER PRTNRS L P     UNIT LTD PARTN   29273R109      271     6135 SH       SOLE                      135        0     6000
+ENTERPRISE PRODS PARTNERS L    COM              293792107     2551    49794 SH       SOLE                    35724        0    14070
+EUROSEAS LTD                   COM NEW          Y23592200      647   548210 SH       SOLE                   460530        0    87680
+EXELON CORP                    COM              30161N101     2176    57843 SH       SOLE                    44638        0    13205
+EXXON MOBIL CORP               COM              30231G102     2077    24275 SH       SOLE                    10775        0    13500
+FELCOR LODGING TR INC          COM              31430F101      201    42834 SH       SOLE                    42834        0        0
+FLOWSERVE CORP                 COM              34354P105      344     3000 SH       SOLE                     3000        0        0
+FUEL TECH INC                  COM              359523107      112    22973 SH       SOLE                    22973        0        0
+GENERAL ELECTRIC CO            COM              369604103     1746    83760 SH       SOLE                    27790        0    55970
+GOOGLE INC                     CL A             38259P508      284      490 SH       SOLE                      490        0        0
+GRAY TELEVISION INC            COM              389375106      114    77390 SH       SOLE                    77390        0        0
+HOME DEPOT INC                 COM              437076102      216     4070 SH       SOLE                     1070        0     3000
+HSBC HLDGS PLC                 SPON ADR NEW     404280406      370     8374 SH       SOLE                      166        0     8208
+INTEL CORP                     COM              458140100     2836   106434 SH       SOLE                    69879        0    36555
+INTERNATIONAL BUSINESS MACHS   COM              459200101     2655    13575 SH       SOLE                     3375        0    10200
+ISTAR FINL INC                 COM              45031U101       96    14817 SH       SOLE                    14817        0        0
+JOHNSON & JOHNSON              COM              478160104     7590   112343 SH       SOLE                    28093        0    84250
+JPMORGAN CHASE & CO            COM              46625H100     1034    28944 SH       SOLE                     7296        0    21648
+KIMBERLY CLARK CORP            COM              494368103      372     4445 SH       SOLE                      945        0     3500
+KINDER MORGAN MANAGEMENT LLC   SHS              49455U100      305     4156 SH       SOLE                     2072        0     2084
+KRAFT FOODS INC                CL A             50075N104     2768    71674 SH       SOLE                    41798        0    29876
+LAZARD LTD                     SHS A            G54050102      583    22432 SH       SOLE                        0        0    22432
+LIBERTY PPTY TR                SH BEN INT       531172104     2377    64525 SH       SOLE                    54845        0     9680
+MAGELLAN MIDSTREAM PRTNRS LP   COM UNIT RP LP   559080106     1794    25397 SH       SOLE                    22522        0     2875
+MCCORMICK & CO INC             COM VTG          579780107     4693    77666 SH       SOLE                    77666        0        0
+MCCORMICK & CO INC             COM NON VTG      579780206     1798    29648 SH       SOLE                    29648        0        0
+MCDONALDS CORP                 COM              580135101      552     6235 SH       SOLE                     2235        0     4000
+MCKESSON CORP                  COM              58155Q103      208     2214 SH       SOLE                     2214        0        0
+MERCK & CO INC NEW             COM              58933Y105     2074    49668 SH       SOLE                     4799        0    44869
+MFS CHARTER INCOME TR          SH BEN INT       552727109      172    17575 SH       SOLE                     7575        0    10000
+MICROCHIP TECHNOLOGY INC       COM              595017104     1976    59742 SH       SOLE                    50767        0     8975
+MICROSOFT CORP                 COM              594918104     2173    71047 SH       SOLE                     7085        0    63962
+MINE SAFETY APPLIANCES CO      COM              602720104     2000    49705 SH       SOLE                    43310        0     6395
+MONSANTO CO NEW                COM              61166W101      515     6220 SH       SOLE                     4720        0     1500
+NATIONAL RETAIL PPTYS INC      COM              637417106     2014    71200 SH       SOLE                    60965        0    10235
+NATURAL RESOURCE PARTNERS L    COM UNIT L P     63900P103     1203    54250 SH       SOLE                    48670        0     5580
+NEWPARK RES INC                COM PAR $.01NEW  651718504      113    19088 SH       SOLE                    19088        0        0
+NOVARTIS A G                   SPONSORED ADR    66987V109      330     5900 SH       SOLE                     3900        0     2000
+NOVOGEN LIMITED                SPON ADR 1:25 SH 67010F202       49    24471 SH       SOLE                    22571        0     1900
+NUSTAR ENERGY LP               UNIT COM         67058H102     1219    22627 SH       SOLE                    19987        0     2640
+NUTRI SYS INC NEW              COM              67069D108     1666   144090 SH       SOLE                   119280        0    24810
+PAYCHEX INC                    COM              704326107     1632    51952 SH       SOLE                    41727        0    10225
+PEPSICO INC                    COM              713448108      299     4237 SH       SOLE                     1987        0     2250
+PFIZER INC                     COM              717081103     2912   126617 SH       SOLE                    91001        0    35616
+PHILIP MORRIS INTL INC         COM              718172109     1850    21200 SH       SOLE                     1200        0    20000
+PLUM CREEK TIMBER CO INC       COM              729251108     1702    42881 SH       SOLE                    36016        0     6865
+PPL CORP                       COM              69351T106     1961    70505 SH       SOLE                    60420        0    10085
+PROCTER & GAMBLE CO            COM              742718109      685    11184 SH       SOLE                     8184        0     3000
+PUTNAM PREMIER INCOME TR       SH BEN INT       746853100       62    11675 SH       SOLE                     1675        0    10000
+ROYAL DUTCH SHELL PLC          SPONS ADR A      780259206     1345    19949 SH       SOLE                        0        0    19949
+RPM INTL INC                   COM              749685103     2039    74955 SH       SOLE                    64690        0    10265
+SANDY SPRING BANCORP INC       COM              800363103      616    34200 SH       SOLE                    34200        0        0
+SANOFI                         SPONSORED ADR    80105N105      306     8100 SH       SOLE                     1100        0     7000
+SHORE BANCSHARES INC           COM              825107105      341    57051 SH       SOLE                    57051        0        0
+SHUFFLE MASTER INC             COM              825549108      179    12961 SH       SOLE                    12961        0        0
+SIMON PPTY GROUP INC NEW       COM              828806109     2339    15026 SH       SOLE                      190        0    14836
+SPDR INDEX SHS FDS             EMERG MKTS ETF   78463X509      266     4423 SH       SOLE                     4423        0        0
+SPDR S&P 500 ETF TR            TR UNIT          78462F103      423     3106 SH       SOLE                     3106        0        0
+SWEDISH EXPT CR CORP           ROG TTL ETN 22   870297801      119    14875 SH       SOLE                    14875        0        0
+TARGA RESOURCES PARTNERS LP    COM UNIT         87611X105     1422    39885 SH       SOLE                    35900        0     3985
+TEEKAY LNG PARTNERS L P        PRTNRSP UNITS    Y8564M105     1806    46860 SH       SOLE                    41945        0     4915
+TEEKAY OFFSHORE PARTNERS L P   PARTNERSHIP UN   Y8565J101      341    12195 SH       SOLE                     6695        0     5500
+TIME WARNER INC                COM NEW          887317303      202     5243 SH       SOLE                     1910        0     3333
+VANGUARD INDEX FDS             SMALL CP ETF     922908751      320     4203 SH       SOLE                     4203        0        0
+VANGUARD NATURAL RESOURCES L   COM UNIT         92205F106     1958    75415 SH       SOLE                    68405        0     7010
+VANTAGE DRILLING COMPANY       ORD SHS          G93205113       49    32404 SH       SOLE                    32404        0        0
+VENTAS INC                     COM              92276F100     2467    39090 SH       SOLE                    33285        0     5805
+VERIZON COMMUNICATIONS INC     COM              92343V104     2675    60199 SH       SOLE                    44359        0    15840
+VITRAN CORP INC                COM              92850E107      177    28629 SH       SOLE                    28629        0        0
+VODAFONE GROUP PLC NEW         SPONS ADR NEW    92857W209      316    11198 SH       SOLE                     3698        0     7500
+WASTE MGMT INC DEL             COM              94106L109     1955    58532 SH       SOLE                    49242        0     9290
+WATSCO INC                     COM              942622200     2261    30640 SH       SOLE                    25965        0     4675
+WHITE MTNS INS GROUP LTD       COM              G9618E107      209      400 SH       SOLE                      400        0        0
+WINDSTREAM CORP                COM              97381W104     1572   162762 SH       SOLE                   135802        0    26960
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

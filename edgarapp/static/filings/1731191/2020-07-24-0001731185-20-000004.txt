@@ -1,0 +1,440 @@
+<SEC-DOCUMENT>0001731185-20-000004.txt : 20200724
+<SEC-HEADER>0001731185-20-000004.hdr.sgml : 20200724
+<ACCEPTANCE-DATETIME>20200724103549
+ACCESSION NUMBER:		0001731185-20-000004
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200630
+FILED AS OF DATE:		20200724
+DATE AS OF CHANGE:		20200724
+EFFECTIVENESS DATE:		20200724
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Elephas Investment Management Ltd
+		CENTRAL INDEX KEY:			0001731191
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			K3
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-18571
+		FILM NUMBER:		201045596
+
+	BUSINESS ADDRESS:	
+		STREET 1:		FLAT B, 5/F, SHUN HO TOWER
+		STREET 2:		24-30 ICE HOUSE STREET
+		CITY:			HONG KONG
+		STATE:			K3
+		ZIP:			000000
+		BUSINESS PHONE:		852-3752-3959
+
+	MAIL ADDRESS:	
+		STREET 1:		FLAT B, 5/F, SHUN HO TOWER
+		STREET 2:		24-30 ICE HOUSE STREET
+		CITY:			HONG KONG
+		STATE:			K3
+		ZIP:			000000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>true</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001731191</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2020</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2020</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Elephas Investment Management Ltd</name>
+        <address>
+          <com:street1>FLAT B, 5/F, SHUN HO TOWER</com:street1>
+          <com:street2>24-30 ICE HOUSE STREET</com:street2>
+          <com:city>HONG KONG</com:city>
+          <com:stateOrCountry>K3</com:stateOrCountry>
+          <com:zipCode>000000</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-18571</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Christine Mok</name>
+      <title>Compliance Officer</title>
+      <phone>37523951</phone>
+      <signature>Christine Mok</signature>
+      <city>Hong Kong</city>
+      <stateOrCountry>K3</stateOrCountry>
+      <signatureDate>07-24-2020</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>19</tableEntryTotal>
+      <tableValueTotal>230332</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>13FHR2020Q2.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:informationTable xmlns:ns1="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ACM RESEARCH INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM CL A</ns1:titleOfClass>
+		<ns1:cusip>00108J109</ns1:cusip>
+		<ns1:value>1101</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>17657</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>17657</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>AGORA INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>ADS</ns1:titleOfClass>
+		<ns1:cusip>00851L103</ns1:cusip>
+		<ns1:value>2209</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>50000</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>50000</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>APTIV PLC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>SHS</ns1:titleOfClass>
+		<ns1:cusip>G6095L109</ns1:cusip>
+		<ns1:value>10301</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>132200</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>132200</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>BARRICK GOLD CORPORATION</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>067901108</ns1:cusip>
+		<ns1:value>16038</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>595324</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>595324</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>CERENCE INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>156727109</ns1:cusip>
+		<ns1:value>1379</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>33756</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>33756</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>COLLIER CREEK HOLDINGS</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM CL A</ns1:titleOfClass>
+		<ns1:cusip>G22707106</ns1:cusip>
+		<ns1:value>1260</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>92000</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>92000</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>DAQO NEW ENERGY CORP</ns1:nameOfIssuer>
+		<ns1:titleOfClass>SPNSRD ADR NEW</ns1:titleOfClass>
+		<ns1:cusip>23703Q203</ns1:cusip>
+		<ns1:value>1010</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>13600</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>13600</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>DIREXION SHS ETF TR</ns1:nameOfIssuer>
+		<ns1:titleOfClass>DLY GOLD INDX 2X</ns1:titleOfClass>
+		<ns1:cusip>25460G781</ns1:cusip>
+		<ns1:value>1955</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>25000</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>25000</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>FINTECH ACQUISITION CORP III</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM CL A</ns1:titleOfClass>
+		<ns1:cusip>31811A101</ns1:cusip>
+		<ns1:value>261</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>23400</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>23400</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>GENERAL MTRS CO</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>37045V100</ns1:cusip>
+		<ns1:value>7307</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>288800</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>288800</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>LIMELIGHT NETWORKS INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>53261M104</ns1:cusip>
+		<ns1:value>368</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>50000</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>50000</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>LYFT INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>CL A COM</ns1:titleOfClass>
+		<ns1:cusip>55087P104</ns1:cusip>
+		<ns1:value>4509</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>136600</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>136600</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>MODERNA INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>60770K107</ns1:cusip>
+		<ns1:value>7384</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>115000</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>115000</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>PINDUODUO INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>SPONSORED ADS</ns1:titleOfClass>
+		<ns1:cusip>722304102</ns1:cusip>
+		<ns1:value>3292</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>38345</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>38345</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>SORRENTO THERAPEUTICS INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM NEW</ns1:titleOfClass>
+		<ns1:cusip>83587F202</ns1:cusip>
+		<ns1:value>1159</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>184500</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>184500</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>TESLA INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>88160R101</ns1:cusip>
+		<ns1:value>138131</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>127922</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>127922</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>VANECK VECTORS ETF TR</ns1:nameOfIssuer>
+		<ns1:titleOfClass>GOLD MINERS ETF</ns1:titleOfClass>
+		<ns1:cusip>92189F106</ns1:cusip>
+		<ns1:value>5190</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>141500</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>141500</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>VIRGIN GALACTIC HOLDINGS INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>92766K106</ns1:cusip>
+		<ns1:value>10213</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>625052</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>625052</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>YOUDAO INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>SPONSORED ADS</ns1:titleOfClass>
+		<ns1:cusip>98741T104</ns1:cusip>
+		<ns1:value>17265</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>32150</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>0</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>32150</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+</ns1:informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

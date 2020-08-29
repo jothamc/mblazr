@@ -1,0 +1,143 @@
+<DOCUMENT>
+<TYPE>NT 10-K
+<SEQUENCE>1
+<FILENAME>v191639_nt10k.txt
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   FORM 12b-25
+
+                           NOTIFICATION OF LATE FILING
+
+       (Check One):
+       |X|  Form 10-K  |_| Form 20-F  |_| Form 11-K |_| Form 10-Q |_| Form 10-D
+       |_|  Form N-SAR |_| Form N-CSR
+
+       For Period Ended: April 30, 2010
+
+                |_| Transition Report on Form 10-K
+                |_| Transition Report on Form 20-F
+                |_| Transition Report on Form 11-K
+                |_| Transition Report on Form 10-Q
+                |_| Transition Report on Form N-SAR
+
+         For the Transition Period Ended: ____________________________
+
+         Nothing in this form shall be construed to imply that the Commission
+has verified any information contained herein.
+
+         If the notification relates to a portion of the filing checked above,
+identify the Item(s) to which the notification relates: ________________________
+
+                                     PART I
+                             REGISTRANT INFORMATION
+
+                             MANAGEMENT ENERGY, INC.
+                             -----------------------
+                             Full Name of Registrant
+
+                       30950 Rancho Viejo Road, Suite 120
+                       ----------------------------------
+            Address of Principal Executive Office (Street and Number)
+
+                          San Juan Capistrano, CA 92675
+                          -----------------------------
+                            City, State and Zip Code
+
+<PAGE>
+
+                                     PART II
+                             RULES 12b-25(b) AND (c)
+
+         If the subject report could not be filed without unreasonable effort or
+expense and the registrant seeks relief pursuant to Rule 12b-25(b), the
+following should be completed. (Check appropriate box.)
+
+|X| (a) The reasons described in reasonable detail in Part III of this form
+could not be eliminated without unreasonable effort or expense;
+
+|X| (b) The subject annual report, semi-annual report, transition report on Form
+10-K, 20-F, 11-K or N-SAR, or portion thereof, will be filed on or before the
+15th calendar day following the prescribed due date; or the subject quarterly
+report or transition report on Form 10-Q, or portion thereof will be filed on or
+before the fifth calendar day following the prescribed due date; and
+
+|_| (c) The accountant's statement or other exhibit required by Rule 12b-25(c)
+has been attached if applicable.
+
+                                    PART III
+                                    NARRATIVE
+
+         State below in reasonable detail the reasons why Form 10-K, 11-K, 20-F,
+10-Q, N-SAR, or the transition report or portion thereof, could not be filed
+within the prescribed time period.
+
+         The Company will be unable to file its Annual Report on Form 10-K for
+the fiscal year ended April 30, 2010 on a timely basis, without unreasonable
+effort or expense, because management needs additional time to finalize its
+review of the Company's financial statements. The Company expects to be able to
+file within the additional time allowed by this report.
+
+                                     PART IV
+                                OTHER INFORMATION
+
+(1) Name and telephone number of person to contact in regard to this
+notification
+
+         Matt Szot, CFO                     (949) 373-7286
+         --------------                     --------------
+            (Name)                   (Area Code) (Telephone Number)
+
+(2) Have all other periodic reports required under Section 13 or 15(d) of the
+Securities Exchange Act of 1934 or Section 30 of the Investment Company Act of
+1940 during the preceding 12 months or for such shorter period that the
+registrant was required to file such report(s) been filed? If answer is no,
+identify report(s). |X| Yes |_| No
+
+(3) Is it anticipated that any significant change in results of operation for
+the corresponding period for the last fiscal year will be reflected by the
+earnings statements to be included in the subject report or portion thereof?
+|X| Yes |_| No
+
+<PAGE>
+
+                             Management Energy, Inc.
+                             -----------------------
+                  (Name of Registrant as Specified in Charter)
+
+         Has caused this notification to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Date: July 27, 2010                         By:    /s/ Matt Szot
+                                                   -------------
+                                            Name:  Matt Szot
+                                            Title: Chief Financial Officer
+
+Instruction: The form may be signed by an executive officer of the registrant or
+by any other duly authorized representative. The name and title of the person
+signing the form shall be typed or printed beneath the signature. If the
+statement is signed on behalf of the registrant by an authorized representative
+(other than an executive officer), evidence of the representative's authority to
+sign on behalf of the registrant shall be filed with the form.
+
+                                    ATTENTION
+Intentional misstatements or omissions of fact constitute Federal criminal
+violations. (See 18 U.S.C. 1001)
+
+<PAGE>
+
+Annex A
+
+The Company does not expect to recognize any revenue for the fiscal year ended
+April 30, 2010. The Company, however, has incurred several expenses that it had
+not incurred in the prior fiscal year or at levels higher than incurred in prior
+fiscal years, including: (a) stock-based compensation charges totaling
+$2,640,365 for the issuance of warrants to purchase common stock to service
+providers, and (b) $413,336 of consulting fees in the current fiscal year.
+Accordingly, the Company expects to record a significantly greater net loss in
+the fiscal year ended April 30, 2010 compared to the prior fiscal year.
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,131 @@
+<SEC-DOCUMENT>0000950123-19-004423.txt : 20190513
+<SEC-HEADER>0000950123-19-004423.hdr.sgml : 20190513
+<ACCEPTANCE-DATETIME>20190510183636
+ACCESSION NUMBER:		0000950123-19-004423
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20190331
+FILED AS OF DATE:		20190513
+DATE AS OF CHANGE:		20190510
+EFFECTIVENESS DATE:		20190513
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Indigo Latam Management LLC
+		CENTRAL INDEX KEY:			0001652253
+		IRS NUMBER:				272992462
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-16995
+		FILM NUMBER:		19816409
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2525 E. CAMELBACK ROAD, SUITE 900
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85016
+		BUSINESS PHONE:		602-224-1500
+
+	MAIL ADDRESS:	
+		STREET 1:		2525 E. CAMELBACK ROAD, SUITE 900
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85016
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001652253</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2019</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2019</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Indigo Latam Management LLC</name>
+        <address>
+          <ns1:street1>2525 E. Camelback Road, Suite 900</ns1:street1>
+          <ns1:city>Phoenix</ns1:city>
+          <ns1:stateOrCountry>AZ</ns1:stateOrCountry>
+          <ns1:zipCode>85016</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-16995</form13FFileNumber>
+      <provideInfoForInstruction5>Y</provideInfoForInstruction5>
+      <additionalInformation>The filer exercises investment discretion over accounts that hold American Depositary Shares, which are evidenced by the ADRs listed on the information table.</additionalInformation>
+    </coverPage>
+    <signatureBlock>
+      <name>William A. Franke</name>
+      <title>Sole Manager</title>
+      <phone>602-224-1500</phone>
+      <signature>/s/ William A. Franke</signature>
+      <city>Phoenix</city>
+      <stateOrCountry>AZ</stateOrCountry>
+      <signatureDate>05-10-2019</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>1</tableEntryTotal>
+      <tableValueTotal>118753</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<DESCRIPTION>INFORMATION TABLE FOR FORM 13F
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <infoTable>
+       <nameOfIssuer>CONTROLADORA VUELA CIA DE AV</nameOfIssuer>
+       <titleOfClass>SPON ADR RP 10</titleOfClass>
+       <cusip>21240E105</cusip>
+       <value>118753</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>139380930</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>SOLE</investmentDiscretion>
+       <votingAuthority>
+           <Sole>139380930</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

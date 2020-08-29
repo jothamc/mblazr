@@ -1,0 +1,928 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LNHA5tApejjKdCfBBCGtcNTueSnuLXKt6Cy+IUyfjACsdGGQELvYG+aRLKWAJh6O
+ iwHqdpa1i35tSg7GsjaBkQ==
+
+<SEC-DOCUMENT>0001214659-10-001357.txt : 20100511
+<SEC-HEADER>0001214659-10-001357.hdr.sgml : 20100511
+<ACCEPTANCE-DATETIME>20100511061535
+ACCESSION NUMBER:		0001214659-10-001357
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100331
+FILED AS OF DATE:		20100511
+DATE AS OF CHANGE:		20100511
+EFFECTIVENESS DATE:		20100511
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUMITOMO TRUST & BANKING CO LTD / /FI
+		CENTRAL INDEX KEY:			0001046017
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			M0
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13706
+		FILM NUMBER:		10818966
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5-33, KITAHAMA 4-CHOME
+		STREET 2:		CHUO-KU
+		CITY:			OSAKA
+		STATE:			M0
+		ZIP:			540-8639
+		BUSINESS PHONE:		81-6-6220-2121
+
+	MAIL ADDRESS:	
+		STREET 1:		5-33, KITAHAMA 4-CHOME
+		STREET 2:		CHUO-KU
+		CITY:			OSAKA
+		STATE:			M0
+		ZIP:			540-8639
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SUMITOMO TRUST & BANKING CO LTD /                       /FI
+		DATE OF NAME CHANGE:	19970911
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>c5310313fhr.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+
+                               FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:  March 31, 2010
+
+Check here if Amendment [_]; Amendment Number: __
+This Amendment (Check only one):    [ ] is a restatement.
+                                    [ ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:             The Sumitomo Trust and Banking Company, Limited
+Address:          5-33, Kitahama 4-chome
+                  Chuo-ku, Osaka
+                  Japan   540-8639
+
+Form 13F File Number: 28-13706
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:    Junichi Sayato
+Title:   CFO, Managing Executive Officer and Director
+Phone:   81-6-6220-2121
+
+Signature, Place, and Date of Signing:
+
+/s/   Junichi Sayato               Chiyoda-ku, Tokyo              May 3, 2010
+- ---------------------        ----------------------------      -----------------
+     [Signature]                   [City, Province]                 [Date]
+
+Report Type (Check only one.):
+
+[_]    13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+       manager are reported in this report.)
+
+[_]    13F NOTICE. (Check here if no holdings reported are in this report, and
+       all holdings are reported by other reporting manager(s).)
+
+[X]    13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+       reporting manager are reported in this report and a portion are reported
+       by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+
+       Form 13F
+No.    File No.     Name
+- ---    --------     ----
+1.     28-13674     Nikko Asset Management Americas, Inc.
+
+
+<PAGE>
+
+
+
+                              FORM 13F SUMMARY PAGE
+
+
+REPORT SUMMARY:
+
+NUMBER OF OTHER INCLUDED MANAGERS:          2
+
+FORM 13F INFORMATION TABLE ENTRY TOTAL:     766
+
+FORM 13F INFORMATION TABLE VALUE TOTAL:     $17,891,416 (thousands)
+
+LIST OF OTHER INCLUDED MANAGERS:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+       Form 13F
+No.    File No.     Name
+- ---    --------     ----
+1.     28-12975     Nikko Asset Management Co., Ltd.
+2.     28-13707     STB Asset Management Co., Ltd.
+
+<PAGE>
+
+                           FORM 13F INFORMATION TABLE
+
+<TABLE>
+<CAPTION>
+                                                           VALUE       SHRS OR   SH/   PUT/  INVESTMENT  OTHER     VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS    CUSIP    (x$1000)     PRN AMT   PRI   CALL  DISCRETION  MANAGERS  SOLE  SHARED NONE
+<S>                                  <C>       <C>         <C>        <C>        <C>            <C>        <C>  <C>         <C>  <C>
+Citigroup Inc                        COM       172967101    91,218    22,523,004 SH             DEFINED    1,2  22,523,004  0    0
+General Electric Co                  COM       369604103   240,244    13,200,215 SH             DEFINED    1,2  13,200,215  0    0
+Bank of America Corp                 COM       060505104   217,526    12,186,320 SH             DEFINED    1,2  12,186,320  0    0
+Pfizer Inc                           COM       717081103   186,999    10,903,760 SH             DEFINED    1,2  10,903,760  0    0
+Microsoft Corp                       COM       594918104   297,183    10,147,086 SH             DEFINED    1,2  10,147,086  0    0
+Intel Corp                           COM       458140100   191,030     8,570,216 SH             DEFINED    1,2   8,570,216  0    0
+Cisco Systems Inc                    COM       17275R102   211,612     8,129,541 SH             DEFINED    1,2   8,129,541  0    0
+AT&T Inc                             COM       00206R102   181,578     7,141,028 SH             DEFINED    1,2   7,141,028  0    0
+Host Hotels & Resorts Inc            COM       44107P104    97,832     6,677,936 SH             DEFINED    1,2   6,677,936  0    0
+Sprint Nextel Corp                   COM       852061100    25,194     6,629,986 SH             DEFINED    1,2   6,629,986  0    0
+Wells Fargo & Co                     COM       949746101   192,682     6,191,580 SH             DEFINED    1,2   6,191,580  0    0
+Motorola Inc                         COM       620076109    41,591     5,924,670 SH             DEFINED    1,2   5,924,670  0    0
+JPMorgan Chase & Co                  COM       46625H100   260,264     5,822,456 SH             DEFINED    1,2   5,822,456  0    0
+Oracle Corp                          COM       68389X105   141,192     5,502,242 SH             DEFINED    1,2   5,502,242  0    0
+Exxon Mobil Corp                     COM       30231G102   349,380     5,216,178 SH             DEFINED    1,2   5,216,178  0    0
+Merck & Co Inc                       COM       58933Y105   183,396     4,910,206 SH             DEFINED    1,2   4,910,206  0    0
+DCT Industrial Trust Inc             COM       233153105    24,371     4,721,410 SH             DEFINED    1,2   4,721,410  0    0
+Altria Group Inc                     COM       02209S103    83,975     4,092,337 SH             DEFINED    1,2   4,092,337  0    0
+News Corp                            COM       65248E104    57,992     4,024,414 SH             DEFINED    1,2   4,024,414  0    0
+Douglas Emmett Inc                   COM       25960P109    60,009     3,904,290 SH             DEFINED    1,2   3,904,290  0    0
+Ford Motor Co                        COM       345370860    46,518     3,700,740 SH             DEFINED    1,2   3,700,740  0    0
+Simon Property Group Inc             COM       828806109   309,673     3,690,977 SH             DEFINED    1,2   3,690,977  0    0
+Verizon Communications Inc           COM       92343V104   111,912     3,663,504 SH             DEFINED    1,2   3,663,504  0    0
+Inland Real Estate Corp              COM       457461200    33,070     3,614,213 SH             DEFINED    1,2   3,614,213  0    0
+Philip Morris International In       COM       718172109   177,992     3,412,419 SH             DEFINED    1,2   3,412,419  0    0
+Bristol-Myers Squibb Co              COM       110122108    85,830     3,214,611 SH             DEFINED    1,2   3,214,611  0    0
+Equity Residential                   COM       29476L107   123,677     3,159,051 SH             DEFINED    1,2   3,159,051  0    0
+ProLogis                             COM       743410102    41,383     3,135,079 SH             DEFINED    1,2   3,135,079  0    0
+HRPT Properties Trust                COM       40426W101    23,912     3,122,682 SH             DEFINED    1,2   3,122,682  0    0
+Procter & Gamble Co/The              COM       742718109   195,539     3,090,553 SH             DEFINED    1,2   3,090,553  0    0
+Hewlett-Packard Co                   COM       428236103   159,166     2,994,652 SH             DEFINED    1,2   2,994,652  0    0
+Johnson & Johnson                    COM       478160104   194,392     2,981,478 SH             DEFINED    1,2   2,981,478  0    0
+Comcast Corp                         COM       20030N101    52,561     2,805,394 SH             DEFINED    1,2   2,805,394  0    0
+Dell Inc                             COM       24702R101    40,851     2,719,783 SH             DEFINED    1,2   2,719,783  0    0
+Chevron Corp                         COM       166764100   205,489     2,709,861 SH             DEFINED    1,2   2,709,861  0    0
+Brandywine Realty Trust              COM       105368203    32,296     2,645,048 SH             DEFINED    1,2   2,645,048  0    0
+Senior Housing Properties Trus       COM       81721M109    56,980     2,613,211 SH             DEFINED    1,2   2,613,211  0    0
+Coca-Cola Co/The                     COM       191216100   142,604     2,592,808 SH             DEFINED    1,2   2,592,808  0    0
+HCP Inc                              COM       40414L109    84,319     2,555,134 SH             DEFINED    1,2   2,555,134  0    0
+Wal-Mart Stores Inc                  COM       931142103   139,447     2,508,038 SH             DEFINED    1,2   2,508,038  0    0
+Lowe's Cos Inc                       COM       548661107    60,565     2,507,150 SH             DEFINED    1,2   2,507,150  0    0
+Vornado Realty Trust                 COM       929042109   188,426     2,489,117 SH             DEFINED    1,2   2,489,117  0    0
+EMC Corp/Massachusetts               COM       268648102    44,104     2,444,776 SH             DEFINED    1,2   2,444,776  0    0
+Home Depot Inc                       COM       437076102    76,782     2,373,468 SH             DEFINED    1,2   2,373,468  0    0
+Morgan Stanley                       COM       617446448    68,744     2,347,017 SH             DEFINED    1,2   2,347,017  0    0
+Boston Properties Inc                COM       101121101   170,523     2,260,378 SH             DEFINED    1,2   2,260,378  0    0
+Kimco Realty Corp                    COM       49446R109    35,040     2,240,398 SH             DEFINED    1,2   2,240,398  0    0
+Abbott Laboratories                  COM       002824100   116,353     2,227,278 SH             DEFINED    1,2   2,227,278  0    0
+Ventas Inc                           COM       92276F100   104,608     2,203,195 SH             DEFINED    1,2   2,203,195  0    0
+Time Warner Inc                      COM       887317303    67,771     2,167,272 SH             DEFINED    1,2   2,167,272  0    0
+US Bancorp                           COM       902973304    55,141     2,130,654 SH             DEFINED    1,2   2,130,654  0    0
+QUALCOMM Inc                         COM       747525103    87,095     2,075,676 SH             DEFINED    1,2   2,075,676  0    0
+Kilroy Realty Corp                   COM       49427F108    63,418     2,056,363 SH             DEFINED    1,2   2,056,363  0    0
+EI du Pont de Nemours & Co           COM       263534109    74,644     2,004,415 SH             DEFINED    1,2   2,004,415  0    0
+ConocoPhillips                       COM       20825C104   102,559     2,004,284 SH             DEFINED    1,2   2,004,284  0    0
+Vale SA                              COM       91912E204    54,189     1,964,647 SH             DEFINED    1,2   1,964,647  0    0
+Manulife Financial Corp              COM       56501R106    38,446     1,948,209 SH             DEFINED    1,2   1,948,209  0    0
+Walt Disney Co/The                   COM       254687106    66,819     1,914,025 SH             DEFINED    1,2   1,914,025  0    0
+BioMed Realty Trust Inc              COM       09063H107    31,592     1,910,007 SH             DEFINED    1,2   1,910,007  0    0
+Weingarten Realty Investors          COM       948741103    41,054     1,904,173 SH             DEFINED    1,2   1,904,173  0    0
+PepsiCo Inc/NC                       COM       713448108   125,052     1,890,141 SH             DEFINED    1,2   1,890,141  0    0
+AvalonBay Communities Inc            COM       053484101   160,084     1,853,892 SH             DEFINED    1,2   1,853,892  0    0
+Taubman Centers Inc                  COM       876664103    73,107     1,831,333 SH             DEFINED    1,2   1,831,333  0    0
+Corning Inc                          COM       219350105    36,314     1,796,824 SH             DEFINED    1,2   1,796,824  0    0
+Duke Energy Corp                     COM       26441C105    28,999     1,776,883 SH             DEFINED    1,2   1,776,883  0    0
+Applied Materials Inc                COM       038222105    23,878     1,772,980 SH             DEFINED    1,2   1,772,980  0    0
+Public Storage                       COM       74460D109   162,376     1,765,151 SH             DEFINED    1,2   1,765,151  0    0
+News Corp                            COM       65248E203    30,024     1,765,078 SH             DEFINED    1,2   1,765,078  0    0
+AMB Property Corp                    COM       00163T109    48,035     1,763,398 SH             DEFINED    1,2   1,763,398  0    0
+Talisman Energy Inc                  COM       87425E103    30,068     1,757,881 SH             DEFINED    1,2   1,757,881  0    0
+Suncor Energy Inc                    COM       867224107    56,713     1,743,620 SH             DEFINED    1,2   1,743,620  0    0
+CVS Caremark Corp                    COM       126650100    61,098     1,675,112 SH             DEFINED    1,2   1,675,112  0    0
+Camden Property Trust                COM       133131102    68,156     1,637,194 SH             DEFINED    1,2   1,637,194  0    0
+McDonald's Corp                      COM       580135101   108,753     1,629,986 SH             DEFINED    1,2   1,629,986  0    0
+Kraft Foods Inc                      COM       50075N104    49,207     1,627,202 SH             DEFINED    1,2   1,627,202  0    0
+Regency Centers Corp                 COM       758849103    60,443     1,613,102 SH             DEFINED    1,2   1,613,102  0    0
+Yahoo! Inc                           COM       984332106    25,850     1,563,846 SH             DEFINED    1,2   1,563,846  0    0
+IBM                                  COM       459200101   199,481     1,555,406 SH             DEFINED    1,2   1,555,406  0    0
+Royal Bank of Canada                 COM       780087102    90,007     1,550,226 SH             DEFINED    1,2   1,550,226  0    0
+Gilead Sciences Inc                  COM       375558103    69,934     1,538,034 SH             DEFINED    1,2   1,538,034  0    0
+CBS Corp                             COM       124857202    20,557     1,474,702 SH             DEFINED    1,2   1,474,702  0    0
+TransCanada Corp                     COM       89353D107    54,005     1,473,468 SH             DEFINED    1,2   1,473,468  0    0
+Federal Realty Investment Trus       COM       313747206   106,454     1,462,077 SH             DEFINED    1,2   1,462,077  0    0
+National Retail Properties Inc       COM       637417106    33,376     1,461,925 SH             DEFINED    1,2   1,461,925  0    0
+Bank of New York Mellon Corp/T       COM       064058100    44,264     1,433,435 SH             DEFINED    1,2   1,433,435  0    0
+Qwest Communications Internati       COM       749121109     7,167     1,372,993 SH             DEFINED    1,2   1,372,993  0    0
+Boston Scientific Corp               COM       101137107     9,889     1,369,639 SH             DEFINED    1,2   1,369,639  0    0
+Symantec Corp                        COM       871503108    22,968     1,356,864 SH             DEFINED    1,2   1,356,864  0    0
+United Technologies Corp             COM       913017109    99,453     1,351,085 SH             DEFINED    1,2   1,351,085  0    0
+Extra Space Storage Inc              COM       30225T102    17,087     1,347,561 SH             DEFINED    1,2   1,347,561  0    0
+eBay Inc                             COM       278642103    36,332     1,347,262 SH             DEFINED    1,2   1,347,262  0    0
+Xerox Corp                           COM       984121103    13,125     1,346,153 SH             DEFINED    1,2   1,346,153  0    0
+Dow Chemical Co/The                  COM       260543103    39,802     1,346,035 SH             DEFINED    1,2   1,346,035  0    0
+Occidental Petroleum Corp            COM       674599105   113,113     1,337,982 SH             DEFINED    1,2   1,337,982  0    0
+Itau Unibanco Holding SA             COM       465562106    29,385     1,336,718 SH             DEFINED    1,2   1,336,718  0    0
+Glimcher Realty Trust                COM       379302102     6,656     1,312,722 SH             DEFINED    1,2   1,312,722  0    0
+American Express Co                  COM       025816109    54,035     1,309,633 SH             DEFINED    1,2   1,309,633  0    0
+Southwest Airlines Co                COM       844741108    17,240     1,304,116 SH             DEFINED    1,2   1,304,116  0    0
+Schlumberger Ltd                     COM       806857108    81,900     1,290,571 SH             DEFINED    1,2   1,290,571  0    0
+Eli Lilly & Co                       COM       532457108    46,501     1,283,849 SH             DEFINED    1,2   1,283,849  0    0
+Bank of Nova Scotia                  COM       064149107    61,901     1,247,478 SH             DEFINED    1,2   1,247,478  0    0
+TSMC                                 COM       874039100    12,999     1,239,133 SH             DEFINED      1   1,239,133  0    0
+UnitedHealth Group Inc               COM       91324P102    40,425     1,238,514 SH             DEFINED    1,2   1,238,514  0    0
+SUPERVALU Inc                        COM       868536103    20,505     1,229,315 SH             DEFINED    1,2   1,229,315  0    0
+Halliburton Co                       COM       406216101    36,881     1,224,047 SH             DEFINED    1,2   1,224,047  0    0
+Discover Financial Services          COM       254709108    17,585     1,180,229 SH             DEFINED    1,2   1,180,229  0    0
+Sysco Corp                           COM       871829107    34,529     1,170,480 SH             DEFINED    1,2   1,170,480  0    0
+AES Corp/The                         COM       00130H105    12,834     1,166,706 SH             DEFINED    1,2   1,166,706  0    0
+Omega Healthcare Investors Inc       COM       681936100    22,540     1,156,487 SH             DEFINED    1,2   1,156,487  0    0
+Texas Instruments Inc                COM       882508104    28,194     1,152,174 SH             DEFINED    1,2   1,152,174  0    0
+Illinois Tool Works Inc              COM       452308109    54,446     1,149,615 SH             DEFINED    1,2   1,149,615  0    0
+Charles Schwab Corp/The              COM       808513105    21,189     1,133,699 SH             DEFINED    1,2   1,133,699  0    0
+NRG Energy Inc                       COM       629377508    23,666     1,132,335 SH             DEFINED    1,2   1,132,335  0    0
+Honeywell International Inc          COM       438516106    50,927     1,124,951 SH             DEFINED    1,2   1,124,951  0    0
+Medtronic Inc                        COM       585055106    50,174     1,119,292 SH             DEFINED    1,2   1,119,292  0    0
+Barrick Gold Corp                    COM       067901108    42,225     1,100,312 SH             DEFINED    1,2   1,100,312  0    0
+Apple Inc                            COM       037833100   254,197     1,081,690 SH             DEFINED    1,2   1,081,690  0    0
+Amgen Inc                            COM       031162100    63,962     1,068,932 SH             DEFINED    1,2   1,068,932  0    0
+Xcel Energy Inc                      COM       98389B100    22,580     1,065,111 SH             DEFINED    1,2   1,065,111  0    0
+EnCana Corp                          COM       292505104    33,136     1,064,854 SH             DEFINED    1,2   1,064,854  0    0
+DIRECTV                              COM       25490A101    35,976     1,064,067 SH             DEFINED    1,2   1,064,067  0    0
+Alcoa Inc                            COM       013817101    15,026     1,055,212 SH             DEFINED    1,2   1,055,212  0    0
+SL Green Realty Corp                 COM       78440X101    60,166     1,050,571 SH             DEFINED    1,2   1,050,571  0    0
+Mylan Inc/PA                         COM       628530107    23,808     1,048,348 SH             DEFINED    1,2   1,048,348  0    0
+Atmel Corp                           COM       049513104     5,245     1,040,757 SH             DEFINED      1   1,040,757  0    0
+Emerson Electric Co                  COM       291011104    51,602     1,025,067 SH             DEFINED    1,2   1,025,067  0    0
+Aflac Inc                            COM       001055102    55,127     1,015,411 SH             DEFINED    1,2   1,015,411  0    0
+NiSource Inc                         COM       65473P105    15,753       997,046 SH             DEFINED    1,2     997,046  0    0
+Archer-Daniels-Midland Co            COM       039483102    28,044       970,381 SH             DEFINED    1,2     970,381  0    0
+BB&T Corp                            COM       054937107    30,919       958,889 SH             DEFINED    1,2     958,889  0    0
+Nexen Inc                            COM       65334H102    23,717       958,383 SH             DEFINED    1,2     958,383  0    0
+Travelers Cos Inc/The                COM       89417E109    51,658       957,696 SH             DEFINED    1,2     957,696  0    0
+NVIDIA Corp                          COM       67066G104    16,503       948,421 SH             DEFINED    1,2     948,421  0    0
+Johnson Controls Inc                 COM       478366107    31,039       940,860 SH             DEFINED    1,2     940,860  0    0
+Microchip Technology Inc             COM       595017104    25,669       911,541 SH             DEFINED    1,2     911,541  0    0
+Exelon Corp                          COM       30161N101    39,888       910,485 SH             DEFINED    1,2     910,485  0    0
+Regions Financial Corp               COM       7591EP100     7,140       909,572 SH             DEFINED    1,2     909,572  0    0
+Toronto-Dominion Bank/The            COM       891160509    66,785       903,190 SH             DEFINED    1,2     903,190  0    0
+Valero Energy Corp                   COM       91913Y100    17,545       890,591 SH             DEFINED    1,2     890,591  0    0
+Corporate Office Properties Tr       COM       22002T108    35,507       884,803 SH             DEFINED    1,2     884,803  0    0
+Mattel Inc                           COM       577081102    20,116       884,628 SH             DEFINED    1,2     884,628  0    0
+Hudson City Bancorp Inc              COM       443683107    12,517       883,320 SH             DEFINED    1,2     883,320  0    0
+Colgate-Palmolive Co                 COM       194162103    74,619       880,703 SH             DEFINED    1,2     880,703  0    0
+Marsh & McLennan Cos Inc             COM       571748102    21,324       880,390 SH             DEFINED    1,2     880,390  0    0
+Walgreen Co                          COM       931422109    32,227       868,898 SH             DEFINED    1,2     868,898  0    0
+United Parcel Service Inc            COM       911312106    55,954       868,710 SH             DEFINED    1,2     868,710  0    0
+Baxter International Inc             COM       071813109    50,340       864,949 SH             DEFINED    1,2     864,949  0    0
+Marathon Oil Corp                    COM       565849106    27,303       862,940 SH             DEFINED    1,2     862,940  0    0
+Kimberly-Clark Corp                  COM       494368103    54,154       861,226 SH             DEFINED    1,2     861,226  0    0
+Allstate Corp/The                    COM       020002101    27,762       859,231 SH             DEFINED    1,2     859,231  0    0
+Starbucks Corp                       COM       855244109    20,758       858,824 SH             DEFINED    1,2     858,824  0    0
+Equity One Inc                       COM       294752100    16,212       858,218 SH             DEFINED    1,2     858,218  0    0
+Waste Management Inc                 COM       94106L109    29,526       857,570 SH             DEFINED    1,2     857,570  0    0
+DR Horton Inc                        COM       23331A109    10,741       852,453 SH             DEFINED    1,2     852,453  0    0
+Gap Inc/The                          COM       364760108    19,614       852,331 SH             DEFINED    1,2     852,331  0    0
+Bank of Montreal                     COM       063671101    50,546       832,591 SH             DEFINED    1,2     832,591  0    0
+Constellation Brands Inc             COM       21036P108    13,671       831,578 SH             DEFINED    1,2     831,578  0    0
+Goldman Sachs Group Inc/The          COM       38141G104   141,837       831,255 SH             DEFINED    1,2     831,255  0    0
+Paychex Inc                          COM       704326107    25,479       829,392 SH             DEFINED    1,2     829,392  0    0
+Micron Technology Inc                COM       595112103     8,575       826,882 SH             DEFINED    1,2     826,882  0    0
+MetLife Inc                          COM       59156R108    35,253       813,413 SH             DEFINED    1,2     813,413  0    0
+Automatic Data Processing Inc        COM       053015103    36,149       812,875 SH             DEFINED    1,2     812,875  0    0
+Health Care REIT Inc                 COM       42217K106    36,721       811,871 SH             DEFINED    1,2     811,871  0    0
+Caterpillar Inc                      COM       149123101    50,429       807,370 SH             DEFINED    1,2     807,370  0    0
+Coach Inc                            COM       189754104    31,886       806,829 SH             DEFINED    1,2     806,829  0    0
+Avon Products Inc                    COM       054303102    27,243       804,347 SH             DEFINED    1,2     804,347  0    0
+Crown Castle International Cor       COM       228227104    30,534       798,703 SH             DEFINED    1,2     798,703  0    0
+TD Ameritrade Holding Corp           COM       87236Y108    15,142       794,416 SH             DEFINED    1,2     794,416  0    0
+Devon Energy Corp                    COM       25179M103    50,854       789,297 SH             DEFINED    1,2     789,297  0    0
+3M Co                                COM       88579Y101    65,293       781,293 SH             DEFINED    1,2     781,293  0    0
+PACCAR Inc                           COM       693718108    33,844       780,897 SH             DEFINED    1,2     780,897  0    0
+Aetna Inc                            COM       00817Y108    27,381       779,868 SH             DEFINED    1,2     779,868  0    0
+Crown Holdings Inc                   COM       228368106    20,700       767,799 SH             DEFINED      1     767,799  0    0
+Digital Realty Trust Inc             COM       253868103    41,362       763,144 SH             DEFINED    1,2     763,144  0    0
+Freeport-McMoRan Copper & Gold       COM       35671D857    63,549       762,054 SH             DEFINED    1,2     762,054  0    0
+KeyCorp                              COM       493267108     5,891       760,145 SH             DEFINED    1,2     760,145  0    0
+Masco Corp                           COM       574599106    11,537       746,772 SH             DEFINED    1,2     746,772  0    0
+Public Service Enterprise Grou       COM       744573106    22,000       745,241 SH             DEFINED    1,2     745,241  0    0
+XTO Energy Inc                       COM       98385X106    34,728       736,082 SH             DEFINED    1,2     736,082  0    0
+Maxim Integrated Products Inc        COM       57772K101    14,138       729,119 SH             DEFINED    1,2     729,119  0    0
+Entertainment Properties Trust       COM       29380T105    29,855       725,861 SH             DEFINED    1,2     725,861  0    0
+Cenovus Energy Inc                   COM       15135U109    18,789       719,177 SH             DEFINED    1,2     719,177  0    0
+Gol Linhas Aereas Inteligentes       COM       38045R107     8,751       706,299 SH             DEFINED    1,2     706,299  0    0
+Viacom Inc                           COM       92553P201    24,060       699,836 SH             DEFINED    1,2     699,836  0    0
+Southern Co                          COM       842587107    23,159       698,391 SH             DEFINED    1,2     698,391  0    0
+Staples Inc                          COM       855030102    16,287       695,783 SH             DEFINED    1,2     695,783  0    0
+Pepco Holdings Inc                   COM       713291102    11,891       693,364 SH             DEFINED    1,2     693,364  0    0
+MGM Mirage                           COM       552953101     8,253       687,721 SH             DEFINED      1     687,721  0    0
+Goldcorp Inc                         COM       380956409    25,348       678,550 SH             DEFINED    1,2     678,550  0    0
+Comcast Corp                         COM       20030N200    12,124       678,257 SH             DEFINED    1,2     678,257  0    0
+Target Corp                          COM       87612E106    35,331       671,696 SH             DEFINED    1,2     671,696  0    0
+TJX Cos Inc                          COM       872540109    28,556       671,600 SH             DEFINED    1,2     671,600  0    0
+LSI Corp                             COM       502161102     4,099       669,797 SH             DEFINED    1,2     669,797  0    0
+Canadian Natural Resources Ltd       COM       136385101    48,648       657,210 SH             DEFINED    1,2     657,210  0    0
+Macy's Inc                           COM       55616P104    14,235       653,874 SH             DEFINED    1,2     653,874  0    0
+FedEx Corp                           COM       31428X106    61,015       653,263 SH             DEFINED    1,2     653,263  0    0
+Adobe Systems Inc                    COM       00724F101    23,026       650,990 SH             DEFINED    1,2     650,990  0    0
+Dominion Resources Inc/VA            COM       25746U109    26,648       648,221 SH             DEFINED    1,2     648,221  0    0
+Fifth Third Bancorp                  COM       316773100     8,785       647,896 SH             DEFINED    1,2     647,896  0    0
+Celgene Corp                         COM       151020104    40,112       647,390 SH             DEFINED    1,2     647,390  0    0
+Yamana Gold Inc                      COM       98462Y100     6,394       646,050 SH             DEFINED    1,2     646,050  0    0
+NIKE Inc                             COM       654106103    47,421       645,184 SH             DEFINED    1,2     645,184  0    0
+Western Union Co/The                 COM       959802109    10,935       644,760 SH             DEFINED    1,2     644,760  0    0
+Spectra Energy Corp                  COM       847560109    14,482       642,771 SH             DEFINED    1,2     642,771  0    0
+Kohl's Corp                          COM       500255104    35,027       639,418 SH             DEFINED    1,2     639,418  0    0
+Principal Financial Group Inc        COM       74251V102    18,646       638,329 SH             DEFINED    1,2     638,329  0    0
+Petroleo Brasileiro SA               COM       71654V101    24,949       634,365 SH             DEFINED    1,2     634,365  0    0
+MeadWestvaco Corp                    COM       583334107    16,074       629,129 SH             DEFINED    1,2     629,129  0    0
+Rogers Communications Inc            COM       775109200    21,257       622,274 SH             DEFINED    1,2     622,274  0    0
+Teck Resources Ltd                   COM       878742204    27,048       620,725 SH             DEFINED    1,2     620,725  0    0
+Boeing Co/The                        COM       097023105    44,788       616,830 SH             DEFINED    1,2     616,830  0    0
+Delta Air Lines Inc                  COM       247361702     8,973       614,982 SH             DEFINED    1,2     614,982  0    0
+Acadia Realty Trust                  COM       004239109    10,974       614,462 SH             DEFINED    1,2     614,462  0    0
+Kinross Gold Corp                    COM       496902404    10,448       610,833 SH             DEFINED    1,2     610,833  0    0
+National Oilwell Varco Inc           COM       637071101    24,617       606,630 SH             DEFINED    1,2     606,630  0    0
+Activision Blizzard Inc              COM       00507V109     7,309       606,554 SH             DEFINED    1,2     606,554  0    0
+Time Warner Cable Inc                COM       88732J207    32,136       602,822 SH             DEFINED    1,2     602,822  0    0
+Sara Lee Corp                        COM       803111103     8,315       596,941 SH             DEFINED    1,2     596,941  0    0
+Capital One Financial Corp           COM       14040H105    24,682       596,048 SH             DEFINED    1,2     596,048  0    0
+Visa Inc                             COM       92826C839    53,951       592,677 SH             DEFINED    1,2     592,677  0    0
+Annaly Capital Management Inc        COM       035710409    10,130       589,612 SH             DEFINED    1,2     589,612  0    0
+Best Buy Co Inc                      COM       086516101    24,974       588,899 SH             DEFINED    1,2     588,899  0    0
+General Mills Inc                    COM       370334104    40,915       582,042 SH             DEFINED    1,2     582,042  0    0
+Genzyme Corp                         COM       372917104    29,831       575,559 SH             DEFINED    1,2     575,559  0    0
+Parkway Properties Inc/Md            COM       70159Q104    10,704       569,948 SH             DEFINED    1,2     569,948  0    0
+Celanese Corp                        COM       150870103    18,077       568,237 SH             DEFINED    1,2     568,237  0    0
+AllianceBernstein Holding LP         COM       01881G106    17,384       567,000 SH             DEFINED      1     567,000  0    0
+El Paso Corp                         COM       28336L109     6,120       564,530 SH             DEFINED    1,2     564,530  0    0
+Healthcare Realty Trust Inc          COM       421946104    13,118       563,231 SH             DEFINED    1,2     563,231  0    0
+Newmont Mining Corp                  COM       651639106    28,596       561,476 SH             DEFINED    1,2     561,476  0    0
+PG&E Corp                            COM       69331C108    23,799       561,023 SH             DEFINED    1,2     561,023  0    0
+America Movil SAB de CV              COM       02364W105    28,107       558,334 SH             DEFINED    1,2     558,334  0    0
+Cemex SAB de CV                      COM       151290889     5,673       555,588 SH             DEFINED    1,2     555,588  0    0
+HJ Heinz Co                          COM       423074103    25,142       551,242 SH             DEFINED    1,2     551,242  0    0
+Unum Group                           COM       91529Y106    13,561       549,236 SH             DEFINED    1,2     549,236  0    0
+Progressive Corp/The                 COM       743315103    10,475       548,734 SH             DEFINED    1,2     548,734  0    0
+NetApp Inc                           COM       64110D104    17,627       541,690 SH             DEFINED    1,2     541,690  0    0
+Denbury Resources Inc                COM       247916208     9,113       540,174 SH             DEFINED    1,2     540,174  0    0
+Thermo Fisher Scientific Inc         COM       883556102    27,780       540,054 SH             DEFINED    1,2     540,054  0    0
+Sun Life Financial Inc               COM       866796105    17,320       538,382 SH             DEFINED    1,2     538,382  0    0
+Peabody Energy Corp                  COM       704549104    24,603       538,354 SH             DEFINED    1,2     538,354  0    0
+Nucor Corp                           COM       670346105    24,430       538,351 SH             DEFINED    1,2     538,351  0    0
+Juniper Networks Inc                 COM       48203R104    16,483       537,254 SH             DEFINED    1,2     537,254  0    0
+Kroger Co/The                        COM       501044101    11,602       535,627 SH             DEFINED    1,2     535,627  0    0
+JC Penney Co Inc                     COM       708160106    17,032       532,639 SH             DEFINED    1,2     532,639  0    0
+Berkshire Hathaway Inc               COM       084670702    42,434       522,132 SH             DEFINED    1,2     522,132  0    0
+Medco Health Solutions Inc           COM       58405U102    33,541       519,530 SH             DEFINED    1,2     519,530  0    0
+WellPoint Inc                        COM       94973V107    33,423       519,145 SH             DEFINED    1,2     519,145  0    0
+Williams Cos Inc/The                 COM       969457100    11,949       517,254 SH             DEFINED    1,2     517,254  0    0
+EOG Resources Inc                    COM       26875P101    47,797       515,019 SH             DEFINED    1,2     515,019  0    0
+Amazon.com Inc                       COM       023135106    69,698       513,355 SH             DEFINED    1,2     513,355  0    0
+Virgin Media Inc                     COM       92769L101     8,788       509,134 SH             DEFINED    1,2     509,134  0    0
+KLA-Tencor Corp                      COM       482480100    15,742       509,048 SH             DEFINED    1,2     509,048  0    0
+Monsanto Co                          COM       61166W101    35,982       505,732 SH             DEFINED    1,2     505,732  0    0
+Fidelity National Financial In       COM       31620R105     7,454       502,962 SH             DEFINED    1,2     502,962  0    0
+NASDAQ OMX Group Inc/The             COM       631103108    10,609       502,315 SH             DEFINED    1,2     502,315  0    0
+McGraw-Hill Cos Inc/The              COM       580645109    17,836       500,306 SH             DEFINED    1,2     500,306  0    0
+Raytheon Co                          COM       755111507    28,322       499,116 SH             DEFINED    1,2     499,116  0    0
+Chesapeake Energy Corp               COM       165167107    11,741       496,674 SH             DEFINED    1,2     496,674  0    0
+Carnival Corp                        COM       143658300    19,124       491,868 SH             DEFINED    1,2     491,868  0    0
+Union Pacific Corp                   COM       907818108    35,898       489,740 SH             DEFINED    1,2     489,740  0    0
+Brookfield Asset Management In       COM       112585104    12,452       489,174 SH             DEFINED    1,2     489,174  0    0
+American Tower Corp                  COM       029912201    20,594       483,314 SH             DEFINED    1,2     483,314  0    0
+Enbridge Inc                         COM       29250N105    22,967       481,478 SH             DEFINED    1,2     481,478  0    0
+AmerisourceBergen Corp               COM       03073E105    13,919       481,282 SH             DEFINED    1,2     481,282  0    0
+Advanced Micro Devices Inc           COM       007903107     4,446       479,567 SH             DEFINED    1,2     479,567  0    0
+Intuit Inc                           COM       461202103    16,439       479,004 SH             DEFINED    1,2     479,004  0    0
+Prudential Financial Inc             COM       744320102    28,637       473,347 SH             DEFINED    1,2     473,347  0    0
+PNC Financial Services Group I       COM       693475105    28,205       473,183 SH             DEFINED    1,2     473,183  0    0
+Research In Motion Ltd               COM       760975102    33,122       473,073 SH             DEFINED    1,2     473,073  0    0
+Xilinx Inc                           COM       983919101    12,017       471,247 SH             DEFINED    1,2     471,247  0    0
+American Electric Power Co Inc       COM       025537101    16,066       470,052 SH             DEFINED    1,2     470,052  0    0
+Broadcom Corp                        COM       111320107    15,599       469,856 SH             DEFINED    1,2     469,856  0    0
+CTC Media Inc                        COM       12642X106     7,977       463,220 SH             DEFINED      1     463,220  0    0
+Anadarko Petroleum Corp              COM       032511107    33,640       461,898 SH             DEFINED    1,2     461,898  0    0
+Fluor Corp                           COM       343412102    21,456       461,330 SH             DEFINED    1,2     461,330  0    0
+NYSE Euronext                        COM       629491101    13,525       456,768 SH             DEFINED    1,2     456,768  0    0
+Fortune Brands Inc                   COM       349631101    22,105       455,676 SH             DEFINED    1,2     455,676  0    0
+SLM Corp                             COM       78442P106     5,696       454,939 SH             DEFINED    1,2     454,939  0    0
+Northrop Grumman Corp                COM       666807102    29,668       452,469 SH             DEFINED    1,2     452,469  0    0
+PPL Corp                             COM       69351T106    12,535       452,370 SH             DEFINED    1,2     452,370  0    0
+Liberty Media Corp - Interacti       COM       53071M104     6,826       446,123 SH             DEFINED    1,2     446,123  0    0
+Apache Corp                          COM       037411105    45,097       444,943 SH             DEFINED    1,2     444,943  0    0
+Danaher Corp                         COM       235851102    35,279       441,487 SH             DEFINED    1,2     441,487  0    0
+Allergan Inc/United States           COM       018490102    28,565       437,311 SH             DEFINED    1,2     437,311  0    0
+Hess Corp                            COM       42809H107    27,231       435,347 SH             DEFINED    1,2     435,347  0    0
+Costco Wholesale Corp                COM       22160K105    25,963       434,810 SH             DEFINED    1,2     434,810  0    0
+Eldorado Gold Corp                   COM       284902103     5,263       433,489 SH             DEFINED    1,2     433,489  0    0
+SunTrust Banks Inc                   COM       867914103    11,582       432,316 SH             DEFINED    1,2     432,316  0    0
+State Street Corp                    COM       857477103    19,453       430,940 SH             DEFINED    1,2     430,940  0    0
+New York Community Bancorp Inc       COM       649445103     7,117       430,266 SH             DEFINED    1,2     430,266  0    0
+International Paper Co               COM       460146103    10,468       425,346 SH             DEFINED    1,2     425,346  0    0
+FPL Group Inc                        COM       302571104    20,322       420,475 SH             DEFINED    1,2     420,475  0    0
+Yum! Brands Inc                      COM       988498101    16,002       419,627 SH             DEFINED    1,2     419,627  0    0
+Essex Property Trust Inc             COM       297178105    37,734       419,497 SH             DEFINED    1,2     419,497  0    0
+Deere & Co                           COM       244199105    24,871       418,285 SH             DEFINED    1,2     418,285  0    0
+Sunoco Inc                           COM       86764P109    12,416       417,909 SH             DEFINED    1,2     417,909  0    0
+Cia Energetica de Minas Gerais       COM       204409601     6,950       417,676 SH             DEFINED    1,2     417,676  0    0
+Analog Devices Inc                   COM       032654105    11,935       414,108 SH             DEFINED    1,2     414,108  0    0
+CenturyTel Inc                       COM       156700106    14,501       408,944 SH             DEFINED    1,2     408,944  0    0
+ConAgra Foods Inc                    COM       205887102    10,174       405,819 SH             DEFINED    1,2     405,819  0    0
+Interpublic Group of Cos Inc/T       COM       460690100     3,358       403,557 SH             DEFINED    1,2     403,557  0    0
+Cardinal Health Inc                  COM       14149Y108    14,385       399,243 SH             DEFINED    1,2     399,243  0    0
+Cameron International Corp           COM       13342B105    17,094       398,822 SH             DEFINED    1,2     398,822  0    0
+Canadian National Railway Co         COM       136375102    24,105       397,115 SH             DEFINED    1,2     397,115  0    0
+Banco Santander Brasil SA/Braz       COM       05967A107     4,936       397,102 SH             DEFINED    1,2     397,102  0    0
+CSX Corp                             COM       126408103    20,106       395,015 SH             DEFINED    1,2     395,015  0    0
+Mobile Telesystems OJSC              COM       607409109    21,805       392,876 SH             DEFINED    1,2     392,876  0    0
+SAIC Inc                             COM       78390X101     6,911       390,445 SH             DEFINED    1,2     390,445  0    0
+Cameco Corp                          COM       13321L108    10,563       385,698 SH             DEFINED    1,2     385,698  0    0
+Calpine Corp                         COM       131347304     4,575       384,803 SH             DEFINED    1,2     384,803  0    0
+Turkcell Iletisim Hizmet AS          COM       900111204     5,777       383,600 SH             DEFINED      1     383,600  0    0
+Praxair Inc                          COM       74005P104    31,709       382,036 SH             DEFINED    1,2     382,036  0    0
+Potash Corp of Saskatchewan In       COM       73755L107    45,549       381,725 SH             DEFINED    1,2     381,725  0    0
+Marshall & Ilsley Corp               COM       571837103     3,072       381,657 SH             DEFINED    1,2     381,657  0    0
+Brookfield Properties Corp           COM       112900105     5,853       379,788 SH             DEFINED    1,2     379,788  0    0
+Windstream Corp                      COM       97381W104     4,092       375,747 SH             DEFINED    1,2     375,747  0    0
+Sempra Energy                        COM       816851109    18,623       373,213 SH             DEFINED    1,2     373,213  0    0
+SanDisk Corp                         COM       80004C101    12,888       372,176 SH             DEFINED    1,2     372,176  0    0
+Progress Energy Inc                  COM       743263105    14,385       371,207 SH             DEFINED    1,2     371,207  0    0
+Safeway Inc                          COM       786514208     9,219       370,826 SH             DEFINED    1,2     370,826  0    0
+DuPont Fabros Technology Inc         COM       26613Q106     7,867       364,390 SH             DEFINED    1,2     364,390  0    0
+CA Inc                               COM       12673P105     8,498       362,093 SH             DEFINED    1,2     362,093  0    0
+Humana Inc                           COM       444859102    16,933       362,041 SH             DEFINED    1,2     362,041  0    0
+Genworth Financial Inc               COM       37247D106     6,618       360,833 SH             DEFINED    1,2     360,833  0    0
+Duke Realty Corp                     COM       264411505     4,467       360,243 SH             DEFINED    1,2     360,243  0    0
+Estee Lauder Cos Inc/The             COM       518439104    23,320       359,494 SH             DEFINED    1,2     359,494  0    0
+Canadian Imperial Bank of Comm       COM       136069101    26,203       358,612 SH             DEFINED    1,2     358,612  0    0
+Republic Services Inc                COM       760759100    10,373       357,438 SH             DEFINED    1,2     357,438  0    0
+DISH Network Corp                    COM       25470M109     7,427       356,712 SH             DEFINED    1,2     356,712  0    0
+Electronic Arts Inc                  COM       285512109     6,628       355,198 SH             DEFINED    1,2     355,198  0    0
+H&R Block Inc                        COM       093671105     6,311       354,523 SH             DEFINED    1,2     354,523  0    0
+St Jude Medical Inc                  COM       790849103    14,507       353,404 SH             DEFINED    1,2     353,404  0    0
+CenterPoint Energy Inc               COM       15189T107     5,062       352,529 SH             DEFINED    1,2     352,529  0    0
+Lockheed Martin Corp                 COM       539830109    29,230       351,238 SH             DEFINED    1,2     351,238  0    0
+Pulte Group Inc                      COM       745867101     3,924       348,780 SH             DEFINED    1,2     348,780  0    0
+IAMGOLD Corp                         COM       450913108     4,548       342,083 SH             DEFINED    1,2     342,083  0    0
+Norfolk Southern Corp                COM       655844108    19,086       341,492 SH             DEFINED    1,2     341,492  0    0
+Thomson Reuters Corp                 COM       884903105    12,429       341,487 SH             DEFINED    1,2     341,487  0    0
+CB Richard Ellis Group Inc           COM       12497T101     5,367       338,608 SH             DEFINED      1     338,608  0    0
+Hartford Financial Services Gr       COM       416515104     9,612       338,229 SH             DEFINED    1,2     338,229  0    0
+Vale SA                              COM       91912E105    10,809       337,627 SH             DEFINED    1,2     337,627  0    0
+Cognizant Technology Solutions       COM       192446102    17,154       336,485 SH             DEFINED    1,2     336,485  0    0
+Fidelity National Information        COM       31620M106     7,885       336,401 SH             DEFINED    1,2     336,401  0    0
+EastGroup Properties Inc             COM       277276101    12,643       335,014 SH             DEFINED    1,2     335,014  0    0
+Harley-Davidson Inc                  COM       412822108     9,225       328,625 SH             DEFINED    1,2     328,625  0    0
+Edison International                 COM       281020107    11,189       327,456 SH             DEFINED    1,2     327,456  0    0
+Moody's Corp                         COM       615369105     9,727       326,950 SH             DEFINED    1,2     326,950  0    0
+SunPower Corp                        COM       867652109     6,130       326,574 SH             DEFINED    1,2     326,574  0    0
+Chubb Corp                           COM       171232101    16,924       326,405 SH             DEFINED    1,2     326,405  0    0
+Petroleo Brasileiro SA               COM       71654V408    14,386       325,179 SH             DEFINED    1,2     325,179  0    0
+Kellogg Co                           COM       487836108    17,339       324,521 SH             DEFINED    1,2     324,521  0    0
+Reynolds American Inc                COM       761713106    17,513       324,441 SH             DEFINED    1,2     324,441  0    0
+Varian Medical Systems Inc           COM       92220P105    17,916       323,807 SH             DEFINED    1,2     323,807  0    0
+Leggett & Platt Inc                  COM       524660107     6,981       322,594 SH             DEFINED    1,2     322,594  0    0
+Ameren Corp                          COM       023608102     8,319       318,975 SH             DEFINED    1,2     318,975  0    0
+Forest Laboratories Inc              COM       345838106     9,933       316,735 SH             DEFINED    1,2     316,735  0    0
+Western Digital Corp                 COM       958102105    12,325       316,105 SH             DEFINED    1,2     316,105  0    0
+CIGNA Corp                           COM       125509109    11,458       313,233 SH             DEFINED    1,2     313,233  0    0
+VF Corp                              COM       918204108    24,960       311,417 SH             DEFINED    1,2     311,417  0    0
+Southwestern Energy Co               COM       845467109    12,642       310,454 SH             DEFINED    1,2     310,454  0    0
+Urban Outfitters Inc                 COM       917047102    11,774       309,263 SH             DEFINED    1,2     309,263  0    0
+Grupo Televisa SA                    COM       40049J206     6,491       308,806 SH             DEFINED    1,2     308,806  0    0
+FirstEnergy Corp                     COM       337932107    12,032       307,803 SH             DEFINED    1,2     307,803  0    0
+Google Inc                           COM       38259P508   171,907       303,122 SH             DEFINED    1,2     303,122  0    0
+Loews Corp                           COM       540424108    11,267       302,234 SH             DEFINED    1,2     302,234  0    0
+Vertex Pharmaceuticals Inc           COM       92532F100    12,330       301,687 SH             DEFINED    1,2     301,687  0    0
+Noble Energy Inc                     COM       655044105    22,018       301,615 SH             DEFINED    1,2     301,615  0    0
+Zimmer Holdings Inc                  COM       98956P102    17,672       298,517 SH             DEFINED    1,2     298,517  0    0
+People's United Financial Inc        COM       712704105     4,650       297,671 SH             DEFINED    1,2     297,671  0    0
+Ameriprise Financial Inc             COM       03076C106    13,502       297,664 SH             DEFINED    1,2     297,664  0    0
+American Water Works Co Inc          COM       030420103     6,428       295,388 SH             DEFINED    1,2     295,388  0    0
+Lincoln National Corp                COM       534187109     8,974       292,390 SH             DEFINED    1,2     292,390  0    0
+Omnicom Group Inc                    COM       681919106    11,336       292,098 SH             DEFINED    1,2     292,098  0    0
+Shaw Communications Inc              COM       82028K200     5,745       291,190 SH             DEFINED    1,2     291,190  0    0
+General Dynamics Corp                COM       369550108    22,142       288,382 SH             DEFINED    1,2     288,382  0    0
+Starwood Hotels & Resorts Worl       COM       85590A401    13,426       287,870 SH             DEFINED    1,2     287,870  0    0
+Agilent Technologies Inc             COM       00846U101     9,808       285,207 SH             DEFINED    1,2     285,207  0    0
+Ltd Brands Inc                       COM       532716107     6,948       282,211 SH             DEFINED    1,2     282,211  0    0
+Franklin Resources Inc               COM       354613101    31,172       281,082 SH             DEFINED    1,2     281,082  0    0
+Imperial Oil Ltd                     COM       453038408    10,828       280,292 SH             DEFINED    1,2     280,292  0    0
+RR Donnelley & Sons Co               COM       257867101     5,950       278,703 SH             DEFINED    1,2     278,703  0    0
+Silver Wheaton Corp                  COM       828336107     4,371       278,272 SH             DEFINED    1,2     278,272  0    0
+BCE Inc                              COM       05534B760     8,123       276,331 SH             DEFINED    1,2     276,331  0    0
+Mosaic Co/The                        COM       61945A107    16,756       275,732 SH             DEFINED    1,2     275,732  0    0
+Express Scripts Inc                  COM       302182100    27,956       274,726 SH             DEFINED    1,2     274,726  0    0
+Kinder Morgan Management LLC         COM       49455U100    16,032       273,498 SH             DEFINED    1,2     273,498  0    0
+Old Republic International Cor       COM       680223104     3,447       271,827 SH             DEFINED      1     271,827  0    0
+International Flavors & Fragra       COM       459506101    12,949       271,640 SH             DEFINED      1     271,640  0    0
+Tyson Foods Inc                      COM       902494103     5,191       271,047 SH             DEFINED    1,2     271,047  0    0
+CAE Inc                              COM       124765108     2,629       269,118 SH             DEFINED    1,2     269,118  0    0
+VMware Inc                           COM       928563402    14,203       266,477 SH             DEFINED    1,2     266,477  0    0
+Textron Inc                          COM       883203101     5,656       266,427 SH             DEFINED    1,2     266,427  0    0
+Diamond Offshore Drilling Inc        COM       25271C102    23,660       266,410 SH             DEFINED    1,2     266,410  0    0
+Cablevision Systems Corp             COM       12686C109     6,419       265,901 SH             DEFINED    1,2     265,901  0    0
+MEMC Electronic Materials Inc        COM       552715104     4,057       264,615 SH             DEFINED    1,2     264,615  0    0
+T Rowe Price Group Inc               COM       74144T108    14,372       261,460 SH             DEFINED    1,2     261,460  0    0
+Coca-Cola Enterprises Inc            COM       191219104     7,121       257,456 SH             DEFINED    1,2     257,456  0    0
+Fastenal Co                          COM       311900104    12,347       257,284 SH             DEFINED    1,2     257,284  0    0
+Radian Group Inc                     COM       750236101     3,997       255,540 SH             DEFINED      1     255,540  0    0
+Parker Hannifin Corp                 COM       701094104    16,517       255,133 SH             DEFINED    1,2     255,133  0    0
+DTE Energy Co                        COM       233331107    11,359       254,684 SH             DEFINED    1,2     254,684  0    0
+McDermott International Inc          COM       580037109     6,838       254,016 SH             DEFINED    1,2     254,016  0    0
+CGI Group Inc                        COM       39945C109     3,739       249,770 SH             DEFINED    1,2     249,770  0    0
+Newell Rubbermaid Inc                COM       651229106     3,793       249,529 SH             DEFINED    1,2     249,529  0    0
+MetroPCS Communications Inc          COM       591708102     1,765       249,336 SH             DEFINED    1,2     249,336  0    0
+Baker Hughes Inc                     COM       057224107    11,567       246,942 SH             DEFINED    1,2     246,942  0    0
+Red Hat Inc                          COM       756577102     7,205       246,172 SH             DEFINED      1     246,172  0    0
+Ross Stores Inc                      COM       778296103    13,159       246,095 SH             DEFINED    1,2     246,095  0    0
+Altera Corp                          COM       021441100     5,970       245,697 SH             DEFINED    1,2     245,697  0    0
+BJ Services Co                       COM       055482103     5,254       245,533 SH             DEFINED    1,2     245,533  0    0
+Biogen Idec Inc                      COM       09062X103    13,980       243,592 SH             DEFINED    1,2     243,592  0    0
+Cia Siderurgica Nacional SA          COM       20440W105     4,854       243,144 SH             DEFINED    1,2     243,144  0    0
+McKesson Corp                        COM       58155Q103    15,934       242,450 SH             DEFINED    1,2     242,450  0    0
+Ultra Petroleum Corp                 COM       903914109    11,305       242,445 SH             DEFINED    1,2     242,445  0    0
+Dollar Tree Inc                      COM       256746108    14,343       242,200 SH             DEFINED    1,2     242,200  0    0
+Dean Foods Co                        COM       242370104     3,788       241,418 SH             DEFINED    1,2     241,418  0    0
+Ivanhoe Mines Ltd/CA                 COM       46579N103     4,190       239,720 SH             DEFINED    1,2     239,720  0    0
+Marriott International Inc/DE        COM       571903202     7,505       238,088 SH             DEFINED    1,2     238,088  0    0
+Chunghwa Telecom Co Ltd              COM       17133Q106     4,603       236,908 SH             DEFINED      1     236,908  0    0
+Petrohawk Energy Corp                COM       716495106     4,799       236,628 SH             DEFINED    1,2     236,628  0    0
+Amphenol Corp                        COM       032095101     9,940       235,602 SH             DEFINED    1,2     235,602  0    0
+Stryker Corp                         COM       863667101    13,454       235,127 SH             DEFINED    1,2     235,127  0    0
+Lamar Advertising Co                 COM       512815101     8,003       232,980 SH             DEFINED      1     232,980  0    0
+International Game Technology        COM       459902102     4,292       232,644 SH             DEFINED    1,2     232,644  0    0
+Dover Corp                           COM       260003108    10,853       232,152 SH             DEFINED    1,2     232,152  0    0
+Helmerich & Payne Inc                COM       423452101     8,838       232,084 SH             DEFINED    1,2     232,084  0    0
+Owens-Illinois Inc                   COM       690768403     8,229       231,538 SH             DEFINED    1,2     231,538  0    0
+Consolidated Edison Inc              COM       209115104    10,302       231,290 SH             DEFINED    1,2     231,290  0    0
+Linear Technology Corp               COM       535678106     6,528       231,091 SH             DEFINED    1,2     231,091  0    0
+Quanta Services Inc                  COM       74762E102     4,411       230,211 SH             DEFINED    1,2     230,211  0    0
+Las Vegas Sands Corp                 COM       517834107     4,854       229,506 SH             DEFINED    1,2     229,506  0    0
+Air Products & Chemicals Inc         COM       009158106    16,906       228,617 SH             DEFINED    1,2     228,617  0    0
+Becton Dickinson and Co              COM       075887109    17,640       224,057 SH             DEFINED    1,2     224,057  0    0
+Family Dollar Stores Inc             COM       307000109     8,199       223,952 SH             DEFINED    1,2     223,952  0    0
+Dr Pepper Snapple Group Inc          COM       26138E109     7,867       223,699 SH             DEFINED    1,2     223,699  0    0
+Cimarex Energy Co                    COM       171798101    13,227       222,750 SH             DEFINED    1,2     222,750  0    0
+Cummins Inc                          COM       231021106    13,730       221,637 SH             DEFINED    1,2     221,637  0    0
+Bed Bath & Beyond Inc                COM       075896100     9,654       220,608 SH             DEFINED    1,2     220,608  0    0
+Myriad Genetics Inc                  COM       62855J104     5,269       219,073 SH             DEFINED      1     219,073  0    0
+Northern Trust Corp                  COM       665859104    12,017       217,456 SH             DEFINED    1,2     217,456  0    0
+Abercrombie & Fitch Co               COM       002896207     9,923       217,411 SH             DEFINED    1,2     217,411  0    0
+Expedia Inc                          COM       30212P105     5,418       217,137 SH             DEFINED    1,2     217,137  0    0
+Lorillard Inc                        COM       544147101    16,240       215,837 SH             DEFINED    1,2     215,837  0    0
+Questar Corp                         COM       748356102     9,156       211,945 SH             DEFINED    1,2     211,945  0    0
+Pride International Inc              COM       74153Q102     6,246       207,445 SH             DEFINED    1,2     207,445  0    0
+National Semiconductor Corp          COM       637640103     2,989       206,696 SH             DEFINED    1,2     206,696  0    0
+Smith International Inc              COM       832110100     8,799       205,483 SH             DEFINED    1,2     205,483  0    0
+CH Robinson Worldwide Inc            COM       12541W209    11,470       205,377 SH             DEFINED    1,2     205,377  0    0
+KBR Inc                              COM       48242W106     4,490       202,615 SH             DEFINED    1,2     202,615  0    0
+TELUS Corp                           COM       87971M202     7,185       200,776 SH             DEFINED    1,2     200,776  0    0
+Ecolab Inc                           COM       278865100     8,720       198,400 SH             DEFINED    1,2     198,400  0    0
+FLIR Systems Inc                     COM       302445101     5,571       197,698 SH             DEFINED    1,2     197,698  0    0
+Hologic Inc                          COM       436440101     3,658       197,317 SH             DEFINED    1,2     197,317  0    0
+Constellation Energy Group Inc       COM       210371100     6,825       194,397 SH             DEFINED    1,2     194,397  0    0
+AON Corp                             COM       037389103     8,250       193,153 SH             DEFINED    1,2     193,153  0    0
+Consol Energy Inc                    COM       20854P109     8,095       189,765 SH             DEFINED    1,2     189,765  0    0
+Agrium Inc                           COM       008916108    13,138       185,772 SH             DEFINED    1,2     185,772  0    0
+CareFusion Corp                      COM       14170T101     4,900       185,392 SH             DEFINED    1,2     185,392  0    0
+Murphy Oil Corp                      COM       626717102    10,401       185,103 SH             DEFINED    1,2     185,103  0    0
+Pitney Bowes Inc                     COM       724479100     4,499       184,009 SH             DEFINED    1,2     184,009  0    0
+DENTSPLY International Inc           COM       249030107     6,373       182,712 SH             DEFINED    1,2     182,712  0    0
+Life Technologies Corp               COM       53217V109     9,488       181,526 SH             DEFINED    1,2     181,526  0    0
+Computer Sciences Corp               COM       205363104     9,874       181,216 SH             DEFINED    1,2     181,216  0    0
+Entergy Corp                         COM       29364G103    14,729       181,057 SH             DEFINED    1,2     181,057  0    0
+Autodesk Inc                         COM       052769106     5,307       180,628 SH             DEFINED    1,2     180,628  0    0
+TransAlta Corp                       COM       89346D107     3,991       180,362 SH             DEFINED    1,2     180,362  0    0
+CarMax Inc                           COM       143130102     4,494       178,887 SH             DEFINED    1,2     178,887  0    0
+Mirant Corp                          COM       60467R100     1,938       178,443 SH             DEFINED    1,2     178,443  0    0
+Campbell Soup Co                     COM       134429109     6,303       178,311 SH             DEFINED    1,2     178,311  0    0
+Goodyear Tire & Rubber Co/The        COM       382550101     2,222       175,823 SH             DEFINED    1,2     175,823  0    0
+Plum Creek Timber Co Inc             COM       729251108     6,802       174,815 SH             DEFINED    1,2     174,815  0    0
+Barrick Gold Corp                    COM       067901108     6,693       174,582 SH             DEFINED      1     174,582  0    0
+American Eagle Outfitters Inc        COM       02553E106     3,216       173,658 SH             DEFINED    1,2     173,658  0    0
+Telefonos de Mexico SAB de CV        COM       879403780     2,693       172,627 SH             DEFINED    1,2     172,627  0    0
+ITT Corp                             COM       450911102     9,241       172,382 SH             DEFINED    1,2     172,382  0    0
+Rockwall Holdings Inc                COM       773903109     9,608       170,467 SH             DEFINED    1,2     170,467  0    0
+Expeditors International of Wa       COM       302130109     6,266       169,705 SH             DEFINED    1,2     169,705  0    0
+Teva Pharmaceutical Industries       COM       881624209    10,697       169,575 SH             DEFINED    1,2     169,575  0    0
+VeriSign Inc                         COM       92343E102     4,397       168,992 SH             DEFINED    1,2     168,992  0    0
+Mead Johnson Nutrition Co            COM       582839106     8,696       167,143 SH             DEFINED    1,2     167,143  0    0
+Weyerhaeuser Co                      COM       962166104     7,461       164,809 SH             DEFINED    1,2     164,809  0    0
+Teradata Corp                        COM       88076W103     4,695       162,507 SH             DEFINED    1,2     162,507  0    0
+Canon Inc                            COM       138006309     7,499       162,291 SH             DEFINED      1     162,291  0    0
+Telmex Internacional SAB de CV       COM       879690105     3,127       162,214 SH             DEFINED    1,2     162,214  0    0
+BMC Software Inc                     COM       055921100     6,134       161,417 SH             DEFINED    1,2     161,417  0    0
+Cliffs Natural Resources Inc         COM       18683K101    11,370       160,254 SH             DEFINED    1,2     160,254  0    0
+Range Resources Corp                 COM       75281A109     7,399       157,871 SH             DEFINED    1,2     157,871  0    0
+Liberty Global Inc                   COM       530555309     4,555       157,667 SH             DEFINED    1,2     157,667  0    0
+Comerica Inc                         COM       200340107     5,989       157,433 SH             DEFINED    1,2     157,433  0    0
+Iron Mountain Inc                    COM       462846106     4,299       156,895 SH             DEFINED    1,2     156,895  0    0
+Molson Coors Brewing Co              COM       60871R209     6,557       155,885 SH             DEFINED    1,2     155,885  0    0
+Tim Hortons Inc                      COM       88706M103     5,069       155,697 SH             DEFINED    1,2     155,697  0    0
+Precision Castparts Corp             COM       740189105    19,707       155,529 SH             DEFINED    1,2     155,529  0    0
+Cia de Bebidas das Americas          COM       20441W203    14,217       155,107 SH             DEFINED    1,2     155,107  0    0
+WR Berkley Corp                      COM       084423102     4,017       153,969 SH             DEFINED    1,2     153,969  0    0
+Leucadia National Corp               COM       527288104     3,808       153,480 SH             DEFINED    1,2     153,480  0    0
+iShares MSCI Emerging Markets        COM       464287234     6,457       153,285 SH             DEFINED      1     153,285  0    0
+Coventry Health Care Inc             COM       222862104     3,783       153,034 SH             DEFINED    1,2     153,034  0    0
+Nordstrom Inc                        COM       655664100     6,182       151,346 SH             DEFINED    1,2     151,346  0    0
+Total System Services Inc            COM       891906109     2,360       150,716 SH             DEFINED      1     150,716  0    0
+Developers Diversified Realty        COM       251591103     1,828       150,220 SH             DEFINED    1,2     150,220  0    0
+Liberty Property Trust               COM       531172104     5,087       149,896 SH             DEFINED    1,2     149,896  0    0
+Nuance Communications Inc            COM       67020Y100     2,494       149,890 SH             DEFINED      1     149,890  0    0
+Citrix Systems Inc                   COM       177376100     7,014       147,754 SH             DEFINED    1,2     147,754  0    0
+Allegheny Energy Inc                 COM       017361106     3,398       147,744 SH             DEFINED    1,2     147,744  0    0
+Pactiv Corp                          COM       695257105     3,679       146,099 SH             DEFINED    1,2     146,099  0    0
+Akamai Technologies Inc              COM       00971T101     4,582       145,822 SH             DEFINED    1,2     145,822  0    0
+Apollo Group Inc                     COM       037604105     8,915       145,463 SH             DEFINED    1,2     145,463  0    0
+NII Holdings Inc                     COM       62913F201     6,063       145,455 SH             DEFINED    1,2     145,455  0    0
+Arrow Electronics Inc                COM       042735100     4,362       144,768 SH             DEFINED      1     144,768  0    0
+SPX Corp                             COM       784635104     9,588       144,574 SH             DEFINED    1,2     144,574  0    0
+Eaton Corp                           COM       278058102    10,918       144,094 SH             DEFINED    1,2     144,094  0    0
+Omnicare Inc                         COM       681904108     4,048       143,080 SH             DEFINED    1,2     143,080  0    0
+PPG Industries Inc                   COM       693506107     9,339       142,795 SH             DEFINED    1,2     142,795  0    0
+MDU Resources Group Inc              COM       552690109     3,078       142,637 SH             DEFINED    1,2     142,637  0    0
+Cincinnati Financial Corp            COM       172062101     4,115       142,347 SH             DEFINED    1,2     142,347  0    0
+Banco Bradesco SA                    COM       059460303     2,603       141,300 SH             DEFINED    1,2     141,300  0    0
+Northeast Utilities                  COM       664397106     3,813       137,936 SH             DEFINED    1,2     137,936  0    0
+Canadian Pacific Railway Ltd         COM       13645T100     7,748       137,462 SH             DEFINED    1,2     137,462  0    0
+Legg Mason Inc                       COM       524901105     3,934       137,216 SH             DEFINED    1,2     137,216  0    0
+Genuine Parts Co                     COM       372460105     5,781       136,865 SH             DEFINED    1,2     136,865  0    0
+Avnet Inc                            COM       053807103     4,100       136,679 SH             DEFINED    1,2     136,679  0    0
+Fomento Economico Mexicano SAB       COM       344419106     6,485       136,450 SH             DEFINED    1,2     136,450  0    0
+Toll Brothers Inc                    COM       889478103     2,788       134,021 SH             DEFINED    1,2     134,021  0    0
+UAL Corp                             COM       902549807     2,620       134,020 SH             DEFINED      1     134,020  0    0
+Illumina Inc                         COM       452327109     5,201       133,695 SH             DEFINED    1,2     133,695  0    0
+Hospira Inc                          COM       441060100     7,454       131,576 SH             DEFINED    1,2     131,576  0    0
+Agnico-Eagle Mines Ltd               COM       008474108     7,342       131,396 SH             DEFINED    1,2     131,396  0    0
+Stanley Black & Decker Inc           COM       854502101     7,455       129,854 SH             DEFINED    1,2     129,854  0    0
+AmeriCredit Corp                     COM       03060R101     3,075       129,440 SH             DEFINED      1     129,440  0    0
+Pall Corp                            COM       696429307     5,234       129,255 SH             DEFINED    1,2     129,255  0    0
+Arch Coal Inc                        COM       039380100     2,943       128,809 SH             DEFINED    1,2     128,809  0    0
+GameStop Corp                        COM       36467W109     2,819       128,640 SH             DEFINED    1,2     128,640  0    0
+Fiserv Inc                           COM       337738108     6,492       127,893 SH             DEFINED    1,2     127,893  0    0
+Sealed Air Corp                      COM       81211K100     2,695       127,861 SH             DEFINED    1,2     127,861  0    0
+Pinnacle West Capital Corp           COM       723484101     4,785       126,835 SH             DEFINED    1,2     126,835  0    0
+Gildan Activewear Inc                COM       375916103     3,332       126,638 SH             DEFINED    1,2     126,638  0    0
+McAfee Inc                           COM       579064106     5,078       126,536 SH             DEFINED    1,2     126,536  0    0
+Salesforce.com Inc                   COM       79466L302     9,405       126,321 SH             DEFINED    1,2     126,321  0    0
+Rockwell Collins Inc                 COM       774341101     7,898       126,194 SH             DEFINED    1,2     126,194  0    0
+Quest Diagnostics Inc/DE             COM       74834L100     7,290       125,276 SH             DEFINED    1,2     125,276  0    0
+Millipore Corp                       COM       601073109    13,127       124,309 SH             DEFINED    1,2     124,309  0    0
+CME Group Inc                        COM       12572Q105    39,238       124,129 SH             DEFINED    1,2     124,129  0    0
+MSCI Inc                             COM       55354G100     4,477       124,019 SH             DEFINED      1     124,019  0    0
+Harris Corp                          COM       413875105     5,884       123,907 SH             DEFINED    1,2     123,907  0    0
+Enterprise Products Partners L       COM       293792107     4,284       123,880 SH             DEFINED      1     123,880  0    0
+Hershey Co/The                       COM       427866108     5,301       123,827 SH             DEFINED    1,2     123,827  0    0
+Synopsys Inc                         COM       871607107     2,762       123,460 SH             DEFINED    1,2     123,460  0    0
+Whole Foods Market Inc               COM       966837106     4,462       123,428 SH             DEFINED    1,2     123,428  0    0
+Discovery Communications Inc         COM       25470F302     3,624       123,233 SH             DEFINED    1,2     123,233  0    0
+Perrigo Co                           COM       714290103     7,233       123,184 SH             DEFINED    1,2     123,184  0    0
+Biovail Corp                         COM       09067J109     2,050       122,542 SH             DEFINED    1,2     122,542  0    0
+EQT Corp                             COM       26884L109     5,013       122,277 SH             DEFINED    1,2     122,277  0    0
+Patterson-UTI Energy Inc             COM       703481101     1,689       120,882 SH             DEFINED    1,2     120,882  0    0
+Robert Half International Inc        COM       770323103     3,650       119,933 SH             DEFINED    1,2     119,933  0    0
+L-3 Communications Holdings In       COM       502424104    10,982       119,849 SH             DEFINED    1,2     119,849  0    0
+JM Smucker Co/The                    COM       832696405     7,211       119,668 SH             DEFINED    1,2     119,668  0    0
+Discovery Communications Inc         COM       25470F104     4,017       118,871 SH             DEFINED      1     118,871  0    0
+Oneok Inc                            COM       682680103     5,398       118,256 SH             DEFINED    1,2     118,256  0    0
+ICICI Bank Ltd                       COM       45104G104     5,039       118,012 SH             DEFINED    1,2     118,012  0    0
+Hasbro Inc                           COM       418056107     4,464       116,626 SH             DEFINED    1,2     116,626  0    0
+DiamondRock Hospitality Co           COM       252784301     1,166       115,317 SH             DEFINED    1,2     115,317  0    0
+Cintas Corp                          COM       172908105     3,222       114,663 SH             DEFINED    1,2     114,663  0    0
+Brown-Forman Corp                    COM       115637209     6,716       112,971 SH             DEFINED    1,2     112,971  0    0
+Scripps Networks Interactive I       COM       811065101     4,989       112,485 SH             DEFINED      1     112,485  0    0
+United States Steel Corp             COM       912909108     7,048       110,952 SH             DEFINED    1,2     110,952  0    0
+Liberty Global Inc                   COM       530555101     3,207       109,964 SH             DEFINED    1,2     109,964  0    0
+Gerdau Ameristeel Corp               COM       37373P105       863       109,535 SH             DEFINED      2     109,535  0    0
+Newfield Exploration Co              COM       651290108     5,676       109,043 SH             DEFINED    1,2     109,043  0    0
+Clorox Co                            COM       189054109     6,985       108,904 SH             DEFINED    1,2     108,904  0    0
+O'Reilly Automotive Inc              COM       686091109     4,531       108,632 SH             DEFINED    1,2     108,632  0    0
+Pharmaceutical Product Develop       COM       717124101     2,548       107,338 SH             DEFINED    1,2     107,338  0    0
+PetSmart Inc                         COM       716768106     3,405       106,545 SH             DEFINED    1,2     106,545  0    0
+Fibria Celulose SA                   COM       31573A109     2,327       106,332 SH             DEFINED    1,2     106,332  0    0
+Plains Exploration & Productio       COM       726505100     3,154       105,162 SH             DEFINED    1,2     105,162  0    0
+Darden Restaurants Inc               COM       237194105     4,648       104,925 SH             DEFINED    1,2     104,925  0    0
+Equifax Inc                          COM       294429105     3,732       104,253 SH             DEFINED    1,2     104,253  0    0
+Rowan Cos Inc                        COM       779382100     3,032       104,147 SH             DEFINED    1,2     104,147  0    0
+Lam Research Corp                    COM       512807108     3,885       104,099 SH             DEFINED    1,2     104,099  0    0
+Assurant Inc                         COM       04621X108     3,563       103,635 SH             DEFINED    1,2     103,635  0    0
+Goodrich Corp                        COM       382388106     7,296       103,460 SH             DEFINED    1,2     103,460  0    0
+Jacobs Engineering Group Inc         COM       469814107     4,604       101,886 SH             DEFINED    1,2     101,886  0    0
+Tiffany & Co                         COM       886547108     4,755       100,136 SH             DEFINED    1,2     100,136  0    0
+Avery Dennison Corp                  COM       053611109     3,642       100,022 SH             DEFINED    1,2     100,022  0    0
+McCormick & Co Inc/MD                COM       579780206     3,772        99,006 SH             DEFINED    1,2      99,006  0    0
+Vulcan Materials Co                  COM       929160109     4,642        98,271 SH             DEFINED    1,2      98,271  0    0
+Manpower Inc                         COM       56418H100     5,587        97,817 SH             DEFINED    1,2      97,817  0    0
+NET Servicos de Comunicacao SA       COM       64109T201     1,264        97,580 SH             DEFINED    1,2      97,580  0    0
+FMC Technologies Inc                 COM       30249U101     6,281        97,186 SH             DEFINED    1,2      97,186  0    0
+UDR Inc                              COM       902653104     1,693        96,900 SH             DEFINED    1,2      96,900  0    0
+Alpha Natural Resources Inc          COM       02076X102     4,819        96,585 SH             DEFINED    1,2      96,585  0    0
+SEI Investments Co                   COM       784117103     2,121        96,533 SH             DEFINED      1      96,533  0    0
+Sigma-Aldrich Corp                   COM       826552101     5,167        96,284 SH             DEFINED    1,2      96,284  0    0
+SCANA Corp                           COM       80589M102     3,610        96,045 SH             DEFINED    1,2      96,045  0    0
+Energy Transfer Partners LP          COM       29273R109     4,492        95,852 SH             DEFINED      1      95,852  0    0
+Wisconsin Energy Corp                COM       976657106     4,679        94,704 SH             DEFINED    1,2      94,704  0    0
+URS Corp                             COM       903236107     4,691        94,554 SH             DEFINED    1,2      94,554  0    0
+Magellan Midstream Partners LP       COM       559080106     4,471        94,062 SH             DEFINED      1      94,062  0    0
+Pioneer Natural Resources Co         COM       723787107     5,196        92,260 SH             DEFINED    1,2      92,260  0    0
+Vail Resorts Inc                     COM       91879Q109     3,692        92,085 SH             DEFINED      1      92,085  0    0
+Laboratory Corp of America Hol       COM       50540R409     6,942        91,692 SH             DEFINED    1,2      91,692  0    0
+Magna International Inc              COM       559222401     5,659        91,428 SH             DEFINED    1,2      91,428  0    0
+Ball Corp                            COM       058498106     4,854        90,928 SH             DEFINED    1,2      90,928  0    0
+BorgWarner Inc                       COM       099724106     3,426        89,725 SH             DEFINED    1,2      89,725  0    0
+Tam SA                               COM       87484D103     1,522        89,719 SH             DEFINED    1,2      89,719  0    0
+BRF - Brasil Foods SA                COM       10552T107     1,219        88,784 SH             DEFINED    1,2      88,784  0    0
+Integrys Energy Group Inc            COM       45822P105     4,202        88,681 SH             DEFINED    1,2      88,681  0    0
+Alliant Energy Corp                  COM       018802108     2,942        88,457 SH             DEFINED    1,2      88,457  0    0
+Watson Pharmaceuticals Inc           COM       942683103     3,681        88,124 SH             DEFINED      1      88,124  0    0
+Eaton Vance Corp                     COM       278265103     2,943        87,759 SH             DEFINED      1      87,759  0    0
+AMETEK Inc                           COM       031100100     3,631        87,573 SH             DEFINED    1,2      87,573  0    0
+Apartment Investment & Managem       COM       03748R101     1,604        87,101 SH             DEFINED    1,2      87,101  0    0
+Harsco Corp                          COM       415864107     2,743        86,429 SH             DEFINED    1,2      86,429  0    0
+CBL & Associates Properties In       COM       124830100     1,184        86,413 SH             DEFINED    1,2      86,413  0    0
+Sherwin-Williams Co/The              COM       824348106     5,771        85,272 SH             DEFINED    1,2      85,272  0    0
+Joy Global Inc                       COM       481165108     4,820        85,181 SH             DEFINED    1,2      85,181  0    0
+Roper Industries Inc                 COM       776696106     4,884        84,576 SH             DEFINED    1,2      84,576  0    0
+NSTAR                                COM       67019E107     2,930        83,641 SH             DEFINED    1,2      83,641  0    0
+Lubrizol Corp                        COM       549271104     7,608        82,949 SH             DEFINED    1,2      82,949  0    0
+Lender Processing Services Inc       COM       52602E102     3,123        82,731 SH             DEFINED      1      82,731  0    0
+DaVita Inc                           COM       23918K108     5,195        81,935 SH             DEFINED    1,2      81,935  0    0
+AGCO Corp                            COM       001084102     2,908        81,061 SH             DEFINED    1,2      81,061  0    0
+Cree Inc                             COM       225447101     5,655        80,528 SH             DEFINED    1,2      80,528  0    0
+First American Corp                  COM       318522307     2,694        79,597 SH             DEFINED    1,2      79,597  0    0
+Cabot Oil & Gas Corp                 COM       127097103     2,909        79,060 SH             DEFINED    1,2      79,060  0    0
+Patterson Cos Inc                    COM       703395103     2,447        78,799 SH             DEFINED    1,2      78,799  0    0
+Waters Corp                          COM       941848103     5,319        78,755 SH             DEFINED    1,2      78,755  0    0
+Mastercard Inc                       COM       57636Q104    19,912        78,441 SH             DEFINED    1,2      78,441  0    0
+Torchmark Corp                       COM       891027104     4,175        78,015 SH             DEFINED    1,2      78,015  0    0
+Hospitality Properties Trust         COM       44106M102     1,852        77,318 SH             DEFINED    1,2      77,318  0    0
+CR Bard Inc                          COM       067383109     6,674        77,051 SH             DEFINED    1,2      77,051  0    0
+Pentair Inc                          COM       709631105     2,695        75,670 SH             DEFINED      1      75,670  0    0
+Pan American Silver Corp             COM       697900108     1,742        75,657 SH             DEFINED      1      75,657  0    0
+Sunstone Hotel Investors Inc         COM       867892101       844        75,582 SH             DEFINED    1,2      75,582  0    0
+AutoNation Inc                       COM       05329W102     1,362        75,336 SH             DEFINED      1      75,336  0    0
+Advance Auto Parts Inc               COM       00751Y106     3,121        74,447 SH             DEFINED    1,2      74,447  0    0
+Eastman Chemical Co                  COM       277432100     4,675        73,411 SH             DEFINED    1,2      73,411  0    0
+SBA Communications Corp              COM       78388J106     2,629        72,896 SH             DEFINED      1      72,896  0    0
+Macerich Co/The                      COM       554382101     2,789        72,807 SH             DEFINED    1,2      72,807  0    0
+Nationwide Health Properties I       COM       638620104     2,545        72,416 SH             DEFINED    1,2      72,416  0    0
+M&T Bank Corp                        COM       55261F104     5,731        72,195 SH             DEFINED    1,2      72,195  0    0
+Ritchie Bros Auctioneers Inc         COM       767744105     1,538        71,283 SH             DEFINED      1      71,283  0    0
+Henry Schein Inc                     COM       806407102     4,116        69,886 SH             DEFINED    1,2      69,886  0    0
+Allegheny Technologies Inc           COM       01741R102     3,763        69,706 SH             DEFINED    1,2      69,706  0    0
+Energizer Holdings Inc               COM       29266R108     4,339        69,139 SH             DEFINED    1,2      69,139  0    0
+Charles River Laboratories Int       COM       159864107     2,655        67,549 SH             DEFINED    1,2      67,549  0    0
+TFS Financial Corp                   COM       87240R107       893        66,876 SH             DEFINED      1      66,876  0    0
+Highwoods Properties Inc             COM       431284108     2,103        66,270 SH             DEFINED    1,2      66,270  0    0
+Whirlpool Corp                       COM       963320106     5,775        66,189 SH             DEFINED    1,2      66,189  0    0
+Lexington Realty Trust               COM       529043101       431        66,145 SH             DEFINED    1,2      66,145  0    0
+Jefferies Group Inc                  COM       472319102     1,555        65,714 SH             SOLE                65,714  0    0
+Realty Income Corp                   COM       756109104     1,968        64,129 SH             DEFINED    1,2      64,129  0    0
+Rayonier Inc                         COM       754907103     2,907        63,982 SH             DEFINED      1      63,982  0    0
+Cephalon Inc                         COM       156708109     4,336        63,967 SH             DEFINED    1,2      63,967  0    0
+Cousins Properties Inc               COM       222795106       531        63,958 SH             DEFINED    1,2      63,958  0    0
+JB Hunt Transport Services Inc       COM       445658107     2,249        62,683 SH             DEFINED      1      62,683  0    0
+Hormel Foods Corp                    COM       440452100     2,614        62,540 SH             DEFINED    1,2      62,540  0    0
+Stericycle Inc                       COM       858912108     3,402        62,422 SH             DEFINED    1,2      62,422  0    0
+Energen Corp                         COM       29265N108     2,892        62,156 SH             DEFINED      1      62,156  0    0
+iShares Barclays Aggregate Bon       COM       464287226     6,422        61,821 SH             DEFINED      1      61,821  0    0
+WW Grainger Inc                      COM       384802104     6,654        61,541 SH             DEFINED    1,2      61,541  0    0
+Hersha Hospitality Trust             COM       427825104       314        60,701 SH             DEFINED    1,2      60,701  0    0
+Bank of Hawaii Corp                  COM       062540109     2,697        60,000 SH             DEFINED      1      60,000  0    0
+Cerner Corp                          COM       156782104     4,922        57,950 SH             DEFINED    1,2      57,950  0    0
+Mindray Medical International        COM       602675100     2,094        57,500 SH             DEFINED      2      57,500  0    0
+Hansen Natural Corp                  COM       411310105     2,467        56,866 SH             DEFINED    1,2      56,866  0    0
+DeVry Inc                            COM       251893103     3,641        55,847 SH             DEFINED    1,2      55,847  0    0
+Transatlantic Holdings Inc           COM       893521104     2,923        55,366 SH             DEFINED    1,2      55,366  0    0
+ITC Holdings Corp                    COM       465685105     3,032        55,125 SH             DEFINED      1      55,125  0    0
+Wynn Resorts Ltd                     COM       983134107     4,177        55,082 SH             DEFINED    1,2      55,082  0    0
+FMC Corp                             COM       302491303     3,327        54,963 SH             DEFINED      1      54,963  0    0
+Church & Dwight Co Inc               COM       171340102     3,605        53,846 SH             DEFINED    1,2      53,846  0    0
+Beckman Coulter Inc                  COM       075811109     3,381        53,836 SH             DEFINED    1,2      53,836  0    0
+Alliance Data Systems Corp           COM       018581108     3,444        53,824 SH             DEFINED    1,2      53,824  0    0
+Airgas Inc                           COM       009363102     3,419        53,745 SH             DEFINED      1      53,745  0    0
+Mack-Cali Realty Corp                COM       554489104     1,856        53,324 SH             DEFINED    1,2      53,324  0    0
+Covance Inc                          COM       222816100     3,267        53,212 SH             DEFINED    1,2      53,212  0    0
+Dun & Bradstreet Corp                COM       26483E100     3,926        52,750 SH             DEFINED    1,2      52,750  0    0
+Polo Ralph Lauren Corp               COM       731572103     4,427        52,055 SH             DEFINED    1,2      52,055  0    0
+First Solar Inc                      COM       336433107     6,373        51,962 SH             DEFINED    1,2      51,962  0    0
+CF Industries Holdings Inc           COM       125269100     4,655        51,048 SH             DEFINED    1,2      51,048  0    0
+Medical Properties Trust Inc         COM       58463J304       529        50,467 SH             DEFINED    1,2      50,467  0    0
+Penn West Energy Trust               COM       707885109     1,068        50,419 SH             DEFINED    1,2      50,419  0    0
+IntercontinentalExchange Inc         COM       45865V100     5,521        49,218 SH             DEFINED    1,2      49,218  0    0
+Dolby Laboratories Inc               COM       25659T107     2,826        48,167 SH             DEFINED      2      48,167  0    0
+U-Store-It Trust                     COM       91274F104       342        47,710 SH             DEFINED    1,2      47,710  0    0
+Mohawk Industries Inc                COM       608190104     2,594        47,706 SH             DEFINED    1,2      47,706  0    0
+Investors Real Estate Trust          COM       461730103       428        47,407 SH             DEFINED    1,2      47,407  0    0
+Intuitive Surgical Inc               COM       46120E602    16,079        46,186 SH             DEFINED    1,2      46,186  0    0
+Gafisa SA                            COM       362607301       609        44,336 SH             DEFINED    1,2      44,336  0    0
+Flowserve Corp                       COM       34354P105     4,865        44,115 SH             DEFINED    1,2      44,115  0    0
+LaSalle Hotel Properties             COM       517942108     1,020        43,758 SH             DEFINED    1,2      43,758  0    0
+Ralcorp Holdings Inc                 COM       751028101     2,964        43,731 SH             DEFINED    1,2      43,731  0    0
+ITT Educational Services Inc         COM       45068B109     4,854        43,157 SH             DEFINED    1,2      43,157  0    0
+Franklin Street Properties Cor       COM       35471R106       621        43,038 SH             DEFINED    1,2      43,038  0    0
+FelCor Lodging Trust Inc             COM       31430F101       244        42,794 SH             DEFINED    1,2      42,794  0    0
+Sears Holdings Corp                  COM       812350106     4,566        42,110 SH             DEFINED    1,2      42,110  0    0
+Telephone & Data Systems Inc         COM       879433100     1,404        41,483 SH             DEFINED    1,2      41,483  0    0
+Colonial Properties Trust            COM       195872106       531        41,218 SH             DEFINED    1,2      41,218  0    0
+Edwards Lifesciences Corp            COM       28176E108     3,999        40,448 SH             DEFINED      1      40,448  0    0
+BRE Properties Inc                   COM       05564E106     1,441        40,301 SH             DEFINED    1,2      40,301  0    0
+DST Systems Inc                      COM       233326107     1,630        39,313 SH             DEFINED    1,2      39,313  0    0
+Open Text Corp                       COM       683715106     1,842        38,624 SH             SOLE                38,624  0    0
+Packaging Corp of America            COM       695156109       935        38,000 SH             DEFINED      1      38,000  0    0
+Ashford Hospitality Trust Inc        COM       044103109       272        37,886 SH             DEFINED    1,2      37,886  0    0
+Washington Real Estate Investm       COM       939653101     1,147        37,532 SH             DEFINED    1,2      37,532  0    0
+iShares S&P 500 Index Fund/US        COM       464287200     4,344        37,018 SH             DEFINED      1      37,018  0    0
+Martin Marietta Materials Inc        COM       573284106     2,959        35,421 SH             DEFINED    1,2      35,421  0    0
+First Industrial Realty Trust        COM       32054K103       267        34,343 SH             DEFINED    1,2      34,343  0    0
+Cedar Shopping Centers Inc           COM       150602209       269        34,043 SH             DEFINED    1,2      34,043  0    0
+priceline.com Inc                    COM       741503403     8,627        33,833 SH             DEFINED    1,2      33,833  0    0
+AutoZone Inc                         COM       053332102     5,836        33,715 SH             DEFINED    1,2      33,715  0    0
+American Campus Communities In       COM       024835100       909        32,858 SH             DEFINED    1,2      32,858  0    0
+Calgon Carbon Corp                   COM       129603106       537        31,350 SH             DEFINED      1      31,350  0    0
+Post Properties Inc                  COM       737464107       668        30,314 SH             DEFINED    1,2      30,314  0    0
+Tanger Factory Outlet Centers        COM       875465106     1,299        30,097 SH             DEFINED    1,2      30,097  0    0
+Home Properties Inc                  COM       437306103     1,371        29,294 SH             DEFINED    1,2      29,294  0    0
+IHS Inc                              COM       451734107     1,565        29,270 SH             DEFINED      1      29,270  0    0
+Grupo Aeroportuario del Pacifi       COM       400506101     1,079        29,156 SH             DEFINED    1,2      29,156  0    0
+iShares iBoxx $ High Yield Cor       COM       464288513     2,464        28,094 SH             DEFINED      1      28,094  0    0
+SunPower Corp                        COM       867652307       467        27,910 SH             SOLE                27,910  0    0
+Alexandria Real Estate Equitie       COM       015271109     1,876        27,753 SH             DEFINED    1,2      27,753  0    0
+Southern Copper Corp                 COM       84265V105       877        27,704 SH             DEFINED    1,2      27,704  0    0
+Wimm-Bill-Dann Foods OJSC            COM       97263M109       615        27,410 SH             DEFINED    1,2      27,410  0    0
+Continental Airlines Inc             COM       210795308       594        27,045 SH             DEFINED      1      27,045  0    0
+Desarrolladora Homex SAB de CV       COM       25030W100       742        26,245 SH             DEFINED    1,2      26,245  0    0
+Pennsylvania Real Estate Inves       COM       709102107       327        26,206 SH             DEFINED    1,2      26,206  0    0
+BlackRock Inc                        COM       09247X101     5,612        25,771 SH             DEFINED      1      25,771  0    0
+Gerdau SA                            COM       373737105       408        25,029 SH             DEFINED    1,2      25,029  0    0
+NVR Inc                              COM       62944T105    17,989        24,761 SH             DEFINED      1      24,761  0    0
+Equity Lifestyle Properties In       COM       29472R108     1,222        22,682 SH             DEFINED    1,2      22,682  0    0
+Vivo Participacoes SA                COM       92855S200       571        21,072 SH             DEFINED    1,2      21,072  0    0
+Enersis SA                           COM       29274F104       417        20,862 SH             DEFINED    1,2      20,862  0    0
+Ramco-Gershenson Properties Tr       COM       751452202       233        20,677 SH             DEFINED    1,2      20,677  0    0
+Tata Motors Ltd                      COM       876568502       375        20,333 SH             DEFINED    1,2      20,333  0    0
+Insituform Technologies Inc          COM       457667103       528        19,830 SH             DEFINED      1      19,830  0    0
+Sterlite Industries India Ltd        COM       859737207       356        19,136 SH             DEFINED      2      19,136  0    0
+Aecom Technology Corp                COM       00766T100       542        19,100 SH             DEFINED      1      19,100  0    0
+Enerplus Resources Fund              COM       29274D604       442        18,765 SH             DEFINED    1,2      18,765  0    0
+First Potomac Realty Trust           COM       33610F109       277        18,410 SH             DEFINED    1,2      18,410  0    0
+Cia de Minas Buenaventura SA         COM       204448104       552        17,967 SH             DEFINED    1,2      17,967  0    0
+Tim Participacoes SA                 COM       88706P106       497        17,912 SH             DEFINED    1,2      17,912  0    0
+Mid-America Apartment Communit       COM       59522J103       901        17,614 SH             DEFINED    1,2      17,614  0    0
+Novo Nordisk A/S                     COM       670100205     1,345        17,440 SH             DEFINED      1      17,440  0    0
+National Health Investors Inc        COM       63633D104       649        16,752 SH             DEFINED    1,2      16,752  0    0
+Sovran Self Storage Inc              COM       84610H108       571        16,593 SH             DEFINED    1,2      16,593  0    0
+Infosys Technologies Ltd             COM       456788108       971        16,512 SH             DEFINED    1,2      16,512  0    0
+Nalco Holding Co                     COM       62985Q101       381        15,640 SH             DEFINED      1      15,640  0    0
+Coca-Cola Femsa SAB de CV            COM       191241108     1,007        15,406 SH             DEFINED    1,2      15,406  0    0
+Eletrobras SA                        COM       15234Q207       229        15,271 SH             DEFINED    1,2      15,271  0    0
+Lan Airlines SA                      COM       501723100       268        15,171 SH             DEFINED    1,2      15,171  0    0
+LTC Properties Inc                   COM       502175102       405        15,043 SH             DEFINED    1,2      15,043  0    0
+Wipro Ltd                            COM       97651M109       334        14,318 SH             DEFINED      2      14,318  0    0
+Urstadt Biddle Properties Inc        COM       917286205       223        14,098 SH             DEFINED    1,2      14,098  0    0
+Tele Norte Leste Participacoes       COM       879246106       212        13,260 SH             DEFINED    1,2      13,260  0    0
+Stantec Inc                          COM       85472N109       343        13,200 SH             DEFINED      1      13,200  0    0
+RINO International Corp              COM       766883102       311        13,100 SH             DEFINED      1      13,100  0    0
+Cia Paranaense de Energia            COM       20441B407       249        12,145 SH             DEFINED    1,2      12,145  0    0
+St Joe Co/The                        COM       790148100       382        11,810 SH             DEFINED      1      11,810  0    0
+Tetra Tech Inc                       COM       88162G103       272        11,800 SH             DEFINED      1      11,800  0    0
+Getty Realty Corp                    COM       374297109       273        11,664 SH             DEFINED    1,2      11,664  0    0
+PS Business Parks Inc                COM       69360J107       597        11,186 SH             DEFINED    1,2      11,186  0    0
+Sun Communities Inc                  COM       866674104       259        10,508 SH             DEFINED    1,2      10,508  0    0
+Dr Reddys Laboratories Ltd           COM       256135203       287        10,163 SH             DEFINED    1,2      10,163  0    0
+Cia Brasileira de Distribuicao       COM       20440T201       673        10,006 SH             DEFINED    1,2      10,006  0    0
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

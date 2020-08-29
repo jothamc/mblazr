@@ -1,0 +1,350 @@
+<SEC-DOCUMENT>0001140361-14-030495.txt : 20140804
+<SEC-HEADER>0001140361-14-030495.hdr.sgml : 20140804
+<ACCEPTANCE-DATETIME>20140804103558
+ACCESSION NUMBER:		0001140361-14-030495
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20140630
+FILED AS OF DATE:		20140804
+DATE AS OF CHANGE:		20140804
+EFFECTIVENESS DATE:		20140804
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sloane Robinson LLP
+		CENTRAL INDEX KEY:			0001415293
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12596
+		FILM NUMBER:		141011809
+
+	BUSINESS ADDRESS:	
+		STREET 1:		36 QUEEN STREET
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC4R 1BN
+		BUSINESS PHONE:		00442079292771
+
+	MAIL ADDRESS:	
+		STREET 1:		36 QUEEN STREET
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC4R 1BN
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001415293</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2014</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2014</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Sloane Robinson LLP</name>
+        <address>
+          <com:street1>36 QUEEN STREET</com:street1>
+          <com:city>LONDON</com:city>
+          <com:stateOrCountry>X0</com:stateOrCountry>
+          <com:zipCode>EC4R 1BN</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-12596</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>John Cutler</name>
+      <title>Head of Legal and Compliance</title>
+      <phone>44-207-929-2771</phone>
+      <signature>/s/ John Cutler</signature>
+      <city>London</city>
+      <stateOrCountry>X0</stateOrCountry>
+      <signatureDate>08-04-2014</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>14</tableEntryTotal>
+      <tableValueTotal>159358</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">		<infoTable>
+			<nameOfIssuer>21VIANET GROUP INC</nameOfIssuer>
+			<titleOfClass>SPONSORED ADR</titleOfClass>
+			<cusip>90138A103</cusip>
+			<value>15764</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>526000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>526000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>ACCENTURE PLC IRELAND</nameOfIssuer>
+			<titleOfClass>SHS CLASS A</titleOfClass>
+			<cusip>G1151C101</cusip>
+			<value>26451</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>327200</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>327200</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>CF INDS HLDGS INC</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>125269100</cusip>
+			<value>5604</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>23300</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>23300</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>HALLIBURTON CO</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>406216101</cusip>
+			<value>48386</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>681400</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>681400</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>MARKET VECTORS ETF TR</nameOfIssuer>
+			<titleOfClass>GOLD MINER ETF</titleOfClass>
+			<cusip>57060U100</cusip>
+			<value>243</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>9500</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>9500</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>NEW ORIENTAL ED &amp; TECH GRP I</nameOfIssuer>
+			<titleOfClass>SPON ADR</titleOfClass>
+			<cusip>647581107</cusip>
+			<value>34622</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>1303000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>1303000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>NORD ANGLIA EDUCATION INC</nameOfIssuer>
+			<titleOfClass>SHS</titleOfClass>
+			<cusip>G6583A102</cusip>
+			<value>239</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>13000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>13000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>QIWI PLC</nameOfIssuer>
+			<titleOfClass>SPON ADR REP B</titleOfClass>
+			<cusip>74735M108</cusip>
+			<value>284</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>7000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>7000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>SNAP ON INC</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>833034101</cusip>
+			<value>10098</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>85200</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>85200</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>TAIWAN SEMICONDUCTOR MFG LTD</nameOfIssuer>
+			<titleOfClass>SPONSORED ADR</titleOfClass>
+			<cusip>874039100</cusip>
+			<value>391</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>18300</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>18300</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>WUXI PHARMATECH CAYMAN INC</nameOfIssuer>
+			<titleOfClass>SPONS ADR SHS</titleOfClass>
+			<cusip>929352102</cusip>
+			<value>3943</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>120000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>120000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>YANDEX N V</nameOfIssuer>
+			<titleOfClass>SHS CLASS A</titleOfClass>
+			<cusip>N97284108</cusip>
+			<value>12418</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>348382</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>348382</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>YPF SOCIEDAD ANONIMA</nameOfIssuer>
+			<titleOfClass>SPON ADR CL D</titleOfClass>
+			<cusip>984245100</cusip>
+			<value>582</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>17800</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>17800</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>MARKET VECTORS ETF TR</nameOfIssuer>
+			<titleOfClass>VIETNAM ETF</titleOfClass>
+			<cusip>57060U761</cusip>
+			<value>333</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>15900</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>15900</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

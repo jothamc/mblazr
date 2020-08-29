@@ -1,0 +1,182 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DPHfwhMzR6TFRhaY/7rcQ7iGrnpL02ADoKZmwa240c5pbGvtlueBnBzNlvKzSV+M
+ /O7WBBagBa3knOjoICT4gQ==
+
+<SEC-DOCUMENT>0001386088-11-000001.txt : 20110211
+<SEC-HEADER>0001386088-11-000001.hdr.sgml : 20110211
+<ACCEPTANCE-DATETIME>20110211130614
+ACCESSION NUMBER:		0001386088-11-000001
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20101231
+FILED AS OF DATE:		20110211
+DATE AS OF CHANGE:		20110211
+EFFECTIVENESS DATE:		20110211
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Edelman Financial Services, LLC
+		CENTRAL INDEX KEY:			0001386088
+		IRS NUMBER:				810672617
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12214
+		FILM NUMBER:		11596607
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4000 LEGATO ROAD
+		STREET 2:		9TH FLOOR
+		CITY:			FAIRFAX
+		STATE:			VA
+		ZIP:			22033
+		BUSINESS PHONE:		703-251-0197
+
+	MAIL ADDRESS:	
+		STREET 1:		4000 LEGATO ROAD
+		STREET 2:		9TH FLOOR
+		CITY:			FAIRFAX
+		STATE:			VA
+		ZIP:			22033
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>efs13fhr4q10.txt
+<DESCRIPTION>FOURTH QUARTER 2010 13F HOLDINGS
+<TEXT>
+TYPE		13F-HR
+PERIOD	12/31/2010
+FILER
+	CIK	1386088
+	CCC	$cnncdo4
+SUBMISSION-CONTACT
+	NAME	E.OLSEN
+	PHONE	703-251-0170
+<PAGE>
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON D.C. 20549
+FORM 13F
+FORM 13F COVER PAGE
+Report for the Calendar Year or Quarter Ended: December31, 2010
+Check here if Amendment [  ]; Amendment Number:
+
+
+This Amendment (Check only one.):
+[  ] is a restatement.
+
+[  ] adds new holdings entries.
+Institutional Investment Manager Filing this Report:
+
+Name:
+Edelman Financial Services, LLC
+Address:
+4000 Legato Road, 9th Floor
+Fairfax VA 22033
+13F File Number:
+28-122214
+The institutional investment manager filing this report and the person
+by whom it is signed hereby represent that the person signing the report
+is authorized to submit it, that all information contained herein is true,
+correct and complete, and that it is understood that all required items,
+statements, schedules, lists, and tables, are considered integral parts
+of this submission.
+Person Signing this Report on Behalf of Reporting Manager:
+Name:
+Eric Michael Olsen
+
+Title:
+Trading and Risk Analyst
+
+Phone:
+703-251-0170
+
+Signature,
+Place,
+and Date of Signing:
+Eric Michael Olsen
+Richmond, Virginia
+February 11, 2011
+Report Type (Check only one.):
+
+
+[ X]        13F HOLDINGS REPORT.
+
+[  ]        13F NOTICE.
+
+[  ]        13F COMBINATION REPORT.
+List of Other Managers Reporting for this Manager:
+N/A
+
+<PAGE>
+
+FORM 13F SUMMARY PAGE
+Report Summary:
+Number of Other Included Managers:
+0
+Form 13F Information Table Entry Total:
+25
+Form 13F Information Table Value Total:
+$2,319,628
+
+
+List of Other Included Managers:
+N/A
+
+
+<PAGE>
+<TABLE>                         <C>                                              <C>
+
+FORM 13F INFORMATION TABLE
+                                                       Value        InveOtherVote
+Name of Issuer                  Title of ClaCusip     x1000  Shares DiscManagAuth
+VANGUARD BD INDEX TOTAL BND     EQUITY - ETF921937835  35112  437427SOLE      NONE
+VANGUARD BD INDEX SH TRM BND    EQUITY - ETF921937827  15014  186599SOLE      NONE
+ISHARES TR MSCI EAFE            EQUITY - ETF464287465     11     181SOLE      NONE
+ISHARES TR JPM EMG MRKT BND     EQUITY - ETF464288281      7      64SOLE      NONE
+ISHARES TR GSCI CMDTY           EQUITY - ETF46428R107      7     206SOLE      NONE
+ISHARES TR HI YLD CORP BOND FD  EQUITY - ETF464288513      9      99SOLE      NONE
+ISHARES TR NAT RES INDEX FD     EQUITY - ETF464287374 267686 6420873SOLE      NONE
+ISHARES TR MIDCAP 400 INDEX FD  EQUITY - ETF464287507 312145 3441892SOLE      NONE
+ISHARES TR RUSSELL MICRO CAP    EQUITY - ETF464288869      5      97SOLE      NONE
+ISHARES TR RUSSELL 1000 VALUE   EQUITY - ETF464287598 531682 8196112SOLE      NONE
+ISHARES TR CORP BOND FD         EQUITY - ETF464287242 325227 2999141SOLE      NONE
+POWERSHARES GLOBAL ETF TRUST    EQUITY - ETF73936T615     93    6643SOLE      NONE
+POWERSHARES HI YLD CORP BND     EQUITY - ETF73936T557      7     385SOLE      NONE
+POWERSHARES FTSE RAFI US 1000   EQUITY - ETF73935X583      5      87SOLE      NONE
+POWERSHARES FTSE RAFI US 1500   EQUITY - ETF73935X567      6      90SOLE      NONE
+POWERSHARES LISTED PRIV         EQUITY - ETF73935X195      5     465SOLE      NONE
+VANGUARD INDEX FDS              EQUITY - ETF922908611      6      86SOLE      NONE
+VANGUARD INDEX FDS              EQUITY - ETF92204A306     94     943SOLE      NONE
+VANGUARD INDEX FDS              EQUITY - ETF922908553 259520 4687012SOLE      NONE
+VANGUARD INDEX FDS              EQUITY - ETF922908629    123    1647SOLE      NONE
+VANGUARD TOTAL STK MKT ETF      EQUITY - ETF922908769  66810 1028945SOLE      NONE
+VANGUARD INDEX FDS              EQUITY - ETF922908744    173    3253SOLE      NONE
+VANGUARD GROWTH ETF             EQUITY - ETF922908736 505862 8236110SOLE      NONE
+VANGUARD INDEX FDS              EQUITY - ETF922042858     13     275SOLE      NONE
+VANGUARD INDEX FDS              EQUITY - ETF922908652      7     126SOLE      NONE
+
+</TABLE>
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

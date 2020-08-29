@@ -1,0 +1,1481 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>eco10q93011.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+|X|   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+                               EXCHANGE ACT OF 1934
+
+                For the quarterly period ended September 30, 2011
+
+|_|   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+                            EXCHANGE ACT OF 1934
+
+                 For the transition period from ______to______.
+                        Commission File Number 333-138989
+
+                            ecoTECH Energy Group Inc.
+             (Exact name of registrant as specified in its charter)
+
+              Nevada                                 98-0479847
+-------------------------------------       --------------------------------
+State or other jurisdiction of              (I.R.S. Employer Identification No.)
+ incorporation or  organization
+
+                 800 Fifth Avenue, Suite 4100, Seattle, WA 98104
+               (Address of principal executive offices) (Zip Code)
+
+                                  206-259-7867
+               Registrant's telephone number, including area code.
+
+Indicate by check mark whether the registrant (1) filed all reports  required to
+be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of 1934 during
+the past 12 months (or for such shorter  period that the registrant was required
+to file such reports),  and (2) has been subject to such filing requirements for
+the past 90 days.
+Yes |X| No |_|
+
+Indicate by check mark whether the registrant has submitted  electronically  and
+posted on its corporate Web site, if any, every  Interactive  Data File required
+to be submitted and posted pursuant to Rule 405 of Regulation S-T (ss.232.405 of
+this chapter)  during the  preceding 12 months (or for such shorter  period that
+the registrant was required to submit and post such files). Yes |_| No |X|
+
+Indicate by check mark whether the registrant is a large  accelerated  filer, an
+accelerated filer, a non-accelerated  filer, or a smaller reporting company. See
+definition  of "large  accelerated  filer",  "accelerated  filer"  and  "smaller
+reporting company" in Rule 12b-2 of the Exchange Act.
+
+Larger accelerated filer [_]                               Accelerated filer [_]
+Non-accelerated filer  [_]                         Smaller reporting company [X]
+
+Indicate by check mark whether registrant is a shell company (as defined in Rule
+12b-2 of the Exchange Act). Yes |_| No |X|
+
+As of October 31, 2011,  the  registrant  had  199,802,202  shares of its common
+stock issued and outstanding.
+
+Documents incorporated by reference: None
+
+
+                                       1
+<PAGE>
+
+
+                            ECOTECH ENERGY GROUP INC.
+
+                                    FORM 10-Q
+
+
+                               September 30, 2011
+
+                                TABLE OF CONTENTS
+
+                                                                            Page
+PART I-- FINANCIAL INFORMATION
+
+Item 1.         Consolidated Financial Statements                              3
+Item 2.         Management's Discussion and Analysis or Plan of Operations    14
+Item 3.         Quantitative and Qualitative Disclosures About Market Risk    18
+Item 4T         Control and Procedures                                        18
+
+PART II-- OTHER INFORMATION
+
+Item 1          Legal Proceedings                                             19
+Item 1A         Risk Factors                                                  19
+Item 2.         Unregistered Sales of Equity Securities and Use of Proceeds   19
+Item 3.         Defaults Upon Senior Securities                               20
+Item 4.         (Removed and Reserved)                                        20
+Item 5.         Other Information                                             20
+Item 6.         Exhibits                                                      20
+
+SIGNATURES                                                                    22
+
+
+
+
+                                       2
+<PAGE>
+
+
+                         PART I - FINANCIAL INFORMATION
+
+
+ITEM 1.  FINANCIAL STATEMENTS
+
+
+
+
+                            ECOTECH ENERGY GROUP INC.
+                          (A Development-Stage Company)
+
+
+
+                        CONSOLIDATED FINANCIAL STATEMENTS
+                           (Expressed in U.S. Dollars)
+                                   (Unaudited)
+                               SEPTEMBER 30, 2011
+
+
+Financial Statements
+                                                                        Page
+
+   Consolidated Balance Sheets                                           F-4
+
+   Consolidated Statements of Operations and Comprehensive Loss          F-5
+
+   Consolidated Statements of Cash Flows                              F-6 to F-7
+
+   Notes to Consolidated Financial Statements                        F-8 to F-13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       F-3
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+                                    ECOTECH ENERGY GROUP INC.
+                                  (A Development-Stage Company)
+
+                                   CONSOLIDATED BALANCE SHEETS
+                                           (Unaudited)
+
+
+                                                                              September 30,            December 31,
+                                                                                   2011                    2010
+                                                                          ----------------------   --------------------
+<S>                                                                       <C>                      <C>
+ASSETS
+
+Current Assets
+   Cash and cash equivalents                                               $            5,134      $           12,262
+   Due from related parties                                                             2,953                   3,055
+   Prepaid expenses                                                                     6,602                   7,311
+   Total Current Assets                                                                14,689                  22,628
+                                                                          ---------------------   -------------------
+
+Deposits                                                                               21,547                  60,033
+Property, plant and equipment, net (Note 4)                                           394,652                 180,039
+                                                                          ---------------------   -------------------
+
+TOTAL ASSETS                                                               $          430,888      $          262,700
+                                                                          =====================   ===================
+
+
+LIABILITIES AND STOCKHOLDERS' DEFICIT
+
+Current Liabilities
+    Accounts payable                                                       $          654,249      $          503,883
+    Accounts payable - related parties                                                110,088                 110,542
+    Accrued liabilities (Notes 5 and 9)                                             2,194,247               1,596,213
+   Note payable to related parties (Note 6)                                           124,178                  85,193
+                                                                          ---------------------   -------------------
+   Total Current Liabilities                                                        3,082,762               2,295,831
+                                                                          ---------------------   -------------------
+
+Notes payable (Note 4)                                                                193,640                       -
+                                                                          ---------------------   -------------------
+
+TOTAL LIABILITIES                                                                   3,276,402               2,295,831
+
+Commitments and contingencies (Note 7)
+
+STOCKHOLDERS' DEFICIT
+
+Common Stock
+    Common stock, $0.001 par value 675,000,000 shares authorized;
+       196,886,577, and 195,233,427 common shares issued at
+       September 30, 2011 and December 31, 2010, respectively                         196,887                 195,233
+    Additional paid-in capital                                                     30,241,439              29,392,934
+    Accumulated other comprehensive income                                              2,499                   2,499
+    Cumulative foreign currency translation adjustment                                 (7,934)               (125,745)
+   Deficit accumulated during the development stage                               (33,278,405)            (31,498,052)
+                                                                          ---------------------   -------------------
+   Total Stockholders' Deficit                                                     (2,845,514)             (2,033,131)
+                                                                          ---------------------   -------------------
+
+TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIT                                $     430,888           $      262,700
+                                                                          =====================   ===================
+
+
+
+                The accompanying notes are an integral part of these statements.
+                                               F-4
+</TABLE>
+
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+
+                                    ECOTECH ENERGY GROUP INC.
+                                  (A Development-Stage Company)
+
+                  CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+                                           (Unaudited)
+
+                                      For the             For the              For the             For the            November 28,
+                                   three-months        three-months          nine-months         nine-months              2007
+                                       ended               ended                ended               ended            (Inception) to
+                                   September 30,       September 30,        September 30,       September 30,        September 30,
+                                       2011                2010                 2011                 2010                 2011
+                                  ----------------    ---------------     ----------------    -----------------    -----------------
+<S>                            <C>                 <C>                 <C>                 <C>                  <C>
+
+Revenues                       $                -  $               -   $                -  $                 -  $                 -
+
+Operating Expenses
+   General and administration             416,944            302,831            1,744,304           15,675,710           29,787,035
+   Research and development                     -                  -               17,437                    -              420,950
+                                  ----------------    ---------------     ----------------    -----------------    -----------------
+   Total operating expenses               416,944            302,831            1,761,741           15,675,710           30,207,985
+                                  ----------------    ---------------     ----------------    -----------------    -----------------
+
+Operating Loss                          (416,944)          (302,831)          (1,761,741)         (15,675,710)         (30,207,985)
+
+Other (Income) and Expenses
+   Loss on disposal of fixed                    -                  -                    -                    -                5,704
+   Interest expense                        13,515              4,774               36,245               23,788            2,267,675
+   Extinguishment of                            -                  -                    -                    -              700,535
+   Other income                                 -                  -                  (5)                    -             (83,222)
+                                  ----------------    ---------------     ----------------    -----------------    -----------------
+
+Net loss before income tax
+benefit                                 (430,459)          (307,605)          (1,797,981)         (15,699,498)         (33,098,677)
+
+Income tax benefit (Note 2)               (2,895)                 91             (17,628)             (17,320)             (55,700)
+                                  ----------------    ---------------     ----------------    -----------------    -----------------
+
+Net Loss                                (427,564)          (307,696)          (1,780,353)         (15,682,178)         (33,042,977)
+                                  ================    ===============     ================    =================    =================
+
+ Changes in cumulative foreign
+ currency translation
+ adjustment                             (160,020)             34,058            (117,811)               28,223                7,934
+                                  ----------------    ---------------     ----------------    -----------------    -----------------
+
+Comprehensive Loss             $        (267,544)  $       (341,754)   $      (1,662,542)  $      (15,710,401)  $      (33,050,911)
+                                  ================    ===============     ================    =================    =================
+
+Basic and diluted loss per
+common share                   $           (0.00)  $          (0.00)   $           (0.01)  $            (0.09)
+                                  ================    ===============     ================    =================
+
+Weighted Average Number of
+Shares Outstanding                    196,833,770        184,219,698          196,140,774          180,422,307
+                                  ================    ===============     ================    =================
+
+
+
+        The accompanying notes are an integral part of these statements.
+                                       F-5
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+
+                                    ECOTECH ENERGY GROUP INC.
+                                  (A Development-Stage Company)
+                              CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                           (Unaudited)
+                                                                                    For the
+                                                           For the nine           nine-months          Cumulative from
+                                                           months ended              ended            November 28, 2007
+                                                           September 30,         September 30,          (Inception) to
+                                                               2011                   2010            September 30, 2011
+<S>                                                 <C>                     <C>                   <C>
+
+Cash Flows From in Operating Activities
+     Net loss                                       $          (1,780,353)  $       (15,710,401)  $          (33,042,977)
+Adjustments to Reconcile Net Loss to Net Cash
+Used in Operating Activities:
+     Depreciation                                                   50,553                50,269                  197,698
+     Stock-based compensation                                      697,500            14,929,920               25,519,452
+     Accretion of beneficial conversion features                         -                     -                  541,131
+     Loss on extinguishment of convertible debt                          -                     -                  700,535
+     Financing costs                                                     -                     -                1,389,908
+     Income tax benefit on flow-through shares                    (17,628)                     -                 (17,628)
+Changes in operating assets and liabilities
+     Prepaid expenses                                                  493              (10,281)                  (8,962)
+     Deposits                                                       38,555              (41,352)                 (18,414)
+     Accounts payable                                              210,447                36,871                1,039,084
+     Accrued liabilities                                           665,548               284,298                1,847,389
+                                                        -------------------     -----------------    ---------------------
+       Net Cash Used in Operating Activities                     (134,885)             (460,676)              (1,852,784)
+
+Cash Flows From Investing Activities
+    Cash received in reverse acquisition                                 -                     -                    8,510
+    Purchase of property, plant and equipment                     (51,415)               (9,272)                (391,390)
+                                                        -------------------     -----------------    ---------------------
+       Net Cash Used in Investing Activities                      (51,415)               (9,272)                (382,880)
+
+Cash Flows From Financing Activities
+    Proceeds from notes payable to related parties                       -                     -                  153,950
+    Proceeds from notes payable                                          -                     -                        -
+    Proceeds from sale of common stock                              20,074               453,917                  653,735
+    Proceeds from sale of flow-through shares                      115,206                     -                  224,845
+    Proceeds from sale of convertible debentures                         -                     -                1,137,581
+    Loans from related parties                                      69,866                48,496                  109,348
+    Payments on convertible debentures                                   -              (24,055)                 (24,071)
+    Payments on Notes Payable                                            -                     -                        -
+    Payments on notes payable to related parties                  (27,214)               (1,925)                 (36,897)
+                                                        -------------------     -----------------    ---------------------
+       Net Cash Provided by Financing Activities                   177,932               476,433                2,218,491
+
+Foreign currency effect on cash                                      1,240                28,190                   22,307
+
+Net Increase (Decrease) in Cash and Cash                           (7,128)                34,675                    5,134
+
+Cash and Cash Equivalents, beginning balance                        12,262                   195                        -
+                                                        -------------------     -----------------    ---------------------
+
+Cash and Cash Equivalents, ending balance           $                5,134  $             34,870  $                 5,134
+                                                        ===================     =================    =====================
+
+
+                 The accompanying notes are an integral part of these statement
+                                               F-6
+
+
+<PAGE>
+
+
+                            ECOTECH ENERGY GROUP INC.
+                          (A Development Stage Company)
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                   (Unaudited)
+                                   (Continued)
+
+
+Supplemental Disclosure of Cash Flow Information
+     Cash paid for:
+         Interest                                     $                7,715  $                 -  $                 12,486
+                                                         ====================     ================     =====================
+         Income taxes                                 $                    -  $                 -  $                      -
+                                                         ====================     ================     =====================
+Supplemental Disclosure of Non-cash Investing and
+Financing Activities
+    Fair value of beneficial conversion feature of
+    convertible debentures                            $                    -  $                 -  $                544,307
+                                                         ====================     ================     =====================
+    Conversion of debentures into common stock        $                    -  $                 -  $              1,116,391
+                                                         ====================     ================     =====================
+    Premium on flow-through shares                    $                    -  $                 -  $                 36,306
+                                                         ====================     ================     =====================
+
+    Shares issued to extinguish debt                  $                    -  $                 -  $                 99,138
+                                                         ====================     ================     =====================
+    Accounts payable settled through the issuance
+    of stock                                          $               34,878  $                 -  $                133,291
+                                                         ====================     ================     =====================
+    Note payable issued to acquire land               $              204,760  $                 -  $                204,760
+                                                         ====================     ================     =====================
+
+
+
+
+                The accompanying notes are an integral part of these statements.
+                                               F-7
+</TABLE>
+
+<PAGE>
+
+
+                            ECOTECH ENERGY GROUP INC.
+                          (A Development-Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               September 30, 2011
+                                   (Unaudited)
+
+1.       BUSINESS
+
+         We are a  development-stage  renewable  energy  company  which plans to
+         manufacture biomass-fuelled combined heat and power (CHP) stations that
+         produce  renewable and sustainable  "green" energy  products.  Over the
+         past 30 years, ecoTECH Energy Group, Inc.  ("ecoTECH")  executives have
+         developed and refined a "proprietary thermal  gasification"  technology
+         to create  clean-burning  waste-to-energy  cogeneration Power Stations.
+         This  combined   heat  and  power  (CHP)   technology   produces:   (i)
+         electricity,  which can be channeled to utilities and end-users via the
+         electrical infrastructure grid (the "Grid"); and (ii) heat which can be
+         used to fuel a  torrefied  biomass  briquette  manufacturing  facility,
+         allowing  for a  "green-fuel"  offering  and  related  revenue  stream.
+         ecoTECH will  specialize in the  development and operation of CHP Power
+         Stations and intends to build five CHP Power Stations in North American
+         in the next five to seven years.  In March 2011,  the Company  acquired
+         land which it intends to utilize to build its first production plant if
+         construction and equity capital is raised by management.
+
+         During April 2011,  the Company  established  an operating  division in
+         Montana to engage in operations across the state to manufacture biomass
+         energy and grow / distribute our horticulture  products.  We have hired
+         three new members to ecoTECH's  management  team to head-up the Montana
+         division.
+
+         Also during April 2011, we entered into a Memorandum  of  Understanding
+         ("MOU") with Wayzata Investment Partners,  LLC ("Wayzata") to negotiate
+         a purchase  agreement  with Thompson  River Power,  LLC ("TRP") and its
+         manager,  Wayzata,  for the acquisition of 100% of the equity interests
+         in TRP. The Company has entered into a Due  Diligence  Phase related to
+         this  MOU,  and hopes to  solidify  it into a  binding  agreement  once
+         completed.
+
+
+2.       BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+         The accompanying unaudited interim consolidated financial statements of
+         ecoTECH have been prepared in  accordance  with  accounting  principles
+         generally accepted in the United States of America and the rules of the
+         Securities and Exchange  Commission,  and should be read in conjunction
+         with the audited  consolidated  financial  statements and notes thereto
+         contained  in the Form  10-K  filed  with the SEC.  In the  opinion  of
+         Management,   all   adjustments,   consisting   of   normal   recurring
+         adjustments,  necessary for a fair  presentation of financial  position
+         and results of operations for the interim  periods  presented have been
+         reflected herein. The results of operations for interim periods are not
+         necessarily indicative of the results to be expected for the full year.
+         Notes to our  consolidated  financial  statements  which  substantially
+         duplicate the  disclosures  contained in our Annual Report on Form 10-K
+         for the year ended December 31, 2010 have been omitted.
+
+         Use of Estimates
+
+         The  preparation of financial  statements in conformity with accounting
+         principles  generally accepted in the United States of America requires
+         management to make estimates and  assumptions  that affect the reported
+         amounts of assets and  liabilities  and the  disclosure  of  contingent
+         assets and liabilities at the date of the financial  statements and the
+         reported amounts of revenues and expenses during the reporting periods.
+         These  estimates are based on  management's  best  knowledge of current
+         events and  actions the Company  may  undertake  in the future.  Actual
+         results may ultimately  differ from those  estimates.  The  significant
+         estimates  made by management  relate to the estimation of the value of
+         the  Company's  common  stock.  Changes in  estimates  are  reported in
+         earnings in the period in which they become known.
+
+         Property, Plant and Equipment
+
+         Land  acquired by purchase  is  recorded at cost.  The amount  recorded
+         includes  the  cost of the  land,  as well as any  related  acquisition
+         costs.
+
+
+
+                                       F-8
+<PAGE>
+
+                            ECOTECH ENERGY GROUP INC.
+                          (A Development-Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               September 30, 2011
+                                   (Unaudited)
+
+         Flow-Through Shares Financing
+
+         The Company has financed a portion of its development-stage  activities
+         through the issue of flow-through  shares,  which transfer the Canadian
+         tax deductibility of exploration expenditure to the investor.  Proceeds
+         received  from the  issuance of such shares are  allocated  between the
+         offering of shares and the sale of tax benefits. The allocation is made
+         based on the  difference  between the price of the existing  shares and
+         the amount the investor pays for the shares.  A liability is recognized
+         for the  difference.  Resource  expenditure  deductions  for income tax
+         purposes  related to exploration and development  activities  funded by
+         flow-through   share   arrangements   are  renounced  to  investors  in
+         accordance  with  the  income  tax  legislation  in  Canada.   On  such
+         renunciation,  a deferred tax  liability  is created and the  liability
+         recognized at issuance reversed.  The Company recognized the benefit of
+         tax losses (based on a combined Canadian federal and provincial rate of
+         13.5%) to offset the deferred tax liability  resulting in an income tax
+         recovery.  During the three months ended  September 30, 2011,  the flow
+         through  shares sold  generated a current income tax benefit of $2,895,
+         as  reflected  in  the   accompanying   statements  of  operations  and
+         comprehensive loss.
+
+
+3        GOING CONCERN
+
+         The accompanying  consolidated  financial statements have been prepared
+         in conformity  with  generally  accepted  accounting  principles in the
+         United  States  of  America,  which  contemplates  continuation  of the
+         Company as a going  concern.  The  Company  has  incurred  losses  from
+         Inception  to  September  30,  2011 of  $33,042,977  and  used  cash in
+         operating activities of $1,852,784.  At September 30, 2011, the Company
+         had limited  available  capital.  These matters raise substantial doubt
+         about the Company's ability to continue as a going concern.  In view of
+         these matters, realization of certain of the assets in the accompanying
+         balance  sheets are dependent  upon the  Company's  ability to meet its
+         financing  requirements  and  raise  additional  capital,  and upon the
+         success of its  future  operations.  The  Company  requires  additional
+         capital  of  approximately  $600,000  to  $1,200,000  to  continue  its
+         development   activities  and  provide   working  capital  for  general
+         corporate  purposes for the next 12 months.  In  addition,  the Company
+         needs  to  obtain  financing  of  approximately  $160,000,000  for  the
+         construction of the proposed 60 Megawatt  plant.  There is no assurance
+         that  our  capital  raising  plans  will  be  successful  in  obtaining
+         sufficient  funds to assure the eventual  profitability of the Company.
+         We believe that actions planned and presently being taken to revise the
+         Company's operating and financial  requirements provide the opportunity
+         for the  Company  to  continue  as a going  concern.  The  consolidated
+         financial  statements do not include any adjustments  that might result
+         from these uncertainties.
+
+
+4        PROPERTY, PLANT AND EQUIPMENT
+
+         Acquisition of Land
+
+         On March 16, 2011 our wholly  owned  subsidiary,  ecoTECH  Energy Group
+         (Canada) Inc., completed its acquisition of a parcel of land located in
+         McBride,  British  Columbia.  We  purchased  the  property  from Tralee
+         Investments Ltd for an aggregate  purchase price of $257,075,  of which
+         $51,415  was paid in cash and the  remaining  is  subject to a mortgage
+         from the seller, which is included in notes payable on the accompanying
+         balance sheet. There is no material relationship (other than in respect
+         of the transaction)  between us, our subsidiary purchaser and seller or
+         any  of our  affiliates,  or any  of  our  directors,  officers  or any
+         associate of any of our officers and directors.
+
+         The  mortgage is for 200,000  Canadian  dollars,  which  translates  to
+         $200,351 as of September 30, 2011. The mortgage accrues simple interest
+         at 8% annually, calculated monthly, but not in advance, over a two year
+         term  expiring  March 15, 2013 and is secured by the land.  Payments of
+         $1,587 are due monthly,  with a balloon  payment at  expiration.  As of
+         September 30, 2011,  interest expense of approximately $8, 866 has been
+         recorded in relationship to this note.
+
+
+
+                                       F-9
+<PAGE>
+
+                            ECOTECH ENERGY GROUP INC.
+                          (A Development-Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               September 30, 2011
+                                   (Unaudited)
+
+         Property, plant and equipment consist of the following:
+
+<TABLE>
+<CAPTION>
+
+                                                         September 30, 2011           December 31, 2010
+                                                    --------------------------------------------------------
+<S>                                                 <C>                           <C>
+
+           Land                                                $     257,075      $                      -
+           Computer hardware                                         110,458                       110,458
+           Computer software                                          23,904                        23,904
+           Furniture and fixtures                                     20,043                        20,043
+           Equipment                                                  33,463                        33,463
+           Leasehold improvements                                    139,600                       139,600
+           Website                                                    14,463                        14,463
+           Less accumulated depreciation                           (204,354)                     (161,892)
+                                                    --------------------------------------------------------
+           Total property, plant and equipment, net            $     394,652      $                180,039
+                                                    ========================================================
+
+         Depreciation  expense for the three and nine-months ended September 30,
+         2011 and 2010 and for the period from  Inception to September  30, 2011
+         was $16,840, $21,943 $50,553, $50,269, and $197,698, respectively.
+
+
+5        ACCRUED LIABILITIES
+
+         Accrued liabilities by major classification are as follows:
+
+                                                        September 30, 2011            December 31, 2010
+                                                      -------------------------   ---------------------------
+
+         Accrued interest                             $               19,209      $                 18,832
+         Accrued wages and payroll taxes                           1,863,438                     1,302,381
+         Accrued consulting fees                                     311,600                       275,000
+                                                      -------------------------   ---------------------------
+
+         Total accrued liabilities                    $            2,194,247      $              1,596,213
+                                                      =========================   ===========================
+</TABLE>
+
+         Accrued  liabilities  balances reflected above include interest accrued
+         on note payable and convertible debenture balances outstanding, accrued
+         payroll  and related  payroll  taxes,  accrued  fees due to an external
+         consulting  firm, and the  flow-through  share premium  liability which
+         represents a premium  payment  paid by  investors  for shares of common
+         stock purchased under a tax-advantage  program. The Company must record
+         this  premium  until  they  comply  with the  provisions  of the Canada
+         Revenue Agency ("CRA")  program by submitting an annual form containing
+         eligible expenses submitted for tax exemption,  thus renouncing the tax
+         benefit.
+
+
+6        NOTES PAYABLE TO RELATED PARTIES
+
+         On February 5, 2009,  the Company  borrowed  $99,137 from a shareholder
+         for  operating  capital,  and  agreed to repay the  principal  plus 10%
+         annual  interest in 90 days. On September 8, 2009, the note was amended
+         to pay interest at 20% interest per annum and matured in 90 days.  Upon
+         default, the note continues to earn 20% per annum. On November 1, 2010,
+         the note holder converted the principal  balance into 312,500 shares of
+         private  company common stock  (pre-acquisition).  The Company has paid
+         $9,707 of the $27,959 interest accrued on the note. Accrued interest of
+         $19,251 remains to be paid as of September 30, 2011.
+
+         The Company  borrowed from a shareholder  for operating  capital.  This
+         loan is  non-interest  bearing  and does not have a  specific  maturity
+         date.  Management did not impute interest as such amount was not deemed
+         significant.
+
+         See Note 9 for additional related party transactions.
+
+
+                                      F-10
+<PAGE>
+
+                            ECOTECH ENERGY GROUP INC.
+                          (A Development-Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               September 30, 2011
+                                   (Unaudited)
+
+7        COMMITMENTS AND CONTINGENCIES
+
+         Operating Leases
+
+         The Company leases office space in Langley,  British Columbia,  Canada.
+         The office lease became effective on April 1, 2008 and is for a term of
+         five years. Basic rent for the first three years is $4,794.  Basic rent
+         for the last two years increases  approximately 7% to $5,113 per month.
+         In addition to basic rent and applicable  taxes,  the Company will also
+         be  responsible  for varying  operating  expenses  (HVAC,  assessments,
+         utilities and service charges, licenses and permits) as they arise.
+
+         The Company leases an automobile, under a four-year term agreement, for
+         use by one of its directors,  with current lease payments of $1,239 per
+         month.
+
+         Actual  office  rent  expense,   including  all  applicable  taxes  and
+         operating costs, for the three and nine-months ended September 30, 2011
+         and 2010 and the period  from  Inception  to  September  30,  2011 were
+         $25,537, $21,932, $73,684, $66,024, and $325,677, respectively.
+
+         Litigation
+
+         The Company is involved in claims and  litigation  from time to time in
+         the normal course of business.  Management of the Company believe there
+         are no matters  pending  that are  expected to have a material  adverse
+         effect on the  business  of the  Company,  their  financial  condition,
+         results of operations or cash flows.
+
+
+8        STOCKHOLDERS' DEFICIT
+
+         Issuance of Stock
+
+         On January 4, 2011,  the Company  satisfied a $5,037  accounts  payable
+         balance  by issuing  18,518  shares of common  stock of ecoTECH  Energy
+         Group,  Inc.  to  a  utility  company,   based  on  a  stock  price  of
+         approximately  $0.27  per  share.  These  shares  contain  an 18  month
+         restriction from the date of issuance.
+
+         During  February  2011,  the Company  raised $8,046 through the sale of
+         29,366 shares common stock via  subscription  agreements  sold to three
+         investors, based on a stock prices between $0.25 and $0.32 per share.
+
+         During February 2011, the Company established a private equity offering
+         to Canadian investors to raise operating capital.  The offering was for
+         "CRCE  Flow-Through  Shares" of common  stock,  whereas CRCE is defined
+         under section 1219 of the Income Tax Regulations as "Canadian Renewable
+         and Conservation Expense" for the purposes of subsection 66.1(6) of the
+         Canadian  Income Tax  Act..CRCE  is  included in  calculating  Canadian
+         Exploration   Expense  and  is  eligible  to  be   renounced   under  a
+         flow-through  share  agreement.  Investment  in these shares allows for
+         specific income tax benefits for Canadian  individual  filers, in which
+         specific  expenses  incurred by the Company is passed  through to these
+         investors to recognize  (pro-rated) on their individual Canadian income
+         tax returns.
+
+         During  March 2011,  the  Company  raised  $86,926  through the sale of
+         169,288 shares common stock via  subscription  agreements  sold,  under
+         guidelines  of the  Canadian  Renewable  Conservation  Expense  program
+         ("CRCE")  to six  investors,  based on a stock  price of  approximately
+         $0.51 per share, for which $13,093 in commissions were paid relative to
+         the sale of this  stock.  In  accordance  with  the sale of CRCE  "flow
+         through shares", the Company recognized an income tax credit of $11,582
+         at  March  31,  2011,  on  the  accompanying  statement  of  operations
+         contained herein.
+
+         During April and May 2011,  the Company  raised $22,839 though the sale
+         of 44,000 shares of common stock via subscription agreements sold under
+         the guidelines of the CRCE program to three investors, based on a stock
+         price of approximately $0.52 per share, for which $2,088 in commissions
+         were paid relative to the sale of this stock.  In  accordance  with the
+         sale of CRCE "flow through  shares",  the Company  recognized an income
+         tax  credit  of $2,970  at  September  30,  2011,  on the  accompanying
+         statement of operations and comprehensive loss contained herein.
+
+
+                                      F-11
+<PAGE>
+
+                            ECOTECH ENERGY GROUP INC.
+                          (A Development-Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               September 30, 2011
+                                   (Unaudited)
+
+         On May 1, 2011 the Company  issued  750,000 shares to a director of the
+         Company for prior services rendered.  These shares were valued based on
+         the  stock  price of $0.40  per share and  charged  to  operations.  In
+         addition, on May 10, 2011 in connection with an employment arrangement,
+         the board of directors approved the issuance of 2,000,000 shares of the
+         Company's  common  stock  over a  period  of 18  months  to  its  Chief
+         Financial  Officer.  In connection  therewith,  Company  issued 500,000
+         fully-vested  shares of common  stock to the  officer  based on a stock
+         price of $0.45 per share,  the estimated  grant-date  fair value on May
+         10, 2011. The remaining 1,500,000 shares, valued at the grant-date fair
+         value of $675,000, cliff vest evenly on November 10, 2011, May 10, 2012
+         and November 10, 2012, and will be amortized to expense over the period
+         of 18 months.  During the  nine-months  ended  September 30, 2011,  the
+         Company recognized  aggregate  stock-based  compensation expense in the
+         amount $697,500 for the above services which is included in general and
+         administrative expenses.
+
+         On May 31,  2011,  the  Company  satisfied a $29,841  accounts  payable
+         balance  by issuing  64,785  shares of common  stock of ecoTECH  Energy
+         Group,  Inc.  to  a  utility  company,   based  on  a  stock  price  of
+         approximately  $0.45  per  share.  These  shares  contain  an 18  month
+         restriction from the date of issuance.
+
+         During August and September 2011, the Company raised $21,230 though the
+         sale of 42,000 shares of common stock via subscription  agreements sold
+         under the guidelines of the CRCE program to two  investors,  based on a
+         stock  price of  approximately  $0.51 per  share,  for which  $1,003 in
+         commissions were paid relative to the sale of this stock. In accordance
+         with the sale of CRCE "flow through shares",  the Company recognized an
+         income tax credit of $2,835 at September 30, 2011, on the  accompanying
+         statement of operations and comprehensive loss contained herein.
+
+         During the three-month  period from July to September 2011, the Company
+         raised  $12,157  through  the sale of 32,353  shares  common  stock via
+         subscription  agreements sold to four investors,  based on stock prices
+         between $0.20 and $0.43 per share.
+
+         Stock based  compensation  expense for the three and nine-months  ended
+         September  30,  2011 and  2010 and for the  period  from  Inception  to
+         September  30,  2011  was  $112,500,  $0,  $697,500,  $14,929,920,  and
+         $25,519,452, respectively.
+
+         Foreign Currency Translation
+
+         The  exchange  rates  used to  translate  amounts in  Canadian  Dollars
+         ("CAD$")  into U.S.  Dollars  ("US") for the purposes of preparing  the
+         consolidated  financial statements were as follows: As of September 30,
+         2011 and December 31, 2010,  the Company used the  period-end  rates of
+         exchange for assets and  liabilities of CAD$1 to US$0.9682 and CAD$1 to
+         US$1.0015, respectively.
+
+         For the nine months ended September 30, 2011 and 2010, the Company used
+         the period's average rate of exchange to convert  revenues,  costs, and
+         expenses of CAD$1 to US$1.0230 and CAD$1 to US$0.9622, respectively.
+
+
+                                      F-12
+<PAGE>
+
+                            ECOTECH ENERGY GROUP INC.
+                          (A Development-Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               September 30, 2011
+                                   (Unaudited)
+
+9        RELATED PARTY TRANSATIONS
+
+         Related-Party Payables
+
+         Related party payables  represent balances in accounts payable that are
+         owed to directors and  shareholders.  These  payables are primarily for
+         unreimbursed  travel and  entertainment  expenses incurred on behalf of
+         the  Company.  The  respective  parties  have  agreed  to  defer  these
+         payables,  interest-free,  until a time at which the Company has raised
+         sufficient capital.
+
+         Accrued Wages
+
+         Due to capital  restraints,  management  has deferred  certain of their
+         monthly  salaries  until  capital is available.  Although  there are no
+         employment  agreements,  the Chief Executive  Officer earns $18,000 per
+         month;  The Chief  Operating  Officer  earns  $10,000  per  month;  the
+         Executive  Vice  President of Business  Development  earns  $10,000 per
+         month;  the Executive Vice  President of Engineering  earns $10,000 per
+         month,  and the Vice  President  of  Administration  earns  $10,000 per
+         month.
+
+         Shareholder Loans
+
+         From time to time,  the four  founding  directors  loaned  money to the
+         Company for general  operating  capital.  These loans are repaid to the
+         respective  directors  when  additional  capital is raised.  Due to the
+         short-term  nature of these loans, the  officers/directors  agreed that
+         they  would  not  be  interest  bearing,   and  are  due  upon  demand.
+         Shareholder  loans are included in notes payable to related  parties on
+         the accompanying  balance sheet.  Net proceeds from  shareholder  loans
+         during the nine-months ended September 30, 2011 were $42,652.
+
+
+10       SUBSEQUENT EVENTS
+
+         Issuances of Stock
+
+         During  October  2011,  we sold 15,625 common shares of common stock to
+         one  investor  for a cash  payment of $5,000.  On October  26, 2011 the
+         Board of Directors passed a resolution to issue 2,900,000 common shares
+         of  common  stock as stock  based  compensation  at a value of $.45 per
+         share.
+
+
+
+
+
+
+
+
+
+
+
+                                      F-13
+<PAGE>
+
+
+Item 2.    MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATIONS
+
+The following information and discussion should be read in conjunction with such
+consolidated  financial  statements  and  notes  thereto.   Additionally,   this
+Management's  Discussion  and  Analysis of  Financial  Condition  and Results of
+Operation contains certain  statements that are not strictly  historical and are
+"forward-looking"  statements  within  the  meaning  of the  Private  Securities
+Litigation Reform Act of 1995 and involve a high degree of risk and uncertainty.
+Actual results may differ materially from those projected in the forward-looking
+statements  due to other  risks and  uncertainties  that exist in the  Company's
+operations,  development efforts and business  environment,  the other risks and
+uncertainties  described  in the section  entitled  "Cautionary  Note  Regarding
+Forward-Looking  Statements"  at the front of this Report on Form 10-Q,  and our
+"Risk Factors" section herein. All  forward-looking  statements  included herein
+are based on information available to the Company as of the date hereof, and the
+Company assumes no obligation to update any such forward-looking statement.
+
+CORPORATE HISTORY
+
+We were incorporated  under the laws of the State of Nevada on November 16, 2005
+under the name "Sea 2 Sky Corporation". We were initially established to provide
+travel  related  services to tourists in Canada and other  countries.  Due to an
+economic downturn, we abandoned the travel service business in the first half of
+fiscal 2009. Accordingly, results from operations related to the travel business
+have  been  reclassified  from  current   operations  to  that  of  discontinued
+operations  for proper  financial  presentation.  Effective  March 1,  2009,  we
+transitioned  our  business  focus  to that  of a  world-wide  renewable  energy
+provider, and became a development-stage company that intended to obtain sources
+of biomass  supply  streams and convert  them into green or  alternative  energy
+products.
+
+On November 12, 2010, pursuant to the terms of a business combination agreement,
+we acquired  100 percent of the issued and  outstanding  common stock of ecoTECH
+(Canada),  Inc. for approximately 110 million shares of our common stock,  which
+were distributed to the shareholders of the acquired  company.  ecoTECH (Canada)
+was amalgamated with 7697112 Canada Corp., a federally incorporated company that
+was our wholly owned subsidiary,  and as a result of this amalgamation,  ecoTECH
+(Canada)  became  our  wholly  owned   subsidiary.   ecoTECH   (Canada)  has  no
+subsidiaries  and is not a reporting issuer in any jurisdiction of Canada or the
+United States.
+
+This common stock  transaction,  which represented a majority of the then issued
+and outstanding shares of Sea 2 Sky Corporation, constituted a change in control
+of the Company. As such, on December 20, 2010, Sea 2 Sky Corporation changed its
+name to ecoTECH Energy Group Inc. and its trading symbol to "ECTH". Furthermore,
+upon close of the  acquisition,  the  Company  changed  its fiscal  year-end  to
+December 31.
+
+OUR BUSINESS
+
+Our  business  will  encompass   development   activities   culminating  in  the
+construction and long-term  operation of biomass energy  production  plants.  As
+such,  we are  currently in the stage of finding  suitable  locations,  securing
+proper financing for building plants,  and deploying  project  opportunities for
+converting woody biomass  feedstock into torrefied  bio-energy  products such as
+electricity via gasification  process,  activated  carbon,  and "green coal" via
+pelletization  process.  As we build these  plants,  we intend to  increase  our
+number of employees appropriately.
+
+The Company  intends to  strategically  position  multiple CHP Power Stations in
+order to:
+
+     o    Reduce the  reliance on fossil fuels by  providing a  sustainable  and
+          environmentally   friendly   source  of  energy   and  fuel   products
+          manufactured from local biomass feed-stocks;
+     o    Meet specific local needs for decentralized  power, while reducing the
+          cost of biomass transportation;
+     o    Assist  communities  to meet  federal and state  renewable  energy and
+          reduced emissions mandates; and,
+     o    Provide  local  jobs  and  community   development   for  the  project
+          communities.
+
+Long-term  markets  and goals  have been  identified  for each of our  projects,
+designed to fulfill corporate, investor and shareholder requirements.  These can
+be summarized as follows:
+
+                                       14
+<PAGE>
+
+Renewable Energy Production and Sales:
+
+CHP Power  Stations are modular  units built in chains to meet  specified  power
+needs of the community or  communities.  Combined heat and power are produced in
+variable  ratios,  depending on the  application.  Local fiber  availability and
+transmission  bandwidth are two limiting factors when determining total capacity
+to construct.  Hence,  a Power  Station is  expandable  and flexible to changing
+environments. Each Power Station project brings baseline income for two to three
+decades.  Power supply purchase agreements run from five to thirty years, and we
+generally  expect a return on investment  circa 25%, being  unaffected by market
+trends.
+
+Green Fuel Production:
+
+Torrefied  Briquettes,   "Green-fuel",   production  allows  an  alternative  to
+coal-fired  energy  manufacturers  in order to meet renewable energy mandates by
+established deadlines. When wood is roasted ("torrefied"), it becomes brittle at
+a certain  temperature  and takes on the attributes of coal, with the exceptions
+that it provides greater heat energy by weight,  is sustainably  renewable,  and
+meets the  mandated  criteria.  We intend to use surplus  heat  generated by the
+Power Stations to provide this torrefaction  process to woody biomass,  which is
+then formed into briquettes to be sold at respectable  margins on long-term fuel
+supply  contracts with coal-fired  power stations.  This allies our efforts with
+the existing coal power giants,  where helping them gives access to transmission
+facilities  that would not be afforded a competitor.  Our  projections  indicate
+this business segment offers a return on investment (ROI) of approximately 20%.
+
+Ancillary Operations:
+
+Food Production  Projects are  interrelated  self-contained  businesses that can
+evolve around the Power Stations, utilizing the surfeit of energy by-products to
+support local hydroponic greenhouses and aquaculture fish facilities.
+
+PLAN OF OPERATIONS
+
+The  Company  requires  an  additional  capital  of  approximately  $600,000  to
+$1,200,000 to continue its  development  activities and provide  working capital
+for general corporate purposes for the next 12 months. In addition,  the Company
+needs to obtain financing of approximately  $160,000,000 for the construction of
+the proposed 60 Megawatt  plant.  There is no assurance that our capital raising
+plans will be  successful in obtaining  sufficient  funds to assure the eventual
+profitability of the Company.
+
+Currently, our development stage operations have been funded through the sale of
+our common stock.  We plan to raise  additional  funds through Federal and State
+grants, loan guarantees,  and project debt financings or through future sales of
+our common  stock,  until such time as our revenues are  sufficient  to meet our
+cost  structure,  and  ultimately  achieve  profitable  operations.  There is no
+assurance that we will be successful in raising  additional capital or achieving
+profitable operations.  Our consolidated financial statements do not include any
+adjustments that might result from the outcome of these uncertainties.
+
+McBride, British Columbia, Canada
+---------------------------------
+
+On March 16, 2011, we finalized the purchase of land for the planned first plant
+location  in  McBride,  British  Columbia.  The land will be used for one of the
+Company's biomass energy production plants along with hydroponic greenhouses and
+fish  propagation  facilities,  scheduled for start of construction  late spring
+2012
+
+During the following  months,  the Company plans to fund the construction of its
+first CHP Power Station projects in McBride,  British Columbia,  Canada, through
+debt  financing  (acquired,  subject to successful  due  diligence)  and private
+placement  equity  funding,  obtaining  the  estimated  $160  million in capital
+required for completion of this two-phase project.  Through  proprietary thermal
+gasification technology,  this plant is expected to create a total of 60 MW/hour
+of  electricity  which can be channeled via the Grid to utilities and end-users;
+and heat  which can be used to fuel  ancillary  operations  such as large  scale
+
+                                       15
+<PAGE>
+
+(four-hectare) hydroponic greenhouses, and food fish propagation facilities. The
+Company  has  already  secured  long-term   large-tonnage  biomass  fuel  source
+agreements to fuel the plants.
+
+Montana
+-------
+
+During April 2011,  after  receiving  endorsement  by the  Governor's  office of
+Economic  Development,  the Company established an operating division in Montana
+to engage in operations across the state to manufacture  biomass energy and grow
+/ distribute our horticulture products.
+
+Also during April 2011,  we entered into a Memorandum of  Understanding  ("MOU")
+with  Wayzata  Investment  Partners,  LLC  ("Wayzata")  to  negotiate a purchase
+agreement with Thompson River Power, LLC ("TRP") and its manager,  Wayzata,  for
+the acquisition of 100% of the equity  interests in TRP. The Company has entered
+into a Due Diligence  Phase related to this MOU, and hopes to solidify it into a
+binding agreement once completed.
+
+During  fiscal 2010,  we signed a letter of intent  agreement  with the Northern
+Cheyenne Tribe of Montana to negotiate and enter into definitive  agreements for
+the location and operating of a 36MW biomass fuelled  power-plant on certain fee
+lands adjacent to the Northern Cheyenne Reservation. The agreement would provide
+for political and economic support, reservation biomass, labor contracting, land
+and water rights and many other mutual benefits.
+
+COMPARISON OF OPERATING RESULTS
+
+RESULTS OF OPERATION  FOR THE THREE MONTHS ENDED  SEPTEMBER 30, 2011 COMPARED TO
+THE THREE MONTHS ENDED SEPTEMBER 30, 2010
+
+Revenues
+We had no revenue for the three months ended  September  30, 2011 and 2010.  The
+lack of revenue in both periods is a direct  reflection of the change of control
+and  introducing  a new focus and  business  plan.  We do not intend to generate
+revenue in the near future until our business plan goals have been met.
+
+General and Administrative Expense
+Our general and  administrative  expenses  increased  to $416,944  for the three
+months ended  September  30, 2011,  from $302,831 for the  comparable  period in
+2010.  The  increase  during  the three  months  ended  September  30,  2011 was
+primarily attributable to the increase in stock based compensation of $112,500.
+
+Interest Expense
+Our  interest  expense  increased  to $13,515 for the three month  period  ended
+September 30, 2011,  from $4,774 for the  comparable  period  during 2010.  This
+increase is attributable to increased borrowings during the period.
+
+Loss from Operations
+Our net loss from  operations  increased  to $416,944 for the three months ended
+September  30,  2011,  from  $302,831  for the  comparable  period in 2010.  The
+increase  was  primarily  attributable  to the  increase  in stock  compensation
+expense of $112,500.
+
+RESULTS OF OPERATION  FOR THE NINE MONTHS ENDED  SEPTEMBER  30, 2011 COMPARED TO
+THE NINE MONTHS ENDED SEPTEMBER 30, 2010
+
+Revenues
+We had no revenue for the nine months  ended  September  30, 2011 and 2010.  The
+lack of revenue in both periods is a direct  reflection of the change of control
+and  introducing  a new focus and  business  plan.  We do not intend to generate
+revenue in the near future until our business plan goals have been met.
+
+                                       16
+
+<PAGE>
+
+
+General and Administrative Expenses
+Our general and  administrative  expenses  decreased to $1,744,304  for the nine
+months ended September 30, 2011, from  $15,675,710 for the comparable  period in
+2010. The decrease during the nine months ended September 30, 2011 was primarily
+attributable to a decrease in stock-based compensation of $14,232,420, offset by
+an  increase  of  $37,723  in  engineering  and  consulting  costs  incurred  in
+connection with preparing the business plan for BC Hydro Phase II on the McBride
+British  Columbia  project,  an increase of $269,491 in wages for an increase of
+four employees  relative to pursuing the new business focus,  and an increase of
+$56,943 in legal and audit costs inherent to public companies.
+
+Interest Expense
+Our  interest  expense  increased  to $36,245  for the nine month  period  ended
+September 30, 2011,  from $23,788 for the  comparable  period during 2010.  This
+increase is attributable to increased borrowings during the period.
+
+Loss from Operations
+Our net loss from  operations  decreased to $1,761,741 for the nine months ended
+September 30, 2011,  from  $15,675,710  for the  comparable  period in 2010. The
+decrease  during  the  nine  months  ended  September  30,  2011  was  primarily
+attributable to the reduction of share based compensation of $14,232,420 between
+the two periods.  Absent of stock  compensation,  current  period's  general and
+administrative expenses actually increased by $301,014, as described above.
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+We had total  assets of  $430,888  as of  September  30,  2011,  consisting  of,
+$394,652 in net fixed assets,  $21,547 in deposits,  $6,602 in prepaid expenses,
+and $2,953 in other receivables. We had a working capital deficit of $3,068,073.
+
+We had total  liabilities of $3,276,402 as of September 30, 2011,  consisting of
+$3,082,762 in current liabilities,  which included $654,249 of accounts payable;
+accrued wages of $1,863,438;  $311,600 in accrued  consulting  fees;  $19,209 in
+accrued  interest;  and short term debt of $234,266 to related  parties.  We had
+long term liabilities consisting of a land mortgage for $193,640.
+
+We had a total stockholders' deficit of $2,845,516 as of September 30, 2011, and
+an accumulated deficit as of September 30, 2011 of $33,278,405.
+
+We had  $134,885 in net cash used in  operating  activities  for the nine months
+ended  September  30, 2011,  which  included  $1,780,353 in net loss and $17,628
+income  tax  benefit  on  flow-through  shares  which was  offset by  $50,553 in
+depreciation;   $697,500  in  stock-based  compensation;  $210,447  in  accounts
+payable;  $665,548  in accrued  liabilities;  $38,555 in  deposits,  and $493 in
+prepaid expenses. This represents a decrease in cash used of $325,791 over prior
+year's  comparable  period,  which is primarily  attributable to the increase in
+accounts  payable  balances  and  accrued  salaries  due to limited  funds being
+available in the current period.
+
+We had $51,415 in net cash used by  investment  activities,  to  purchase  land,
+during the nine months ended  September  30, 2011.  This  represents an increase
+cash used in investment  activities over prior year's  comparable  period due to
+the purchase of land in the current period.
+
+We had $177,932 of net cash provided by financing activities for the nine months
+ended  September 30, 2011,  which included  $20,074 in proceeds from the sale of
+common stock and $115,206 in proceeds from the sale of flow-through  shares; and
+$42,652 in net proceeds from notes payable by related parties.
+
+On March 16, 2011, we acquired land of which $204,760 was financed through a two
+year note at 8%.
+
+Since we have no liquidity and have suffered losses, we depend to a great degree
+on the ability to attract  external  financing  in order to conduct our business
+activities  and in order  that we have  sufficient  cash on hand to  expand  our
+operations. These factors raise substantial doubt about the Company's ability to
+continue as a going concern.  If we are unable to raise additional  capital from
+
+                                       17
+<PAGE>
+
+conventional  sources,   including  increases  in  related  party  loans  and/or
+additional  sales of additional  stock, we may be forced to curtail or cease our
+operations.  Even if we are able to  continue  our  operations,  the  failure to
+obtain  financing  could have a substantial  adverse  effect on our business and
+financial  results.  We have no  commitments to provide us with financing in the
+future, other than described above. Our independent registered public accounting
+firm  included an  explanatory  paragraph  raising  substantial  doubt about the
+Company's ability to continue as a going concern.
+
+In the future, we may be required to seek additional  capital by selling debt or
+equity securities,  selling assets, or otherwise be required to bring cash flows
+in balance when it  approaches a condition  of cash  insufficiency.  The sale of
+additional  equity  securities,  if accomplished,  may result in dilution to our
+shareholders. We cannot assure you, however, that financing will be available in
+amounts or on terms acceptable to us, or at all.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+The  preparation  of the  Company's  financial  statements  in  conformity  with
+generally  accepted   accounting   principles  in  the  United  States  requires
+management to make assumptions and estimates that affect the reported amounts of
+assets,  liabilities,  revenues  and  expenses  as  well  as the  disclosure  of
+contingent  assets and  liabilities at the date of the financial  statements and
+the reported amounts of revenues and expenses during the reporting  period.  The
+following  is a summary  of the  significant  accounting  policies  and  related
+estimates that affect the Company's financial disclosures.
+
+         Foreign Currency Translations
+
+         The  functional  currency  is the  Canadian  dollar  and the  reporting
+         currency is the U.S.  dollar.  At each balance  sheet date,  assets and
+         liabilities  that are denominated in a currency other than U.S. dollars
+         are adjusted to reflect the current  exchange  rate which may give rise
+         to  a  foreign  currency  translation  adjustment  accounted  for  as a
+         separate  component  of  shareholders'  equity  and  included  in other
+         comprehensive loss.
+
+         Revenues and expenses are  translated at the average daily rate for the
+         year covering the financial  statement year to approximate  the rate of
+         exchange  on the  transaction  date.  Exchange  gains  and  losses  are
+         included in the determination of net income (loss) for the period.
+
+Off-Balance Sheet Arrangements
+
+We currently do not have any off-balance sheet arrangements.
+
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are a smaller  reporting company as defined by Rule 12b-2 of the Exchange Act
+and are not required to provide the information required under this item.
+
+
+ITEM 4.  CONTROLS AND PROCEDURES
+
+(a)  Evaluation  of  disclosure  controls and  procedures.  Our Chief  Executive
+Officer and Chief Financial  Officer,  after evaluating the effectiveness of our
+"disclosure  controls and procedures" (as defined in the Securities Exchange Act
+of 1934 Rules  13a-15(e) and  15d-15(e)) as of the end of the period  covered by
+this Quarterly Report on Form 10-Q (the "Evaluation  Date"), have concluded that
+as of the  Evaluation  Date, our  disclosure  controls and  procedures  were not
+effective to provide  reasonable  assurance that  information we are required to
+disclose in reports  that we file or submit  under the Exchange Act is recorded,
+processed,  summarized  and reported  within the time  periods  specified in the
+
+                                       18
+<PAGE>
+
+Securities and Exchange Commission rules and forms, and that such information is
+accumulated and  communicated  to our management,  including our Chief Executive
+Officer and Chief Financial Officer,  as appropriate,  to allow timely decisions
+regarding required disclosure.  In March 2011 our Independent  Registered Public
+Accounting  firm  identified  a lack of a  formal  review  process  for  account
+reconciliations and complex accounting and reporting matters which increases the
+risk that errors or omissions exist and go undetected by management. The Company
+will continue to take steps to identify matters of accounting and disclosure.
+
+(b) Changes in internal control over financial reporting.  There were no changes
+in our internal  control over financial  reporting during our most recent fiscal
+quarter  that  materially  affected,  or were  reasonably  likely to  materially
+affect, our internal control over financial reporting.
+
+Because of its inherent  limitations,  internal control over financial reporting
+may not prevent or detect misstatements.  Also, projections of any evaluation of
+effectiveness to future periods are subject to the risk that controls may become
+inadequate  because of changes in  conditions,  or that the degree of compliance
+with the policies or procedures may deteriorate.
+
+INHERENT LIMITATIONS OF INTERNAL CONTROLS
+
+Our internal control over financial  reporting is designed to provide reasonable
+assurance  regarding the reliability of financial  reporting and the preparation
+of consolidated  financial  statements for external  purposes in accordance with
+the U.S. GAAP.  Our internal  control over  financial  reporting  includes those
+policies and procedures that:
+
+     o    pertain to the  maintenance  of records that,  in  reasonable  detail,
+          accurately and fairly reflect the transactions and dispositions of our
+          assets;
+     o    provide  reasonable   assurance  that  transactions  are  recorded  as
+          necessary to permit preparation of consolidated  financial  statements
+          in  accordance   with  the  U.S.  GAAP,  and  that  our  receipts  and
+          expenditures are being made only in accordance with  authorizations of
+          our management and directors; and
+     o    provide reasonable  assurance regarding prevention or timely detection
+          of  unauthorized  acquisition,  use, or disposition of our assets that
+          could have a material effect on the consolidated financial statements.
+
+Management does not expect that our internal controls will prevent or detect all
+errors  and all  fraud.  A control  system,  no  matter  how well  designed  and
+operated,  can  provide  only  reasonable,  not  absolute,  assurance  that  the
+objectives  of the  control  system  are met.  Further,  the design of a control
+system  must  reflect  the fact that  there are  resource  constraints,  and the
+benefits of controls must be considered relative to their costs.  Because of the
+inherent  limitations in all control systems, no evaluation of internal controls
+can provide  absolute  assurance that all control issues and instances of fraud,
+if any,  have been  detected.  Also,  any  evaluation  of the  effectiveness  of
+controls in future periods are subject to the risk that those internal  controls
+may become  inadequate  because of changes in business  conditions,  or that the
+degree of compliance with the policies or procedures may deteriorate.
+
+
+                           Part II - OTHER INFORMATION
+
+ITEM 1.  LEGAL PROCEEDINGS
+
+To  the  best  of our  knowledge,  there  are no  known  or  pending  litigation
+proceedings against us.
+
+ITEM 1A. RISK FACTORS
+
+As a "smaller reporting company" as defined by Item 10 of Regulation S-K, we are
+not required to provide information required by this item.
+
+ITEM 2.  UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+During the period of July 1, 2011 through  September 30, 2011,  the Company made
+the following unregistered issuances of its equity.
+
+                                       19
+<PAGE>
+
+On May 1, 2011 the Company  issued  750,000  shares to a director of the Company
+based on a stock  price of $0.40 per  share.  In  addition,  on May 10,  2011 in
+connection with an employment  arrangement,  the board of directors approved the
+issuance of 2,000,000  shares of the Company's  common stock over a period of 18
+months to its Chief Financial Officer. In connection  therewith,  Company issued
+500,000  fully-vested  shares of common  stock to the  officer  based on a stock
+price of $0.45 per share,  the estimated  grant-date fair value on May 10, 2011.
+The remaining 1,500,000 shares, valued at the grant-date fair value of $675,000,
+vest evenly on November 10, 2011,  May 10, 2012 and November 10, 2012,  and will
+amortized  to expense  over the period of 18 months.  During the  quarter  ended
+September 30, 2011, the Company recognized stock based  compensation  expense in
+the amount $112,500.
+
+During August and September 2011, the Company raised $21,230 through the sale of
+42,000 shares common stock via subscription agreements sold under the guidelines
+of  the  Canadian  Renewable   Conservation  Expense  program  ("CRCE")  to  two
+investors,  based on a stock price of  approximately  $0.51 per share, for which
+$1,003  in  commissions  were  paid  relative  to the  sale  of this  stock.  In
+accordance with the sale of CRCE "flow through shares",  the Company  recognized
+an income  tax  credit of $2,835 at  September  30,  2011,  on the  accompanying
+statement of operations contained herein.
+
+During the three month period from July to September  2011,  the Company  raised
+$12,157  through  the  sale of  32,353  shares  common  stock  via  subscription
+agreements sold to four investors, based on stock prices between $0.20 and $0.43
+per share.
+
+Exemption From Registration Claimed
+
+All of the above sales by the Company of its  unregistered  securities were made
+by the Company in reliance upon Section 4(2) of the  Securities  Act of 1933, as
+amended (the "1933 Act"). All of the individuals  and/or entities that purchased
+the  unregistered  securities  were  known to the  Company  and its  management,
+through pre-existing business relationships. All purchasers were provided access
+to all material information, which they requested, and all information necessary
+to verify such information and were afforded access to management of the Company
+in  connection  with  their  purchases.   All  purchasers  of  the  unregistered
+securities  acquired such  securities  for investment and not with a view toward
+distribution,  acknowledging  such intent to the Company.  All  certificates  or
+agreements  representing such securities that were issued contained  restrictive
+legends,   prohibiting  further  transfer  of  the  certificates  or  agreements
+representing  such  securities,  without  such  securities  either  being  first
+registered  or  otherwise  exempt from  registration  in any  further  resale or
+disposition.
+
+ITEM 3.  DEFAULT UPON SENIOR SECURITIES
+
+None.
+
+ITEM 4.  (REMOVED AND RESERVED)
+
+ITEM 5.  OTHER INFORMATION
+
+None
+
+
+Item 6.           Exhibits
+
+(a) Pursuant to Item 601 of Regulation S-K, the following  exhibits are included
+herein.
+
+<TABLE>
+<CAPTION>
+
+Item
+No.              Description                                                                      Method of Filing
+-------------------------------------------------------------------------------------------------------------------
+<S>              <C>                                                                              <C>
+
+31.1             Certification of Chief Executive Officer pursuant to Rule 13a-14(a)              Filed herewith.
+
+31.2             Certification of Chief Financial Officer pursuant to Rule 13a-14(a)              Filed herewith.
+
+                                       20
+<PAGE>
+
+32.1             Chief Executive Officer Certification pursuant to 18 U.S.C.ss.1350 adopted
+                 pursuant to Section 906 of the Sarbanes Oxley Act of 2002                        Filed herewith.
+
+32.2             Chief Financial Officer Certification pursuant to 18 U.S.C.ss.1350 adopted
+                 pursuant to Section 906 of the Sarbanes Oxley Act of 2002                        Filed herewith.
+
+101.INS          XBRL Instance Document                                                           (1)
+
+101.SCH          XBRL Taxonomy Extension Schema Document                                          (1)
+
+101.CAL          XBRL Taxonomy Extension Calculation Linkbase Document                            (1)
+
+101.DEF          XBRL Taxonomy Extension Definition Linkbase Document                             (1)
+
+101.LAB          XBRL Taxonomy Extension Label Linkbase Document                                  (1)
+
+101.PREXBRL      Taxonomy Extension Presentation Linkbase Document                                (1)
+
+(1)  Pursuant to Rule 406T of  Regulation  S-T,  this  interactive  data file is
+deemed not filed or part of a registration  statement or prospectus for purposes
+of  Sections  11 or 12 of the  Securities  Act of 1933,  is deemed not filed for
+purposes of Section 18 of the Securities  Exchange Act of 1934, and otherwise is
+not subject to liability under these sections.
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       21
+<PAGE>
+
+
+                                   SIGNATURES
+
+ Pursuant  to the  requirements  of the  Securities  Exchange  Act of 1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+
+                                             ECOTECH ENERGY GROUP INC.
+
+
+
+November 21, 2011                           /s/ Colin V. Hall
+                                             -----------------
+                                             Colin V. Hall
+                                             Chairman
+                                             Principal Executive Officer
+
+
+
+
+
+November 21, 2011                            /s/ Barry Sheahan
+                                             ---------------------------
+                                             Barry Sheahan
+                                             Chief Financial Officer
+                                             Principal Accounting Officer
+
+
+
+
+
+
+
+
+
+
+
+                                       22
+</TEXT>
+</DOCUMENT>

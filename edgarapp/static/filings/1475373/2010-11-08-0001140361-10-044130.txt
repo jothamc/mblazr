@@ -1,0 +1,170 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PD319JHDHuz6K2mOHRDVHSvBhGKqzsnQtOSq3mdBxo3pPMQCpQ998tHuW7dJFAJI
+ q1ziy5CUPED7JdnuUyWnqw==
+
+<SEC-DOCUMENT>0001140361-10-044130.txt : 20101108
+<SEC-HEADER>0001140361-10-044130.hdr.sgml : 20101108
+<ACCEPTANCE-DATETIME>20101108132052
+ACCESSION NUMBER:		0001140361-10-044130
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100930
+FILED AS OF DATE:		20101108
+DATE AS OF CHANGE:		20101108
+EFFECTIVENESS DATE:		20101108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SECTOR GAMMA ASA
+		CENTRAL INDEX KEY:			0001475373
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			Q8
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13612
+		FILM NUMBER:		101171625
+
+	BUSINESS ADDRESS:	
+		STREET 1:		FILIPSTAD BRYGGE 2
+		STREET 2:		P.O. BOX 1994 VIKA
+		CITY:			OSLO
+		STATE:			Q8
+		ZIP:			0125
+		BUSINESS PHONE:		4723012936
+
+	MAIL ADDRESS:	
+		STREET 1:		FILIPSTAD BRYGGE 2
+		STREET 2:		P.O. BOX 1994 VIKA
+		CITY:			OSLO
+		STATE:			Q8
+		ZIP:			0125
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>form13f.txt
+<DESCRIPTION>SECTOR GAMMA ASA 13F-HR 09-30-2010
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    FORM 13F
+
+                              FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:  September 30, 2010
+
+Check here if Amendment [ ];          Amendment Number:
+This Amendment (Check only one):     [ ] is a restatement.
+                                     [ ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:                      Sector Gamma ASA
+Address:                   Filipstad Brygge 2, P.O. Box 1994 Vika
+                           Oslo, Norway 0125
+
+Form 13F File Number:      28-13612
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:        Tonje Vegarud
+Title:       Head of Settlements
+Phone:       +47 23012909
+
+Signature, Place and Date of Signing:
+
+/s/Tonje Vegarud                              Oslo, Norway     November 8, 2010
+
+Report Type (Check only one):
+
+[X]     13F HOLDINGS REPORT
+[ ]     13F NOTICE
+[ ]     13F COMBINATION REPORT
+
+List of Other Managers Reporting for this Manager: None
+
+<PAGE>
+                             FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of other Included Managers:                             0
+
+Form 13F Information Table Entry Total                        37
+
+Form 13F Information Table Value Total:     $485,958 (thousands)
+
+List of Other Included Managers:  None
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+          COLUMN 1              COLUMN 2    COLUMN 3  COLUMN 4     COLUMN 5       COLUMN 6  COLUMN 7      COLUMN 8
+- ---------------------------- -------------- --------- -------- ----------------- ---------- -------- -------------------
+                                                       VALUE   SHRS OR  SH/ PUT/ INVESTMENT  OTHER    VOTING AUTHORITY
+       NAME OF ISSUER        TITLE OF CLASS   CUSIP   (x$1000) PRN AMT  PRN CALL DISCRETION MANAGERS  SOLE   SHARED NONE
+- ---------------------------- -------------- --------- -------- -------- --- ---- ---------- -------- ------- ------ ----
+<S>                          <C>            <C>       <C>      <C>      <C> <C>  <C>        <C>      <C>     <C>    <C>
+ST JUDE MED INC              COM            790849103    46516  1182401 SH       SOLE       NONE     1182401      0    0
+LILLY ELI & CO               COM            532457108    42320  1158507 SH       SOLE       NONE     1158507      0    0
+ABBOTT LABS                  COM            002824100    36683   702200 SH       SOLE       NONE      702200      0    0
+BRISTOL MYERS SQUIBB CO      COM            110122108    33643  1240981 SH       SOLE       NONE     1240981      0    0
+BARD C R INC                 COM            067383109    23403   287400 SH       SOLE       NONE      287400      0    0
+WATSON PHARMACEUTICALS INC   COM            942683103    21759   514280 SH       SOLE       NONE      514280      0    0
+ONYX PHARMACEUTICALS INC     COM            683399109    19590   742600 SH       SOLE       NONE      742600      0    0
+QUEST DIAGNOSTICS INC        COM            74834L100    18321   363000 SH       SOLE       NONE      363000      0    0
+ENDO PHARMACEUTICALS HLDGS I COM            29264F205    17883   537996 SH       SOLE       NONE      537996      0    0
+CARDINAL HEALTH INC          COM            14149Y108    17855   540400 SH       SOLE       NONE      540400      0    0
+CVS CAREMARK CORPORATION     COM            126650100    16962   539000 SH       SOLE       NONE      539000      0    0
+BIOGEN IDEC INC              COM            09062X103    14788   263500 SH       SOLE       NONE      263500      0    0
+GENZYME CORP                 COM            372917104    12559   177410 SH       SOLE       NONE      177410      0    0
+CUBIST PHARMACEUTICALS INC   COM            229678107    12156   519700 SH       SOLE       NONE      519700      0    0
+NUVASIVE INC                 COM            670704105    11737   334000 SH       SOLE       NONE      334000      0    0
+LIFEPOINT HOSPITALS INC      COM            53219L109    11612   331200 SH       SOLE       NONE      331200      0    0
+VIROPHARMA INC               COM            928241108    11229   753100 SH       SOLE       NONE      753100      0    0
+GEN-PROBE INC NEW            COM            36866T103    11092   228900 SH       SOLE       NONE      228900      0    0
+MEDCO HEALTH SOLUTIONS INC   COM            58405U102    10933   210000 SH       SOLE       NONE      210000      0    0
+CHARLES RIV LABS INTL INC    COM            159864107    10906   329000 SH       SOLE       NONE      329000      0    0
+MEDTRONIC INC                COM            585055106    10544   314000 SH       SOLE       NONE      314000      0    0
+THERMO FISHER SCIENTIFIC INC COM            883556102     9145   191000 SH       SOLE       NONE      191000      0    0
+AETNA INC NEW                COM            00817Y108     8851   280000 SH       SOLE       NONE      280000      0    0
+LIFE TECHNOLOGIES CORP       COM            53217V109     8404   180000 SH       SOLE       NONE      180000      0    0
+FOREST LABS INC              COM            345838106     7423   240000 SH       SOLE       NONE      240000      0    0
+THORATEC CORP                COM NEW        885175307     5932   160400 SH       SOLE       NONE      160400      0    0
+HOLOGIC INC                  COM            436440101     5924   370000 SH       SOLE       NONE      370000      0    0
+AUXILIUM PHARMACEUTICALS INC COM            05334D107     5008   202100 SH       SOLE       NONE      202100      0    0
+COVENTRY HEALTH CARE INC     COM            222862104     4306   200000 SH       SOLE       NONE      200000      0    0
+MARTEK BIOSCIENCES CORP      COM            572901106     4012   177300 SH       SOLE       NONE      177300      0    0
+WELLPOINT INC                COM            94973V107     3965    70000 SH       SOLE       NONE       70000      0    0
+MOMENTA PHARMACEUTICALS INC  COM            60877T100     3010   200000 SH       SOLE       NONE      200000      0    0
+COMMUNITY HEALTH SYS INC NEW COM            203668108     2478    80000 SH       SOLE       NONE       80000      0    0
+KING PHARMACEUTICALS INC     COM            495582108     1743   175000 SH       SOLE       NONE      175000      0    0
+COOPER COS INC               COM NEW        216648402     1387    30000 SH       SOLE       NONE       30000      0    0
+ALKERMES INC                 COM            01642T108     1319    90000 SH       SOLE       NONE       90000      0    0
+UNITED THERAPEUTICS CORP DEL COM            91307C102      560    10000 SH       SOLE       NONE       10000      0    0
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

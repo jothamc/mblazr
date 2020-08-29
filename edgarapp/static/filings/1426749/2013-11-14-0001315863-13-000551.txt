@@ -1,0 +1,117 @@
+<SEC-DOCUMENT>0001315863-13-000551.txt : 20131114
+<SEC-HEADER>0001315863-13-000551.hdr.sgml : 20131114
+<ACCEPTANCE-DATETIME>20131114161053
+ACCESSION NUMBER:		0001315863-13-000551
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20130930
+FILED AS OF DATE:		20131114
+DATE AS OF CHANGE:		20131114
+EFFECTIVENESS DATE:		20131114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ancient Art, L.P.
+		CENTRAL INDEX KEY:			0001426749
+		IRS NUMBER:				010626221
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12920
+		FILM NUMBER:		131219944
+
+	BUSINESS ADDRESS:	
+		STREET 1:		610 WEST 5TH STREET
+		STREET 2:		SUITE 600
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+		BUSINESS PHONE:		512.351.4440
+
+	MAIL ADDRESS:	
+		STREET 1:		610 WEST 5TH STREET
+		STREET 2:		SUITE 600
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001426749</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>09-30-2013</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>09-30-2013</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Ancient Art, L.P.</name>
+        <address>
+          <com:street1>610 WEST 5TH STREET</com:street1>
+          <com:street2>SUITE 600</com:street2>
+          <com:city>AUSTIN</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>78701</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-12920</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Patricia Rench</name>
+      <title>Chief Compliance Officer</title>
+      <phone>512-351-4440</phone>
+      <signature>/s/ Patricia Rench</signature>
+      <city>Austin</city>
+      <stateOrCountry>TX</stateOrCountry>
+      <signatureDate>11-14-2013</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>26</tableEntryTotal>
+      <tableValueTotal>385947</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>ancientart3q13.inftab.xml
+<DESCRIPTION>ANCIENT ART, L.P. 13F 3RD QUATER 2013
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><infoTable><nameOfIssuer>ALASKA AIR GROUP INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>011659109</cusip><value>13796</value><shrsOrPrnAmt><sshPrnamt>220315</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>220315</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ALERE INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>01449J105</cusip><value>24673</value><shrsOrPrnAmt><sshPrnamt>807106</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>807106</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>AMERICAN INTL GROUP INC</nameOfIssuer><titleOfClass>COM NEW</titleOfClass><cusip>026874784</cusip><value>26328</value><shrsOrPrnAmt><sshPrnamt>541400</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>541400</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>APPLE INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>037833100</cusip><value>13349</value><shrsOrPrnAmt><sshPrnamt>28000</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>28000</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>CHARTER COMMUNICATIONS INC D</nameOfIssuer><titleOfClass>CL A NEW</titleOfClass><cusip>16117M305</cusip><value>16901</value><shrsOrPrnAmt><sshPrnamt>125417</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>125417</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>DFC GLOBAL CORP</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>23324T107</cusip><value>9310</value><shrsOrPrnAmt><sshPrnamt>847179</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>847179</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>EXPRESS SCRIPTS HLDG CO</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>30219G108</cusip><value>9888</value><shrsOrPrnAmt><sshPrnamt>160000</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>160000</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>GENCORP INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>368682100</cusip><value>18837</value><shrsOrPrnAmt><sshPrnamt>1175104</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>1175104</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>GENERAL MTRS CO</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>37045V100</cusip><value>16737</value><shrsOrPrnAmt><sshPrnamt>465305</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>465305</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>GOOGLE INC</nameOfIssuer><titleOfClass>CL A</titleOfClass><cusip>38259P508</cusip><value>18140</value><shrsOrPrnAmt><sshPrnamt>20710</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>20710</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>GREENLIGHT CAPITAL RE LTD</nameOfIssuer><titleOfClass>CLASS A</titleOfClass><cusip>G4095J109</cusip><value>1478</value><shrsOrPrnAmt><sshPrnamt>51961</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>51961</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>INTERACTIVE BROKERS GROUP IN</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>45841N107</cusip><value>54076</value><shrsOrPrnAmt><sshPrnamt>2881002</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>2881002</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>INTEROIL CORP</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>460951106</cusip><value>45</value><shrsOrPrnAmt><sshPrnamt>10000</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>10000</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>LIBERTY GLOBAL PLC</nameOfIssuer><titleOfClass>SHS CL A</titleOfClass><cusip>G5480U104</cusip><value>23440</value><shrsOrPrnAmt><sshPrnamt>295395</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>295395</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>LIBERTY GLOBAL PLC</nameOfIssuer><titleOfClass>SHS CL C</titleOfClass><cusip>G5480U120</cusip><value>1207</value><shrsOrPrnAmt><sshPrnamt>16000</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>16000</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>MARKET VECTORS ETF TR</nameOfIssuer><titleOfClass>JR GOLD MINERS E</titleOfClass><cusip>57061R544</cusip><value>2692</value><shrsOrPrnAmt><sshPrnamt>66075</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>66075</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>MICRON TECHNOLOGY INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>595112103</cusip><value>14803</value><shrsOrPrnAmt><sshPrnamt>847391</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>847391</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>MICRON TECHNOLOGY INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>595112103</cusip><value>651</value><shrsOrPrnAmt><sshPrnamt>171300</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>171300</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ORACLE CORP</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>68389X105</cusip><value>16141</value><shrsOrPrnAmt><sshPrnamt>486600</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>486600</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>PENN NATL GAMING INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>707569109</cusip><value>12310</value><shrsOrPrnAmt><sshPrnamt>222363</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>222363</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>POST HLDGS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>737446104</cusip><value>17222</value><shrsOrPrnAmt><sshPrnamt>426601</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>426601</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>PRESTIGE BRANDS HLDGS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>74112D101</cusip><value>29153</value><shrsOrPrnAmt><sshPrnamt>967908</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>967908</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>QUALITY DISTR INC FLA</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>74756M102</cusip><value>6581</value><shrsOrPrnAmt><sshPrnamt>712252</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>712252</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>SESA GOA LTD</nameOfIssuer><titleOfClass>SPONSORED ADR</titleOfClass><cusip>78413F103</cusip><value>3054</value><shrsOrPrnAmt><sshPrnamt>270998</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>270998</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>TEEKAY CORPORATION</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>Y8564W103</cusip><value>19353</value><shrsOrPrnAmt><sshPrnamt>452713</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>452713</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VALEANT PHARMACEUTICALS INTL</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>91911K102</cusip><value>15785</value><shrsOrPrnAmt><sshPrnamt>151295</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>151295</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable></informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

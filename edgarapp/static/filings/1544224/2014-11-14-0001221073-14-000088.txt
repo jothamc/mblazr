@@ -1,0 +1,132 @@
+<SEC-DOCUMENT>0001221073-14-000088.txt : 20141114
+<SEC-HEADER>0001221073-14-000088.hdr.sgml : 20141114
+<ACCEPTANCE-DATETIME>20141113214730
+ACCESSION NUMBER:		0001221073-14-000088
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20140930
+FILED AS OF DATE:		20141114
+DATE AS OF CHANGE:		20141113
+EFFECTIVENESS DATE:		20141114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			McCutchen Group LLC
+		CENTRAL INDEX KEY:			0001544224
+		IRS NUMBER:				830474653
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14925
+		FILM NUMBER:		141220173
+
+	BUSINESS ADDRESS:	
+		STREET 1:		925 FOURTH AVENUE
+		STREET 2:		SUITE 2288
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+		BUSINESS PHONE:		206-816-6850
+
+	MAIL ADDRESS:	
+		STREET 1:		925 FOURTH AVENUE
+		STREET 2:		SUITE 2288
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001544224</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>09-30-2014</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>09-30-2014</reportCalendarOrQuarter>
+      <filingManager>
+        <name>McCutchen Group LLC</name>
+        <address>
+          <ns1:street1>925 FOURTH AVENUE</ns1:street1>
+          <ns1:street2>SUITE 2288</ns1:street2>
+          <ns1:city>SEATTLE</ns1:city>
+          <ns1:stateOrCountry>WA</ns1:stateOrCountry>
+          <ns1:zipCode>98104</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-14925</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Ms. Sara M. Taylor</name>
+      <title>Chief Compliance Officer</title>
+      <phone>206-816-6850</phone>
+      <signature>/s/  Sara M. Taylor</signature>
+      <city>Seattle</city>
+      <stateOrCountry>WA</stateOrCountry>
+      <signatureDate>11-13-2014</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>15</tableEntryTotal>
+      <tableValueTotal>173919</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<DESCRIPTION>DESCRIPTION FOR INFORMATION TABLE
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><infoTable><nameOfIssuer>BARCLAYS BK PLC</nameOfIssuer><titleOfClass>DJUBS CMDT ETN36</titleOfClass><cusip>06738C778</cusip><value>7922</value><shrsOrPrnAmt><sshPrnamt>230481</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>230481</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ISHARES TR</nameOfIssuer><titleOfClass>COHEN&amp;STEER REIT</titleOfClass><cusip>464287564</cusip><value>1167</value><shrsOrPrnAmt><sshPrnamt>13817</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>13817</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ISHARES TR</nameOfIssuer><titleOfClass>MSCI EAFE ETF</titleOfClass><cusip>464287465</cusip><value>13737</value><shrsOrPrnAmt><sshPrnamt>214232</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>214232</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ISHARES TR</nameOfIssuer><titleOfClass>RUS 1000 ETF</titleOfClass><cusip>464287622</cusip><value>554</value><shrsOrPrnAmt><sshPrnamt>5046</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>5046</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ISHARES TR</nameOfIssuer><titleOfClass>RUSSELL 2000 ETF</titleOfClass><cusip>464287655</cusip><value>227</value><shrsOrPrnAmt><sshPrnamt>2078</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>2078</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ISHARES TR</nameOfIssuer><titleOfClass>RUSSELL 3000 ETF</titleOfClass><cusip>464287689</cusip><value>18100</value><shrsOrPrnAmt><sshPrnamt>154979</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>154979</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ISHARES TR</nameOfIssuer><titleOfClass>U.S. REAL ES ETF</titleOfClass><cusip>464287739</cusip><value>1222</value><shrsOrPrnAmt><sshPrnamt>17654</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>17654</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>SPDR GOLD TRUST</nameOfIssuer><titleOfClass>GOLD SHS</titleOfClass><cusip>78463V107</cusip><value>1687</value><shrsOrPrnAmt><sshPrnamt>14513</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>14513</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD INDEX FDS</nameOfIssuer><titleOfClass>LARGE CAP ETF</titleOfClass><cusip>922908637</cusip><value>481</value><shrsOrPrnAmt><sshPrnamt>5316</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>5316</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD INDEX FDS</nameOfIssuer><titleOfClass>REIT ETF</titleOfClass><cusip>922908553</cusip><value>10773</value><shrsOrPrnAmt><sshPrnamt>149938</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>149938</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD INDEX FDS</nameOfIssuer><titleOfClass>SMALL CP ETF</titleOfClass><cusip>922908751</cusip><value>466</value><shrsOrPrnAmt><sshPrnamt>4212</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>4212</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD INDEX FDS</nameOfIssuer><titleOfClass>TOTAL STK MKT</titleOfClass><cusip>922908769</cusip><value>21786</value><shrsOrPrnAmt><sshPrnamt>215193</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>215193</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD INTL EQUITY INDEX F</nameOfIssuer><titleOfClass>ALLWRLD EX US</titleOfClass><cusip>922042775</cusip><value>52678</value><shrsOrPrnAmt><sshPrnamt>1069814</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>1069814</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD INTL EQUITY INDEX F</nameOfIssuer><titleOfClass>FTSE EMR MKT ETF</titleOfClass><cusip>922042858</cusip><value>12056</value><shrsOrPrnAmt><sshPrnamt>289046</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>289046</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD TAX MANAGED INTL FD</nameOfIssuer><titleOfClass>FTSE DEV MKT ETF</titleOfClass><cusip>921943858</cusip><value>31063</value><shrsOrPrnAmt><sshPrnamt>781457</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>781457</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable></informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

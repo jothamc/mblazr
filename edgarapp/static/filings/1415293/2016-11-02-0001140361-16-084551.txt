@@ -1,0 +1,418 @@
+<SEC-DOCUMENT>0001140361-16-084551.txt : 20161102
+<SEC-HEADER>0001140361-16-084551.hdr.sgml : 20161102
+<ACCEPTANCE-DATETIME>20161102162317
+ACCESSION NUMBER:		0001140361-16-084551
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161102
+DATE AS OF CHANGE:		20161102
+EFFECTIVENESS DATE:		20161102
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sloane Robinson LLP
+		CENTRAL INDEX KEY:			0001415293
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12596
+		FILM NUMBER:		161968134
+
+	BUSINESS ADDRESS:	
+		STREET 1:		36 QUEEN STREET
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC4R 1BN
+		BUSINESS PHONE:		00442079292771
+
+	MAIL ADDRESS:	
+		STREET 1:		36 QUEEN STREET
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC4R 1BN
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001415293</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>09-30-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>09-30-2016</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Sloane Robinson LLP</name>
+        <address>
+          <com:street1>36 QUEEN STREET</com:street1>
+          <com:city>LONDON</com:city>
+          <com:stateOrCountry>X0</com:stateOrCountry>
+          <com:zipCode>EC4R 1BN</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-12596</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>John Cutler</name>
+      <title>Head of Legal and Compliance</title>
+      <phone>442079292771</phone>
+      <signature>/s/ John Cutler</signature>
+      <city>London</city>
+      <stateOrCountry>X0</stateOrCountry>
+      <signatureDate>11-02-2016</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>18</tableEntryTotal>
+      <tableValueTotal>191806</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">		<infoTable>
+			<nameOfIssuer>BANCO MACRO SA</nameOfIssuer>
+			<titleOfClass>SPON ADR B</titleOfClass>
+			<cusip>05961W105</cusip>
+			<value>407</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>5200</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>5200</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>HOLLYSYS AUTOMATION TECHNOLO</nameOfIssuer>
+			<titleOfClass>SHS</titleOfClass>
+			<cusip>G45667105</cusip>
+			<value>32785</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>1478790</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>1478790</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>ALPS ETF TR SPROTT GL MINE</nameOfIssuer>
+			<titleOfClass>SPROTT GL MINE</titleOfClass>
+			<cusip>00162Q643</cusip>
+			<value>23451</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>954700</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>954700</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>ACCENTURE PLC IRELAND</nameOfIssuer>
+			<titleOfClass>SHS CLASS A</titleOfClass>
+			<cusip>G1151C101</cusip>
+			<value>11093</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>90800</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>90800</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>TAIWAN SEMICONDUCTOR MFG LTD SPONSORED ADR</nameOfIssuer>
+			<titleOfClass>SPONSORED ADR</titleOfClass>
+			<cusip>874039100</cusip>
+			<value>1942</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>63500</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>63500</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>GLOBANT S A</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>L44385109</cusip>
+			<value>282</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>6700</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>6700</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>BARRICK GOLD CORP</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>067901108</cusip>
+			<value>23485</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>1307700</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>1307700</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>PAMPA ENERGIA S A</nameOfIssuer>
+			<titleOfClass>SPONS ADR LVL I</titleOfClass>
+			<cusip>697660207</cusip>
+			<value>554</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>17100</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>17100</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>COEUR MNG INC</nameOfIssuer>
+			<titleOfClass>COM NEW</titleOfClass>
+			<cusip>192108504</cusip>
+			<value>1913</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>133600</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>133600</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>ADECOAGRO S A</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>L00849106</cusip>
+			<value>1078</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>94500</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>94500</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>ANGLOGOLD ASHANTI LTD</nameOfIssuer>
+			<titleOfClass>SPONSORED ADR</titleOfClass>
+			<cusip>035128206</cusip>
+			<value>2444</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>153500</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>153500</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>EPAM SYS INC</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>29414B104</cusip>
+			<value>2107</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>30400</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>30400</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>AMAZON COM INC</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>023135106</cusip>
+			<value>4354</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>5200</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>5200</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>58 COM INC</nameOfIssuer>
+			<titleOfClass>SPON ADR REP A</titleOfClass>
+			<cusip>31680Q104</cusip>
+			<value>46397</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>973500</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>973500</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>ISHARES TR</nameOfIssuer>
+			<titleOfClass>CHINA LG-CAP ETF</titleOfClass>
+			<cusip>464287184</cusip>
+			<value>2195</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>47700</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>47700</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>VANECK VECTORS ETF TR</nameOfIssuer>
+			<titleOfClass>GOLD MINERS ETF</titleOfClass>
+			<cusip>92189F106</cusip>
+			<value>1014</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>31700</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>31700</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>ACTIVISION BLIZZARD INC</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>00507V109</cusip>
+			<value>19395</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>437800</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>437800</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>FIRST REP BK SAN FRANCISCO C</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>33616C100</cusip>
+			<value>16910</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>219300</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>NONE</otherManager>
+			<votingAuthority>
+				<Sole>219300</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

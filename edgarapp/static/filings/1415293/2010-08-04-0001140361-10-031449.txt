@@ -1,0 +1,177 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PoqARLxRZpodm9vJv/xUihZfKUNQ2P6DbHZm7niuy2thxhNAkO5y51DIwMbKMcAt
+ xsvnw4nEPRBhDaUo6rbVsg==
+
+<SEC-DOCUMENT>0001140361-10-031449.txt : 20100804
+<SEC-HEADER>0001140361-10-031449.hdr.sgml : 20100804
+<ACCEPTANCE-DATETIME>20100804064654
+ACCESSION NUMBER:		0001140361-10-031449
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100630
+FILED AS OF DATE:		20100804
+DATE AS OF CHANGE:		20100804
+EFFECTIVENESS DATE:		20100804
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sloane Robinson LLP
+		CENTRAL INDEX KEY:			0001415293
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12596
+		FILM NUMBER:		10989472
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 ST DUNSTANS HILL
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC3R 8ND
+		BUSINESS PHONE:		00442079298842
+
+	MAIL ADDRESS:	
+		STREET 1:		20 ST DUNSTANS HILL
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC3R 8ND
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>form13fhr.txt
+<DESCRIPTION>SLOANE ROBINSON 13F HR 6-30-2010
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+                               Form 13F COVER PAGE
+Report for the Calendar Year or Quarter Ended: 6/30/2010
+Check here if Amendment []; Amendment Number:
+                                               -------
+This Amendment (Check only one.):               [] is a restatement.
+                                                [] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+
+Name:      Sloane Robinson LLP
+
+Address:   20 St Dunstan's Hill, London, EC3R 8ND
+
+
+Form 13F File Number: 28-12596
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists and tables, are considered integral parts of this form.
+
+Persons Signing this Report on Behalf of Reporting Manager:
+
+Name:   Hugh Sloane
+Title:  Member
+Phone:  +44 207 929 2771
+
+Signature,  Place,  and  Date  of  Signing:
+
+/s/ Hugh Sloane                    London, England                    8/2/2010
+- ---------------------------------  ---------------------------------  ----------
+[Signature]                        [City, State]                      [Date]
+
+
+
+Report  Type  (Check  only  one):
+
+[X]     13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+        manager are reported in this report.)
+
+[ ]     13F NOTICE. (Check here if no holdings reported are in this report,
+        and all holdings are reported by other reporting manager(s).)
+
+[ ]     13F COMBINATION REPORT. (Check here if a portion of the holdings for
+        this reporting manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:   None
+
+
+
+<PAGE>
+                              Form 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:                    0
+
+Form 13F Information Table Entry Total:              21
+
+Form 13F Information Table Value Total:  $      344,636
+                                         --------------
+                                         (In Thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+NONE
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+          COLUMN 1               COLUMN 2      COLUMN 3  COLUMN 4      COLUMN 5       COLUMN 6  COLUMN 7       COLUMN 8
+- ---------------------------- ----------------- --------- -------- ------------------ ---------- -------- ---------------------
+                                                          VALUE    SHRS OR  SH/ PUT/ INVESTMENT  OTHER     VOTING AUTHORITY
+       NAME OF ISSUER         TITLE OF CLASS     CUSIP   (x$1000)  PRN AMT  PRN CALL DISCRETION MANAGERS   SOLE    SHARED NONE
+- ---------------------------- ----------------- --------- -------- --------- --- ---- ---------- -------- --------- ------ ----
+<S>                          <C>               <C>       <C>      <C>       <C> <C>  <C>        <C>      <C>       <C>    <C>
+AMERICA MOVIL SAB DECV       SPON ADR L SHS    02364W105      670    14,100 SH       SOLE                   14,100      0    0
+ANGLOGOLD ASHANTI LTD        SPONSORED ADR     035128206   17,060   395,100 SH       SOLE                  395,100      0    0
+AVON PRODS INC               COM               054303102    1,834    69,200 SH       SOLE                   69,200      0    0
+BAIDU INC                    SPON ADR REP A    056752108       68     1,000 SH       SOLE                    1,000      0    0
+BANCO SANTANDER BRASILSA     ADS REP 1 UNIT    05967A107   29,043 2,811,564 SH       SOLE                2,811,564      0    0
+BARRICK GOLD CORP            COM               067901108    1,885    41,500 SH       SOLE                   41,500      0    0
+BUNGE LIMITED                COM               G16962105   15,377   312,600 SH       SOLE                  312,600      0    0
+CHECK POINT SOFTWARE TECH LT ORD               M22465104    2,223    75,400 SH       SOLE                   75,400      0    0
+COMPANHIA DE BEBIDAS DAS AME SPON ADR PFD      20441W203   47,508   470,330 SH       SOLE                  470,330      0    0
+COMPANHIA SIDERURGICA NACION SPONSORED ADR     20440W105    1,180    80,300 SH       SOLE                   80,300      0    0
+CTRIP COM INTL LTD           ADR               22943F100       68     1,800 SH       SOLE                    1,800      0    0
+FOMENTO ECONOMICO MEXICANO S SPON ADR UNITS    344419106      820    19,000 SH       SOLE                   19,000      0    0
+GOL LINHAS AEREAS INTLG S A  SP ADR REP PFD    38045R107   11,902   982,000 SH       SOLE                  982,000      0    0
+GOLD FIELDS LTD              NEW SPONSORED ADR 38059T106      955    71,400 SH       SOLE                   71,400      0    0
+ITAU UNIBANCO HLDG SA        SPON ADR REP PFD  465562106   39,612 2,199,471 SH       SOLE                2,199,471      0    0
+MICROSOFT CORP               COM               594918104    2,823   122,674 SH       SOLE                  122,674      0    0
+MOBILE TELESYSTEMS OJSC      SPONSORED ADR     607409109   28,809 1,503,600 SH       SOLE                1,503,600      0    0
+NETEASE COM INC              SPONSORED ADR     64110W102       70     2,200 SH       SOLE                    2,200      0    0
+NEW ORIENTAL ED & TECH GRP 1 SPON ADR          647581107   19,365   207,800 SH       SOLE                  207,800      0    0
+TEVA PHARMACEUTICAL INDS LTD ADR               881624209   96,920 1,864,200 SH       SOLE                1,864,200      0    0
+WIMM BILL DANN FOODS OJSC    SPONSORED ADR     97263M109   26,444 1,485,604 SH       SOLE                1,485,604      0    0
+</TABLE>
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

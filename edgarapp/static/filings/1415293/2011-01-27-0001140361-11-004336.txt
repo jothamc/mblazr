@@ -1,0 +1,159 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QEDM6c6hEUv5yzOj+KJu7bxk41a8ecrNE13VROD/ZXrzlEbATBK3Bnxh1eVjo6qx
+ GMpJNVbb8qa1qO71c2pPOg==
+
+<SEC-DOCUMENT>0001140361-11-004336.txt : 20110127
+<SEC-HEADER>0001140361-11-004336.hdr.sgml : 20110127
+<ACCEPTANCE-DATETIME>20110127093115
+ACCESSION NUMBER:		0001140361-11-004336
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20101231
+FILED AS OF DATE:		20110127
+DATE AS OF CHANGE:		20110127
+EFFECTIVENESS DATE:		20110127
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sloane Robinson LLP
+		CENTRAL INDEX KEY:			0001415293
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12596
+		FILM NUMBER:		11550884
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 ST DUNSTANS HILL
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC3R 8ND
+		BUSINESS PHONE:		00442079298842
+
+	MAIL ADDRESS:	
+		STREET 1:		20 ST DUNSTANS HILL
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC3R 8ND
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>form13f.txt
+<DESCRIPTION>SLOANE ROBINSON 13F-HR 12-31-2010
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, DC. 20549
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:  December 31, 2010
+
+Check here if Amendment [ ];           Amendment Number:__
+     This Amendment (Check only one):        [ ] is a restatement.
+                                             [ ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name: Sloane Robinson LLP
+Address: 20 St Dunstan's Hill, London, EC3R 8ND
+
+Form 13F File Number: 28-12596
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Tanya Farrell
+
+Title:     Head of Legal & Compliance
+
+Phone:     +44 207 929 2771
+
+Signature, Place, and Date of Signing:
+
+
+/s/ Tanya Farrell     London, England     January 26, 2011
+- -----------------     ---------------     ---------------
+Signature             City, State         Date
+
+Report Type     (Check only one):
+
+[X]     13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+        manager are reported in this report.)
+
+[ ]     13F NOTICE. (Check here if no holdings reported are in this report, and
+        all  holdings  are  reported by other reporting manager(s).)
+
+[ ]     13F  COMBINATION  REPORT.  (Check here if a portion of the holdings for
+        this  reporting  manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager: None
+
+
+<PAGE>
+                             Form 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:          nil
+
+Form 13F Information Table Entry Total:     20
+
+Form 13F Information Table Value Total:     $515,206
+                                            (thousands)
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+            COLUMN 1                  COLUMN 2       COLUMN 3  COLUMN 4      COLUMN 5       COLUMN 6  COLUMN 7       COLUMN 8
+- -------------------------------- ------------------- --------- -------- ------------------ ---------- -------- ---------------------
+                                                                VALUE    SHRS OR  SH/ PUT/ INVESTMENT  OTHER     VOTING AUTHORITY
+         NAME OF ISSUER            TITLE OF CLASS      CUSIP   (x$1000)  PRN AMT  PRN CALL DISCRETION MANAGERS   SOLE    SHARED NONE
+- -------------------------------- ------------------- --------- -------- --------- --- ---- ---------- -------- --------- ------ ----
+<S>                              <C>                 <C>       <C>      <C>       <C> <C>  <C>        <C>      <C>       <C>    <C>
+AIRMEDIA GROUP INC               SPONSORED ADR       009411109   31,722 4,604,100 SH       SOLE                4,604,100      0    0
+BAIDU INC                        SPON ADR REP A      056752108      270     2,800 SH       SOLE                    2,800      0    0
+BONA FILM GROUP LTD              SPONSORED ADS ADDED 09777B107    3,748   686,400 SH       SOLE                  686,400      0    0
+CHINA LODGING GROUP LTD          SPONSORED ADR       16949N109    3,237   148,637 SH       SOLE                  148,637      0    0
+COMPANHIA DE BEBIDAS DAS AME     SPON ADR PFD        20441W203   74,729 2,408,285 SH       SOLE                2,408,285      0    0
+CTRIP COM INTL LTD               AMERICAN DEP SHS    22943F100   51,052 1,262,100 SH       SOLE                1,262,100      0    0
+E-COMMERCE CHINA DANGDANG IN SPN ADS COM A ADDED     26833A105   28,237 1,043,100 SH       SOLE                1,043,100      0    0
+FOCUS MEDIA HLDG LTD             SPONSORED ADR       34415V109    2,507   114,300 SH       SOLE                  114,300      0    0
+ISHARES INC                      MSCI S KOREA        464286772      677    17,330 SH       SOLE                   17,330      0    0
+ISHARES INC                      MSCI TAIWAN         464286731      164    16,400 SH       SOLE                   16,400      0    0
+ITAU UNIBANCO HLDG SA            SPON ADR REP PFD    465562106   11,150   464,400 SH       SOLE                  464,400      0    0
+JA SOLAR HOLDINGS CO LTD         SPON ADR            466090107    5,881   849,800 SH       SOLE                  849,800      0    0
+MOBILE TELESYSTEMS OJSC          SPONSORED ADR       607409109   29,844 1,430,000 SH       SOLE                1,430,000      0    0
+NEW ORIENTAL ED & TECH GRP I     SPON ADR            647581107   96,302   915,157 SH       SOLE                  915,157      0    0
+PETROLEO BRASILEIRO SA PETRO     SPONSORED ADR       71654V408    6,240   164,900 SH       SOLE                  164,900      0    0
+POSCO                            SPONSORED ADR       693483109   13,687   127,100 SH       SOLE                  127,100      0    0
+SOUFUN HLDGS LTD                 ADR                 836034108        1         8 SH       SOLE                        8      0    0
+TAIWAN SEMICONDUCTOR MFG LTD     SPONSORED ADR       874039100   27,208 2,169,700 SH       SOLE                2,169,700      0    0
+VALE S A                         ADR                 91912E105  115,146 3,330,800 SH       SOLE                3,330,800      0    0
+VEECO INSTRS INC DEL             COM                 922417100   13,404   312,000 SH       SOLE                  312,000      0    0
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

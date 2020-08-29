@@ -1,0 +1,117 @@
+<SEC-DOCUMENT>0001315863-18-000869.txt : 20181114
+<SEC-HEADER>0001315863-18-000869.hdr.sgml : 20181114
+<ACCEPTANCE-DATETIME>20181114160159
+ACCESSION NUMBER:		0001315863-18-000869
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20180930
+FILED AS OF DATE:		20181114
+DATE AS OF CHANGE:		20181114
+EFFECTIVENESS DATE:		20181114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ancient Art, L.P.
+		CENTRAL INDEX KEY:			0001426749
+		IRS NUMBER:				010626221
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12920
+		FILM NUMBER:		181183498
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 WEST 5TH STREET
+		STREET 2:		SUITE 1110
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+		BUSINESS PHONE:		512.351.4440
+
+	MAIL ADDRESS:	
+		STREET 1:		500 WEST 5TH STREET
+		STREET 2:		SUITE 1110
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001426749</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>09-30-2018</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>09-30-2018</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Ancient Art, L.P.</name>
+        <address>
+          <com:street1>500 WEST 5TH STREET</com:street1>
+          <com:street2>SUITE 1110</com:street2>
+          <com:city>AUSTIN</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>78701</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-12920</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Patricia Rench</name>
+      <title>Chief Compliance Officer</title>
+      <phone>512.351.4440</phone>
+      <signature>/s/ Patricia Rench</signature>
+      <city>Austin</city>
+      <stateOrCountry>TX</stateOrCountry>
+      <signatureDate>11-14-2018</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>10</tableEntryTotal>
+      <tableValueTotal>505105</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>ancientart3q18.inftab.xml
+<DESCRIPTION>ANCIENT ART, L.P. 13F 3RD Q 18
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><infoTable><nameOfIssuer>ALPHABET INC</nameOfIssuer><titleOfClass>CAP STK CL C</titleOfClass><cusip>02079K107</cusip><value>136730</value><shrsOrPrnAmt><sshPrnamt>114565</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>114565</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>BUILDERS FIRSTSOURCE INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>12008R107</cusip><value>6911</value><shrsOrPrnAmt><sshPrnamt>470771</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>470771</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>CHARTER COMMUNICATIONS INC N</nameOfIssuer><titleOfClass>CL A</titleOfClass><cusip>16119P108</cusip><value>87199</value><shrsOrPrnAmt><sshPrnamt>267581</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>267581</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>INTERACTIVE BROKERS GROUP IN</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>45841N107</cusip><value>81268</value><shrsOrPrnAmt><sshPrnamt>1469316</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>1469316</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>LIBERTY GLOBAL PLC</nameOfIssuer><titleOfClass>SHS CL C</titleOfClass><cusip>G5480U120</cusip><value>30979</value><shrsOrPrnAmt><sshPrnamt>1100095</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>1100095</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>LIBERTY MEDIA CORP DELAWARE</nameOfIssuer><titleOfClass>COM SER A FRMLA</titleOfClass><cusip>531229870</cusip><value>69823</value><shrsOrPrnAmt><sshPrnamt>1962428</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>1962428</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>PURPLE INNOVATION INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>74640Y106</cusip><value>1168</value><shrsOrPrnAmt><sshPrnamt>201446</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>201446</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>REDFIN CORP</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>75737F108</cusip><value>27646</value><shrsOrPrnAmt><sshPrnamt>1478407</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>1478407</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ZILLOW GROUP INC</nameOfIssuer><titleOfClass>CL A</titleOfClass><cusip>98954M101</cusip><value>35890</value><shrsOrPrnAmt><sshPrnamt>811980</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>811980</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ZILLOW GROUP INC</nameOfIssuer><titleOfClass>CL C CAP STK</titleOfClass><cusip>98954M200</cusip><value>27491</value><shrsOrPrnAmt><sshPrnamt>621270</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>621270</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable></informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,142 @@
+<DOCUMENT>
+<TYPE>NT 10-Q
+<SEQUENCE>1
+<FILENAME>burney12b25q.txt
+<TEXT>
+                     FORM 12b-25
+
+             Notification of Late Filing
+
+               SEC File Number: 000-55559
+               CUSIP Number:   --
+(Check One)
+
+[     ]  Form 10-K
+[     ]  Form 20-F
+[ XX  ]  Form 10-Q
+[     ]  Form N-SAR
+
+
+For Period Ended:  March 31, 2016
+[  ]  Transition Report on Form 10-K
+[  ]  Transition Report on Form 20-F
+[  ]  Transition Report on Form 11-K
+[  ]  Transition Report on Form 10-Q
+[  ]  Transition Report on Form N-SAR
+
+For the Transition Period Ended:
+________________________________________________
+Read Attached Instruction Sheet Before Preparing Form.
+Please Print or Type.
+
+Nothing in this Form shall be construed to imply
+that the Commission has verified any information
+contained herein.
+_____________________________________________
+
+If the notification relates to a portion of the
+filing checked above, identify the Item(s) to which
+the notification relates:
+_____________________________________________
+
+PART I -- REGISTRANT INFORMATION
+
+Full Name of Registrant: BURNEY HILL ACQUISITION
+			CORPORATION
+
+Address of Principal
+
+   Executive Office: 215 Apolena Avenue
+			Newport Beach, CA 92662
+    Telephone:       949-673-4510
+
+        _________________________________
+
+PART II -- RULES 12b-25(b) and (c)
+
+If the subject report could not be filed without unreasonable
+effort expense and the registrant seeks relief pursuant to
+Rule 12b-25(b), the following should be completed.
+
+                     (Check box if appropriate):
+
+x    (a)  The reason described in reasonable detail in
+          Part III of this form could not be eliminated
+          without unreasonable effort or expense;
+
+X    (b)  The subject annual report, semi-annual report,
+          transition report on Form 10-K, Form 20-F, 11-K
+          or Form N-SAR, or portion thereof will be filed
+          on or before the fifteenth calendar day following
+          the prescribed due date; or the subject quarterly
+          report or transition report on Form 10-Q, or
+          portion thereof will be filed on or before the
+          fifth calendar day following the prescribed due
+          date; and
+
+     (c)  The accountant's statement or other exhibit
+          required by Rule 12b-25(c) has been attached if
+          applicable.
+___________________________________________________
+
+PART III -- NARRATIVE
+
+State below in reasonable detail the reasons why Form 10-K,
+20-F, 11-K, 10-Q, N-SAR, or the transition report or portion
+thereof could not be filed within the prescribed period.
+
+
+  The Company needs additional time to complete
+   its reporting of the organization of the company
+
+______________________________________________________
+
+PART IV -- OTHER INFORMATION
+
+(1)  Name and telephone number of person to contact in
+     regard to this notification.
+
+
+Lee Cassidy			949-673-4510
+_____________________      _________________________
+Name                        (Area Code) (Telephone Number)
+
+(2)       Have all other periodic reports required under section
+          13 or 15(d) of the Securities and Exchange Act of 1934
+          or section 30 of the Investment Company Act of 1940
+          during the preceding 12 months or for such shorter
+          period that the registrant was required to file such
+          report(s) been filed?  If the answer is no, identify
+          report(s).
+
+               ( X ) Yes    (  ) No
+
+(3)  Is it anticipated that any significant change in
+     results of operations from the corresponding period for
+     the last fiscal year will be reflected by the earnings
+     statements to be included in the subject report or
+     portion thereof?
+
+               (  ) Yes    (X) No
+
+     If so, attach an explanation of the anticipated change,
+both narratively and quantitatively, and, if appropriate,
+state the reasons why a reasonable estimate of the results
+cannot be made.
+
+
+            BURNEY HILL ACQUISITION CORPORATION
+
+             _________________________________
+       (Name of Registrant as specified in charter)
+
+has caused this notification to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+
+Date:  May 16, 2016     By:  /s/ Lee Cassidy
+
+
+
+</TEXT>
+</DOCUMENT>

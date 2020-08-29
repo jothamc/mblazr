@@ -1,0 +1,235 @@
+<SEC-DOCUMENT>0000950123-20-005252.txt : 20200515
+<SEC-HEADER>0000950123-20-005252.hdr.sgml : 20200515
+<ACCEPTANCE-DATETIME>20200515132444
+ACCESSION NUMBER:		0000950123-20-005252
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200331
+FILED AS OF DATE:		20200515
+DATE AS OF CHANGE:		20200515
+EFFECTIVENESS DATE:		20200515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cartica Management, LLC
+		CENTRAL INDEX KEY:			0001600011
+		IRS NUMBER:				743238976
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-15909
+		FILM NUMBER:		20883303
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1775 I STREET NW
+		STREET 2:		SUITE 900
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20006
+		BUSINESS PHONE:		202-367-3015
+
+	MAIL ADDRESS:	
+		STREET 1:		1775 I STREET NW
+		STREET 2:		SUITE 900
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20006
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001600011</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2020</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2020</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Cartica Management, LLC</name>
+        <address>
+          <ns1:street1>1775 I Street NW</ns1:street1>
+          <ns1:street2>Suite 900</ns1:street2>
+          <ns1:city>Washington</ns1:city>
+          <ns1:stateOrCountry>DC</ns1:stateOrCountry>
+          <ns1:zipCode>20006</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-15909</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Steven J. Quamme</name>
+      <title>Member</title>
+      <phone>202-367-3015</phone>
+      <signature>/s/ Steven J. Quamme</signature>
+      <city>Washington</city>
+      <stateOrCountry>DC</stateOrCountry>
+      <signatureDate>05-15-2020</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>2</otherIncludedManagersCount>
+      <tableEntryTotal>6</tableEntryTotal>
+      <tableValueTotal>122479</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-15910</form13FFileNumber>
+            <name>Cartica Management, L.P.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-15911</form13FFileNumber>
+            <name>CCP Master GP, L.P.</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<DESCRIPTION>INFORMATION TABLE FOR FORM 13F
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <infoTable>
+       <nameOfIssuer>SEA LTD</nameOfIssuer>
+       <titleOfClass>SPONSORED ADS</titleOfClass>
+       <cusip>81141R100</cusip>
+       <value>58873</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>1328671</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>01,02</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>1328671</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>ARCO PLATFORM LTD</nameOfIssuer>
+       <titleOfClass>COM CL A</titleOfClass>
+       <cusip>G04553106</cusip>
+       <value>30972</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>732883</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>01,02</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>732883</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>GDS HLDGS LTD</nameOfIssuer>
+       <titleOfClass>SPONSORED ADS</titleOfClass>
+       <cusip>36165L108</cusip>
+       <value>19331</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>333458</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>01,02</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>333458</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>STONECO LTD</nameOfIssuer>
+       <titleOfClass>COM CL A</titleOfClass>
+       <cusip>G85158106</cusip>
+       <value>13217</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>607131</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>01,02</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>607131</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>BILIBILI INC</nameOfIssuer>
+       <titleOfClass>SPONSORED ADS REP Z</titleOfClass>
+       <cusip>090040106</cusip>
+       <value>49</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>2100</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>01,02</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>2100</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>HUAZHU GROUP LTD</nameOfIssuer>
+       <titleOfClass>SPONSORED ADS</titleOfClass>
+       <cusip>44332N106</cusip>
+       <value>37</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>1276</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>01,02</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>1276</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

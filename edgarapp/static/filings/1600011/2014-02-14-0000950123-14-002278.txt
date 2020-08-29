@@ -1,0 +1,165 @@
+<SEC-DOCUMENT>0000950123-14-002278.txt : 20140214
+<SEC-HEADER>0000950123-14-002278.hdr.sgml : 20140214
+<ACCEPTANCE-DATETIME>20140214061744
+ACCESSION NUMBER:		0000950123-14-002278
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20131231
+FILED AS OF DATE:		20140214
+DATE AS OF CHANGE:		20140214
+EFFECTIVENESS DATE:		20140214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cartica Management, LLC
+		CENTRAL INDEX KEY:			0001600011
+		IRS NUMBER:				743238976
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-15909
+		FILM NUMBER:		14609384
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1775 I STREET NW
+		STREET 2:		SUITE 800
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20006
+		BUSINESS PHONE:		202-367-3015
+
+	MAIL ADDRESS:	
+		STREET 1:		1775 I STREET NW
+		STREET 2:		SUITE 800
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20006
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001600011</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2013</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2013</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Cartica Management, LLC</name>
+        <address>
+          <ns1:street1>1775 I STREET NW</ns1:street1>
+          <ns1:street2>SUITE 800</ns1:street2>
+          <ns1:city>Washington</ns1:city>
+          <ns1:stateOrCountry>DC</ns1:stateOrCountry>
+          <ns1:zipCode>20006</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-15909</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Steven J. Quamme</name>
+      <title>Member</title>
+      <phone>(202) 367-3015</phone>
+      <signature>/s/ Steven J. Quamme</signature>
+      <city>Washington</city>
+      <stateOrCountry>DC</stateOrCountry>
+      <signatureDate>02-14-2014</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>7</otherIncludedManagersCount>
+      <tableEntryTotal>2</tableEntryTotal>
+      <tableValueTotal>29980</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <name>Cartica Management, L.P.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <name>CCP Master GP, L.P.</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<DESCRIPTION>INFORMATION TABLE FOR FORM 13F
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <infoTable>
+       <nameOfIssuer>ISHARES</nameOfIssuer>
+       <titleOfClass>MSCI EMG MKT ETF</titleOfClass>
+       <cusip>464287234</cusip>
+       <value>4600</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>110076</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>01,02</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>110076</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>CORPBANCA</nameOfIssuer>
+       <titleOfClass>SPONSORED ADR</titleOfClass>
+       <cusip>21987A209</cusip>
+       <value>25380</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>1200000</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>01,02</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>1200000</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,499 @@
+<SEC-DOCUMENT>0001567619-20-015219.txt : 20200814
+<SEC-HEADER>0001567619-20-015219.hdr.sgml : 20200814
+<ACCEPTANCE-DATETIME>20200814095137
+ACCESSION NUMBER:		0001567619-20-015219
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200630
+FILED AS OF DATE:		20200814
+DATE AS OF CHANGE:		20200814
+EFFECTIVENESS DATE:		20200814
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COURAGE CAPITAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001119376
+		IRS NUMBER:				621749393
+		STATE OF INCORPORATION:			TN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10362
+		FILM NUMBER:		201101922
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4400 HARDING ROAD
+		STREET 2:		SUITE 503
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37205
+		BUSINESS PHONE:		6157426280
+
+	MAIL ADDRESS:	
+		STREET 1:		4400 HARDING ROAD
+		STREET 2:		SUITE 503
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37205
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001119376</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2020</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2020</reportCalendarOrQuarter>
+      <filingManager>
+        <name>COURAGE CAPITAL MANAGEMENT LLC</name>
+        <address>
+          <com:street1>4400 HARDING ROAD</com:street1>
+          <com:street2>SUITE 503</com:street2>
+          <com:city>NASHVILLE</com:city>
+          <com:stateOrCountry>TN</com:stateOrCountry>
+          <com:zipCode>37205</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-10362</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Richard C. Patton</name>
+      <title>Chief Manager</title>
+      <phone>6153690110</phone>
+      <signature>Richard C. Patton</signature>
+      <city>Nashville</city>
+      <stateOrCountry>TN</stateOrCountry>
+      <signatureDate>08-14-2020</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>24</tableEntryTotal>
+      <tableValueTotal>54325</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">		<infoTable>
+			<nameOfIssuer>Acadia Healthcare Inc.</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>00404A109</cusip>
+			<value>1130</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>45000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>45000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Alphabet Inc. Class C</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>02079K107</cusip>
+			<value>1272</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>900</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>900</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Anthem Inc.</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>036752103</cusip>
+			<value>1315</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>5000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>5000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Centene Corp.</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>15135B901</cusip>
+			<value>2542</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>40000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>40000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Crispr Therapeutics AG</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>H17182108</cusip>
+			<value>279</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>3800</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>3800</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Crown Castle Intl</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>22822V101</cusip>
+			<value>5523</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>33000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>33000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Edison International</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>281020107</cusip>
+			<value>3041</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>56000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>56000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Evolent Health Inc</nameOfIssuer>
+			<titleOfClass>Bond</titleOfClass>
+			<cusip>30050VAD3</cusip>
+			<value>6232</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>9834000</sshPrnamt>
+				<sshPrnamtType>PRN</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>9834000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Evolent Health Inc</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>30050B101</cusip>
+			<value>1424</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>200000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>200000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Facebook Inc. Class A</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>30303M102</cusip>
+			<value>1351</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>5950</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>5950</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Hanger Inc.</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>41043F208</cusip>
+			<value>3399</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>205263</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>205263</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>HCA Healthcare Inc.</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>40412C101</cusip>
+			<value>5096</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>52500</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>52500</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Immuron Limited</nameOfIssuer>
+			<titleOfClass>Warrants</titleOfClass>
+			<cusip>45254U101</cusip>
+			<value>870</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>117101</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>117101</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Ishares Gold Trust</nameOfIssuer>
+			<titleOfClass>ETF</titleOfClass>
+			<cusip>464285105</cusip>
+			<value>951</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>56000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>56000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Microsoft Corp.</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>594918904</cusip>
+			<value>1526</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>7500</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>7500</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Mylan NV</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>N59465109</cusip>
+			<value>6432</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>400000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>400000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Novocure</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>G6674U108</cusip>
+			<value>593</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>10000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>10000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Perth Mint Physical Gold ETF</nameOfIssuer>
+			<titleOfClass>ETF</titleOfClass>
+			<cusip>715426102</cusip>
+			<value>1401</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>78803</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>78803</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Pinnacle Financial Partners</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>72346Q104</cusip>
+			<value>210</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>5000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>5000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>SPDR S&amp;P 500 ETF</nameOfIssuer>
+			<titleOfClass>ETF</titleOfClass>
+			<cusip>78462F103</cusip>
+			<value>370</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>1200</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>1200</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>SPDR Gold Shares ETF</nameOfIssuer>
+			<titleOfClass>ETF</titleOfClass>
+			<cusip>78463V107</cusip>
+			<value>2157</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>12885</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>12885</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Universal Health Services Class B</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>913903100</cusip>
+			<value>1208</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>13000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>13000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Vaneck Vectors Gold Miners ETF</nameOfIssuer>
+			<titleOfClass>ETF</titleOfClass>
+			<cusip>92189F106</cusip>
+			<value>3162</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>63776</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>63776</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Vaneck Vectors Junior Gold Miners ETF</nameOfIssuer>
+			<titleOfClass>ETF</titleOfClass>
+			<cusip>92189F791</cusip>
+			<value>2841</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>77464</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>77464</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

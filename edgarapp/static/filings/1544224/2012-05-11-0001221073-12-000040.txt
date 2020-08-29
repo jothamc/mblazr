@@ -1,0 +1,138 @@
+<SEC-DOCUMENT>0001221073-12-000040.txt : 20120511
+<SEC-HEADER>0001221073-12-000040.hdr.sgml : 20120511
+<ACCEPTANCE-DATETIME>20120511164753
+ACCESSION NUMBER:		0001221073-12-000040
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120331
+FILED AS OF DATE:		20120511
+DATE AS OF CHANGE:		20120511
+EFFECTIVENESS DATE:		20120511
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			McCutchen Group LLC
+		CENTRAL INDEX KEY:			0001544224
+		IRS NUMBER:				830474653
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14925
+		FILM NUMBER:		12835213
+
+	BUSINESS ADDRESS:	
+		STREET 1:		925 FOURTH AVENUE
+		STREET 2:		SUITE 2288
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+		BUSINESS PHONE:		206-816-6850
+
+	MAIL ADDRESS:	
+		STREET 1:		925 FOURTH AVENUE
+		STREET 2:		SUITE 2288
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>mktc_mccg1q2012.txt
+<DESCRIPTION>MCCUTCHEN GROUP, LLC
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: March 31, 2012
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    McCutchen Group, LLC
+Address: 925 Fourth Avenue, Suite 2288
+         Seattle, WA  98104
+
+13F File Number:  028-14925
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Ms. Sara M. Taylor
+Title:     Chief Compliance Officer
+Phone:     206-816-6850
+
+Signature, Place, and Date of Signing:
+
+ /s/  Sara M. Taylor     Seattle, WA     May 10, 2012
+
+Report Type (Check only one.):
+
+[ X]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[  ]         13F COMBINATION REPORT.
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:         0
+
+Form 13F Information Table Entry Total:    14
+
+Form 13F Information Table Value Total:    $115,868 (thousands)
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+NONE
+
+<PAGE>
+
+<TABLE>                       <C>             <C>
+                                                     FORM 13F INFORMATION TABLE
+                                                             VALUE  SHARES/ SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP     (x$1000)  PRN AMT PRN CALL DSCRETN MANAGERS         SOLE   SHARED     NONE
+------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+BARCLAYS BK PLC                DJUBS CMDT ETN36 06738C778     7477   176685 SH       SOLE                   176685        0        0
+ISHARES TR                     MSCI EAFE INDEX  464287465    10875   198115 SH       SOLE                   198115        0        0
+ISHARES TR                     COHEN&ST RLTY    464287564      950    12393 SH       SOLE                    12393        0        0
+ISHARES TR                     RUSSELL 3000     464287689    13998   168080 SH       SOLE                   168080        0        0
+ISHARES TR                     DJ US REAL EST   464287739     1203    19309 SH       SOLE                    19309        0        0
+ISHARES TR                     S&PCITI1-3YRTB   464288125      265     2673 SH       SOLE                     2673        0        0
+SPDR GOLD TRUST                GOLD SHS         78463V107     2353    14513 SH       SOLE                    14513        0        0
+SPDR S&P 500 ETF TR            TR UNIT          78462F103      288     2045 SH       SOLE                     2045        0        0
+VANGUARD INDEX FDS             REIT ETF         922908553     8628   135553 SH       SOLE                   135553        0        0
+VANGUARD INDEX FDS             SMALL CP ETF     922908751      321     4084 SH       SOLE                     4084        0        0
+VANGUARD INDEX FDS             TOTAL STK MKT    922908769    15946   220677 SH       SOLE                   220677        0        0
+VANGUARD INTL EQUITY INDEX F   ALLWRLD EX US    922042775    33844   765358 SH       SOLE                   765358        0        0
+VANGUARD INTL EQUITY INDEX F   MSCI EMR MKT ETF 922042858     4992   114845 SH       SOLE                   114845        0        0
+VANGUARD TAX MANAGED INTL FD   MSCI EAFE ETF    921943858    14728   432793 SH       SOLE                   432793        0        0
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

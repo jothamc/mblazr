@@ -1,0 +1,145 @@
+<SEC-DOCUMENT>0001315863-11-000189.txt : 20111114
+<SEC-HEADER>0001315863-11-000189.hdr.sgml : 20111111
+<ACCEPTANCE-DATETIME>20111114160127
+ACCESSION NUMBER:		0001315863-11-000189
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110930
+FILED AS OF DATE:		20111114
+DATE AS OF CHANGE:		20111114
+EFFECTIVENESS DATE:		20111114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ancient Art, L.P.
+		CENTRAL INDEX KEY:			0001426749
+		IRS NUMBER:				010626221
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12920
+		FILM NUMBER:		111202274
+
+	BUSINESS ADDRESS:	
+		STREET 1:		610 WEST 5TH STREET
+		STREET 2:		SUITE 600
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+		BUSINESS PHONE:		512.351.4440
+
+	MAIL ADDRESS:	
+		STREET 1:		610 WEST 5TH STREET
+		STREET 2:		SUITE 600
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>ancient31.txt
+<DESCRIPTION>ANCIENT ART, L.P. 13F 3Q 2011
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: September 30, 2011
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Ancient Art, L.P.
+Address: 610 West 5th Street
+         Suite 600
+         Austin, Texas  78701
+
+13F File Number:  028-12920
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Patricia Rench
+Title:     Chief Compliance Officer
+Phone:     512.351.4440
+
+Signature, Place, and Date of Signing:
+
+ /s/ Patricia Rench     Austin, Texas/USA     November 14, 2011
+
+Report Type (Check only one.):
+
+[ X]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[  ]         13F COMBINATION REPORT.
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:         0
+
+Form 13F Information Table Entry Total:    20
+
+Form 13F Information Table Value Total:    $148,068 (thousands)
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+NONE
+
+<PAGE>
+
+<TABLE>                       <C>             <C>
+                                                     FORM 13F INFORMATION TABLE
+                                                             VALUE  SHARES/ SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP     (x$1000)  PRN AMT PRN CALL DSCRETN MANAGERS         SOLE   SHARED     NONE
+------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+AON CORP                       COM              037389103    14496   345300 SH       SOLE                   345300
+BANCORP INC DEL                COM              05969A105     3053   426362 SH       SOLE                   426362
+BOFI HLDG INC                  COM              05566U108     7661   569138 SH       SOLE                   569138
+CBS CORP NEW                   CL B             124857202     9763   479064 SH       SOLE                   479064
+CLEAR CHANNEL OUTDOOR HLDGS    CL A             18451C109     3410   364362 SH       SOLE                   364362
+CREDIT ACCEP CORP MICH         COM              225310101     8373   130100 SH       SOLE                   130100
+DICE HLDGS INC                 COM              253017107       56     7194 SH       SOLE                     7194
+DISNEY WALT CO                 COM DISNEY       254687106     5145   170600 SH       SOLE                   170600
+GOOGLE INC                     CL A             38259P508    16744    32510 SH       SOLE                    32510
+LIBERTY GLOBAL INC             COM SER A        530555101     7731   213680 SH       SOLE                   213680
+LIVE NATION ENTERTAINMENT IN   COM              538034109     2639   329500 SH       SOLE                   329500
+MARKET VECTORS ETF TR          JR GOLD MINERS E 57060U589     5757   204500 SH       SOLE                   204500
+MICROSOFT CORP                 COM              594918104    20534   825000 SH       SOLE                   825000
+NICHOLAS FINANCIAL INC         COM NEW          65373J209     6223   636987 SH       SOLE                   636987
+NXP SEMICONDUCTORS N V         COM              N6596X109     7119   504180 SH       SOLE                   504180
+QUALITY DISTR INC FLA          COM              74756M102     4392   489663 SH       SOLE                   489663
+SANDRIDGE ENERGY INC           COM              80007P307     3091   555973 SH       SOLE                   555973
+TEEKAY CORPORATION             COM              Y8564W103     5054   223535 SH       SOLE                   223535
+VALEANT PHARMACEUTICALS INTL   COM              91911K102    14134   380776 SH       SOLE                   380776
+ZIPREALTY INC                  COM              98974V107     2693  1870180 SH       SOLE                  1870180
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

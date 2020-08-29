@@ -1,0 +1,230 @@
+
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+<title>Directory List of /Archives/edgar/data/854399</title>
+<link rel="stylesheet" type="text/css" href="/css/third-party/reset.min.css">
+<link rel="stylesheet" type="text/css" href="/css/third-party/960.min.css">
+<link rel="stylesheet" type="text/css" href="/css/basic-1.css">
+<!-- [if IE 7] -->
+<style type="text/css">
+#global-search-form input#global-search-button {
+  padding:0 2px;
+}
+</style>
+<style type="text/css">
+/* headings and page sections */
+h1 {
+   border-bottom:1px solid #ccc;
+}
+.section {
+   margin-bottom:24px;
+}
+.section h2 {
+   border-bottom:1px solid #ccc;
+   margin-bottom:12px;
+}
+/* chairman's quote */
+blockquote {
+   background-color:#003768;
+   background-image:url(/images/chairman-quote-bg.jpg);
+   background-position:left -38px;
+   color:#fff;
+   font-family:Georgia, serif;
+   font-size:14px;
+   height:178px;
+   letter-spacing:1px;
+   padding:12px 20px 12px 220px;
+}
+#quote {
+   margin-bottom:6px;
+}
+#attribution {
+   font-style:italic;
+   margin-top:6px;
+   text-align:right;
+}
+/* committee members list */
+dl.members-list {
+   float:left;
+   margin:0;
+   padding:0;
+   list-style:none;
+   margin:0 5px;
+   width:260px;
+}
+dl.members-list dt {
+   font-weight:bold;
+   margin-top:9px;
+}
+dl.members-list dt:first-child {
+   margin-top:0;
+}
+dl.members-list dd {
+   font-size:10px;
+}
+/* committee news and meetings */
+#news-list,
+#meetings-list {
+   margin:0;
+   padding:0;
+   list-style:none;
+}
+#meetings-list {
+   margin-left:10px;
+   margin-right:10px;
+   padding:0;
+   list-style:none;
+}
+#meetings-list li {
+   font-weight:bold;
+}
+#meetings-list li ul {
+   list-style-image:url(/images/square-bullet-dddddd-5x5.gif);
+   margin-top:3px;
+}
+#meetings-list li li {
+   font-weight:normal;
+}
+.img_icon { vertical-align: middle; padding-right: 5px; width: 20px; border: 0px; }
+</style>
+<script type="text/javascript" src="/js/third-party/jquery-1.7.1.min.js"></script>
+<script type="text/javascript">
+// adding the following class via JS allows for the creation of JS-specific style rules
+48'html').addClass('js');
+</script>
+<script type="text/javascript" src="/js/third-party/jquery.hoverintent.min.js"></script>
+<script type="text/javascript" src="/js/third-party/superfish.min.js"></script>
+<script type="text/javascript" src="/js/basic.js">
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-30394047-1']);
+_gaq.push(['_setDomainName', 'sec.gov']);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_setSampleRate', '50']);
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</head>
+<body bgcolor="#FFFFFF" link="#807331" vlink="#FF0000">
+<!-- SEC Web Analytics - For information please visit: http://www.sec.gov/privacy.htm#collectedinfo -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TD3BKV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TD3BKV');</script>
+<!-- End SEC Web Analytics -->
+<div id="global-wrapper-bg-1" class="clearfix">
+<div id="global-wrapper-bg-2">
+<div id="global-wrapper-bg-3">
+<div id="global-wrapper" class="container_12">
+<div id="global-header" class="grid_12">
+<img id="banner-seal" src="/images/global-banner-seal.png" width="110" height="110" alt="U.S. Securities and Exchange Commission" usemap="#banner-seal-map">
+<map name="banner-seal-map">
+<area shape="circle" coords="55,55,55" href="/index.htm" alt="U.S. Securities and Exchange Commission">
+</map>
+<a href="/index.htm"><img id="banner-org-name" src="/images/global-banner-org-name.png" width="225" height="60" alt="U.S. Securities and Exchange Commission"></a>
+<div id="global-search">
+<a href="/search/search.htm">Search Options</a>
+</div>
+<a id="global-skip-nav" href="#main-content">Skip to Main Content</a>
+<div id="global-nav">
+<ul class="clearfix">
+<li>
+<a href="/about.shtml">About</a>
+<ul>
+<li><a href="/about/whatwedo.shtml">What We Do</a></li>
+<li><a href="/about/commissioner.shtml">Commissioners</a></li>
+<li><a href="/about/laws.shtml">Securities Laws</a></li>
+<li><a href="/about/secreports.shtml">Reports</a></li>
+<li><a href="/jobs.shtml">Careers</a></li>
+<li><a href="/contact.shtml">Contact</a></li>
+</ul>
+</li>
+<li>
+<a href="/divisions.shtml">Divisions</a>
+<ul>
+<li><a href="/divisions/corpfin.shtml">Corporation Finance</a></li>
+<li><a href="/divisions/enforce.shtml">Enforcement</a></li>
+<li><a href="/divisions/investment.shtml">Investment Management</a></li>
+<li><a href="/divisions/riskfin.shtml">Risk, Strategy and Innovation</a></li>
+<li><a href="/divisions/marketreg.shtml">Trading and Markets</a></li>
+<li><a href="/about/offices/ocie.shtml">National Exam Program</a></li>
+<li><a href="/divisions.shtml">All Divisions and Offices</a></li>
+</ul>
+</li>
+<li>
+<a href="/litigation.shtml">Enforcement</a>
+<ul>
+<li><a href="/litigation/litreleases.shtml">Litigation Releases</a></li>
+<li><a href="/litigation/admin.shtml">Administrative Proceedings</a></li>
+<li><a href="/litigation/opinions.shtml">Opinions and Adjudicatory Orders</a></li>
+<li><a href="/divisions/enforce/friactions.shtml">Accounting and Auditing</a></li>
+<li><a href="/litigation/suspensions.shtml">Trading Suspensions</a></li>
+<li><a href="/news/newsroom/howinvestigationswork.html">How Investigations Work</a></li>
+<li><a href="/alj.shtml">Administrative Law Judges</a></li>
+</ul>
+</li>
+<li>
+<a href="/rules.shtml">Regulation</a>
+<ul>
+<li><a href="/rules/proposed.shtml">Proposed Rules</a></li>
+<li><a href="/rules/final.shtml">Final Rules</a></li>
+<li><a href="/rules/interim-final-temp.shtml">Interim Final Temporary Rules</a></li>
+<li><a href="/rules/other.shtml">Other Orders and Notices</a></li>
+<li><a href="/rules/sro.shtml">Self-Regulatory Organizations</a></li>
+<li><a href="/interps.shtml">Staff Interpretations</a></li>
+</ul>
+</li>
+<li>
+<a href="/investor.shtml">Education</a>
+<ul>
+<li><a href="http://investor.gov/">Investor.gov</a></li>
+<li><a href="/investor/brokers.htm">Check Out a Broker or Adviser</a></li>
+<li><a href="/investor/alerts.shtml">Investor Alerts and Bulletins</a></li>
+<li><a href="/answers.shtml">Fast Answers</a></li>
+<li><a href="/complaint/select.shtml">File a Tip or Complaint</a></li>
+<li><a href="/investor/pubs.shtml">Publications</a></li>
+</ul>
+</li>
+<li>
+<a href="/edgar.shtml">Filings</a>
+<ul>
+<li><a href="/edgar/quickedgar.htm">Quick EDGAR Tutorial</a></li>
+<li><a href="/edgar/searchedgar/companysearch.html">Company Filings Search</a></li>
+<li><a href="/about/forms/secforms.htm">Descriptions of SEC Forms</a></li>
+<li><a href="/answers/publicdocs.htm">Requesting Public Documents</a></li>
+</ul>
+</li>
+<li>
+<a href="/news/newsroom/index.html">News</a>
+<ul>
+<li><a href="/news/press.shtml">Press Releases</a></li>
+<li><a href="/news/whatsnew/wn-today.shtml">What's New</a></li>
+<li><a href="/about/upcoming-events.htm">Upcoming Events</a></li>
+<li><a href="/news/digest.shtml">News Digest</a></li>
+<li><a href="/news/webcasts.shtml">Webcasts</a></li>
+<li><a href="/news/studies.shtml">Special Studies</a></li>
+<li><a href="/news/speech.shtml">Speeches and Public Statements</a></li>
+<li><a href="/news/testimony.shtml">Testimony</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<h1>Directory Listing /Archives/edgar/data/854399</h1><div id="main-content" class="grid_10 push_2"><table summary="Directory Listing for $full_dir"><tr><th>Name</th><th>Size</th><th>Last Modified</th><tr><td><a href="/Archives/edgar/data/854399/000095015208006322"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000095015208006322</a></td><td></td><td>2008-08-11 13:39:17</td></tr><tr><td><a href="/Archives/edgar/data/854399/000135445707000208"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000135445707000208</a></td><td></td><td>2007-07-13 17:00:53</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210507000240"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210507000240</a></td><td></td><td>2007-06-27 17:26:49</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210507000239"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210507000239</a></td><td></td><td>2007-06-27 17:25:32</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210507000205"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210507000205</a></td><td></td><td>2007-05-25 17:08:18</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210507000185"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210507000185</a></td><td></td><td>2007-05-22 14:01:14</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210507000171"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210507000171</a></td><td></td><td>2007-05-10 14:38:37</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210507000167"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210507000167</a></td><td></td><td>2007-05-09 14:12:12</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210507000166"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210507000166</a></td><td></td><td>2007-05-08 14:25:53</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210507000152"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210507000152</a></td><td></td><td>2007-04-30 14:57:26</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210507000150"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210507000150</a></td><td></td><td>2007-04-27 14:37:55</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210507000061"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210507000061</a></td><td></td><td>2007-03-16 11:54:22</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210507000038"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210507000038</a></td><td></td><td>2007-02-28 17:20:10</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210507000035"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210507000035</a></td><td></td><td>2007-02-22 16:17:21</td></tr><tr><td><a href="/Archives/edgar/data/854399/000102931107000047"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000102931107000047</a></td><td></td><td>2007-02-13 15:16:49</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312507015378"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312507015378</a></td><td></td><td>2007-01-29 17:16:41</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312507015379"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312507015379</a></td><td></td><td>2007-01-29 17:14:46</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210507000007"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210507000007</a></td><td></td><td>2007-01-22 17:25:42</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210507000002"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210507000002</a></td><td></td><td>2007-01-08 17:45:43</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000330"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000330</a></td><td></td><td>2006-12-26 16:24:33</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000312"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000312</a></td><td></td><td>2006-12-14 15:49:46</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000307"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000307</a></td><td></td><td>2006-12-05 16:48:54</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000293"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000293</a></td><td></td><td>2006-11-17 16:31:13</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000290"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000290</a></td><td></td><td>2006-11-16 17:18:15</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000289"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000289</a></td><td></td><td>2006-11-16 17:15:13</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312506230076"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312506230076</a></td><td></td><td>2006-11-09 14:24:30</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000252"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000252</a></td><td></td><td>2006-10-13 15:22:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000227"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000227</a></td><td></td><td>2006-09-21 15:44:13</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000220"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000220</a></td><td></td><td>2006-09-18 14:30:19</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000219"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000219</a></td><td></td><td>2006-09-18 14:29:58</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000218"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000218</a></td><td></td><td>2006-09-18 09:23:48</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000217"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000217</a></td><td></td><td>2006-09-15 11:26:45</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000210"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000210</a></td><td></td><td>2006-08-17 14:25:30</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000200"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000200</a></td><td></td><td>2006-08-14 16:06:50</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000189"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000189</a></td><td></td><td>2006-08-09 15:19:53</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000177"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000177</a></td><td></td><td>2006-07-21 12:50:04</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000169"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000169</a></td><td></td><td>2006-07-17 16:34:06</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000168"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000168</a></td><td></td><td>2006-07-14 13:07:45</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000158"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000158</a></td><td></td><td>2006-07-07 17:06:53</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000127"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000127</a></td><td></td><td>2006-05-26 16:12:12</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000128"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000128</a></td><td></td><td>2006-05-26 16:10:21</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000126"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000126</a></td><td></td><td>2006-05-23 17:25:39</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000115"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000115</a></td><td></td><td>2006-05-09 16:34:35</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000110"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000110</a></td><td></td><td>2006-05-04 12:05:54</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000100"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000100</a></td><td></td><td>2006-04-24 17:15:23</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312506084730"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312506084730</a></td><td></td><td>2006-04-20 17:30:30</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312506084731"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312506084731</a></td><td></td><td>2006-04-20 17:28:36</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312506083288"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312506083288</a></td><td></td><td>2006-04-19 14:36:22</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312506081439"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312506081439</a></td><td></td><td>2006-04-17 17:32:12</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312506081441"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312506081441</a></td><td></td><td>2006-04-17 17:30:23</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000093"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000093</a></td><td></td><td>2006-04-14 15:23:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/999999999706013113"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">999999999706013113</a></td><td></td><td>2006-04-07 15:35:27</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312506069597"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312506069597</a></td><td></td><td>2006-03-31 09:04:10</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000077"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000077</a></td><td></td><td>2006-03-30 15:28:52</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000057"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000057</a></td><td></td><td>2006-03-21 10:09:25</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000054"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000054</a></td><td></td><td>2006-03-20 17:06:43</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000034"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000034</a></td><td></td><td>2006-03-03 19:02:36</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000028"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000028</a></td><td></td><td>2006-02-23 18:38:14</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000022"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000022</a></td><td></td><td>2006-02-14 17:23:33</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000021"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000021</a></td><td></td><td>2006-02-14 17:23:09</td></tr><tr><td><a href="/Archives/edgar/data/854399/000102931106000038"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000102931106000038</a></td><td></td><td>2006-01-27 17:31:05</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000010"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000010</a></td><td></td><td>2006-01-25 09:45:30</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000009"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000009</a></td><td></td><td>2006-01-23 10:29:19</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000008"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000008</a></td><td></td><td>2006-01-20 17:13:23</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000004"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000004</a></td><td></td><td>2006-01-17 15:36:41</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000003"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000003</a></td><td></td><td>2006-01-17 15:33:13</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000002"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000002</a></td><td></td><td>2006-01-13 12:44:47</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210506000001"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210506000001</a></td><td></td><td>2006-01-03 16:26:35</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000231"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000231</a></td><td></td><td>2005-12-20 16:08:38</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000224"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000224</a></td><td></td><td>2005-11-30 15:22:45</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000223"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000223</a></td><td></td><td>2005-11-30 14:37:08</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000222"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000222</a></td><td></td><td>2005-11-30 14:36:28</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000218"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000218</a></td><td></td><td>2005-11-29 16:53:09</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000217"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000217</a></td><td></td><td>2005-11-23 15:41:22</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000206"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000206</a></td><td></td><td>2005-10-31 14:47:10</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000198"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000198</a></td><td></td><td>2005-10-13 10:51:34</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000175"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000175</a></td><td></td><td>2005-08-08 13:22:33</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000171"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000171</a></td><td></td><td>2005-08-02 15:59:07</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000167"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000167</a></td><td></td><td>2005-07-29 10:43:25</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000160"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000160</a></td><td></td><td>2005-07-21 09:43:49</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000156"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000156</a></td><td></td><td>2005-07-19 21:51:30</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000155"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000155</a></td><td></td><td>2005-07-19 21:50:17</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000154"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000154</a></td><td></td><td>2005-07-19 21:49:42</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000153"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000153</a></td><td></td><td>2005-07-15 17:23:05</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000150"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000150</a></td><td></td><td>2005-07-14 15:09:23</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000089"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000089</a></td><td></td><td>2005-05-10 14:34:01</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000065"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000065</a></td><td></td><td>2005-04-15 08:49:08</td></tr><tr><td><a href="/Archives/edgar/data/854399/999999999705016595"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">999999999705016595</a></td><td></td><td>2005-04-05 15:21:20</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312505068360"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312505068360</a></td><td></td><td>2005-04-01 16:35:44</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000034"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000034</a></td><td></td><td>2005-03-16 12:09:31</td></tr><tr><td><a href="/Archives/edgar/data/854399/000102931105000023"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000102931105000023</a></td><td></td><td>2005-02-14 14:32:48</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000004"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000004</a></td><td></td><td>2005-01-14 16:26:53</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210505000003"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210505000003</a></td><td></td><td>2005-01-12 14:44:34</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000218"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000218</a></td><td></td><td>2004-12-22 10:48:31</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000216"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000216</a></td><td></td><td>2004-12-21 12:00:14</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000215"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000215</a></td><td></td><td>2004-12-21 11:58:50</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000210"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000210</a></td><td></td><td>2004-12-13 17:22:34</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000209"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000209</a></td><td></td><td>2004-12-13 17:21:48</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000208"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000208</a></td><td></td><td>2004-12-13 17:18:23</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000204"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000204</a></td><td></td><td>2004-12-07 16:33:59</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000203"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000203</a></td><td></td><td>2004-12-07 16:28:34</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000192"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000192</a></td><td></td><td>2004-11-23 14:47:45</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000191"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000191</a></td><td></td><td>2004-11-22 15:29:45</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000184"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000184</a></td><td></td><td>2004-11-12 17:58:23</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312504195547"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312504195547</a></td><td></td><td>2004-11-12 17:18:50</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000181"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000181</a></td><td></td><td>2004-11-10 16:45:55</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000163"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000163</a></td><td></td><td>2004-10-18 12:27:57</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000156"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000156</a></td><td></td><td>2004-08-25 17:05:17</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312504140094"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312504140094</a></td><td></td><td>2004-08-13 12:06:03</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000126"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000126</a></td><td></td><td>2004-07-16 17:09:43</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000110"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000110</a></td><td></td><td>2004-05-18 16:45:55</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000109"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000109</a></td><td></td><td>2004-05-18 16:45:06</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312504087021"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312504087021</a></td><td></td><td>2004-05-13 11:06:52</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000101"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000101</a></td><td></td><td>2004-05-07 17:00:38</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000086"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000086</a></td><td></td><td>2004-04-15 17:02:18</td></tr><tr><td><a href="/Archives/edgar/data/854399/999999999704015571"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">999999999704015571</a></td><td></td><td>2004-04-02 10:50:17</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312504053317"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312504053317</a></td><td></td><td>2004-03-30 11:19:43</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000065"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000065</a></td><td></td><td>2004-03-29 16:55:26</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000064"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000064</a></td><td></td><td>2004-03-25 18:35:41</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000054"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000054</a></td><td></td><td>2004-03-03 15:39:17</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000053"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000053</a></td><td></td><td>2004-03-03 15:38:56</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000031"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000031</a></td><td></td><td>2004-02-17 17:47:35</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000028"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000028</a></td><td></td><td>2004-02-17 17:09:29</td></tr><tr><td><a href="/Archives/edgar/data/854399/000102931104000039"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000102931104000039</a></td><td></td><td>2004-02-12 16:31:41</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000020"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000020</a></td><td></td><td>2004-02-05 17:05:25</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000019"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000019</a></td><td></td><td>2004-02-05 17:05:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210504000004"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210504000004</a></td><td></td><td>2004-01-16 16:07:07</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210503000228"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210503000228</a></td><td></td><td>2003-12-12 17:08:33</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210503000227"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210503000227</a></td><td></td><td>2003-12-11 15:13:25</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210503000225"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210503000225</a></td><td></td><td>2003-12-04 16:56:18</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210503000224"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210503000224</a></td><td></td><td>2003-12-04 16:46:50</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210503000216"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210503000216</a></td><td></td><td>2003-11-21 15:02:01</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210503000206"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210503000206</a></td><td></td><td>2003-11-14 13:34:33</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210503000200"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210503000200</a></td><td></td><td>2003-11-06 14:19:13</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210503000177"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210503000177</a></td><td></td><td>2003-10-20 11:22:10</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210503000174"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210503000174</a></td><td></td><td>2003-10-10 17:58:59</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210503000165"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210503000165</a></td><td></td><td>2003-09-12 17:21:50</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210503000164"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210503000164</a></td><td></td><td>2003-09-12 17:15:52</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210503000161"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210503000161</a></td><td></td><td>2003-09-05 16:01:35</td></tr><tr><td><a href="/Archives/edgar/data/854399/000119312503037368"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000119312503037368</a></td><td></td><td>2003-08-14 11:54:14</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664103001575"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664103001575</a></td><td></td><td>2003-05-15 15:32:02</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210503000107"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210503000107</a></td><td></td><td>2003-04-30 15:54:09</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664103000900"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664103000900</a></td><td></td><td>2003-03-31 15:28:22</td></tr><tr><td><a href="/Archives/edgar/data/854399/000102931103000031"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000102931103000031</a></td><td></td><td>2003-02-14 14:20:57</td></tr><tr><td><a href="/Archives/edgar/data/854399/000093209902000045"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000093209902000045</a></td><td></td><td>2002-12-03 16:09:02</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664102001951"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664102001951</a></td><td></td><td>2002-11-14 13:19:25</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664102001307"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664102001307</a></td><td></td><td>2002-08-14 14:03:22</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664102000837"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664102000837</a></td><td></td><td>2002-05-15 14:01:52</td></tr><tr><td><a href="/Archives/edgar/data/854399/999999999702020897"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">999999999702020897</a></td><td></td><td>2002-04-02 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000092838502001256"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000092838502001256</a></td><td></td><td>2002-04-01 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210502000060"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210502000060</a></td><td></td><td>2002-04-01 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664101501520"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664101501520</a></td><td></td><td>2001-11-13 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664101500946"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664101500946</a></td><td></td><td>2001-08-13 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664101500374"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664101500374</a></td><td></td><td>2001-05-15 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664101000514"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664101000514</a></td><td></td><td>2001-04-02 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210501000052"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210501000052</a></td><td></td><td>2001-03-26 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210500000156"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210500000156</a></td><td></td><td>2000-12-05 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664100001630"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664100001630</a></td><td></td><td>2000-11-13 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210500500005"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210500500005</a></td><td></td><td>2000-08-17 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664100001100"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664100001100</a></td><td></td><td>2000-08-10 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000100210500000089"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000100210500000089</a></td><td></td><td>2000-07-20 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664100000644"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664100000644</a></td><td></td><td>2000-05-12 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664100000432"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664100000432</a></td><td></td><td>2000-03-31 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664100000359"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664100000359</a></td><td></td><td>2000-03-28 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664199000857"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664199000857</a></td><td></td><td>1999-11-12 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664199000673"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664199000673</a></td><td></td><td>1999-08-12 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664199000432"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664199000432</a></td><td></td><td>1999-05-14 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664199000366"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664199000366</a></td><td></td><td>1999-04-30 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664199000265"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664199000265</a></td><td></td><td>1999-03-30 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664198001178"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664198001178</a></td><td></td><td>1998-11-09 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664198000893"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664198000893</a></td><td></td><td>1998-08-12 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664198000613"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664198000613</a></td><td></td><td>1998-05-15 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664198000365"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664198000365</a></td><td></td><td>1998-03-31 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664198000284"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664198000284</a></td><td></td><td>1998-03-25 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664197001134"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664197001134</a></td><td></td><td>1997-11-26 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664197001079"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664197001079</a></td><td></td><td>1997-11-13 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664197000827"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664197000827</a></td><td></td><td>1997-08-12 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664197000474"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664197000474</a></td><td></td><td>1997-05-12 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664197000340"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664197000340</a></td><td></td><td>1997-04-07 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664197000303"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664197000303</a></td><td></td><td>1997-03-31 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664196000971"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664196000971</a></td><td></td><td>1996-11-13 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664196000809"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664196000809</a></td><td></td><td>1996-09-25 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664196000811"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664196000811</a></td><td></td><td>1996-09-25 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664196000732"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664196000732</a></td><td></td><td>1996-08-26 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664196000701"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664196000701</a></td><td></td><td>1996-08-14 00:00:00</td></tr><tr><td><a href="/Archives/edgar/data/854399/000091664196000601"><img class="img_icon" src="/icons/folder.gif" alt="folder icon">000091664196000601</a></td><td></td><td>1996-07-26 00:00:00</td></tr></table></div><div id="local-footer" class="grid_12">
+</div><div id="page-variables" class="clearfix">
+</div>
+<div id="global-footer" class="grid_12">
+<ul class="clearfix"><li><a href="/sitemap.shtml">Site Map</a></li><li><a href="/eeoinfo/sec_access.htm">Accessibility</a></li><li><a href="/about/offices/oacq.htm">Contracts</a></li><li><a href="/privacy.htm">Privacy</a></li><li><a href="http://www.sec-oig.gov/">Inspector General</a></li><li><a href="/jobs.shtml">Careers</a></li><li><a href="/contact.shtml">Contact</a></li></ul><ul class="clearfix"><li><a href="/foia.shtml">FOIA</a></li><li><a href="/eeoinfo.shtml">No FEAR Act &amp; EEO Data</a></li><li><a href="/open">Open Government</a></li><li><a href="/plainwriting.shtml">Plain Writing</a></li><li><a href="/links.shtml">Links</a></li><li><a href="http://investor.gov/">Investor.gov</a></li><li><a href="http://www.usa.gov/">USA.gov</a></li></ul>
+</div>
+</div> <!-- END LAYOUT WRAPPER -->
+</div> <!-- END BACKGROUND WRAPPER 3 -->
+</div> <!-- END BACKGROUND WRAPPER 2 -->
+</div> <!-- END BACKGROUND WRAPPER 1 -->
+</body></html>

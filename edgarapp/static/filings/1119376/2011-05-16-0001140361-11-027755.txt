@@ -1,0 +1,189 @@
+<SEC-DOCUMENT>0001140361-11-027755.txt : 20110516
+<SEC-HEADER>0001140361-11-027755.hdr.sgml : 20110516
+<ACCEPTANCE-DATETIME>20110516160117
+ACCESSION NUMBER:		0001140361-11-027755
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110331
+FILED AS OF DATE:		20110516
+DATE AS OF CHANGE:		20110516
+EFFECTIVENESS DATE:		20110516
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COURAGE CAPITAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001119376
+		IRS NUMBER:				621749393
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10362
+		FILM NUMBER:		11846689
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4400 HARDING ROAD
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37205
+		BUSINESS PHONE:		6157426280
+
+	MAIL ADDRESS:	
+		STREET 1:		4400 HARDING ROAD
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37205
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>form13f-hr.txt
+<DESCRIPTION>COURAGE CAPITAL MANAGEMENT, LLC 13F-HR 3-31-2011
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 13F
+                               FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:       March 31, 2011
+Check here if Amendment [];        Amendment Number:
+                                                    -------
+
+This Amendment (check only one.): [] is a restatement.
+                                  [] adds new holdings entries
+
+Institutional Investment Manager Filing this Report:
+Name:         Courage Capital Management, LLC
+Address:      4400 Harding Road, Suite 503
+              Nashville, TN  37205-2290
+
+Form 13F File Number:               28-10362
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person signing this report on behalf of Reporting Manager:
+
+Name:         Richard C. Patton
+Title:        Chief Manager
+Phone:        615-369-0110
+
+Signature, Place and Date of Signing:
+
+ /S/ Richard C. Patton                   Nashville, TN             May 16, 2011
+------------------------------------     ------------------        ------------
+[Signature]                              [City, State]             [Date]
+
+Report Type (Check only one.):
+
+[X] 13F HOLDINGS REPORT. (Check here if all holdings of this report manager are
+reported in this report.)
+
+[ ] 13F NOTICE. (Check here if no holdings reported are in this report, and all
+holdings are reported by other reporting manager(s).)
+
+[ ] 13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+reporting manager are reported in this report and a portion are reported by
+other reporting manager(s).)
+
+<PAGE>
+
+FORM 13F SUMMARY PAGE
+
+Number of Other Included Managers:                      0
+
+Form 13F Information Table Entry Total:                52
+
+Form 13F Information Table Value Total:        $  378,690
+                                               ----------
+                                               (thousands)
+
+List of Other Included Managers:  Not Applicable
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+                 COLUMN 1                     COLUMN 2    COLUMN 3  COLUMN 4      COLUMN 5       COLUMN 6  COLUMN 7     COLUMN 8
+------------------------------------------ -------------- --------- -------- ------------------ ---------- -------- ----------------
+                                                                     VALUE    SHRS OR  SH/ PUT/ INVESTMENT  OTHER   VOTING AUTHORITY
+              NAME OF ISSUER               TITLE OF CLASS   CUSIP   (x$1000)  PRN AMT  PRN CALL DISCRETION MANAGERS SOLE SHARED NONE
+------------------------------------------ -------------- --------- -------- --------- --- ---- ---------- -------- ---- ------ ----
+<S>                                        <C>            <C>       <C>      <C>       <C> <C>  <C>        <C>      <C>  <C>    <C>
+AC Moore Arts and Crafts Ord Shs        Common           00086T103      165     60,100 SH       Defined (1)         X      0      0
+Aeropostale Ord Shs                     Common           007865108    4,134    170,000 SH       Defined (1)         X      0      0
+Altisource Portfolio Solutions Ord Shs  Common           L0175J104   10,408    339,231 SH       Defined (1)         X      0      0
+Blue Coat System Ord Shs                Common           09534T508      640     22,729 SH       Defined (1)         X      0      0
+Coca-Cola Ord Shs                       Common           191216100      305      4,600 SH       Defined (1)         X      0      0
+Convergys Ord Shs                       Common           212485106      468     32,600 SH       Defined (1)         X      0      0
+Costamare Ord Shs                       Common           Y1771G102      350     20,144 SH       Defined (1)         X      0      0
+Gilead Sciences Inc.                    Common           375558103   13,285    312,800 SH       Defined (1)         X      0      0
+Google Inc                              Common           38259P508    6,125     10,438 SH       Defined (1)         X      0      0
+Harsco Ord Shs                          Common           415864107      619     17,550 SH       Defined (1)         X      0      0
+Ingram Micro                            Common           457153104   10,641    505,971 SH       Defined (1)         X      0      0
+Liberty Media Starz Ord Shs Series A    Common           53071M708      951     12,250 SH       Defined (1)         X      0      0
+LoJack Ord Shs                          Common           539451104      108     23,014 SH       Defined (1)         X      0      0
+Maiden Holdings Ord Shs                 Common           G5753U112      180     24,000 SH       Defined (1)         X      0      0
+Markel Ord Shs                          Common           570535104    1,768      4,265 SH       Defined (1)         X      0      0
+McCormick & Co Non-Voting Ord Shs       Common           579780206      292      6,100 SH       Defined (1)         X      0      0
+Move Ord Shs                            Common           62458M108       42     17,700 SH       Defined (1)         X      0      0
+Pan American Silver Ord Shs             Common           697900108      452     12,550 SH       Defined (1)         X      0      0
+Radioshack Ord Shs                      Common           750438103    8,605    573,300 SH       Defined (1)         X      0      0
+Rehabcare Corp Ord Shs                  Common           759148109    8,004    217,100 SH       Defined (1)         X      0      0
+Rosetta Stone Ord Shs                   Common           777779307      330     25,000 SH       Defined (1)         X      0      0
+Sherwin Williams Ord Shs                Common           824348106      226      2,690 SH       Defined (1)         X      0      0
+Talbots Ord Shs                         Common           874161102    8,690  1,438,754 SH       Defined (1)         X      0      0
+Tekelec Ord Shs                         Common           879101103      512     63,000 SH       Defined (1)         X      0      0
+True Religion Apparel Ord Shs           Common           89784N104    4,719    201,063 SH       Defined (1)         X      0      0
+Universal Insurance Holdings Ord Shs    Common           91359V107      121     22,400 SH       Defined (1)         X      0      0
+Viacom Ord Shs Class B                  Common           92553P201   11,179    240,300 SH       Defined (1)         X      0      0
+ViaSat Ord Shs                          Common           92552V100      817     20,500 SH       Defined (1)         X      0      0
+SPDR Gold Trust                         Gold ETF         78463V107   14,179    101,380 SH       Defined (1)         X      0      0
+Market Vectors ETF                      Gold Miner ETF   57060U100   11,311    188,200 SH       Defined (1)         X      0      0
+Eastman Kodak ORD)                      Option           277461109      262     81,100 SH  Call Defined (1)         X      0      0
+Eastman Kodak ORD)                      Option           277461109      393    121,600 SH  Call Defined (1)         X      0      0
+Hartford Financial Services Group       Option           416515104    1,804     67,000 SH  Put  Defined (1)         X      0      0
+Ishares Russell 2000 index ETF          Option           464287655   94,195  1,119,100 SH  Put  Defined (1)         X      0      0
+KV Pharmaceutical Cl A                  Option           482740206      389     65,000 SH  Put  Defined (1)         X      0      0
+Leap Wirless International              Option           521863308    1,454     94,000 SH  Put  Defined (1)         X      0      0
+McMoran Exploration Co.                 Option           582411104      886     50,000 SH  Call Defined (1)         X      0      0
+McMoran Exploration Co.                 Option           582411104    4,711    266,000 SH  Call Defined (1)         X      0      0
+Radioshack Ord Shs                      Option           750438103      375     25,000 SH  Put  Defined (1)         X      0      0
+Radioshack Ord Shs                      Option           750438103    3,454    230,100 SH  Call Defined (1)         X      0      0
+Radioshack Ord Shs                      Option           750438103      446     29,700 SH  Call Defined (1)         X      0      0
+SPDR Gold Trust                         Option           78463V107    3,357     24,000 SH  Call Defined (1)         X      0      0
+SPDR Gold Trust                         Option           78463V107      140      1,000 SH  Call Defined (1)         X      0      0
+SPDR Gold Trust                         Option           78463V107    2,098     15,000 SH  Call Defined (1)         X      0      0
+SPDR S&P 500 ETF                        Option           78462F103  137,575  1,037,600 SH  Put  Defined (1)         X      0      0
+Sprint Nextel                           Option           852061100      325     70,000 SH  Call Defined (1)         X      0      0
+Viasat Inc.                             Option           92552V100       88      2,200 SH  Call Defined (1)         X      0      0
+Viasat Inc.                             Option           92552V100       40      1,000 SH  Call Defined (1)         X      0      0
+Vistaprint                              Option           N93540107      747     14,400 SH  Call Defined (1)         X      0      0
+Wal Mart Stores                         Option           931142103    5,205    100,000 SH  Call Defined (1)         X      0      0
+ProShares UltraShort Real Estate ETF    Real Estate ETF  74347X583      184     11,900 SH       Defined (1)         X      0      0
+ProShares UltraShort 20+ Year Treasury
+ ETF                                    Treasury Shares
+                                        ETF              74347R297      936     25,000 SH       Defined (1)         X      0      0
+</TABLE>
+
+(1) Courage Investments, Inc. is the general partner of certain private
+investment funds managed by the Reporting Manager. However, the Reporting
+Manager has discretion over the investment and voting decisions with respect to
+securities directly owned by such funds pursuant to investment management
+agreements. Similarly, the Reporting Manager has discretion over the investment
+and voting decisions with respect to securities directly owned by other third
+party accounts that are managed by the Reporting Manager pursuant to trading
+manager agreements.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

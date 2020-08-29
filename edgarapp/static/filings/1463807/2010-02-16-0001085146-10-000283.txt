@@ -1,0 +1,215 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CznL7RrHOxrXdQ4I9DieMbTFl/t0FsONOhwGVwsHkC1/NVjlRhm6vQhBCeSRcztT
+ 2VyOLd9MLYpcX52k/uN0HQ==
+
+<SEC-DOCUMENT>0001085146-10-000283.txt : 20100216
+<SEC-HEADER>0001085146-10-000283.hdr.sgml : 20100215
+<ACCEPTANCE-DATETIME>20100216170430
+ACCESSION NUMBER:		0001085146-10-000283
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20091231
+FILED AS OF DATE:		20100216
+DATE AS OF CHANGE:		20100216
+EFFECTIVENESS DATE:		20100216
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Charles Schwab Trust Company, a division of Charles Schwab Bank
+		CENTRAL INDEX KEY:			0001463807
+		IRS NUMBER:				421558009
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13515
+		FILM NUMBER:		10609321
+
+	BUSINESS ADDRESS:	
+		STREET 1:		211 MAIN STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+		BUSINESS PHONE:		877-319-2782
+
+	MAIL ADDRESS:	
+		STREET 1:		211 MAIN STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>swbt4q09.txt
+<DESCRIPTION>CHARLES SCHWAB TRUST COMPANY
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: December 31, 2009
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Charles Schwab Trust Company, a division of Charles Schwab Bank
+Address: 211 Main Street
+         San Francisco, CA  94105
+
+13F File Number:  028-13515
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Scott Glave
+Title:     Vice President
+Phone:     415-667-1294
+
+Signature, Place, and Date of Signing:
+
+      /s/ Scott Glave     San Francisco, CA     January 29, 2010
+
+Report Type (Check only one.):
+
+[  ]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[ X]         13F COMBINATION REPORT.
+
+List of Other Managers Reporting for this Manager:
+
+Form 13F File Number          Name
+
+028-11918                     American Century Companies Inc.
+028-00400                     Dodge & Cox
+028-04557                     Wellington Management Co LLP
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:         0
+
+Form 13F Information Table Entry Total:    74
+
+Form 13F Information Table Value Total:    $73,004 (thousands)
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+NONE
+
+<PAGE>
+
+<TABLE>                       <C>             <C>
+                                                     FORM 13F INFORMATION TABLE
+                                                             VALUE  SHARES/ SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP     (x$1000)  PRN AMT PRN CALL DSCRETN MANAGERS         SOLE   SHARED     NONE
+- ------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+A POWER ENERGY GENERAT SYS L   COM              G04136100      627    34280 SH       SOLE                    34280        0        0
+ACXIOM CORP                    COM              005125109      899    67000 SH       SOLE                    67000        0        0
+ALMOST FAMILY INC              COM              020409108     1040    26300 SH       SOLE                    26300        0        0
+AMEDISYS INC                   COM              023436108      753    15500 SH       SOLE                    15500        0        0
+AMERICAN MED SYS HLDGS INC     COM              02744M108     1285    66600 SH       SOLE                    66600        0        0
+ART TECHNOLOGY GROUP INC       COM              04289L107      876   194190 SH       SOLE                   194190        0        0
+ARVINMERITOR INC               COM              043353101      763    68220 SH       SOLE                    68220        0        0
+ASSURED GUARANTY LTD           COM              G0585R106     1092    50180 SH       SOLE                    50180        0        0
+ATLAS AIR WORLDWIDE HLDGS IN   COM NEW          049164205     1211    32510 SH       SOLE                    32510        0        0
+AVISTA CORP                    COM              05379B107     1218    56400 SH       SOLE                    56400        0        0
+BALLY TECHNOLOGIES INC         COM              05874B107     1216    29450 SH       SOLE                    29450        0        0
+BIOMED REALTY TRUST INC        COM              09063H107     1236    78330 SH       SOLE                    78330        0        0
+BPZ RESOURCES INC              COM              055639108      889    93600 SH       SOLE                    93600        0        0
+BRANDYWINE RLTY TR             SH BEN INT NEW   105368203     1179   103440 SH       SOLE                   103440        0        0
+BUFFALO WILD WINGS INC         COM              119848109      829    20590 SH       SOLE                    20590        0        0
+CABOT CORP                     COM              127055101     1150    43860 SH       SOLE                    43860        0        0
+CASH AMER INTL INC             COM              14754D100     1556    44500 SH       SOLE                    44500        0        0
+COLLECTIVE BRANDS INC          COM              19421W100     1173    51530 SH       SOLE                    51530        0        0
+CONSECO INC                    COM NEW          208464883      986   197140 SH       SOLE                   197140        0        0
+DCT INDUSTRIAL TRUST INC       COM              233153105     1183   235620 SH       SOLE                   235620        0        0
+DOMTAR CORP                    COM NEW          257559203     1063    19190 SH       SOLE                    19190        0        0
+DRAGONWAVE INC                 COM              26144M103      403    35160 SH       SOLE                    35160        0        0
+DRESS BARN INC                 COM              261570105     1318    57070 SH       SOLE                    57070        0        0
+EAST WEST BANCORP INC          COM              27579R104     1139    72110 SH       SOLE                    72110        0        0
+EMULEX CORP                    COM NEW          292475209      813    74620 SH       SOLE                    74620        0        0
+ENTEGRIS INC                   COM              29362U104      537   101648 SH       SOLE                   101648        0        0
+EV3 INC                        COM              26928A200     1093    81930 SH       SOLE                    81930        0        0
+FIRST NIAGARA FINL GP INC      COM              33582V108      930    66890 SH       SOLE                    66890        0        0
+GENCO SHIPPING & TRADING LTD   SHS              Y2685T107      879    39290 SH       SOLE                    39290        0        0
+GEO GROUP INC                  COM              36159R103      810    37040 SH       SOLE                    37040        0        0
+GRAFTECH INTL LTD              COM              384313102      579    37250 SH       SOLE                    37250        0        0
+HANCOCK HLDG CO                COM              410120109      943    21540 SH       SOLE                    21540        0        0
+HARBIN ELECTRIC INC            COM              41145W109      922    44880 SH       SOLE                    44880        0        0
+HEALTHSOUTH CORP               COM NEW          421924309     1155    61520 SH       SOLE                    61520        0        0
+HEALTHSPRING INC               COM              42224N101      905    51410 SH       SOLE                    51410        0        0
+HECLA MNG CO                   COM              422704106      926   149840 SH       SOLE                   149840        0        0
+HHGREGG INC                    COM              42833L108     1160    52670 SH       SOLE                    52670        0        0
+ION GEOPHYSICAL CORP           COM              462044108      670   113100 SH       SOLE                   113100        0        0
+JDS UNIPHASE CORP              COM PAR $0.001   46612J507     1371   166150 SH       SOLE                   166150        0        0
+KAISER ALUMINUM CORP           COM PAR $0.01    483007704      966    23200 SH       SOLE                    23200        0        0
+LASALLE HOTEL PPTYS            COM SH BEN INT   517942108      935    44050 SH       SOLE                    44050        0        0
+LUMBER LIQUIDATORS INC         COM              55003Q103     1172    43740 SH       SOLE                    43740        0        0
+MEDICIS PHARMACEUTICAL CORP    CL A NEW         584690309      839    31010 SH       SOLE                    31010        0        0
+MERCADOLIBRE INC               COM              58733R102      740    14270 SH       SOLE                    14270        0        0
+MF GLOBAL LTD                  SHS              G60642108      771   110880 SH       SOLE                   110880        0        0
+MONTPELIER RE HOLDINGS LTD     SHS              G62185106      554    31960 SH       SOLE                    31960        0        0
+NAVIGANT CONSULTING INC        COM              63935N107      619    41660 SH       SOLE                    41660        0        0
+NEKTAR THERAPEUTICS            COM              640268108      631    67710 SH       SOLE                    67710        0        0
+NICOR INC                      COM              654086107     1118    26560 SH       SOLE                    26560        0        0
+NUTRI SYS INC NEW              COM              67069D108      410    13160 SH       SOLE                    13160        0        0
+PAETEC HOLDING CORP            COM              695459107     1134   273220 SH       SOLE                   273220        0        0
+POWER INTEGRATIONS INC         COM              739276103     1127    31000 SH       SOLE                    31000        0        0
+PROSPERITY BANCSHARES INC      COM              743606105     1325    32740 SH       SOLE                    32740        0        0
+REGENCY ENERGY PARTNERS L P    COM UNITS L P    75885Y107     1180    56310 SH       SOLE                    56310        0        0
+RINO INTERNATIONAL CORPORATI   COM              766883102      826    29870 SH       SOLE                    29870        0        0
+ROCKWOOD HLDGS INC             COM              774415103     1162    49340 SH       SOLE                    49340        0        0
+SALIX PHARMACEUTICALS INC      COM              795435106      553    21790 SH       SOLE                    21790        0        0
+SCHWEITZER-MAUDUIT INTL INC    COM              808541106     1186    16860 SH       SOLE                    16860        0        0
+SERVICE CORP INTL              COM              817565104     1321   161310 SH       SOLE                   161310        0        0
+SIGNATURE BK NEW YORK N Y      COM              82669G104     1579    49510 SH       SOLE                    49510        0        0
+SKYWORKS SOLUTIONS INC         COM              83088M102      809    57030 SH       SOLE                    57030        0        0
+SOLERA HOLDINGS INC            COM              83421A104      856    23770 SH       SOLE                    23770        0        0
+STIFEL FINL CORP               COM              860630102     1227    20720 SH       SOLE                    20720        0        0
+STONE ENERGY CORP              COM              861642106      837    46360 SH       SOLE                    46360        0        0
+TEMPUR PEDIC INTL INC          COM              88023U101     1344    56890 SH       SOLE                    56890        0        0
+TERADYNE INC                   COM              880770102     1363   127020 SH       SOLE                   127020        0        0
+THORATEC CORP                  COM NEW          885175307      679    25230 SH       SOLE                    25230        0        0
+TNS INC                        COM              872960109      546    21240 SH       SOLE                    21240        0        0
+TREEHOUSE FOODS INC            COM              89469A104      567    14590 SH       SOLE                    14590        0        0
+UNISYS CORP                    COM NEW          909214306     2051    53186 SH       SOLE                    53186        0        0
+VAIL RESORTS INC               COM              91879Q109      820    21690 SH       SOLE                    21690        0        0
+WONDER AUTO TECHNOLOGY INC     COM              978166106      954    81130 SH       SOLE                    81130        0        0
+WOODWARD GOVERNOR CO           COM              980745103      898    34830 SH       SOLE                    34830        0        0
+WRIGHT MED GROUP INC           COM              98235T107     1128    59530 SH       SOLE                    59530        0        0
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

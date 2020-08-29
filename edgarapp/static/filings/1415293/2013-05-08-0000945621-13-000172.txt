@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0000945621-13-000172.txt : 20130508
+<SEC-HEADER>0000945621-13-000172.hdr.sgml : 20130508
+<ACCEPTANCE-DATETIME>20130508100952
+ACCESSION NUMBER:		0000945621-13-000172
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20130331
+FILED AS OF DATE:		20130508
+DATE AS OF CHANGE:		20130508
+EFFECTIVENESS DATE:		20130508
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sloane Robinson LLP
+		CENTRAL INDEX KEY:			0001415293
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12596
+		FILM NUMBER:		13823028
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 ST DUNSTAN'S HILL
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC3R 8ND
+		BUSINESS PHONE:		00442079292771
+
+	MAIL ADDRESS:	
+		STREET 1:		20 ST DUNSTAN'S HILL
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC3R 8ND
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>sloane13f3312013.txt
+<DESCRIPTION>FORM
+<TEXT>
+
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:  March 31, 2013
+
+Check here if Amendment [  ];     Amendment Number: ___
+This Amendment (Check only one): [   ] is a restatement.
+                                 [   ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Sloane Robinson LLP
+Address: 20 St Dunstan's Hill, London, EC3R 8ND
+
+Form 13F File Number: 28-12596
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     John Cutler
+Title:    Head of Legal and Compliance
+Phone:    +44 207 929 2771
+
+Signature, Place, and Date of Signing:
+
+
+
+/s/ John Cutler     London, England       08 May 2013
+---------------     ------------------    -------------
+Signature           City, State           Date
+
+
+Report Type:
+
+[X]     13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+manager are reported in this report.)
+
+[ ]     13F NOTICE.  (Check here if no holdings reported are in this report, and
+all holdings are reported by other reporting manager(s).)
+
+[ ]     13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+this reporting manager are reported in this report and a portion are reported by
+other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager: None
+
+
+<PAGE>
+                             Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:                     nil
+
+Form 13F Information Table Entry Total:                 16
+
+Form 13F Information Table Value Total:           $ 61,080
+                                                  (thousands)
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+
+
+<S>                           <C>             <C>        <C>     <C>           <C>  <C>   <C>         <C>       <C>     <C>     <C>
+                                                                 TOTAL NUMBER
+                                                         VALUE   OF SHARES     SH/  PUT/  INVESTMENT  OTHER        VOTING AUTHORITY
+NAME OF ISSUER                TITLE OF CLASS  CUSIP      X$1000  HELD          PRN  CALL  DISCRETION  MANAGERS  SOLE    SHARED  NONE
+------------------------------------------------------------------------------------------------------------------------------------
+AIRMEDIA GROUP INC            SPONSORED ADR   009411109     221       123,200  SH         SOLE                  123,200
+CHECK POINT SOFTWARE TECH LT  ORD             M22465104     141         3,000  SH         SOLE                    3,000
+DOW CHEM CO                   COM             260543103     159         5,000  SH         SOLE                    5,000
+HALLIBURTON CO                COM             406216101   6,700       165,800  SH         SOLE                  165,800
+ISHARES TR FTSE CHINA25 IDX   ETF             464287184   2,471        66,970  SH         SOLE                   66,970
+ISHARES TR MSCI EMERG MKT     ETF             464287234   2,126        49,700  SH         SOLE                   49,700
+MICROSOFT CORP                COM             594918104     277         9,700  SH         SOLE                    9,700
+MINDRAY MEDICAL INTL LTD      SPONSORED ADR   602675100      84         2,100  SH         SOLE                    2,100
+MOBILE TELESYSTEMS OJSC       SPONSORED ADR   607409109     145         7,000  SH         SOLE                    7,000
+NATIONAL OILWELL VARCO INC    COM             637071101   4,422        62,500  SH         SOLE                   62,500
+NEW ORIENTAL ED & TECH GRP I  SPONSORED ADR   647581107  30,577     1,698,700  SH         SOLE                1,698,700
+NEWMONT MINING CORP           COM             651639106     268         6,400  SH         SOLE                    6,400
+QIHOO 360 TECHNOLOGY CO LTD   ADS             74734M109   1,239        41,800  SH         SOLE                   41,800
+SINA CORP                     ORD             G81477104     578        11,900  SH         SOLE                   11,900
+TAIWAN SEMICONDUCTOR MFG LTD  SPONSORED ADR   874039100     639        37,200  SH         SOLE                   37,200
+YANDEX N V                    SHS CLASS A     N97284108  11,033       476,800  SH         SOLE                  476,800
+
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

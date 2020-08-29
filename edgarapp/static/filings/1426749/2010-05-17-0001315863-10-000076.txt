@@ -1,0 +1,172 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GSuIJYkzPgI/78rmJXa+qAaxnXFb4+S0RmQ5tDWoSajllRa2D22pVhBVuNaJ1oxe
+ H6BzonucrifLNgR5yn/xaA==
+
+<SEC-DOCUMENT>0001315863-10-000076.txt : 20100517
+<SEC-HEADER>0001315863-10-000076.hdr.sgml : 20100517
+<ACCEPTANCE-DATETIME>20100517160246
+ACCESSION NUMBER:		0001315863-10-000076
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100331
+FILED AS OF DATE:		20100517
+DATE AS OF CHANGE:		20100517
+EFFECTIVENESS DATE:		20100517
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ancient Art, L.P.
+		CENTRAL INDEX KEY:			0001426749
+		IRS NUMBER:				010626221
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12920
+		FILM NUMBER:		10838499
+
+	BUSINESS ADDRESS:	
+		STREET 1:		610 WEST 5TH STREET
+		STREET 2:		SUITE 600
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+		BUSINESS PHONE:		512.351.4440
+
+	MAIL ADDRESS:	
+		STREET 1:		610 WEST 5TH STREET
+		STREET 2:		SUITE 600
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>ancien10.txt
+<DESCRIPTION>ANCIENT ART, L.P. 13F 1Q 2010
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: March 31, 2010
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Ancient Art, L.P.
+Address: 610 West 5th Street
+         Suite 600
+         Austin, Texas  78701
+
+13F File Number:  28-12920
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Amy Inbody
+Title:     Chief Compliance Officer
+Phone:     512.351.4440
+
+Signature, Place, and Date of Signing:
+
+     Amy Inbody     Austin, Texas     May 17, 2010
+
+
+Report Type (Check only one.):
+
+[ X]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[  ]         13F COMBINATION REPORT.
+
+
+
+
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:         0
+
+Form13F Information Table Entry Total:     26
+
+Form13F Information Table Value Total:     $145,328 (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+NONE
+
+
+<PAGE>
+
+
+
+<TABLE>                       <C>             <C>
+                                                     FORM 13F INFORMATION TABLE
+                                                             VALUE  SHARES/ SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP     (x$1000)  PRN AMT PRN CALL DSCRETN MANAGERS         SOLE   SHARED     NONE
+- ------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+AMERICAN DENTAL PARTNERS       COM              025353103    15889  1217520 SH       SOLE                  1217520
+ARBITRON INC                   COM              03875Q108     5377   201680 SH       SOLE                   201680
+ARCH CAP GROUP LTD             ORD              G0450A105     4969    65171 SH       SOLE                    65171
+CAMBIUM LEARNING GRP INC       COM              13201A107     4094  1023494 SH       SOLE                  1023494
+CLEAR CHANNEL OUTDOOR HLDGS    CL A             18451C109    14989  1412719 SH       SOLE                  1412719
+COLUMBUS MCKINNON CORP N Y     COM              199333105        3      220 SH       SOLE                      220
+CREDIT ACCEP CORP MICH         COM              225310101     2109    51128 SH       SOLE                    51128
+EMPLOYERS HOLDINGS INC         COM              292218104     4120   277457 SH       SOLE                   277457
+KINGSWAY FINL SVCS INC         COM              496904103     3520  2233600 SH       SOLE                  2233600
+LIBERTY GLOBAL INC             COM SER A        530555101    11416   391500 SH       SOLE                   391500
+LIBERTY MEDIA CORP NEW         LIB STAR COM A   53071M708     4959    90700 SH       SOLE                    90700
+LIVE NATION ENTERTAINMENT IN   COM              538034109     7443   513300 SH       SOLE                   513300
+MARKET VECTORS ETF TR          JR GOLD MINERS E 57060U589     3472   135000 SH       SOLE                   135000
+META FINL GROUP INC            COM              59100U108     5571   220653 SH       SOLE                   220653
+MI DEVS INC                    CL A SUB VTG     55304X104     5550   425633 SH       SOLE                   425633
+NICHOLAS FINANCIAL INC         COM NEW          65373J209     7521   993465 SH       SOLE                   993465
+ORBITZ WORLDWIDE INC           COM              68557K109     4607   648016 SH       SOLE                   648016
+PENN NATL GAMING INC           COM              707569109     4478   161020 SH       SOLE                   161020
+PROSPECT MEDICAL HOLDINGS IN   COM              743494106     3584   530935 SH       SOLE                   530935
+REPUBLIC AWYS HLDGS INC        COM              760276105     3376   568333 SH       SOLE                   568333
+RRI ENERGY INC                 COM              74971X107     1563   423600 SH       SOLE                   423600
+SCIENTIFIC GAMES CORP          CL A             80874P109     2089   148032 SH       SOLE                   148032
+UNITED AMER INDEMNITY LTD      CL A             90933T109     4632   484055 SH       SOLE                   484055
+VALEANT PHARMACEUTICALS INTL   COM              91911X104     7513   175081 SH       SOLE                   175081
+VANTAGE DRILLING COMPANY       ORD SHS          G93205113     3138  2120473 SH       SOLE                  2120473
+ZIPREALTY INC                  COM              98974V107     9346  1907286 SH       SOLE                  1907286
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

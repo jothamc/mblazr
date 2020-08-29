@@ -1,0 +1,181 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SOidvoxsP0mYCcbbXjMGabA9bGSwtq8EbUpKO0kgGCboWNWI/jPkr4II/NZ15x7s
+ aU2gKCd0xQBapWJx+9tCYw==
+
+<SEC-DOCUMENT>0001140361-10-006681.txt : 20100216
+<SEC-HEADER>0001140361-10-006681.hdr.sgml : 20100215
+<ACCEPTANCE-DATETIME>20100216163736
+ACCESSION NUMBER:		0001140361-10-006681
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20091231
+FILED AS OF DATE:		20100216
+DATE AS OF CHANGE:		20100216
+EFFECTIVENESS DATE:		20100216
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COURAGE CAPITAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001119376
+		IRS NUMBER:				621749393
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10362
+		FILM NUMBER:		10608675
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4400 HARDING ROAD
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37205
+		BUSINESS PHONE:		6157426280
+
+	MAIL ADDRESS:	
+		STREET 1:		4400 HARDING ROAD
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37205
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>form13f.txt
+<DESCRIPTION>COURAGE CAPITAL 13F-HR 12-31-2009
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+                               Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: 12/31/2009
+
+Check here if Amendment []; Amendment Number:
+                                               -------
+
+This Amendment (Check only one.):               [] is a restatement.
+                                                [] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:      Courage Capital Management, LLC
+Address:   4400 Harding Road
+           Suite 503
+           Nashville, TN  37205-2290
+
+
+Form 13F File Number: 28-10362
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Persons Signing this Report on Behalf of Reporting Manager:
+
+Name:   Richard C. Patton
+Title:  Chief Manager
+Phone:  615-369-0110
+
+Signature,  Place,  and  Date  of  Signing:
+
+/s/ Richard C. Patton              Nashville, TN                      2/16/2010
+- ---------------------------------  ---------------------------------  ----------
+[Signature]                        [City, State]                      [Date]
+
+
+Report  Type  (Check  only  one):
+
+[X]     13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+        manager are reported in this report.)
+
+[ ]     13F NOTICE. (Check here if no holdings reported are in this report,
+        and all holdings are reported by other reporting manager(s).)
+
+[ ]     13F COMBINATION REPORT. (Check here if a portion of the holdings for
+        this reporting manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+
+
+<PAGE>
+                              Form 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:                    0
+
+Form 13F Information Table Entry Total:              24
+
+Form 13F Information Table Value Total:  $      771,946
+                                         --------------
+                                         (In Thousands)
+
+
+List of Other Included Managers:  Not Applicable
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+           COLUMN 1                 COLUMN 2      COLUMN 3  COLUMN 4      COLUMN 5        COLUMN 6  COLUMN 7     COLUMN 8
+- ------------------------------ ------------------ --------- -------- ------------------- ---------- -------- ----------------
+                                                             VALUE    SHRS OR   SH/ PUT/ INVESTMENT  OTHER   VOTING AUTHORITY
+        NAME OF ISSUER           TITLE OF CLASS     CUSIP   (x$1000)  PRN AMT   PRN CALL DISCRETION MANAGERS SOLE SHARED NONE
+- ------------------------------ ------------------ --------- -------- ---------- --- ---- ---------- -------- ---- ------ ----
+<S>                            <C>                <C>       <C>      <C>        <C> <C>  <C>        <C>      <C>  <C>    <C>
+Abbott Laboratories            Common             002824100   10,798    200,000 SH       DEFINED                X      0    0
+Altisource Portfolio Solutions Common             L0175J104    8,186    389,990 SH       DEFINED                X      0    0
+Amedisys Inc                   Common             023436108    3,645     75,000 SH       DEFINED                X      0    0
+Amedisys Inc                   Option             023436108    3,645     75,000 SH  PUT  DEFINED                X      0    0
+Carrizo Oil & Co               Note 4.375%        144577AA1   18,035 21,000,000 PRN      DEFINED                X      0    0
+Charming Shoppes Inc.          Common             161133103    9,040  1,397,288 SH       DEFINED                X      0    0
+Charming Shoppes Inc.          Note 1.125%        161133AE3    6,333  8,500,000 PRN      DEFINED                X      0    0
+Cornell Companies Inc          Common             219141108    2,969    130,800 SH       DEFINED                X      0    0
+Entertainment Properties Trust Preferred Series E 29380T600    7,996    321,500 SH       DEFINED                X      0    0
+Fifth Third Bancorp            Option             316773100   14,460  1,200,000 SH  PUT  DEFINED                X      0    0
+Goldman Sachs Group Inc.       Option             38141G104   16,884    100,000 SH  PUT  DEFINED                X      0    0
+Ingram Micro Inc               Common             457153104   20,475  1,173,371 SH       DEFINED                X      0    0
+ISHARES Russell 2000           Option             464287655   31,220    500,000 SH  PUT  DEFINED                X      0    0
+Jetblue Airways Corp           Option             477143101    1,090    200,000 SH  CALL DEFINED                X      0    0
+Johnson & Johnson              Option             478160104   12,882    200,000 SH  CALL DEFINED                X      0    0
+Lear Corp                      Common             521865204    1,353     20,000 SH       DEFINED                X      0    0
+Pennsylvania Real Estate       Option             709102107    3,825    300,000 SH  CALL DEFINED                X      0    0
+Pennsylvania Real Estate       Option             709102107   15,300  1,200,000 SH  PUT  DEFINED                X      0    0
+Pre Paid Legal                 Common             740065107    3,504     85,300 SH       DEFINED                X      0    0
+Red Robin Gourmet Burgers      Common             75689M101    1,911    106,760 SH       DEFINED                X      0    0
+SPDR GOLD TRUST                GLD SHS            78463V107      966      9,000 SH       DEFINED                X      0    0
+St Jude Medical                Common             790849103   12,873    350,000 SH       DEFINED                X      0    0
+St Jude Medical                Option             790849103    7,356    200,000 SH  CALL DEFINED                X      0    0
+SPDR TRUST                     Option             78462F103  557,200  5,000,000 SH  PUT  DEFINED                X      0    0
+</TABLE>
+
+
+(1)  Courage Investments, Inc. is the general partner of certain private
+investment funds managed by the Reporting Manager.  However, the Reporting
+Manager has discretion over the investment and voting decisions with respect to
+securities directly owned by such funds pursuant to investment management
+agreements.  Similarly, the Reporting Manager has discretion over the
+investment and voting decisions with respect to securities directly owned by
+other third party accounts that are managed by the Reporting Manager pursuant
+to trading manager agreements.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

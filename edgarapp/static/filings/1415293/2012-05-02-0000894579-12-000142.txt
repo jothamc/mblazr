@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0000894579-12-000142.txt : 20120502
+<SEC-HEADER>0000894579-12-000142.hdr.sgml : 20120502
+<ACCEPTANCE-DATETIME>20120502170435
+ACCESSION NUMBER:		0000894579-12-000142
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120331
+FILED AS OF DATE:		20120502
+DATE AS OF CHANGE:		20120502
+EFFECTIVENESS DATE:		20120502
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sloane Robinson LLP
+		CENTRAL INDEX KEY:			0001415293
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12596
+		FILM NUMBER:		12806203
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 ST DUNSTAN'S HILL
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC3R 8ND
+		BUSINESS PHONE:		00442079292771
+
+	MAIL ADDRESS:	
+		STREET 1:		20 ST DUNSTAN'S HILL
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC3R 8ND
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>sr13fhr050212.txt
+<DESCRIPTION>FORM 13F-HR
+<TEXT>
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:  March 31, 2012
+
+Check here if Amendment [  ];     Amendment Number: ___
+This Amendment (Check only one):     [   ] is a restatement.
+                                     [   ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name: Sloane Robinson LLP
+Address: 20 St Dunstan's Hill, London, EC3R 8ND
+
+Form 13F File Number: 28-12596
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Hugh Sloane
+
+Title:     Member
+
+Phone:     +44 207 929 2771
+
+
+Signature, Place, and Date of Signing:
+
+
+/s/ Hugh Sloane              London, England            2nd May 2012
+-----------------            ---------------            ------------
+Signature                    City, State                Date
+
+Report Type     (Check only one):
+
+[X]   13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+      manager are reported in this report.)
+
+[ ]   13F NOTICE.  (Check here if no holdings reported are in this report, and
+      all holdings are reported by other reporting manager(s).)
+
+[ ]   13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+      this reporting manager are reported in this report and a portion are
+      reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager: None
+
+
+<PAGE>
+                             Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:                nil
+
+Form 13F Information Table Entry Total:           25
+
+Form 13F Information Table Value Total:           $432,448
+                                                  (thousands)
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+<S>                           <C>               <C>        <C>    <C>            <C>  <C>   <C>         <C>  <C>       <C>     <C>
+                                                            Value  Total number  SH/  Put/  Investment   Other    Voting Authority
+Name of issuer                Title of Class      CUSIP    x$1000 of shares held PRN  Call  Discretion  Managers Sole  Shared  None
+------------------------------------------------------------------------------------------------------------------------------------
+AIRMEDIA GROUP INC            SPONSORED ADR     009411109     503       163,200   SH            SOLE           163,200
+APPLE INC                     COM               037833100     839         1,400   SH            SOLE             1,400
+BAIDU INC                     SPON ADR REP A    056752108     437         3,000   SH            SOLE             3,000
+BANCOLOMBIA S A               SPON ADR PREF     05968L102     129         2,000   SH            SOLE             2,000
+BARCLAYS BANK PLC             ETN DJUBS AGRI37  06739H206     435         7,900   SH            SOLE             7,900
+CHINA UNICOM (HONG KONG) LTD  SPONSORED ADR     16945R104     620        36,900   SH            SOLE            36,900
+CNOOC LTD                     SPONSORED ADR     126132109  35,219       172,400   SH            SOLE           172,400
+COMPANHIA DE BEBIDAS DAS AME  SPON ADR PFD      20441W203  14,086       340,900   SH            SOLE           340,900
+CTRIP COM INTL LTD            AMERICAN DEP SHS  22943F100     697        32,200   SH            SOLE            32,200
+FOCUS MEDIA HLDG LTD          SPONSORED ADR     34415V109   1,035        41,200   SH            SOLE            41,200
+FOMENTO ECONOMICO
+MEXICANO S                    SPON ADR UNITS    344419106  48,834       593,600   SH            SOLE           593,600
+HALLIBURTON CO                COM               406216101  21,553       649,400   SH            SOLE           649,400
+ISHARES TR BARCLYS TIPS BD    ETF               464287176     212         1,800   SH            SOLE             1,800
+ISHARES TR MSCI EMERG MKT     ETF               464287234   1,731        40,320   SH            SOLE            40,320
+MARKET VECTORS ETF TR
+AGRIBUS                       ETF               57060U605     433         8,200   SH            SOLE             8,200
+NATIONAL OILWELL VARCO INC    COM               637071101  89,198     1,122,400   SH            SOLE         1,122,400
+NEW ORIENTAL ED & TECH GRP I  SPON ADR          647581107  14,491       527,700   SH            SOLE           527,700
+NEWS CORP                     CL A              65248E104  15,055       763,800   SH            SOLE           763,800
+QIHOO 360 TECHNOLOGY CO LTD   ADS               74734M109  46,437     1,899,300   SH            SOLE         1,899,300
+SINA CORP                     ORD               G81477104  41,076       631,900   SH            SOLE           631,900
+TAIWAN SEMICONDUCTOR MFG LTD  SPONSORED ADR     874039100   2,080       136,100   SH            SOLE           136,100
+TELEFONICA BRASIL SAX         SPON ADR          87936R106  64,160     2,094,700   SH            SOLE         2,094,700
+VIRGIN MEDIA INC              COM               92769L101  17,375       695,600   SH            SOLE           695,600
+YUM BRANDS INC                COM               988498101  15,560       218,600   SH            SOLE           218,600
+MARKET VECTORS ETF TR
+VIETNAM                       ETF               57060U761     253        13,200   SH            SOLE            13,200
+
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

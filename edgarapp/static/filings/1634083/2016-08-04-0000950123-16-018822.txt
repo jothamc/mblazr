@@ -1,0 +1,373 @@
+<SEC-DOCUMENT>0000950123-16-018822.txt : 20160804
+<SEC-HEADER>0000950123-16-018822.hdr.sgml : 20160804
+<ACCEPTANCE-DATETIME>20160804160517
+ACCESSION NUMBER:		0000950123-16-018822
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20160630
+FILED AS OF DATE:		20160804
+DATE AS OF CHANGE:		20160804
+EFFECTIVENESS DATE:		20160804
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			aeris Capital Holding GmbH
+		CENTRAL INDEX KEY:			0001634083
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			V8
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-16808
+		FILM NUMBER:		161807374
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CHURERSTRASSE 70
+		CITY:			PFAFFIKON
+		STATE:			V8
+		ZIP:			CH-8808
+		BUSINESS PHONE:		41555111281
+
+	MAIL ADDRESS:	
+		STREET 1:		CHURERSTRASSE 70
+		CITY:			PFAFFIKON
+		STATE:			V8
+		ZIP:			CH-8808
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001634083</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2016</reportCalendarOrQuarter>
+      <filingManager>
+        <name>aeris Capital Holding GmbH</name>
+        <address>
+          <ns1:street1>CHURERSTRASSE 70</ns1:street1>
+          <ns1:city>PFAFFIKON</ns1:city>
+          <ns1:stateOrCountry>V8</ns1:stateOrCountry>
+          <ns1:zipCode>CH-8808</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-16808</form13FFileNumber>
+      <provideInfoForInstruction5>Y</provideInfoForInstruction5>
+      <additionalInformation>Signed pursuant to a Power of Attorney dated July 23, 2015.</additionalInformation>
+    </coverPage>
+    <signatureBlock>
+      <name>Bernd Kammerlander</name>
+      <title>Chairman, aeris CAPITAL AG</title>
+      <phone>41 55 5 111 281</phone>
+      <signature>/s/ Bernd Kammerlander as Attorney-in-Fact for aeris CAPITAL Holding GmbH</signature>
+      <city>Pfaffikon SZ</city>
+      <stateOrCountry>V8</stateOrCountry>
+      <signatureDate>08-02-2016</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>3</otherIncludedManagersCount>
+      <tableEntryTotal>14</tableEntryTotal>
+      <tableValueTotal>246305</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <name>aeris CAPITAL AG</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <name>aeris CAPITAL Management Company S.A.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>3</sequenceNumber>
+          <otherManager>
+            <name>aeris CAPITAL Archer L.P.</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<DESCRIPTION>INFORMATION TABLE FOR FORM 13F
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <infoTable>
+       <nameOfIssuer>ADAMAS PHARMACEUTICALS INC</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>00548A106</cusip>
+       <value>9646</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>637128</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1,2</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>637128</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>C H ROBINSON WORLDWIDE INC</nameOfIssuer>
+       <titleOfClass>COM NEW</titleOfClass>
+       <cusip>12541W209</cusip>
+       <value>8869</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>119451</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1,2</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>119451</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>CHIPOTLE MEXICAN GRILL INC</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>169656105</cusip>
+       <value>29601</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>73495</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1,2</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>73495</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>CONFORMIS INC</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>20717E101</cusip>
+       <value>10268</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>1462640</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>3</otherManager>
+       <votingAuthority>
+           <Sole>1462640</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>EXPRESS SCRIPTS HLDG CO</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>30219G108</cusip>
+       <value>11221</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>148039</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1,2</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>148039</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>EXXON MOBIL CORP</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>30231G102</cusip>
+       <value>12934</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>137975</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1,2</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>137975</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>INTERCONTINENTAL EXCHANGE IN</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>45866F104</cusip>
+       <value>18244</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>71280</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1,2</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>71280</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>MCCORMICK &amp; CO INC</nameOfIssuer>
+       <titleOfClass>COM NON VTG</titleOfClass>
+       <cusip>579780206</cusip>
+       <value>2909</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>27271</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1,2</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>0</Shared>
+           <None>27271</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>MICROSOFT CORP</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>594918104</cusip>
+       <value>16279</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>318141</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1,2</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>318141</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>MSC INDL DIRECT INC</nameOfIssuer>
+       <titleOfClass>CL A</titleOfClass>
+       <cusip>553530106</cusip>
+       <value>7527</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>106679</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1,2</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>106679</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>PRICELINE GRP INC</nameOfIssuer>
+       <titleOfClass>COM NEW</titleOfClass>
+       <cusip>741503403</cusip>
+       <value>15106</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>12100</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1,2</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>12100</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>SPDR GOLD TRUST</nameOfIssuer>
+       <titleOfClass>GOLD SHS</titleOfClass>
+       <cusip>78463V107</cusip>
+       <value>92421</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>730485</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1,2</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>730485</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>ULTA SALON COSMETCS &amp; FRAG I</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>90384S303</cusip>
+       <value>4026</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>16522</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1,2</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>16522</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>VARIAN MED SYS INC</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>92220P105</cusip>
+       <value>7254</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>88223</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1,2</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>88223</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,273 @@
+<SEC-DOCUMENT>0001529425-13-000002.txt : 20130422
+<SEC-HEADER>0001529425-13-000002.hdr.sgml : 20130422
+<ACCEPTANCE-DATETIME>20130422091350
+ACCESSION NUMBER:		0001529425-13-000002
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20130331
+FILED AS OF DATE:		20130422
+DATE AS OF CHANGE:		20130422
+EFFECTIVENESS DATE:		20130422
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Wilson, Kemp & Associates, Inc.
+		CENTRAL INDEX KEY:			0001529425
+		IRS NUMBER:				381878151
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14578
+		FILM NUMBER:		13772789
+
+	BUSINESS ADDRESS:	
+		STREET 1:		255 E. BROWN STREET
+		STREET 2:		SUITE 200
+		CITY:			BIRMINGHAM
+		STATE:			MI
+		ZIP:			48009
+		BUSINESS PHONE:		2485945200
+
+	MAIL ADDRESS:	
+		STREET 1:		255 E. BROWN STREET
+		STREET 2:		SUITE 200
+		CITY:			BIRMINGHAM
+		STATE:			MI
+		ZIP:			48009
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>WKA13F033113.txt
+<DESCRIPTION>WKA 13F AS OF 2013-03-31
+<TEXT>
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: March 31, 2013
+Check here if Amendment [ ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Wilson, Kemp & Associates, Inc
+Address: 255 E. Brown Street, Suite 200
+
+         Birmingham, MI  48009
+
+13F File Number:  28-14578
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Rose Bennett
+Title:     VP Compliance
+Phone:     248-594-5218
+
+Signature, Place, and Date of Signing:
+
+     Rose Bennett     Birmingham, MI     April 22, 2013
+
+Report Type (Check only one.):
+
+[  ]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[ X]         13F COMBINATION REPORT.
+
+
+List of Other Managers Reporting for this Manager:
+
+       Form 13F File Number          Name
+
+       28-10331                      Comerica Bank
+       28-12565	                     Comerica Securities
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:         0
+
+Form13F Information Table Entry Total:     137
+
+Form13F Information Table Value Total:     $230,895  (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+No.  13F File Number               Name
+
+<TABLE>
+                                                                  FORM 13F INFORMATION TABLE
+                                                           VALUE   SHARES/  SH/ PUT/ INVSTMT    OTHER          VOTING AUTHORITY
+        NAME OF ISSUER          TITLE OF CLASS    CUSIP   (x$1000) PRN AMT  PRN CALL DSCRETN   MANAGERS     SOLE    SHARED    NONE
+------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+<S>                            <C>              <C>       <C>      <C>      <C> <C>  <C>     <C>          <C>      <C>      <C>
+1/100 Berkshire Htwy Cl        COM              084990175      313      200 SH       Sole                                        200
+3M Company                     COM              88579Y101     4828    45413 SH       Sole                                      45413
+AFLAC Incorporated             COM              001055102     1052    20216 SH       Sole                                      20216
+AT&T Inc.                      COM              00206R102     3209    87468 SH       Sole                                      87468
+Abbott Laboratories            COM              002824100     2013    56987 SH       Sole                                      56987
+Abbvie Inc.                    COM              00287Y109     1824    44739 SH       Sole                                      44739
+Air Products & Chemical        COM              009158106      425     4875 SH       Sole                                       4875
+Allstate Corporation           COM              020002101      586    11942 SH       Sole                                      11942
+Altria Group                   COM              02209S103      357    10395 SH       Sole                                      10395
+Ameren Corporation             COM              023608102      235     6700 SH       Sole                                       6700
+American Electric Power        COM              025537101      766    15744 SH       Sole                                      15744
+Amgen, Inc.                    COM              031162100      428     4172 SH       Sole                                       4172
+Annaly Mortgage Management Inc COM              035710409      261    16400 SH       Sole                                      16400
+Apple Computer Inc.            COM              037833100     1244     2810 SH       Sole                                       2810
+Applied Nanotech Holdings      COM              63007X108        1    10000 SH       Sole                                      10000
+Aqua America Inc Com           COM              03836W103      289     9200 SH       Sole                                       9200
+Archer Daniels Midland         COM              039483102      306     9082 SH       Sole                                       9082
+Automatic Data Processing      COM              053015103     4466    68680 SH       Sole                                      68680
+BP PLC                         COM              055622104     2901    68512 SH       Sole                                      68512
+Baker Hughes                   COM              057224107      255     5489 SH       Sole                                       5489
+Bank of America Corp.          COM              060505104      939    77067 SH       Sole                                      77067
+Baxter International           COM              071813109      309     4260 SH       Sole                                       4260
+Berkshire Hathaway Inc. Cl. B  COM              084670702      714     6854 SH       Sole                                       6854
+Block (H&R) Inc.               COM              093671105      491    16679 SH       Sole                                      16679
+Bob Evans Farms                COM              096761101      226     5300 SH       Sole                                       5300
+Boeing Company                 COM              097023105     3988    46450 SH       Sole                                      46450
+Bristol-Myers Squibb Company   COM              110122108     3966    96280 SH       Sole                                      96280
+Campbell Soup                  COM              134429109      376     8300 SH       Sole                                       8300
+Capstead Mortgage Corp.        COM              14067E506      137    10700 SH       Sole                                      10700
+Caterpillar Tractor Company    COM              149123101      501     5761 SH       Sole                                       5761
+Cepheid Com                    COM              15670R107      230     6000 SH       Sole                                       6000
+Chevron Corporation            COM              166764100     2274    19137 SH       Sole                                      19137
+Chubb Corporation              COM              171232101      970    11086 SH       Sole                                      11086
+Cincinnati Financial           COM              172062101      530    11231 SH       Sole                                      11231
+Cisco Systems                  COM              17275R102     1254    60004 SH       Sole                                      60004
+Citigroup                      COM              172967424     1115    25202 SH       Sole                                      25202
+Clorox Co.                     COM              189054109      301     3400 SH       Sole                                       3400
+Coca-Cola Company              COM              191216100     2634    65126 SH       Sole                                      65126
+Colgate-Palmolive Company      COM              194162103     2077    17600 SH       Sole                                      17600
+Comcast Cablevision Cl. A (Vot COM              20030N101      206     4909 SH       Sole                                       4909
+Comerica, Inc.                 COM              200340107      957    26620 SH       Sole                                      26620
+Computer Sciences Corporation  COM              205363104      729    14815 SH       Sole                                      14815
+Conagra Foods, Inc.            COM              205887102      994    27762 SH       Sole                                      27762
+ConocoPhillips                 COM              20825C104      946    15738 SH       Sole                                      15738
+Consolidated Edison            COM              209115104      810    13275 SH       Sole                                      13275
+Cullen Frost Bankers Inc.      COM              229899109      631    10085 SH       Sole                                      10085
+DTE Energy                     COM              233331107      411     6011 SH       Sole                                       6011
+Deere & Company                COM              244199105      461     5367 SH       Sole                                       5367
+Disney (Walt) Company          COM              254687106     4213    74170 SH       Sole                                      74170
+Dominion Resources             COM              25746U109      454     7808 SH       Sole                                       7808
+Dow Chemical                   COM              260543103     2633    82701 SH       Sole                                      82701
+Du Pont (E.I. de Nemours)      COM              263534109     1739    35377 SH       Sole                                      35377
+Duke Energy Corp.              COM              26441C204     4107    56578 SH       Sole                                      56578
+EMC Corporation                COM              268648102     1480    61940 SH       Sole                                      61940
+Emerson Electric Company       COM              291011104     3297    59004 SH       Sole                                      59004
+Essex Property Trust Inc.      COM              297178105      226     1500 SH       Sole                                       1500
+Exelon Corporation             COM              30161N101     1354    39259 SH       Sole                                      39259
+Exxon Mobil Corporation        COM              30231G102     9875   109592 SH       Sole                                     109592
+Fastenal                       COM              311900104     1169    22776 SH       Sole                                      22776
+Fifth Third Bancorp Com        COM              316773100      212    13000 SH       Sole                                      13000
+FirstMerit Corp.               COM              337915102      182    11000 SH       Sole                                      11000
+Ford Motor Company             COM              345370860      696    52930 SH       Sole                                      52930
+General Dynamics Corporation   COM              369550108     1125    15950 SH       Sole                                      15950
+General Electric Company       COM              369604103     7248   313510 SH       Sole                                     313510
+Gentex Corp.                   COM              371901109      837    41850 SH       Sole                                      41850
+Genuine Parts Company          COM              372460105      263     3370 SH       Sole                                       3370
+HCC Insurance Holdings         COM              404132102      551    13112 SH       Sole                                      13112
+Halliburton Company            COM              406216101     1064    26333 SH       Sole                                      26333
+Heinz H.J. Co.                 COM              423074103      296     4100 SH       Sole                                       4100
+Home Depot Incorporated        COM              437076102     1826    26175 SH       Sole                                      26175
+Huntington Bancshares Inc.     COM              446150104       99    13500 SH       Sole                                      13500
+Illinois Tool Works            COM              452308109      396     6500 SH       Sole                                       6500
+Intel Corporation              COM              458140100     4232   193826 SH       Sole                                     193826
+International Business Machine COM              459200101    14821    69483 SH       Sole                                      69483
+J.P. Morgan Chase & Co.        COM              46625H100     3064    64550 SH       Sole                                      64550
+Johnson & Johnson              COM              478160104     7261    89059 SH       Sole                                      89059
+Kellogg Company                COM              487836108      226     3500 SH       Sole                                       3500
+KeyCorp                        COM              493267108      213    21400 SH       Sole                                      21400
+Kimberly Clark Corp.           COM              494368103     3622    36962 SH       Sole                                      36962
+Kraft Foods Group Inc.         COM              50076Q106     2077    40307 SH       Sole                                      40307
+Lilly, Eli & Company           COM              532457108     2204    38818 SH       Sole                                      38818
+Lincoln National Corporation   COM              534187109      295     9060 SH       Sole                                       9060
+Marathon Oil Corp.             COM              565849106      304     9006 SH       Sole                                       9006
+Marathon Petroleum Corp.       COM              56585A102      548     6111 SH       Sole                                       6111
+Marsh & McLennan Companies     COM              571748102      668    17600 SH       Sole                                      17600
+McDonald's Corporation         COM              580135101     3334    33440 SH       Sole                                      33440
+Medtronic Inc.                 COM              585055106     2015    42913 SH       Sole                                      42913
+Merck & Company                COM              58933Y105     6360   143903 SH       Sole                                     143903
+Microsoft Corporation          COM              594918104     2232    78028 SH       Sole                                      78028
+Molson Coors Brewing Co.       COM              60871R209      367     7500 SH       Sole                                       7500
+Mondelez Int'l Inc CL A        COM              609207105     2188    71457 SH       Sole                                      71457
+Newell Rubbermaid Inc.         COM              651229106      212     8130 SH       Sole                                       8130
+NextEra Energy Inc.            COM              65339F101     1933    24882 SH       Sole                                      24882
+Norfolk Southern Corp.         COM              655844108      474     6150 SH       Sole                                       6150
+Novartis AG                    COM              66987V109      289     4060 SH       Sole                                       4060
+Nuvasive                       COM              670704105      367    17200 SH       Sole                                      17200
+Oracle Systems Corporation     COM              68389X105      656    20300 SH       Sole                                      20300
+PNM Resources, Inc.            COM              69349H107      452    19400 SH       Sole                                      19400
+PPG Industries                 COM              693506107      679     5072 SH       Sole                                       5072
+Parexel International Corp.    COM              699462107      435    11000 SH       Sole                                      11000
+Paychex Inc.                   COM              704326107      563    16050 SH       Sole                                      16050
+Pepsico, Incorporated          COM              713448108     8604   108754 SH       Sole                                     108754
+Pfizer Incorporated            COM              717081103     6574   227791 SH       Sole                                     227791
+Philip Morris Int'l Inc.       COM              718172109      742     8005 SH       Sole                                       8005
+Phillips 66                    COM              718546104      350     4997 SH       Sole                                       4997
+Pinnacle West Cap. Corp.       COM              723484101     1413    24405 SH       Sole                                      24405
+Plum Creek Timber Co. LP       COM              729251108     1904    36478 SH       Sole                                      36478
+Procter & Gamble Company       COM              742718109     4318    56033 SH       Sole                                      56033
+Qualcomm Incorporated          COM              747525103     1469    21944 SH       Sole                                      21944
+RPM Intl., Inc.                COM              749685103      504    15968 SH       Sole                                      15968
+Raytheon Co.                   COM              755111507     1174    19964 SH       Sole                                      19964
+Resmed, Inc.                   COM              761152107     2061    44450 SH       Sole                                      44450
+Rio Tinto PLC ADR              COM              767204100      374     7934 SH       Sole                                       7934
+Rockwell Automation Inc        COM              773903109     2410    27914 SH       Sole                                      27914
+Rockwell Collins, Inc.         COM              774341101      814    12901 SH       Sole                                      12901
+Royal Dutch Shell              COM              780259206     2455    37678 SH       Sole                                      37678
+Schlumberger Ltd.              COM              806857108      596     7952 SH       Sole                                       7952
+Southern Company               COM              842587107      545    11611 SH       Sole                                      11611
+Spectra Energy Corp.           COM              847560109     1339    43554 SH       Sole                                      43554
+Starbucks Corp                 COM              855244109      299     5250 SH       Sole                                       5250
+Stryker Corporation            COM              863667101     1312    20116 SH       Sole                                      20116
+SunTrust Banks                 COM              867914103      586    20350 SH       Sole                                      20350
+Sysco Corporation              COM              871829107      634    18025 SH       Sole                                      18025
+Target Corporation             COM              87612E106     2437    35600 SH       Sole                                      35600
+Teradata Corp.                 COM              88076W103      295     5040 SH       Sole                                       5040
+Texas Instruments              COM              882508104      252     7111 SH       Sole                                       7111
+The Hershey Company            COM              427866108     1269    14500 SH       Sole                                      14500
+Travelers Inc.                 COM              89417E109      431     5125 SH       Sole                                       5125
+US Bancorp                     COM              902973304      274     8080 SH       Sole                                       8080
+Unifirst Corp. Common          COM              904708104      271     3000 SH       Sole                                       3000
+United Parcel Service Cl B     COM              911312106     1286    14966 SH       Sole                                      14966
+United Technologies Company    COM              913017109      885     9469 SH       Sole                                       9469
+Verizon Communications         COM              92343V104     3041    61875 SH       Sole                                      61875
+Vodafone Group PLC             COM              92857W209     3140   110574 SH       Sole                                     110574
+Wal-Mart Stores                COM              931142103     9025   120612 SH       Sole                                     120612
+Walgreen Co.                   COM              931422109     3567    74821 SH       Sole                                      74821
+Wells Fargo & Co.              COM              949746101     1874    50671 SH       Sole                                      50671
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

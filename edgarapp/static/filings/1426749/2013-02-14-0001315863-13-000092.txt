@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001315863-13-000092.txt : 20130214
+<SEC-HEADER>0001315863-13-000092.hdr.sgml : 20130214
+<ACCEPTANCE-DATETIME>20130214160033
+ACCESSION NUMBER:		0001315863-13-000092
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20121231
+FILED AS OF DATE:		20130214
+DATE AS OF CHANGE:		20130214
+EFFECTIVENESS DATE:		20130214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ancient Art, L.P.
+		CENTRAL INDEX KEY:			0001426749
+		IRS NUMBER:				010626221
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12920
+		FILM NUMBER:		13613427
+
+	BUSINESS ADDRESS:	
+		STREET 1:		610 WEST 5TH STREET
+		STREET 2:		SUITE 600
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+		BUSINESS PHONE:		512.351.4440
+
+	MAIL ADDRESS:	
+		STREET 1:		610 WEST 5TH STREET
+		STREET 2:		SUITE 600
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>ancientart4q12.txt
+<DESCRIPTION>ANCIENT ART, L.P. 13F 4Q 2012
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: December 31, 2012
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Ancient Art, L.P.
+Address: 610 West 5th Street
+         Suite 600
+         Austin, Texas  78701
+
+13F File Number:  028-12920
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Patricia Rench
+Title:     Chief Compliance Officer
+Phone:     512.351.4440
+
+Signature, Place, and Date of Signing:
+
+ /s/ Patricia Rench     Austin, Texas/USA     February 14, 2013
+
+Report Type (Check only one.):
+
+[ X]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[  ]         13F COMBINATION REPORT.
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:         0
+
+Form 13F Information Table Entry Total:    26
+
+Form 13F Information Table Value Total:    $339,807 (thousands)
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+NONE
+
+<PAGE>
+
+<TABLE>                       <C>             <C>
+                                                     FORM 13F INFORMATION TABLE
+                                                             VALUE  SHARES/ SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP     (x$1000)  PRN AMT PRN CALL DSCRETN MANAGERS         SOLE   SHARED     NONE
+------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+ALASKA AIR GROUP INC           COM              011659109    15656   363329 SH       SOLE                   363329
+ALERE INC                      COM              01449J105    16933   915306 SH       SOLE                   915306
+AMERICAN INTL GROUP INC        COM NEW          026874784    20347   576400 SH       SOLE                   576400
+APPLE INC                      COM              037833100    19424    36500 SH       SOLE                    36500
+CBS CORP NEW                   CL B             124857202     8461   222364 SH       SOLE                   222364
+CHARTER COMMUNICATIONS INC D   CL A NEW         16117M305    20022   262613 SH       SOLE                   262613
+CREDIT ACCEP CORP MICH         COM              225310101    20630   202889 SH       SOLE                   202889
+DELL INC                       COM              24702R101     6706   661359 SH       SOLE                   661359
+E TRADE FINANCIAL CORP         COM NEW          269246401     5293   591403 SH       SOLE                   591403
+GENERAL MTRS CO                COM              37045V100    14667   508745 SH       SOLE                   508745
+GOLDMAN SACHS GROUP INC        COM              38141G104     3929    30800 SH       SOLE                    30800
+GOOGLE INC                     CL A             38259P508    33395    47210 SH       SOLE                    47210
+GREENLIGHT CAPITAL RE LTD      CLASS A          G4095J109     1018    44093 SH       SOLE                    44093
+HIGHER ONE HLDGS INC           COM              42983D104     1349   128034 SH       SOLE                   128034
+INTERACTIVE BROKERS GROUP IN   COM              45841N107    15334  1120947 SH       SOLE                  1120947
+INTERPUBLIC GROUP COS INC      COM              460690100    15165  1376119 SH       SOLE                  1376119
+LIBERTY GLOBAL INC             COM SER A        530555101    10148   161179 SH       SOLE                   161179
+LIVE NATION ENTERTAINMENT IN   COM              538034109     1432   153828 SH       SOLE                   153828
+MARKET VECTORS ETF TR          JR GOLD MINERS E 57060U589     4043   204300 SH       SOLE                   204300
+NEWS CORP                      CL A             65248E104     5548   217500 SH       SOLE                   217500
+ORACLE CORP                    COM              68389X105     8217   246600 SH       SOLE                   246600
+PENN NATL GAMING INC           COM              707569109    13376   272363 SH       SOLE                   272363
+QUALITY DISTR INC FLA          COM              74756M102     3693   615539 SH       SOLE                   615539
+TARO PHARMACEUTICAL INDS LTD   SHS              M8737E108    19192   395865 SH       SOLE                   395865
+TEEKAY CORPORATION             COM              Y8564W103    26776   834152 SH       SOLE                   834152
+VALEANT PHARMACEUTICALS INTL   COM              91911K102    29053   486076 SH       SOLE                   486076
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

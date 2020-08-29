@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0000894579-12-000227.txt : 20120813
+<SEC-HEADER>0000894579-12-000227.hdr.sgml : 20120813
+<ACCEPTANCE-DATETIME>20120813151541
+ACCESSION NUMBER:		0000894579-12-000227
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120630
+FILED AS OF DATE:		20120813
+DATE AS OF CHANGE:		20120813
+EFFECTIVENESS DATE:		20120813
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SECTOR GAMMA AS
+		CENTRAL INDEX KEY:			0001475373
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			Q8
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13612
+		FILM NUMBER:		121027385
+
+	BUSINESS ADDRESS:	
+		STREET 1:		FILIPSTAD BRYGGE 2
+		STREET 2:		P.O. BOX 1994 VIKA
+		CITY:			OSLO
+		STATE:			Q8
+		ZIP:			0125
+		BUSINESS PHONE:		4723012936
+
+	MAIL ADDRESS:	
+		STREET 1:		FILIPSTAD BRYGGE 2
+		STREET 2:		P.O. BOX 1994 VIKA
+		CITY:			OSLO
+		STATE:			Q8
+		ZIP:			0125
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SECTOR GAMMA ASA
+		DATE OF NAME CHANGE:	20091027
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>sectorgamma13fhr081312.txt
+<DESCRIPTION>FORM 13F-HR
+<TEXT>
+
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    FORM 13F
+
+                              FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:  June 30, 2012
+
+Check here if Amendment [ ];         Amendment Number:
+This Amendment (Check only one):     [ ] is a restatement.
+                                     [ ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:                   Sector Gamma AS
+Address:                Filipstad Brygge 2, P.O. Box 1994 Vika
+                        Oslo, Norway 0125
+
+Form 13F File Number:   28-13612
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Arild Blikom
+Title:     Head of Fund Operations
+Phone:     +47 23012900
+
+Signature, Place and Date of Signing:
+
+/s/Arild Blikom               Oslo, Norway               August 13, 2012
+
+Report Type (Check only one):
+
+[X]     13F HOLDINGS REPORT
+[ ]     13F NOTICE
+[ ]     13F COMBINATION REPORT
+
+List of Other Managers Reporting for this Manager: None
+
+<PAGE>
+
+                             FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of other Included Managers:                              0
+
+Form 13F Information Table Entry Total                         29
+
+Form 13F Information Table Value Total:      $304,128 (thousands)
+
+List of Other Included Managers:  None
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+
+<S>                           <C>       <C>        <C>        <C>        <C>      <C>   <C>         <C>       <C>      <C>     <C>
+------------------------------------------------------------------------------------------------------------------------------------
+Column 1                      Column 2  Column 3   Column 4              Column 5       Column 6    Column 7          Column 8
+                                                              Shares or
+                              Title of               Value    Principal    SH/    PUT/  Investment   Other        Voting Authority
+Name of Issuer                 Class      Cusip    (x$1,000)   Amount      PRN    CALL  Discretion  Managers     Sole  Shared  None
+------------------------------------------------------------------------------------------------------------------------------------
+FOREST LABS INC                COM      345838106    28,730     821,100    SH              SOLE       NONE      821,100
+LILLY ELI & CO                 COM      532457108    25,150     586,107    SH              SOLE       NONE      586,107
+BOSTON SCIENTIFIC CORP         COM      101137107    24,358   4,296,000    SH              SOLE       NONE    4,296,000
+MERCK & CO INC NEW             COM      58933Y105    21,497     514,900    SH              SOLE       NONE      514,900
+LIFE TECHNOLOGIES CORP         COM      53217V109    16,658     370,250    SH              SOLE       NONE      370,250
+EXPRESS SCRIPTS INC            COM      302182100    15,850     283,900    SH              SOLE       NONE      283,900
+WATSON PHARMACEUTICALS INC     COM      942683103    12,508     169,045    SH              SOLE       NONE      169,045
+AMYLIN PHARMACEUTICALS INC     COM      032346108    11,906     421,753    SH              SOLE       NONE      421,753
+RESMED INC                     COM      761152107    11,425     366,200    SH              SOLE       NONE      366,200
+ST JUDE MED INC                COM      790849103    10,846     271,771    SH              SOLE       NONE      271,771
+BRISTOL MYERS SQUIBB CO        COM      110122108    10,802     300,481    SH              SOLE       NONE      300,481
+JOHNSON AND JOHNSON            COM      478160104    10,607     157,000    SH              SOLE       NONE      157,000
+MEDTRONIC INC                  COM      585055106    10,469     270,320    SH              SOLE       NONE      270,320
+AMERISOURCEBERGEN CORP         COM      03073E105    10,310     262,000    SH              SOLE       NONE      262,000
+VERTEX PHARMACEUTICALS INC     COM      92532F100    10,010     179,000    SH              SOLE       NONE      179,000
+CIGNA CORPORATION              COM      125509109     9,504     216,000    SH              SOLE       NONE      216,000
+TENET HEALTHCARE CORP          COM      88033G100     8,463   1,615,100    SH              SOLE       NONE    1,615,100
+ONYX PHARMACEUTICALS INC       COM      683399109     8,247     124,115    SH              SOLE       NONE      124,115
+BAXTER INTL INC                COM      071813109     8,058     151,600    SH              SOLE       NONE      151,600
+CUBIST PHARMACEUTICALS INC     COM      229678107     7,523     198,442    SH              SOLE       NONE      198,442
+AUXILIUM PHARMACEUTICALS INC   COM      05334D107     6,903     256,700    SH              SOLE       NONE      256,700
+COMMUNITY HEALTH SYSTEMS INC   COM      203668108     6,450     230,100    SH              SOLE       NONE      230,100
+WALGREEN CO                    COM      931422109     4,437     150,000    SH              SOLE       NONE      150,000
+OPTIMER PHARMACEUTICALS INC    COM      68401H104     3,492     225,000    SH              SOLE       NONE      225,000
+MYLAN LABORATORIES INC         COM      628530107     2,842     133,000    SH              SOLE       NONE      133,000
+QUEST DIAGNOSTICS INC          COM      74834L100     2,818      47,050    SH              SOLE       NONE       47,050
+SPECTRUM PHARMACEUTICALS INC   COM      84763A108     2,412     155,000    SH              SOLE       NONE      155,000
+DENDREON CORP                  COM      24823Q107     1,221     165,000    SH              SOLE       NONE      165,000
+UNITED THERAPEUTICS CORP DEL   COM      91307C102       632      12,800    SH              SOLE       NONE       12,800
+
+                                                    304,128
+
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

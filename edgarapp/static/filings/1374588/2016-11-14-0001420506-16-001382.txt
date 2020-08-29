@@ -1,0 +1,266 @@
+<SEC-DOCUMENT>0001420506-16-001382.txt : 20161114
+<SEC-HEADER>0001420506-16-001382.hdr.sgml : 20161111
+<ACCEPTANCE-DATETIME>20161114162053
+ACCESSION NUMBER:		0001420506-16-001382
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161114
+DATE AS OF CHANGE:		20161114
+EFFECTIVENESS DATE:		20161114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RED MOUNTAIN CAPITAL PARTNERS LLC
+		CENTRAL INDEX KEY:			0001374588
+		IRS NUMBER:				731726370
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13680
+		FILM NUMBER:		161995049
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10100 SANTA MONICA BOULEVARD
+		STREET 2:		SUITE 925
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+		BUSINESS PHONE:		(310) 432-0207
+
+	MAIL ADDRESS:	
+		STREET 1:		10100 SANTA MONICA BOULEVARD
+		STREET 2:		SUITE 925
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--EDGARfilingagent.com Form 13F Online Workstation (www.form13f.com)-->
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001374588</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>09-30-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <!--Start Form-->
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>09-30-2016</reportCalendarOrQuarter>
+      <!--Amendment-->
+      <isAmendment>false</isAmendment>
+      <!--Institutional Investment Manager-->
+      <filingManager>
+        <name>RED MOUNTAIN CAPITAL PARTNERS LLC</name>
+        <address>
+          <ns1:street1>10100 SANTA MONICA BOULEVARD</ns1:street1>
+          <ns1:street2>SUITE 925</ns1:street2>
+          <ns1:city>LOS ANGELES</ns1:city>
+          <ns1:stateOrCountry>CA</ns1:stateOrCountry>
+          <ns1:zipCode>90067</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-13680</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <!--Signature-->
+    <signatureBlock>
+      <name>Willem Mesdag</name>
+      <title>Authorized Signatory</title>
+      <phone>(310) 432-0200</phone>
+      <signature>Willem Mesdag, Authorized Signatory</signature>
+      <city>LOS ANGELES</city>
+      <stateOrCountry>CA</stateOrCountry>
+      <signatureDate>11-14-2016</signatureDate>
+    </signatureBlock>
+    <!--Summary Page-->
+    <summaryPage>
+      <otherIncludedManagersCount>2</otherIncludedManagersCount>
+      <tableEntryTotal>7</tableEntryTotal>
+      <tableValueTotal>330597</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+      <!--List of Other Included Managers (Combo Report)-->
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <cik>0001374606</cik>
+            <form13FFileNumber>028-13678</form13FFileNumber>
+            <name>RMCP GP LLC</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <cik>0001628461</cik>
+            <form13FFileNumber>028-16591</form13FFileNumber>
+            <name>RMCP MANAGER LLC</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>Form13F_InfoTable.xml
+<DESCRIPTION>INFORMATION TABLE FOR RED MOUNTAIN CAPITAL PARTNERS LLC
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<informationTable xsi:schemaLocation="http://www.sec.gov/edgar/document/thirteenf/informationtable eis_13FDocument.xsd"
+	xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable"
+	xmlns:n1="http://www.sec.gov/edgar/document/thirteenf/informationtable"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<infoTable>
+		<nameOfIssuer>AFFIRMATIVE INSURANCE HOLDIN</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>008272106</cusip>
+		<value>0</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>105268</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>DFND</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>105268</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>AIR TRANSPORT SERVICES GROUP INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>00922R105</cusip>
+		<value>105141</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>7326871</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>DFND</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>7326871</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>DECKERS OUTDOOR CORP</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>243537107</cusip>
+		<value>62804</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1054641</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>DFND</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>1054641</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>DESTINATION XL GROUP INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>25065K104</cusip>
+		<value>33114</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>7647469</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>DFND</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>7647469</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>ENCORE CAPITAL GROUP INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>292554102</cusip>
+		<value>31172</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1386636</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>DFND</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>1386636</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>MARLIN BUSINESS SERVICES INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>571157106</cusip>
+		<value>58177</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>3001925</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>DFND</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>3001925</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>NATURES SUNSHINE PRODS INC.</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>639027101</cusip>
+		<value>40189</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>2511837</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>DFND</investmentDiscretion>
+		<otherManager>1,2</otherManager>
+		<votingAuthority>
+			<Sole>2511837</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,866 @@
+<SEC-DOCUMENT>0000950123-11-076527.txt : 20110812
+<SEC-HEADER>0000950123-11-076527.hdr.sgml : 20110812
+<ACCEPTANCE-DATETIME>20110812095711
+ACCESSION NUMBER:		0000950123-11-076527
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110630
+FILED AS OF DATE:		20110812
+DATE AS OF CHANGE:		20110812
+EFFECTIVENESS DATE:		20110812
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Calamos Advisors LLC
+		CENTRAL INDEX KEY:			0001316507
+		IRS NUMBER:				201647533
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11166
+		FILM NUMBER:		111029479
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2020 CALAMOS COURT
+		CITY:			NAPERVILLE
+		STATE:			IL
+		ZIP:			60563
+		BUSINESS PHONE:		6302451046
+
+	MAIL ADDRESS:	
+		STREET 1:		2020 CALAMOS COURT
+		CITY:			NAPERVILLE
+		STATE:			IL
+		ZIP:			60563
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>c65775e13fvhr.txt
+<DESCRIPTION>FORM 13F
+<TEXT>
+<PAGE>
+================================================================================
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 13F
+
+                              FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: June 30, 2011
+
+
+Check here if Amendment [ ]; Amendment Number:
+    This Amendment (Check only one.):  [ ] is a restatement
+                                       [ ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:     CALAMOS ADVISORS LLC
+Address:  2020 Calamos Court
+          Naperville, Illinois 60563
+
+Form 13F File Number: 28-2864
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Mark Mickey
+Title:     Chief Compliance Officer
+Phone:     (630) 577-2142
+
+Signature, Place, and Date of Signing:
+
+     /s/ Mark Mickey         Naperville, Illinois           August 4, 2011
+-----------------------  ---------------------------  --------------------------
+      [Signature]               [City, State]                  [Date]
+
+Report Type (Check only one.):
+
+[X]   13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+      manager are reported in this report.)
+
+[ ]  13F NOTICE. (Check here if no holdings reported are in this report, and
+     all holdings are reported by other reporting manager(s).)
+
+[ ]  13F COMBINATION REPORT. (Check here if a portion of the holdings for
+     this reporting manager are reported in this report and a portion are
+     reported by other reporting manager(s).)
+
+================================================================================
+
+<PAGE>
+
+                             FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Form 13F Information Table Entry Total: 524
+
+Form 13F Information Table Value Total:  $25,036,998
+                                         (thousands)
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                       Column 4       Column 5          Column 6  Column 7            Column 8
+          Column 1               Column 2    Column 3   Value        SHS or PRN  CALL/ Investment  Other          Voting Authority
+       Names of Issuer        Title of Class   Cusip    (x1000)        Amount    PUT   Discretion Managers   Sole    Shared    None
+<S>                           <C>            <C>       <C>        <C>            <C>   <C>        <C>      <C>      <C>     <C>
+3D SYSTEMS CORP               COMMON STOCK   88554D205      527        26752 shs          Sole      None      26752                0
+3M CO                         COMMON STOCK   88579Y101    25230       266000 shs          Sole      None     266000                0
+3M CO                         CONVERTIBLE
+                              SECURITY       88579YAB7    27410     27969000 prn          Sole      None      27969                0
+51JOB INC                     COMMON STOCK   316827104      393         7000 shs          Sole      None       7000                0
+ABBOTT LABORATORIES           COMMON STOCK   002824100    14355       272800 shs          Sole      None     272800                0
+ABERCROMBIE & FITCH CO        COMMON STOCK   002896207    41324       617510 shs          Sole      None     462768           154742
+ACACIA RESEARCH               COMMON STOCK   003881307    31756       865520 shs          Sole      None     862045             3475
+ACCENTURE PLC                 COMMON STOCK   G1151C101   222622      3684573 shs          Sole      None    3490552           194021
+ACCENTURE PLC                 COMMON STOCK   G1151C901      215          220 shs CALL     Sole      None        220                0
+ACCRETIVE HEALTH INC          COMMON STOCK   00438V103    27898       969000 shs          Sole      None     969000                0
+ACCURAY INC                   COMMON STOCK   004397105      454        56700 shs          Sole      None      56700                0
+ACME PACKET INC               COMMON STOCK   004764106    32330       461000 shs          Sole      None     461000                0
+ACORDA THERAPEUTICS INC       COMMON STOCK   00484M106    30371       940000 shs          Sole      None     940000                0
+ADTRAN INC                    COMMON STOCK   00738A106    27834       719040 shs          Sole      None     715915             3125
+AECOM TECHNOLOGY CORP         COMMON STOCK   00766T100      478        17500 shs          Sole      None      17500                0
+AFFILIATED MANAGERS GROUP     COMMON STOCK   008252108    98622       972126 shs          Sole      None     956186            15940
+AFFILIATED MANAGERS GROUP     CONVERTIBLE
+                              SECURITY       008252AL2   113941    102189000 prn          Sole      None      99196             2993
+AFLAC INC                     COMMON STOCK   001055102     8239       176500 shs          Sole      None     176500                0
+AGCO CORP                     CONVERTIBLE
+                              SECURITY       001084AM4    69316     51536000 prn          Sole      None      51171              365
+AGILENT TECHNOLOGIES INC      COMMON STOCK   00846U101    96097      1880209 shs          Sole      None    1703514           176695
+AGILENT TECHNOLOGIES INC      COMMON STOCK   00846U901    13017        13385 shs CALL     Sole      None      13385                0
+AGNICO-EAGLE MINES LTD        COMMON STOCK   008474108    41035       650000 shs          Sole      None     650000                0
+AGRIUM INC                    COMMON STOCK   008916108    88200      1005010 shs          Sole      None     838629           166381
+ALLEGHENY TECHNOLOGIES INC    CONVERTIBLE
+                              SECURITY       01741RAD4    26640     16048000 prn          Sole      None      15958               90
+ALLIANCE DATA                 CONVERTIBLE
+                              SECURITY       018581AD0    22673     17800000 prn          Sole      None      17800                0
+ALLIANT TECHSYS               CONVERTIBLE
+                              SECURITY       018804AK0     4995      4475000 prn          Sole      None       4475                0
+ALLIANT TECHSYSTEMS INC       CONVERTIBLE
+                              SECURITY       018804AN4    19267     19100000 prn          Sole      None      19100                0
+ALLIED NEVADA GOLD CORP       COMMON STOCK   019344100      407        11500 shs          Sole      None      11500                0
+ALPHA NATURAL RESOURCES INC   CONVERTIBLE
+                              SECURITY       02076XAA0    53591     45609000 prn          Sole      None      45011              598
+ALTERA CORP                   COMMON STOCK   021441100   192883      4161442 shs          Sole      None    3959441           202001
+ALTERA CORP                   COMMON STOCK   021441900     4319         6645 shs CALL     Sole      None       6645                0
+ALTRIA GROUP INC              COMMON STOCK   02209S103     6603       250000 shs          Sole      None     250000                0
+AMAZON.COM INC                COMMON STOCK   023135106   593729      2903464 shs          Sole      None    2697527           205937
+AMAZON.COM INC                COMMON STOCK   023135906    11421         2040 shs CALL     Sole      None       2040                0
+AMER INTL GROUP               COMMON STOCK   026874784     2311        78830 shs          Sole      None      78830                0
+AMERICA MOVIL SA              COMMON STOCK   02364W105     5038        93500 shs          Sole      None      93500                0
+AMERIGROUP CORP               CONVERTIBLE
+                              SECURITY       03073TAB8    13997      8400000 prn          Sole      None       8225              175
+AMGEN INC                     COMMON STOCK   031162100     6973       119500 shs          Sole      None     119500                0
+AMGEN INC                     CONVERTIBLE
+                              SECURITY       031162AQ3   136224    135042000 prn          Sole      None     131032             4010
+ANCESTRY.COM INC              COMMON STOCK   032803108    24433       590300 shs          Sole      None     590300                0
+APACHE CORP                   COMMON STOCK   037411105   263854      2138371 shs          Sole      None    1977950           160421
+APACHE CORP                   CONVERTIBLE
+                              PREFERRED
+                              SECURITY       037411808   349712      5305094 shs          Sole      None    5225719            79375
+APOLLO INVESTMENT CORP        COMMON STOCK   03761U106    12763      1250000 shs          Sole      None    1250000                0
+APPLE INC                     COMMON STOCK   037833100   686124      2044044 shs          Sole      None    1899851           144193
+APPLE INC                     COMMON STOCK   037833900    18759         2492 shs CALL     Sole      None       2492                0
+APPLIED MATERIALS INC         COMMON STOCK   038222105    20796      1598500 shs          Sole      None    1598500                0
+APPROACH RESOURCES INC        COMMON STOCK   03834A103      374        16500 shs          Sole      None      16500                0
+ARCH CAPITAL GP LTD           COMMON STOCK   G0450A105      575        18000 shs          Sole      None      18000                0
+ARCHER DANIELS MIDLAND        COMMON STOCK   039483102    87483      2901602 shs          Sole      None    2901602                0
+ARCHER DANIELS MIDLAND        CONVERTIBLE
+                              SECURITY       039483AW2   250191    236029000 prn          Sole      None     231126             4903
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                       Column 4       Column 5          Column 6  Column 7            Column 8
+          Column 1               Column 2    Column 3   Value        SHS or PRN  CALL/ Investment  Other          Voting Authority
+       Names of Issuer        Title of Class   Cusip    (x1000)        Amount    PUT   Discretion Managers   Sole    Shared    None
+<S>                           <C>            <C>       <C>        <C>            <C>   <C>        <C>      <C>      <C>     <C>
+ARIBA INC                     COMMON STOCK   04033V203     8283       240300 shs          Sole      None     240300                0
+ARM HOLDNGS PLC               COMMON STOCK   042068106   153637      5404046 shs          Sole      None    4969663           434383
+ARRIS GROUP INC               CONVERTIBLE
+                              SECURITY       04269QAC4    17944     17171000 prn          Sole      None      16737              434
+ARUBA NETWORKS INC            COMMON STOCK   043176106      479        16200 shs          Sole      None      16200                0
+ASML HOLDING NV               COMMON STOCK   N07059186    66734      1805587 shs          Sole      None    1604777           200810
+AT&T INC                      COMMON STOCK   00206R102    61881      1970100 shs          Sole      None    1970100                0
+ATMEL CORP                    COMMON STOCK   049513104    34331      2440000 shs          Sole      None    2440000                0
+AUTODESK INC                  COMMON STOCK   052769106   143723      3723383 shs          Sole      None    3338950           384433
+AUTONATION INC                COMMON STOCK   05329W102    26542       725000 shs          Sole      None     725000                0
+AVAGO TECHNOLOGIES LTD        COMMON STOCK   Y0486S104     8599       226300 shs          Sole      None     226300                0
+AVON PRODUCTS INC             COMMON STOCK   054303102     1120        40000 shs          Sole      None      40000                0
+BABCOCK & WILCOX COMPANY      COMMON STOCK   05615F102    30160      1088415 shs          Sole      None    1088412                3
+BAIDU INC                     COMMON STOCK   056752108   106202       757884 shs          Sole      None     571582           186302
+BAIDU INC                     COMMON STOCK   056752958     1405         3627 shs PUT      Sole      None       3062              565
+BAKER HUGHES INC              COMMON STOCK   057224107   240473      3314127 shs          Sole      None    3156117           158010
+BAKER-HUGHES INC              COMMON STOCK   057224907     6860         4000 shs CALL     Sole      None       4000                0
+BANK OF AMERICA CORP          COMMON STOCK   060505104    18971      1730900 shs          Sole      None    1730900                0
+BANK OF AMERICA CORP          CONVERTIBLE
+                              PREFERRED
+                              SECURITY       060505682    81430        81332 shs          Sole      None      81332                0
+BANK OF NEW YORK MELLON CP    COMMON STOCK   064058100     6174       241000 shs          Sole      None     241000                0
+BARD (C.R.) INC               COMMON STOCK   067383109    58159       529390 shs          Sole      None     513415            15975
+BARRICK GOLD CORP             COMMON STOCK   067901108   158039      3489500 shs          Sole      None    3217955           271545
+BASIC ENERGY SERVICES INC     COMMON STOCK   06985P100      724        23000 shs          Sole      None      23000                0
+BERKSHIRE HTH                 COMMON STOCK   084670702    15478       200000 shs          Sole      None     200000                0
+BEST BUY COMPANY INC          COMMON STOCK   086516101      879        28000 shs          Sole      None      28000                0
+BIOGEN IDEC INC               COMMON STOCK   09062X103    66917       625860 shs          Sole      None     625860                0
+BMC SOFTWARE                  COMMON STOCK   055921100     5912       108085 shs          Sole      None     105610             2475
+BOEING CO                     COMMON STOCK   097023105    19074       258000 shs          Sole      None     258000                0
+BP PLC                        COMMON STOCK   055622104    35432       800000 shs          Sole      None     800000                0
+BRIGHAM EXPL CO               COMMON STOCK   109178103    28812       962633 shs          Sole      None     962633                0
+BRISTOL MYERS SQUIBB          COMMON STOCK   110122108    36148      1248200 shs          Sole      None    1248200                0
+BROOKDALE SENIOR LIVING INC   CONVERTIBLE
+                              SECURITY       112463AA2     2068      2000000 prn          Sole      None       2000                0
+BRUKER BIOSCIENCES CORP       COMMON STOCK   116794108    29704      1458953 shs          Sole      None     996567           462386
+BUFFALO WILD WINGS INC        COMMON STOCK   119848109    29753       448700 shs          Sole      None     448700                0
+CACI INTL                     CONVERTIBLE
+                              SECURITY       127190AD8    80251     63377000 prn          Sole      None      63034              343
+CADENCE DESIGN SYSTEMS INC    COMMON STOCK   127387108    38016      3600000 shs          Sole      None    3600000                0
+CALIX INC                     COMMON STOCK   13100M509      521        25000 shs          Sole      None      25000                0
+CANON INC                     COMMON STOCK   138006309    12635       265500 shs          Sole      None     265500                0
+CARBO CERAMICS INC            COMMON STOCK   140781105      652         4000 shs          Sole      None       4000                0
+CAREFUSION CORP               COMMON STOCK   14170T101    47548      1750000 shs          Sole      None    1750000                0
+CARNIVAL CORP                 COMMON STOCK   143658300    18006       478500 shs          Sole      None     478500                0
+CARPENTER TECHNOLOGY CORP     COMMON STOCK   144285103    25956       450000 shs          Sole      None     450000                0
+CATERPILLAR INC               COMMON STOCK   149123101    16860       158365 shs          Sole      None     158365                0
+CBOE HOLDINGS INC             COMMON STOCK   12503M108    17220       700000 shs          Sole      None     700000                0
+CBS CORP                      COMMON STOCK   124857202     9402       330000 shs          Sole      None     330000                0
+CEPHALON INC                  CONVERTIBLE
+                              SECURITY       156708AR0    25166     20460000 prn          Sole      None      20460                0
+CEPHEID INC                   COMMON STOCK   15670R107      468        13500 shs          Sole      None      13500                0
+CERADYNE INC                  COMMON STOCK   156710105    20996       538500 shs          Sole      None     538500                0
+CERNER CORP                   COMMON STOCK   156782104    88648      1450622 shs          Sole      None    1240795           209827
+CERNER CORP                   COMMON STOCK   156782904     3680         4000 shs CALL     Sole      None       4000                0
+CHARLES RIVER LABORATORIES    CONVERTIBLE
+                              SECURITY       159864AB3    22656     21500000 prn          Sole      None      21500                0
+CHART INDUSTRIES INC          COMMON STOCK   16115Q308      572        10600 shs          Sole      None      10600                0
+CHECK POINT SOFTWARE TECH     COMMON STOCK   M22465104   267697      4708831 shs          Sole      None    4283877           424954
+CHECK POINT SOFTWARE TECH     COMMON STOCK   M22465907     6603         7590 shs CALL     Sole      None       7590                0
+CHESAPEAKE ENERGY CORP        COMMON STOCK   165167107    83232      2803383 shs          Sole      None    2526706           276677
+CHESAPEAKE ENERGY CORP        COMMON STOCK   165167907     4764         9342 shs CALL     Sole      None       9342                0
+CHESAPEAKE ENERGY CORP        CONVERTIBLE
+                              SECURITY       165167BW6   127150    114421000 prn          Sole      None     110799             3622
+CHESAPEAKE ENERGY CORP        CONVERTIBLE
+                              SECURITY       165167CB1    17769     19500000 prn          Sole      None      19500                0
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                       Column 4       Column 5          Column 6  Column 7            Column 8
+          Column 1               Column 2    Column 3   Value        SHS or PRN  CALL/ Investment  Other          Voting Authority
+       Names of Issuer        Title of Class   Cusip    (x1000)        Amount    PUT   Discretion Managers   Sole    Shared    None
+<S>                           <C>            <C>       <C>        <C>            <C>   <C>        <C>      <C>      <C>     <C>
+CHESAPEAKE ENERGY CORP        CONVERTIBLE
+                              SECURITY       165167BZ9    65861     62280000 prn          Sole      None      62280                0
+CHEVRONTEXACO CORP            COMMON STOCK   166764100   105574      1026585 shs          Sole      None    1026585                0
+CIENA CORP                    CONVERTIBLE
+                              SECURITY       171779AE1     5022      5900000 prn          Sole      None       5900                0
+CINEMARK HOLDINGS INC         COMMON STOCK   17243V102    24852      1200000 shs          Sole      None    1200000                0
+CIRRUS LOGIC                  COMMON STOCK   172755100    19100      1201250 shs          Sole      None    1201250                0
+CISCO SYSTEMS INC             COMMON STOCK   17275R102     9819       629047 shs          Sole      None     629015               32
+CITIGROUP INC                 COMMON STOCK   172967424     7983       191706 shs          Sole      None     191706                0
+CLIFFS NATURAL RESOURCES INC  COMMON STOCK   18683K101    95228      1030049 shs          Sole      None     924710           105339
+CLIFFS NATURAL RESOURCES INC  COMMON STOCK   18683K901     1421         1160 shs CALL     Sole      None       1160                0
+CME GROUP INC                 COMMON STOCK   12572Q105    62508       214368 shs          Sole      None     214363                5
+CNH GLOBAL NV                 COMMON STOCK   N20935206    19325       500000 shs          Sole      None     500000                0
+CNOOC LTD                     COMMON STOCK   126132109    24552       104066 shs          Sole      None      62040            42026
+COACH INC                     COMMON STOCK   189754104    46784       731800 shs          Sole      None     563886           167914
+COACH INC                     COMMON STOCK   189754904    16373        11100 shs CALL     Sole      None      11100                0
+COBALT INTL ENERGY            COMMON STOCK   19075F106    22490      1650000 shs          Sole      None    1650000                0
+COCA-COLA CO                  COMMON STOCK   191216100   291006      4324655 shs          Sole      None    4251455            73200
+COGNIZANT TECH SOLUTIONS CP   COMMON STOCK   192446102    11720       159810 shs          Sole      None     158535             1275
+COHEN & STEERS INC            COMMON STOCK   19247A100      504        15200 shs          Sole      None      15200                0
+COHERENT INC                  COMMON STOCK   192479103      448         8100 shs          Sole      None       8100                0
+COINSTAR INC                  CONVERTIBLE
+                              SECURITY       19259PAF9    17066     11100000 prn          Sole      None      11100                0
+COLFAX CORP                   COMMON STOCK   194014106      675        27200 shs          Sole      None      27200                0
+COLGATE-PALMOLIVE CO          COMMON STOCK   194162103     4808        55000 shs          Sole      None      55000                0
+COMCAST CORP                  COMMON STOCK   20030N101    10351       408500 shs          Sole      None     408500                0
+COMPANHIA DE BEBIDAS          COMMON STOCK   20441W203    89613      2656789 shs          Sole      None    2376316           280473
+COMPLETE PRODUCTION SRVCS     COMMON STOCK   20453E109    51429      1541651 shs          Sole      None    1273443           268208
+COMTECH TELECOMMUNICATIONS    CONVERTIBLE
+                              SECURITY       205826AF7     9099      8625000 prn          Sole      None       8625                0
+CONCHO RESOURCES INC          COMMON STOCK   20605P101    39036       425000 shs          Sole      None     425000                0
+CONOCOPHILLIPS                COMMON STOCK   20825C104    74393       989400 shs          Sole      None     989400                0
+CORNING INC                   COMMON STOCK   219350105     6534       360000 shs          Sole      None     360000                0
+COSTCO WHOLESALE CORP         COMMON STOCK   22160K105    11780       145000 shs          Sole      None     145000                0
+COVANTA HOLDING CORP          CONVERTIBLE
+                              SECURITY       22282EAC6    11184      9800000 prn          Sole      None       9800                0
+COVIDIEN PLC                  COMMON STOCK   G2554F113   122437      2300142 shs          Sole      None    2071768           228374
+CROCS INC                     COMMON STOCK   227046109    38625      1500000 shs          Sole      None    1500000                0
+CSX CORPORATION               COMMON STOCK   126408103     6450       246000 shs          Sole      None     246000                0
+CTRIP.COM INTL LTD            COMMON STOCK   22943F100    38772       900000 shs          Sole      None     900000                0
+D R HORTON INC                CONVERTIBLE
+                              SECURITY       23331ABB4     4005      3600000 prn          Sole      None       3600                0
+DANAHER CORP                  COMMON STOCK   235851102     1172        22115 shs          Sole      None      22115                0
+DANAHER CORP                  CONVERTIBLE
+                              SECURITY       235851AF9   195460    126614000 prn          Sole      None     124329             2285
+DECKERS OUTDOOR               COMMON STOCK   243537107    54526       618633 shs          Sole      None     516319           102314
+DELL INC                      COMMON STOCK   24702R101    81815      4907935 shs          Sole      None    4761885           146050
+DELL INC                      COMMON STOCK   24702R901     8310        22310 shs CALL     Sole      None      22310                0
+DENDREON CORP                 CONVERTIBLE
+                              SECURITY       24823QAC1     7726      7000000 prn          Sole      None       7000                0
+DEVON ENERGY CORPORATION      COMMON STOCK   25179M103     3334        42300 shs          Sole      None      42300                0
+DIAMOND OFFSHORE DRILLING INC COMMON STOCK   25271C102     7041       100000 shs          Sole      None     100000                0
+DICE HOLDINGS INC             COMMON STOCK   253017107    20773      1536500 shs          Sole      None    1536500                0
+DIRECTV                       COMMON STOCK   25490A101     4828        95000 shs          Sole      None      95000                0
+DISNEY WALT CO                COMMON STOCK   254687106    20110       515100 shs          Sole      None     515100                0
+DOCTOR REDDY'S LAB            COMMON STOCK   256135203      302         8800 shs          Sole      None       8800                0
+DOMINION RESOURCES INC VA     COMMON STOCK   25746U109    10378       215000 shs          Sole      None     215000                0
+DOMINION RESOURCES INC VA     CONVERTIBLE
+                              SECURITY       25746UAT6      862       621000 prn          Sole      None        621                0
+DOMINOS PIZZA INC             COMMON STOCK   25754A201    35336      1400000 shs          Sole      None    1400000                0
+DOVER CORP                    COMMON STOCK   260003108   179357      2645384 shs          Sole      None    2385174           260210
+DOW CHEMICAL CO               COMMON STOCK   260543103    20556       571000 shs          Sole      None     571000                0
+DST SYSTEMS                   CONVERTIBLE
+                              SECURITY       233326AE7     4733      3965000 prn          Sole      None       3950               15
+DUKE ENERGY CORP              COMMON STOCK   26441C105     8795       467100 shs          Sole      None     467100                0
+DUPONT DE NEMOUR & CO         COMMON STOCK   263534109     8594       159000 shs          Sole      None     159000                0
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                       Column 4       Column 5          Column 6  Column 7            Column 8
+          Column 1               Column 2    Column 3   Value        SHS or PRN  CALL/ Investment  Other          Voting Authority
+       Names of Issuer        Title of Class   Cusip    (x1000)        Amount    PUT   Discretion Managers   Sole    Shared    None
+<S>                           <C>            <C>       <C>        <C>            <C>   <C>        <C>      <C>      <C>     <C>
+EATON CORP                    COMMON STOCK   278058102   231454      4498620 shs          Sole      None    4268165           230455
+EBAY INC                      COMMON STOCK   278642103   161058      4990936 shs          Sole      None    4984371             6565
+EDISON INTL                   COMMON STOCK   281020107     2906        75000 shs          Sole      None      75000                0
+EL PASO CORP                  COMMON STOCK   28336L909     2020         4000 shs CALL     Sole      None       4000                0
+ELI LILLY & CO                COMMON STOCK   532457108    12544       334250 shs          Sole      None     334250                0
+EMC CORP -MASS                COMMON STOCK   268648902     6003        11600 shs CALL     Sole      None      11600                0
+EMC CORP -MASS                COMMON STOCK   268648952     5899        47000 shs PUT      Sole      None      47000                0
+EMC CORP -MASS                CONVERTIBLE
+                              SECURITY       268648AK8    28299     16465000 prn          Sole      None      16465                0
+EMC CORP -MASS                CONVERTIBLE
+                              SECURITY       268648AM4   542103    308451000 prn          Sole      None     301735             6716
+EMC CORP -MASS                COMMON STOCK   268648102   178332      6473024 shs          Sole      None    6052940           420084
+EMERSON ELECTRIC CO           COMMON STOCK   291011104     3375        60000 shs          Sole      None      60000                0
+ENDO PHARMACEUT               CONVERTIBLE
+                              SECURITY       29264FAB2    91419     62562000 prn          Sole      None      62272              290
+ENERGIZER HLDGS               COMMON STOCK   29266R108    65124       900000 shs          Sole      None     900000                0
+ENERSYS                       CONVERTIBLE
+                              SECURITY       29275YAA0    37244     33069000 prn          Sole      None      33069                0
+EQT CORP                      COMMON STOCK   26884L109    81324      1548442 shs          Sole      None    1373769           174673
+EQUINIX INC                   CONVERTIBLE
+                              SECURITY       29444UAF3    16346     15457000 prn          Sole      None      15362               95
+EQUINIX INC                   CONVERTIBLE
+                              SECURITY       29444UAH9     7088      5000000 prn          Sole      None       5000                0
+EQUINIX INC                   CONVERTIBLE
+                              SECURITY       29444UAG1    12670     11300000 prn          Sole      None      11300                0
+EURONET WORLDWIDE INC         CONVERTIBLE
+                              SECURITY       298736AF6    28749     28500000 prn          Sole      None      28500                0
+EXELIXIS INC                  COMMON STOCK   30161Q104    18816      2100000 shs          Sole      None    2100000                0
+EXELON CORP                   COMMON STOCK   30161N101      450        10500 shs          Sole      None      10500                0
+EXPEDIA INC                   COMMON STOCK   30212P105    40635      1401690 shs          Sole      None    1401690                0
+EXXON MOBIL CORP              COMMON STOCK   30231G102    74908       920475 shs          Sole      None     920475                0
+FEDEX CORP                    COMMON STOCK   31428X106    12236       129000 shs          Sole      None     129000                0
+FEI COMPANY                   CONVERTIBLE
+                              SECURITY       30241LAF6    11461      8150000 prn          Sole      None       8150                0
+FINANCIAL ENGINES INC         COMMON STOCK   317485100    24624       950000 shs          Sole      None     950000                0
+FIRST SOLAR INC               COMMON STOCK   336433107    62845       475124 shs          Sole      None     475120                4
+FLUOR CORP-NEW                COMMON STOCK   343412102   162271      2509600 shs          Sole      None    2243863           265737
+FMC CORPORATION               COMMON STOCK   302491303    25806       300000 shs          Sole      None     300000                0
+FMC TECHNOLOGIES INC          COMMON STOCK   30249U101    47030      1050000 shs          Sole      None    1050000                0
+FOCUS MEDIA HOLDING LTD       COMMON STOCK   34415V109    65310      2100000 shs          Sole      None    2100000                0
+FORTINET INC                  COMMON STOCK   34959E109    75574      2769284 shs          Sole      None    2352868           416416
+FOSSIL INC                    COMMON STOCK   349882100    86001       730552 shs          Sole      None     652380            78172
+FOSSIL INC                    COMMON STOCK   349882950      583         3286 shs PUT      Sole      None       3116              170
+FRANKLIN RESOURCES INC        COMMON STOCK   354613101   142777      1087494 shs          Sole      None     971548           115946
+FRANKLIN RESOURCES INC        COMMON STOCK   354613901     6012         4325 shs CALL     Sole      None       4325                0
+FREEPORT-MCMORAN COP&GOLD     COMMON STOCK   35671D857    41420       782979 shs          Sole      None     624088           158891
+FRONTIER OIL CORP             COMMON STOCK   35914P105    30684       949677 shs          Sole      None     636413           313264
+GARDNER DENVER INC            COMMON STOCK   365558105    23954       285000 shs          Sole      None     285000                0
+GENERAL CABLE CORP            CONVERTIBLE
+                              SECURITY       369300AD0    78218     72090000 prn          Sole      None      71212              878
+GENERAL DYNAMICS CORP         COMMON STOCK   369550108     1081        14500 shs          Sole      None      14500                0
+GENERAL ELECTRIC CO           COMMON STOCK   369604103   103862      5507000 shs          Sole      None    5507000                0
+GENERAL MOTORS CO             COMMON STOCK   37045V100     2606        85828 shs          Sole      None      85828                0
+GEN-PROBE INC                 COMMON STOCK   36866T103    25720       371951 shs          Sole      None     242154           129797
+GILEAD SCIENCES INC           CONVERTIBLE
+                              SECURITY       375558AH6    26017     21840000 prn          Sole      None      20793             1047
+GLOBAL GEOPHYSICAL SERVICES   COMMON STOCK   37946S107      619        34800 shs          Sole      None      34800                0
+GLOBAL TRAFFIC NETWORK INC    COMMON STOCK   37947B103      460        40000 shs          Sole      None      40000                0
+GOLDCORP INC                  COMMON STOCK   380956409      664        13765 shs          Sole      None      13765                0
+GOLDCORP INC                  CONVERTIBLE
+                              SECURITY       380956AB8   253183    201338000 prn          Sole      None     196277             5061
+GOLDMAN SACHS                 COMMON STOCK   38141G104     7453        56000 shs          Sole      None      56000                0
+GOOGLE INC                    COMMON STOCK   38259P508   429102       847391 shs          Sole      None     775094            72297
+GRAPHIC PACKAGING HLDG CO     COMMON STOCK   388689101      598       110000 shs          Sole      None     110000                0
+GSI COMMERCE INC              COMMON STOCK   36238G952                   700 shs PUT      Sole      None        700                0
+GSI COMMERCE INC              CONVERTIBLE
+                              SECURITY       36238GAD4     6842      6000000 prn          Sole      None       6000                0
+GT SOLAR INTERNATIONAL INC.   COMMON STOCK   3623E0209    35640      2200000 shs          Sole      None    2200000                0
+HALLIBURTON CO                COMMON STOCK   406216101    24914       488500 shs          Sole      None     488500                0
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                       Column 4       Column 5          Column 6  Column 7            Column 8
+          Column 1               Column 2    Column 3   Value        SHS or PRN  CALL/ Investment  Other          Voting Authority
+       Names of Issuer        Title of Class   Cusip    (x1000)        Amount    PUT   Discretion Managers   Sole    Shared    None
+<S>                           <C>            <C>       <C>        <C>            <C>   <C>        <C>      <C>      <C>     <C>
+HANGER ORTHOPEDIC GRP         COMMON STOCK   41043F208    20800       850000 shs          Sole      None     850000                0
+HANSEN NATURAL CORP           COMMON STOCK   411310105    87854      1085284 shs          Sole      None     946943           138341
+HARLEY-DAVIDSON INC           COMMON STOCK   412822108     5121       125000 shs          Sole      None     125000                0
+HARMAN INTL IND               COMMON STOCK   413086109    58667      1287410 shs          Sole      None    1285085             2325
+HARMONIC INC                  COMMON STOCK   413160102    18075      2500000 shs          Sole      None    2500000                0
+HARTFORD FINANCIAL SVCS GRP   COMMON STOCK   416515104      501        19000 shs          Sole      None      19000                0
+HEALTH CR REIT                CONVERTIBLE
+                              SECURITY       42217KAP1      457       403000 prn          Sole      None        403                0
+HEALTH CR REIT                CONVERTIBLE
+                              SECURITY       42217KAQ9     1199      1060000 prn          Sole      None       1060                0
+HEALTH CR REIT                CONVERTIBLE
+                              SECURITY       42217KAR7    10604      9415000 prn          Sole      None       9415                0
+HELMERICH & PAYNE INC         COMMON STOCK   423452101   175641      2656393 shs          Sole      None    2450379           206014
+HERBALIFE LTD                 COMMON STOCK   G4412G101   155692      2701105 shs          Sole      None    2308199           392906
+HEWLETT-PACKARD CO.           COMMON STOCK   428236103     5038       138400 shs          Sole      None     138400                0
+HOLOGIC INC                   CONVERTIBLE
+                              SECURITY       436440AB7   102777     89566000 prn          Sole      None      88978              588
+HOME DEPOT                    COMMON STOCK   437076102     6339       175000 shs          Sole      None     175000                0
+HOME INNS & HOTELS MANAG      COMMON STOCK   43713W107    10651       280000 shs          Sole      None     280000                0
+HONEYWELL INTL                COMMON STOCK   438516106    45825       769000 shs          Sole      None     769000                0
+JB HUNT TRANSPRT SVCS INC     COMMON STOCK   445658107    44736       950000 shs          Sole      None     950000                0
+IDEXX LABORATORIES INC        COMMON STOCK   45168D104    27146       350000 shs          Sole      None     350000                0
+IHS INC                       COMMON STOCK   451734107      501         6000 shs          Sole      None       6000                0
+II-VI INCORP                  COMMON STOCK   902104108      512        20000 shs          Sole      None      20000                0
+ILL TOOL WORKS INC            COMMON STOCK   452308109    14334       253750 shs          Sole      None     253750                0
+ILL TOOL WORKS INC            COMMON STOCK   452308909     4587         6600 shs CALL     Sole      None       6600                0
+ILLUMINA INC                  COMMON STOCK   452327109   115537      1537423 shs          Sole      None    1371409           166014
+IMAX CORP                     COMMON STOCK   45245E109    72933      2248932 shs          Sole      None    1919739           329193
+IMPAX LABORATORIES INC        COMMON STOCK   45256B101    21108       968700 shs          Sole      None     968700                0
+INCYTE GENOMICS INC           COMMON STOCK   45337C102    25042      1322153 shs          Sole      None    1322153                0
+INFORMATICA CORP              COMMON STOCK   45666Q102   103857      1777453 shs          Sole      None    1625195           152258
+INHIBITEX INC                 COMMON STOCK   45719T103      490       125000 shs          Sole      None     125000                0
+INTEL CORP                    COMMON STOCK   458140100   173381      7824033 shs          Sole      None    7408628           415405
+INTEL CORP                    CONVERTIBLE
+                              SECURITY       458140AD2   105173    101250000 prn          Sole      None     101250                0
+INTERCONTINENTALEXCHANGE INC  COMMON STOCK   45865V100   121585       974943 shs          Sole      None     903029            71914
+INTERPUBLIC GROUP OF COS      CONVERTIBLE
+                              SECURITY       460690BA7    97875     85201000 prn          Sole      None      84669              532
+INTERPUBLIC GROUP OF COS      CONVERTIBLE
+                              SECURITY       460690BE9    38367     30210000 prn          Sole      None      29975              235
+INT'L BUSINESS MACHINES CORP  COMMON STOCK   459200101    34773       202700 shs          Sole      None     202700                0
+INTL GAME TECHNOLOGY          CONVERTIBLE
+                              SECURITY       459902AQ5    22321     18640000 prn          Sole      None      18354              286
+INTUIT                        COMMON STOCK   461202103    25912       499662 shs          Sole      None     349617           150045
+INTUITIVE SURGICAL INC        COMMON STOCK   46120E602   248123       666801 shs          Sole      None     605932            60869
+INVESCO LTD                   COMMON STOCK   G491BT108    21879       935000 shs          Sole      None     935000                0
+INVESTMENT TECHNOLOGY GROUP   COMMON STOCK   46145F105     4276       305000 shs          Sole      None     305000                0
+INVITROGEN CORP               CONVERTIBLE
+                              SECURITY       46185RAK6    86427     75318000 prn          Sole      None      74063             1255
+IPC THE HOSPITALIST CO        COMMON STOCK   44984A105      524        11300 shs          Sole      None      11300                0
+IPG PHOTONICS CORP            COMMON STOCK   44980X109      734        10100 shs          Sole      None      10100                0
+IROBOT CORP                   COMMON STOCK   462726100      220         6243 shs          Sole      None       6243                0
+IXIA                          COMMON STOCK   45071R109      448        35000 shs          Sole      None      35000                0
+JABIL CIRCUIT INC             COMMON STOCK   466313103    30437      1506788 shs          Sole      None    1113889           392899
+JABIL CIRCUIT INC             COMMON STOCK   466313903     2120         6000 shs CALL     Sole      None       6000                0
+JANUS CAPITAL GROUP FUNDS     CONVERTIBLE
+                              SECURITY       47102XAG0    24772     22779000 prn          Sole      None      22072              707
+JDS UNIPHASE CORP             CONVERTIBLE
+                              SECURITY       46612JAD3    11055     10772000 prn          Sole      None      10772                0
+JEFFERIES GROUP INC           CONVERTIBLE
+                              SECURITY       472319AG7     5829      5800000 prn          Sole      None       5800                0
+JOHNSON & JOHNSON             CONVERTIBLE
+                              SECURITY       02261WAB5    11263     11903000 prn          Sole      None      11903                0
+JOHNSON & JOHNSON             COMMON STOCK   478160104   217045      3262857 shs          Sole      None    3260057             2800
+JP MORGAN CHASE & CO          COMMON STOCK   46625H100    67035      1637390 shs          Sole      None    1637390                0
+KELLOGG CO                    COMMON STOCK   487836108     4923        89000 shs          Sole      None      89000                0
+KENEXA CORP                   COMMON STOCK   488879107      492        20500 shs          Sole      None      20500                0
+KIMBERLY-CLARK CORP           COMMON STOCK   494368103    26424       397000 shs          Sole      None     397000                0
+KINROSS GOLD CORP             CONVERTIBLE
+                              SECURITY       496902AD9    11500     11500000 prn          Sole      None      11500                0
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                       Column 4       Column 5          Column 6  Column 7            Column 8
+          Column 1               Column 2    Column 3   Value        SHS or PRN  CALL/ Investment  Other          Voting Authority
+       Names of Issuer        Title of Class   Cusip    (x1000)        Amount    PUT   Discretion Managers   Sole    Shared    None
+<S>                           <C>            <C>       <C>        <C>            <C>   <C>        <C>      <C>      <C>     <C>
+KKR & CO  LP                  COMMON STOCK   48248M102    26112      1600000 shs          Sole      None    1600000                0
+KLA-TENCOR CORP               COMMON STOCK   482480100    48297      1193098 shs          Sole      None    1188872             4226
+KRAFT FOODS INC               COMMON STOCK   50075N104     3523       100000 shs          Sole      None     100000                0
+KRONOS WORLDWIDE INC          COMMON STOCK   50105F105      616        19600 shs          Sole      None      19600                0
+LABORATORY CRP OF AMER HLDG   CONVERTIBLE
+                              SECURITY       50540RAG7     4503      3467000 prn          Sole      None       3467                0
+LABORATORY CRP OF AMER HLDG   COMMON STOCK   50540R409    62763       648447 shs          Sole      None     554612            93835
+LAWSON SOFTWARE INC           CONVERTIBLE
+                              SECURITY       52078PAA0     5447      5250000 prn          Sole      None       5250                0
+LEAP WIRELESS INTL INC        COMMON STOCK   521863308    21099      1300000 shs          Sole      None    1300000                0
+LEGG MASON INC                COMMON STOCK   524901105      675        20600 shs          Sole      None      20600                0
+LEUCADIA NATIONAL CORP        CONVERTIBLE
+                              SECURITY       527288AX2    79151     49124000 prn          Sole      None      48639              485
+LEUCADIA NATIONAL CORP        COMMON STOCK   527288104     1637        48000 shs          Sole      None      48000                0
+LIBERTY                       CONVERTIBLE
+                              SECURITY       530718AF2    45553     38000000 prn          Sole      None      38000                0
+LIBERTY MEDIA                 CONVERTIBLE
+                              SECURITY       530715AR2    87553    101511000 prn          Sole      None      99116             2395
+LIFEPOINT HOSPITALS INC       CONVERTIBLE
+                              SECURITY       53219LAH2    95143     88505000 prn          Sole      None      87899              606
+LINCOLN NATIONAL CORP         COMMON STOCK   534187109     4504       158074 shs          Sole      None     158074                0
+LINEAR TEC CORP               CONVERTIBLE
+                              SECURITY       535678AC0   183433    172440000 prn          Sole      None     170827             1613
+LIVEPERSON INC                COMMON STOCK   538146101      481        34000 shs          Sole      None      34000                0
+LOCKHEED MARTIN CORP          COMMON STOCK   539830109      810        10000 shs          Sole      None      10000                0
+LOGMEIN INC                   COMMON STOCK   54142L109      478        12400 shs          Sole      None      12400                0
+LONGTOP FINANCIAL TECH        COMMON STOCK   54318P108     2952       295210 shs          Sole      None     295210                0
+LUFKIN INDUSTRIES INC         COMMON STOCK   549764108    32699       380000 shs          Sole      None     380000                0
+MAKO SURGICAL CORP            COMMON STOCK   560879108     3287       110574 shs          Sole      None     110574                0
+MANULIFE FINANCIAL CORP       COMMON STOCK   56501R106     1748        99000 shs          Sole      None      99000                0
+MARATHON OIL CP               COMMON STOCK   565849106    43279       821550 shs          Sole      None     821550                0
+MARRIOTT INTL INC             COMMON STOCK   571903202    39039      1100000 shs          Sole      None    1100000                0
+MASCO CORP                    COMMON STOCK   574599106     5414       450000 shs          Sole      None     450000                0
+MCDERMOTT INTL INC            COMMON STOCK   580037109    17377       877180 shs          Sole      None     877140               40
+MCDONALD'S CORP               COMMON STOCK   580135101     9697       115000 shs          Sole      None     115000                0
+MEAD JOHNSON NUTRITION CO     COMMON STOCK   582839106   186911      2767001 shs          Sole      None    2639988           127013
+MEDICIS PHARM                 CONVERTIBLE
+                              SECURITY       58470KAA2    24609     18145000 prn          Sole      None      18145                0
+MEDIDATA SOLUTIONS INC        COMMON STOCK   58471A105      477        20000 shs          Sole      None      20000                0
+MEDTRONIC INC                 COMMON STOCK   585055106    20309       527100 shs          Sole      None     527100                0
+MEDTRONIC INC                 CONVERTIBLE
+                              SECURITY       585055AM8   144821    140945000 prn          Sole      None     138831             2114
+MELCO CROWN ENTERTAINMENT     COMMON STOCK   585464100    40915      3204010 shs          Sole      None    3204010                0
+MENTOR GRAPHICS               COMMON STOCK   587200106    26287      2052099 shs          Sole      None    2052099                0
+MERCADOLIBRE INC              COMMON STOCK   58733R102   120020      1512733 shs          Sole      None    1361349           151384
+MERCK & CO                    COMMON STOCK   58933Y105   175931      4985301 shs          Sole      None    4985301                0
+MERIT MEDICAL SYSTEMS INC     COMMON STOCK   589889104    10609       590400 shs          Sole      None     590400                0
+METLIFE INC                   COMMON STOCK   59156R108     8780       200140 shs          Sole      None     200140                0
+METLIFE INC                   CONVERTIBLE
+                              PREFERRED
+                              SECURITY       59156R116   131594      1596435 shs          Sole      None    1572610            23825
+METROPCS COMMUNICATIONS INC   COMMON STOCK   591708102    26708      1551880 shs          Sole      None    1546130             5750
+MF GLOBAL HOLDINGS LTD        CONVERTIBLE
+                              SECURITY       55277JAA6    11955     12000000 prn          Sole      None      12000                0
+MGM MIRAGE                    CONVERTIBLE
+                              SECURITY       55303QAE0     4883      4500000 prn          Sole      None       4500                0
+MGM RESORTS INTERNATIONAL     COMMON STOCK   552953101    19815      1500000 shs          Sole      None    1500000                0
+MICRON TECHNOLOGY INC         CONVERTIBLE
+                              SECURITY       595112AH6    32880     33551000 prn          Sole      None      33382              169
+MICROSOFT CORP                COMMON STOCK   594918104   242051      9309670 shs          Sole      None    9217415            92255
+MOLINA HEALTHCARE INC         CONVERTIBLE
+                              SECURITY       60855RAA8    19613     16944000 prn          Sole      None      16927               17
+MOLSON COORS BREWING CO       CONVERTIBLE
+                              SECURITY       60871RAA8    85784     77809000 prn          Sole      None      77347              462
+MONSANTO CO                   COMMON STOCK   61166W101     3772        52000 shs          Sole      None      52000                0
+MOODY'S CORP                  COMMON STOCK   615369105    72221      1883196 shs          Sole      None    1690238           192958
+MOSAIC CO                     COMMON STOCK   61945C103    40638       600000 shs          Sole      None     600000                0
+MOTOROLA SOLUTIONS INC        COMMON STOCK   620076307    18712       406428 shs          Sole      None     406428                0
+MSC INDUSTRIAL DIRECT CO INC  COMMON STOCK   553530106    23209       350000 shs          Sole      None     350000                0
+MYERS INDUSTRIES INC          COMMON STOCK   628464109      545        53000 shs          Sole      None      53000                0
+MYLAN LABORATORIES INC        CONVERTIBLE
+                              SECURITY       628530AG2   137284    122849000 prn          Sole      None     121769             1080
+NATIONAL INSTRUMENTS CORP     COMMON STOCK   636518102    26815       903179 shs          Sole      None     900017             3162
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                       Column 4       Column 5          Column 6  Column 7            Column 8
+          Column 1               Column 2    Column 3   Value        SHS or PRN  CALL/ Investment  Other          Voting Authority
+       Names of Issuer        Title of Class   Cusip    (x1000)        Amount    PUT   Discretion Managers   Sole    Shared    None
+<S>                           <C>            <C>       <C>        <C>            <C>   <C>        <C>      <C>      <C>     <C>
+NATIONAL OILWELL VARCO INC    COMMON STOCK   637071101    48084       614809 shs          Sole      None     411062           203747
+NEKTAR THERAPEUTICS           COMMON STOCK   640268108    21810      3000000 shs          Sole      None    3000000                0
+NETFLIX INC                   COMMON STOCK   64110L106   126324       480885 shs          Sole      None     430726            50159
+NETFLIX INC                   COMMON STOCK   64110L906     2343          500 shs CALL     Sole      None        500                0
+NETGEAR INC                   COMMON STOCK   64111Q104    41810       956324 shs          Sole      None     953474             2850
+NETLOGIC MICROSYSTEMS INC     COMMON STOCK   64118B100    24389       603384 shs          Sole      None     417723           185661
+NETSCOUT SYSTMS               COMMON STOCK   64115T104      324        15500 shs          Sole      None      15500                0
+NETSUITE INC                  COMMON STOCK   64118Q107      510        13000 shs          Sole      None      13000                0
+NEW ORIENTAL EDUCATION        COMMON STOCK   647581107    55860       500000 shs          Sole      None     500000                0
+NEWMONT MINING CORP           COMMON STOCK   651639106     7475       138500 shs          Sole      None     138500                0
+NEWMONT MINING CORP           CONVERTIBLE
+                              SECURITY       651639AH9   115846     88601000 prn          Sole      None      86790             1811
+NEWMONT MINING CORP           CONVERTIBLE
+                              SECURITY       651639AJ5   101766     75382000 prn          Sole      None      74603              779
+NEWMONT MINING CORP           CONVERTIBLE
+                              SECURITY       651639AK2   130161    105822000 prn          Sole      None     103142             2680
+NEWPARK RESOURCES             CONVERTIBLE
+                              SECURITY       651718AC2     5856      5000000 prn          Sole      None       5000                0
+NEWPORT CORP                  COMMON STOCK   651824104      600        33000 shs          Sole      None      33000                0
+NEWS CORP                     COMMON STOCK   65248E203     1302        72000 shs          Sole      None      72000                0
+NIC INC                       COMMON STOCK   62914B100      525        39000 shs          Sole      None      39000                0
+NICE SYSTEMS LTD              COMMON STOCK   653656108     5153       141710 shs          Sole      None     141710                0
+NIKE INC                      COMMON STOCK   654106103     7513        83500 shs          Sole      None      83500                0
+NOBLE CORP                    COMMON STOCK   H5833N103    51177      1298587 shs          Sole      None    1107551           191036
+NOBLE ENERGY INC              COMMON STOCK   655044105     4202        46884 shs          Sole      None      45909              975
+NOKIA CP                      COMMON STOCK   654902204    14124      2200000 shs          Sole      None    2200000                0
+NORDSON CORP                  COMMON STOCK   655663102      439         8000 shs          Sole      None       8000                0
+NOVO-NORDISK AS               COMMON STOCK   670100205   121183       967299 shs          Sole      None     817906           149393
+NUANCE COMMUNICATIONS INC     CONVERTIBLE
+                              SECURITY       67020YAB6    66530     50593000 prn          Sole      None      50593                0
+NUCOR CORP                    COMMON STOCK   670346105     3710        90000 shs          Sole      None      90000                0
+NUVASIVE INC                  CONVERTIBLE
+                              SECURITY       670704AB1     6308      6000000 prn          Sole      None       6000                0
+NVIDIA CORP                   COMMON STOCK   67066G104    90069      5652303 shs          Sole      None    5313671           338632
+O2MICRO INTL LTD              COMMON STOCK   67107W100      384        59000 shs          Sole      None      59000                0
+OCCIDENTAL PETROLEUM CORP     COMMON STOCK   674599105   124692      1198496 shs          Sole      None    1190196             8300
+OCH-ZIFF CAPITAL MANAGEMENT   COMMON STOCK   67551U105      388        28000 shs          Sole      None      28000                0
+OIL STATES INTL INC           COMMON STOCK   678026105     6105        76400 shs          Sole      None      74600             1800
+OMEGA PROTEIN                 COMMON STOCK   68210P107      511        37000 shs          Sole      None      37000                0
+OMNICOM GRP                   CONVERTIBLE
+                              SECURITY       681919AV8    20995     19995000 prn          Sole      None      19995                0
+OMNICOM GRP                   CONVERTIBLE
+                              SECURITY       682134AA9   134002    121132000 prn          Sole      None     117817             3315
+OMNIVISION TECHNOLOGIES INC   COMMON STOCK   682128103    69377      1993022 shs          Sole      None    1675199           317823
+ON SEMICONDUCTOR CORP         CONVERTIBLE
+                              SECURITY       682189AE5      214       185000 prn          Sole      None        185                0
+ON SEMICONDUCTOR CORP         CONVERTIBLE
+                              SECURITY       682189AG0   108125     88900000 prn          Sole      None      88181              719
+ONYX PHARMACEUTICALS INC      CONVERTIBLE
+                              SECURITY       683399AB5    12000     10000000 prn          Sole      None      10000                0
+OPEN TEXT CORP                COMMON STOCK   683715106    52642       822272 shs          Sole      None     682395           139877
+OPENTABLE INC                 COMMON STOCK   68372A904      261          300 shs CALL     Sole      None        300                0
+OPNET TECHNOLOGIES INC        COMMON STOCK   683757108      561        13700 shs          Sole      None      13700                0
+ORACLE CORP                   COMMON STOCK   68389X105   445318     13531391 shs          Sole      None   12766739           764652
+ORACLE CORP                   COMMON STOCK   68389X905    13399        21100 shs CALL     Sole      None      21100                0
+ORBITAL SCIENCES CORP         COMMON STOCK   685564106    20220      1200000 shs          Sole      None    1200000                0
+PAN AMERICAN SILVER CORP      COMMON STOCK   697900108    54381      1760469 shs          Sole      None    1518059           242410
+PAREXEL INTERNATIONAL CORP    COMMON STOCK   699462107    14435       612700 shs          Sole      None     612700                0
+PARKER HANNIFIN CORP          COMMON STOCK   701094104   180231      2008369 shs          Sole      None    1897537           110832
+PATTERSON-UTI ENERGY INC      COMMON STOCK   703481101    74951      2371114 shs          Sole      None    2031108           340006
+PATTERSON-UTI ENERGY INC      COMMON STOCK   703481901     1126         2850 shs CALL     Sole      None       2850                0
+PEPSICO INC                   COMMON STOCK   713448108    12952       183900 shs          Sole      None     183900                0
+PF CHANGS CHINA BISTRO        COMMON STOCK   69333Y108    20925       520000 shs          Sole      None     520000                0
+PFIZER INC                    COMMON STOCK   717081103   100670      4886900 shs          Sole      None    4886900                0
+PHH CORP                      CONVERTIBLE
+                              SECURITY       693320AN3     6548      6000000 prn          Sole      None       6000                0
+PHILIP MORRIS INTERNATIONAL   COMMON STOCK   718172109    12653       189500 shs          Sole      None     189500                0
+POLYCOM INC                   COMMON STOCK   73172K104   102513      1594291 shs          Sole      None    1383106           211185
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                       Column 4       Column 5          Column 6  Column 7            Column 8
+          Column 1               Column 2    Column 3   Value        SHS or PRN  CALL/ Investment  Other          Voting Authority
+       Names of Issuer        Title of Class   Cusip    (x1000)        Amount    PUT   Discretion Managers   Sole    Shared    None
+<S>                           <C>            <C>       <C>        <C>            <C>   <C>        <C>      <C>      <C>     <C>
+POLYPORE INTERNATIONAL INC    COMMON STOCK   73179V103    57006       840300 shs          Sole      None     840300                0
+PORTFOLIO RECOVERY ASSOC      COMMON STOCK   73640Q105      288         3400 shs          Sole      None       3400                0
+PPG INDUSTRIES INC            COMMON STOCK   693506107     4086        45000 shs          Sole      None      45000                0
+PRICELINE.COM INC             COMMON STOCK   741503403   553261      1080735 shs          Sole      None     992565            88170
+PRICELINE.COM INC             COMMON STOCK   741503903    16560         1525 shs CALL     Sole      None       1525                0
+PRICESMART INC                COMMON STOCK   741511109      717        14000 shs          Sole      None      14000                0
+PROCTER & GAMBLE CO           COMMON STOCK   742718109    29738       467800 shs          Sole      None     467800                0
+PRUDENTIAL FINANCIAL INC      COMMON STOCK   744320102    12069       189800 shs          Sole      None     189800                0
+QUALCOMM INC                  COMMON STOCK   747525103   608797     10720147 shs          Sole      None   10044648           675499
+QUALCOMM INC                  COMMON STOCK   747525903     3103         3400 shs CALL     Sole      None       3400                0
+QUALITY SYS                   COMMON STOCK   747582104    15093       172886 shs          Sole      None     171986              900
+RACKSPACE HOSTING INC         COMMON STOCK   750086100    64511      1509382 shs          Sole      None    1505457             3925
+RADWARE LTD                   COMMON STOCK   M81873107     4069       116800 shs          Sole      None     116800                0
+RAVEN INDUSTRIES INC          COMMON STOCK   754212108      524         9400 shs          Sole      None       9400                0
+RAYTHEON CO                   COMMON STOCK   755111507      499        10000 shs          Sole      None      10000                0
+REACHLOCAL INC                COMMON STOCK   75525F104      587        28200 shs          Sole      None      28200                0
+RED HAT INC                   COMMON STOCK   756577102    22032       480000 shs          Sole      None     480000                0
+REGENERON PHARMACEUTICALS     COMMON STOCK   75886F107    25520       450000 shs          Sole      None     450000                0
+RESOLUTE ENERGY CORP          COMMON STOCK   76116A108      538        33300 shs          Sole      None      33300                0
+RF MICRO DEVICE               CONVERTIBLE
+                              SECURITY       749941AJ9     4168      3900000 prn          Sole      None       3900                0
+RIVERBED TECHNOLOGY INC       COMMON STOCK   768573107   132757      3353299 shs          Sole      None    3062824           290475
+RIVERBED TECHNOLOGY INC       COMMON STOCK   768573907      982         1650 shs CALL     Sole      None       1650                0
+ROFIN-SINAR TECH INC          COMMON STOCK   775043102    27320       800000 shs          Sole      None     800000                0
+ROSETTA RESOURCES INC         COMMON STOCK   777779307    25770       500000 shs          Sole      None     500000                0
+ROVI CORP                     CONVERTIBLE
+                              SECURITY       779376AB8    27078     19910000 prn          Sole      None      19816               94
+RUBICON MINERALS CORP         COMMON STOCK   780911103      370       105000 shs          Sole      None     105000                0
+S & P 500 INDEX               COMMON STOCK   464287950     7135         4050 shs PUT      Sole      None       4050                0
+SALIX PHARMACEUTICALS LTD     CONVERTIBLE
+                              SECURITY       795435AC0     4424      3830000 prn          Sole      None       3725              105
+SANDISK CORP                  CONVERTIBLE
+                              SECURITY       80004CAC5    63325     65199000 prn          Sole      None      64712              487
+SANDISK CORP                  CONVERTIBLE
+                              SECURITY       80004CAD3   255729    240686000 prn          Sole      None     235988             4698
+SANGAMO BIOSCI                COMMON STOCK   800677106      383        65000 shs          Sole      None      65000                0
+SAP AG                        COMMON STOCK   803054904      142          260 shs CALL     Sole      None        260                0
+SAP AG                        COMMON STOCK   803054204    23714       391000 shs          Sole      None     391000                0
+SBA COMM CORP                 CONVERTIBLE
+                              SECURITY       78388JAN6    12693     11500000 prn          Sole      None      11500                0
+SCHLUMBERGER LTD              COMMON STOCK   806857108   127947      1480869 shs          Sole      None    1354312           126557
+SCRIPPS NETWORKS INTERACTIVE  COMMON STOCK   811065101    42071       860704 shs          Sole      None     860690               14
+SEATTLE GENETIC / WA          COMMON STOCK   812578102     9852       480100 shs          Sole      None     480100                0
+SHUTTERFLY INC                COMMON STOCK   82568P304      574        10000 shs          Sole      None      10000                0
+SIEMENS AG                    COMMON STOCK   826197501    10712        77885 shs          Sole      None      62920            14965
+SIEMENS AG                    COMMON STOCK   826197901      149           80 shs CALL     Sole      None         80                0
+SILVER WHEATON CORP           COMMON STOCK   828336107    18150       550000 shs          Sole      None     550000                0
+SINA.COM                      COMMON STOCK   G81477104    64555       620128 shs          Sole      None     620115               13
+SIRONA DENTAL SYSTEMS INC     COMMON STOCK   82966C103      345         6500 shs          Sole      None       6500                0
+SMITHFIELD FOODS INC          CONVERTIBLE
+                              SECURITY       832248AR9    34817     29475000 prn          Sole      None      29475                0
+SOHU.COM INC                  COMMON STOCK   83408W103    41917       580000 shs          Sole      None     580000                0
+SOHU.COM INC                  COMMON STOCK   83408W903      845         1000 shs CALL     Sole      None       1000                0
+SOLARWINDS INC                COMMON STOCK   83416B109    54188      2073009 shs          Sole      None    1701441           371568
+SOLERA HOLDINGS INC           COMMON STOCK   83421A104    41412       700000 shs          Sole      None     700000                0
+SOUTHN COMPANY                COMMON STOCK   842587107     4038       100000 shs          Sole      None     100000                0
+ST JUDE MEDICAL               COMMON STOCK   790849903     6190        22305 shs CALL     Sole      None      22305                0
+ST JUDE MEDICAL               COMMON STOCK   790849103    89964      1886837 shs          Sole      None    1717916           168921
+ST MARY LAND & EXPLORATION    CONVERTIBLE
+                              SECURITY       792228AD0    15773     11147000 prn          Sole      None      10949              198
+STANLEY BLACK & DECKER INC    CONVERTIBLE
+                              PREFERRED
+                              SECURITY       854502309    35249       289707 shs          Sole      None     289707                0
+STANLEY BLACK & DECKER INC    CONVERTIBLE
+                              SECURITY       854616AM1   102415     88702000 prn          Sole      None      87670             1032
+STARBUCKS CORP                COMMON STOCK   855244109   186369      4719397 shs          Sole      None    4197750           521647
+STEEL DYNAMICS                CONVERTIBLE
+                              SECURITY       858119AP5    12131     10130000 prn          Sole      None      10080               50
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                       Column 4       Column 5          Column 6  Column 7            Column 8
+          Column 1               Column 2    Column 3   Value        SHS or PRN  CALL/ Investment  Other          Voting Authority
+       Names of Issuer        Title of Class   Cusip    (x1000)        Amount    PUT   Discretion Managers   Sole    Shared    None
+<S>                           <C>            <C>       <C>        <C>            <C>   <C>        <C>      <C>      <C>     <C>
+STEVEN MADDEN LTD             COMMON STOCK   556269108     3263        87000 shs          Sole      None      87000                0
+STILLWATER MINING             COMMON STOCK   86074Q102    31044      1410439 shs          Sole      None    1406239             4200
+STILLWATER MINING             CONVERTIBLE
+                              SECURITY       86074QAF9     3325      2827000 prn          Sole      None       2741               86
+STRATASYS INC                 COMMON STOCK   862685104    16850       500000 shs          Sole      None     500000                0
+STRYKER CORP                  COMMON STOCK   863667101    16703       284600 shs          Sole      None     284600                0
+SUNCOR ENERGY                 COMMON STOCK   867224107    49315      1261250 shs          Sole      None    1256320             4930
+SUPERIOR ENERGY               CONVERTIBLE
+                              SECURITY       78412FAH7    42320     41490000 prn          Sole      None      40230             1260
+SYMANTEC CORP                 COMMON STOCK   871503108     1479        75000 shs          Sole      None      75000                0
+SYMANTEC CORP                 COMMON STOCK   871503908     7052        16690 shs CALL     Sole      None      16690                0
+SYMANTEC CORP                 CONVERTIBLE
+                              SECURITY       871503AF5   257615    211160000 prn          Sole      None     207423             3737
+SYNCHRONOSS TECHNOLOGIES      COMMON STOCK   87157B103      438        13800 shs          Sole      None      13800                0
+SYNNEX CORP                   CONVERTIBLE
+                              SECURITY       87162WAB6    33181     27114000 prn          Sole      None      26942              172
+SYSCO CORP                    COMMON STOCK   871829107    14990       480750 shs          Sole      None     480750                0
+T ROWE PRICE                  COMMON STOCK   74144T108   103687      1718372 shs          Sole      None    1511880           206492
+TAKE-TWO INTER                CONVERTIBLE
+                              SECURITY       874054AA7     6104      3860000 prn          Sole      None       3860                0
+TALEO CORP                    COMMON STOCK   87424N104    18439       497945 shs          Sole      None     273842           224103
+TARGET CORP                   COMMON STOCK   87612E106     4363        93000 shs          Sole      None      93000                0
+TECH DATA CORP                CONVERTIBLE
+                              SECURITY       878237AE6    17718     16955000 prn          Sole      None      16955                0
+TERADATA CORP                 COMMON STOCK   88076W103    72451      1203501 shs          Sole      None    1059517           143984
+TERADYNE INC                  COMMON STOCK   880770102      323        21800 shs          Sole      None      21800                0
+TESLA MOTORS INC              COMMON STOCK   88160R101      277         9500 shs          Sole      None       9500                0
+TEVA PHARMACEUTICAL IND LTD   CONVERTIBLE
+                              SECURITY       88163VAE9    21151     18864000 prn          Sole      None      18651              213
+TEXAS INSTRUMENTS INC         COMMON STOCK   882508104     3940       120000 shs          Sole      None     120000                0
+THE FRESH MARKET              COMMON STOCK   35804H106      534        13800 shs          Sole      None      13800                0
+THERMO FISHER SCIENTIFIC INC  COMMON STOCK   883556102     9980       155000 shs          Sole      None     155000                0
+TIBCO SOFTWARE                COMMON STOCK   88632Q103    10842       373600 shs          Sole      None     373600                0
+TIM PARTICIPACOES SA          COMMON STOCK   88706P106    64294      1306529 shs          Sole      None    1142379           164150
+TIME WARNER TELECOM           CONVERTIBLE
+                              SECURITY       887319AC5    13913     11300000 prn          Sole      None      11300                0
+TIMKEN CO                     COMMON STOCK   887389104    22680       450000 shs          Sole      None     450000                0
+TITAN INTL INC                COMMON STOCK   88830M102    32023      1320000 shs          Sole      None    1320000                0
+TJX COMPANIES INC             COMMON STOCK   872540109     7767       147850 shs          Sole      None     147850                0
+TRANSOCEAN INC                CONVERTIBLE
+                              SECURITY       893830AW9     1694      1720000 prn          Sole      None       1720                0
+TRAVELERS COMPANIES INC       COMMON STOCK   89417E109    10100       173000 shs          Sole      None     173000                0
+TRAVELZOO INC                 COMMON STOCK   89421Q106    25054       387600 shs          Sole      None     387600                0
+TRIMBLE NAVIGATION LTD        COMMON STOCK   896239100    21832       550759 shs          Sole      None     550735               24
+TRINA SOLAR LTD               COMMON STOCK   89628E104    20178       900000 shs          Sole      None     900000                0
+TRINITY INDUSTRIES INC        CONVERTIBLE
+                              SECURITY       896522AF6    92243     87955000 prn          Sole      None      87338              617
+TRIQUINT SEMICON INC          COMMON STOCK   89674K103    21399      2100000 shs          Sole      None    2100000                0
+TTM TECHNOLOGIES INC          CONVERTIBLE
+                              SECURITY       87305RAC3    29809     23541000 prn          Sole      None      23541                0
+TUPPERWARE BRANDS CORP        COMMON STOCK   899896104    28669       425044 shs          Sole      None     301616           123428
+TYSON FOODS                   CONVERTIBLE
+                              SECURITY       902494AP8    66915     51672000 prn          Sole      None      51190              482
+UNION PACIFIC CORP            COMMON STOCK   907818108     4698        45000 shs          Sole      None      45000                0
+UNITED PARCEL SERVICE         COMMON STOCK   911312106     6017        82500 shs          Sole      None      82500                0
+UNITED TECHNOLOGIES CORP      COMMON STOCK   913017109   282867      3195876 shs          Sole      None    3102739            93137
+UNITEDHEALTH GROUP INC        COMMON STOCK   91324P102    24862       482000 shs          Sole      None     482000                0
+US BANCORP                    COMMON STOCK   902973304    16008       627500 shs          Sole      None     627500                0
+UTD THERAPEUTIC               COMMON STOCK   91307C102    20419       370580 shs          Sole      None     370560               20
+VALE SA                       CONVERTIBLE
+                              PREFERRED
+                              SECURITY       91912F201     4844        54835 shs          Sole      None      52800             2035
+VALE SA                       CONVERTIBLE
+                              PREFERRED
+                              SECURITY       91912F300    46012       497960 shs          Sole      None     497960                0
+VALEANT PHARMACEUTICALS INTR  COMMON STOCK   91911K102   114977      2212795 shs          Sole      None    2056043           156752
+VALERO ENERGY                 COMMON STOCK   91913Y100    43469      1700000 shs          Sole      None    1700000                0
+VALMONT INDUSTRIES            COMMON STOCK   920253101    28917       300000 shs          Sole      None     300000                0
+VANCEINFO TECHNOLOGIES INC    COMMON STOCK   921564100    21030       910000 shs          Sole      None     910000                0
+VEECO INSTRUMENTS INC         COMMON STOCK   922417100    43473       898017 shs          Sole      None     759602           138415
+VERIFONE SYSTEMS INC          CONVERTIBLE
+                              SECURITY       92342YAB5    66272     56582000 prn          Sole      None      54737             1845
+VERIFONE SYSTEMS INC          COMMON STOCK   92342Y109    32071       723127 shs          Sole      None     525258           197869
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                       Column 4       Column 5          Column 6  Column 7            Column 8
+          Column 1               Column 2    Column 3   Value        SHS or PRN  CALL/ Investment  Other          Voting Authority
+       Names of Issuer        Title of Class   Cusip    (x1000)        Amount    PUT   Discretion Managers   Sole    Shared    None
+<S>                           <C>            <C>       <C>        <C>            <C>   <C>        <C>      <C>      <C>     <C>
+VERISIGN INC               CONVERTIBLE
+                           SECURITY       92343EAD4           3228   2786000 prn          Sole      None       2776               10
+VERIZON COMM               COMMON STOCK   92343V104          37118    997000 shs          Sole      None     997000                0
+VERTEX PHARMACEUTICALS INC COMMON STOCK   92532F100          67730   1302741 shs          Sole      None    1150790           151951
+VERTEX PHARMACEUTICALS INC CONVERTIBLE
+                           SECURITY       92532FAN0          37364  29566000 prn          Sole      None      29566                0
+VIACOM INC                 COMMON STOCK   92553P201           6894    135170 shs          Sole      None     135170                0
+VIRGIN MEDIA INC           CONVERTIBLE
+                           SECURITY       92769LAB7           8610   4800000 prn          Sole      None       4800                0
+VITAMIN SHOPPE INC         COMMON STOCK   92849E101          32032    700000 shs          Sole      None     700000                0
+VOLCANO CORP               CONVERTIBLE
+                           SECURITY       928645AA8          23378  18175000 prn          Sole      None      18175                0
+WABTEC                     COMMON STOCK   929740108          22345    340000 shs          Sole      None     340000                0
+WADDELL & REED             COMMON STOCK   930059100          24461    672941 shs          Sole      None     464377           208564
+WALGREEN CO                COMMON STOCK   931422109           4671    110000 shs          Sole      None     110000                0
+WAL-MART STORES INC        COMMON STOCK   931142103         102989   1938069 shs          Sole      None    1891549            46520
+WARNER CHILCOTT PLC        COMMON STOCK   G94368100          38608   1600000 shs          Sole      None    1600000                0
+WATERS CORP                COMMON STOCK   941848103          53208    555750 shs          Sole      None     457260            98490
+WEIGHT WATCHERS INTL INC   COMMON STOCK   948626106           8470    112234 shs          Sole      None     109534             2700
+WELLPOINT INC              COMMON STOCK   94973V107           4726     60000 shs          Sole      None      60000                0
+WELLS FARGO & COMPANY      COMMON STOCK   949746101          24831    884926 shs          Sole      None     884926                0
+WELLS FARGO & COMPANY      CONVERTIBLE
+                           PREFERRED
+                           SECURITY       949746804          88287     83290 shs          Sole      None      83080              210
+WHOLE FOODS MARKET INC     COMMON STOCK   966837106          12108    190824 shs          Sole      None     190824                0
+WMS INDUSTRIES INC         COMMON STOCK   929297109          32256   1050000 shs          Sole      None    1050000                0
+WUXI PHARMATECH INC        COMMON STOCK   929352102          24584   1400000 shs          Sole      None    1400000                0
+XILINX INC                 CONVERTIBLE
+                           SECURITY       983919AD3          50792  39915000 prn          Sole      None      39135              780
+YINGLI GREEN ENERGY HOLD   COMMON STOCK   98584B103          24867   2700000 shs          Sole      None    2700000                0
+YUM! BRANDS INC            COMMON STOCK   988498101           2762     50000 shs          Sole      None      50000                0
+ZUMIEZ INC                 COMMON STOCK   989817101            350     14000 shs          Sole      None      14000                0
+
+                                                    25,036,998,570
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

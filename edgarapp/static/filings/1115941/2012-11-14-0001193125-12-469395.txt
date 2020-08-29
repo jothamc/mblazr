@@ -1,0 +1,793 @@
+<SEC-DOCUMENT>0001193125-12-469395.txt : 20121114
+<SEC-HEADER>0001193125-12-469395.hdr.sgml : 20121114
+<ACCEPTANCE-DATETIME>20121114104353
+ACCESSION NUMBER:		0001193125-12-469395
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120930
+FILED AS OF DATE:		20121114
+DATE AS OF CHANGE:		20121114
+EFFECTIVENESS DATE:		20121114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TDAM USA INC.
+		CENTRAL INDEX KEY:			0001115941
+		IRS NUMBER:				133849588
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-05929
+		FILM NUMBER:		121201684
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CANADA TRUST TOWER, BCE PLACE
+		STREET 2:		161 BAY STREET, 35TH, FLOOR
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5J 2T2
+		BUSINESS PHONE:		416-308-5346
+
+	MAIL ADDRESS:	
+		STREET 1:		CANADA TRUST TOWER, BCE PLACE
+		STREET 2:		161 BAY STREET, 35TH, FLOOR
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5J 2T2
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TD ASSET MANAGEMENT USA INC.
+		DATE OF NAME CHANGE:	20051114
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WATERHOUSE ASSET MANAGEMENT INC
+		DATE OF NAME CHANGE:	20040323
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TD WATERHOUSE ASSET MANAGEMENT INC
+		DATE OF NAME CHANGE:	20000531
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d441329d13fhr.txt
+<DESCRIPTION>13F-HR
+<TEXT>
+<PAGE>
+
+================================================================================
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+
+                                   FORM 13F
+
+                              FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: September 30th, 2012
+
+Check here if Amendment [_]: Amendment Number ____________
+
+This Amendment (Check only one):  [_] is a restatement
+                                  [_] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    TDAM USA Inc.
+
+Address: Canada Trust Tower, BCE Place, 161 Bay Street,
+         35th Floor, Toronto, Ontario, M5J 2T2
+
+Form 13F File Number: 28-05929
+
+   This institutional investment manager filing this report and the person by
+whom it is signed hereby represent that the person signing the report is
+authorized to submit it, that all information contained herein is true, correct
+and complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:    Barbara Callbeck
+
+Title:   Managing Director
+
+Phone:   416-308-5346
+
+Signature, Place, and Date of Signing:
+
+'Barbara Callbeck'    Toronto, Ontario    November 9th, 2012
+-------------------   -----------------   -------------------
+   [Signature]         [City, State]            [Date]
+
+Report Type (Check only one):
+
+[X] 13F HOLDINGS REPORT. (Check here if all holdings of this reporting manager
+    are reported in this report)
+
+[_] 13F NOTICE (Check here if no holdings reported are in this report, and all
+    holdings are reported by other reporting manager(s).)
+
+[_] 13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+    reporting manager are reported in this report and a portion is reported by
+    other reporting manager(s).)
+
+================================================================================
+
+<PAGE>
+
+                             FORM 13F SUMMARY PAGE
+
+   Report summary:
+
+   Number of Other Included Managers: Two (1)
+
+   Form 13F Information Table Entry Total: 328
+
+   Form 13F Information Table Value Total: US$ 1,954,805 (thousands)
+
+LIST OF OTHER INCLUDED MANAGERS:
+
+   Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+<TABLE>
+<S>  <C>                   <C>
+No.  Form 13F File Number  Name
+
+1    28-04365              TD Bank N.A
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                      FAIR MARKET AMOUNT OF                       VOTING AUTHORITY
+                 TITLE OF                VALUE    SECURITY  INVESTMENT  OTHER   ---------------------
+NAME OF ISSUER     CLASS      CUSIP    (X$1000)     (SH)    DISCRETION MANAGERS  SOLE   SHARE   NONE
+--------------   ---------- --------- ----------- --------- ---------- -------- ------ ------- ------
+<S>              <C>        <C>       <C>         <C>       <C>        <C>      <C>    <C>     <C>
+3M CO            COM        88579Y101   30,768     351,234   Defined      2            329,732 21,502
+ABB LTD          SPONSORED
+                 ADR        000375204      259      14,330   Defined      2              9,910  4,420
+ABBOTT LABS      COM        002824100   42,226     644,672   Defined      2            607,326 37,346
+ABBOTT LABS      COM        002824100      542       8,405    Sole               8,405
+ACE LTD          SHS        H0023R105   13,041     165,811   Defined      2            157,356  8,455
+ACTIVISION
+  BLIZZARD INC   COM        00507V109      316      26,330    Sole              26,330
+ADVANCED
+  SEMICONDUCTOR  SPONSORED
+  ENGR           ADR        00756M404       54      13,203    Sole              13,203
+AFLAC INC        COM        001055102    6,062     121,779   Defined      2            115,484  6,295
+AIR PRODS &
+  CHEMS INC      COM        009158106      408       5,268   Defined      2              5,268      -
+ALCOA INC        COM        013817101      102      11,865   Defined      2             11,865      -
+ALLSTATE CORP    COM        020002101      475      13,533    Sole              13,533
+ALTRIA GROUP
+  INC            COM        02209S103      624      19,608   Defined      2             12,588  7,020
+AMAZON COM
+  INC            COM        023135106      517       2,262    Sole               2,262
+AMAZON COM
+  INC            COM        023135106      248       1,064   Defined      2              1,064      -
+AMERICAN CAP
+  LTD            COM        02503Y103      110      10,918    Sole              10,918
+AMERICAN
+  EXPRESS CO     COM        025816109   21,091     376,835   Defined      2            354,015 22,820
+AMERICAN
+  EXPRESS CO     COM        025816109      359       6,162    Sole               6,162
+AMERICAN FINL
+  GROUP INC
+  OHIO           COM        025932104      226       5,833   Defined      2              5,833      -
+AMERICAN INTL
+  GROUP INC      COM NEW    026874784      327      10,198    Sole              10,198
+AMERICAN
+  SCIENCE &
+  ENGR INC       COM        029429107      369       5,800   Defined      2              5,800      -
+AMERICAN
+  TOWER CORP
+  NEW            COM        03027X100      419       5,563   Defined      2              5,563      -
+AMGEN INC        COM        031162100      767       8,864   Defined      2              7,664  1,200
+AMGEN INC        COM        031162100      387       5,301    Sole               5,301
+ANADARKO PETE
+  CORP           COM        032511107      429       6,228   Defined      2              2,369  3,859
+ANALOG
+  DEVICES INC    COM        032654105    5,266     134,597   Defined      2            117,482 17,115
+ANNALY CAP
+  MGMT INC       COM        035710409      248      15,340   Defined      2             15,340      -
+APACHE CORP      COM        037411105    6,759      81,708   Defined      2             79,388  2,320
+APPLE INC        COM        037833100    3,968       6,666   Defined      2              5,746    920
+APPLE INC        COM        037833100    2,460       4,212    Sole               4,212
+APPLIED MATLS
+  INC            COM        038222105      135      12,700   Defined      2             12,700      -
+ARCHER DANIELS
+  MIDLAND CO     COM        039483102    6,374     237,475   Defined      2            226,805 10,670
+AT&T INC         COM        00206R102   31,145     900,418   Defined      2            859,407 41,011
+AT&T INC         COM        00206R102    1,173      32,900    Sole              32,900
+AU OPTRONICS     SPONSORED
+  CORP           ADR        002255107       43      10,800    Sole              10,800
+AUTODESK INC     COM        052769106    4,096     128,595   Defined      2            118,165 10,430
+AUTOMATIC
+  DATA
+  PROCESSING IN  COM        053015103    8,958     155,014   Defined      2            135,703 19,311
+AVALONBAY
+  CMNTYS INC     COM        053484101      299       2,112    Sole               2,112
+AVON PRODS INC   COM        054303102      429      27,673   Defined      2             25,273  2,400
+BABSON CAP
+  CORPORATE
+  INVS           COM        05617K109      285      17,526   Defined      2             17,526      -
+BANCORP NEW
+  JERSEY INC
+  NEW            COM        059915108      248      23,000   Defined      2             23,000      -
+BANK NOVA
+  SCOTIA
+  HALIFAX        COM        064149107      273       5,020   Defined      2              5,020      -
+BANK OF
+  AMERICA
+  CORPORATION    COM        060505104    1,289     138,291   Defined      2            126,626 11,665
+BANK OF
+  AMERICA
+  CORPORATION    COM        060505104      480      58,648    Sole              58,648
+BANK OF NEW
+  YORK MELLON
+  CORP           COM        064058100    4,024     162,863   Defined      2            157,967  4,896
+BARD C R INC     COM        067383109      936       9,732   Defined      2              9,132    600
+BAXTER INTL INC  COM        071813109   10,590     169,084   Defined      2            164,424  4,660
+BB&T CORP        COM        054937107      437      15,080   Defined      2             15,080      -
+BECTON
+  DICKINSON &
+  CO             COM        075887109    1,421      18,771   Defined      2             17,671  1,100
+BED BATH &
+  BEYOND INC     COM        075896100    9,660     167,484   Defined      2            158,994  8,490
+BEMIS INC        COM        081437105      628      18,987   Defined      2             14,487  4,500
+BERKSHIRE
+  HATHAWAY
+  INC DEL        CL A       084670108   21,627         167   Defined      2                167      -
+BERKSHIRE
+  HATHAWAY
+  INC DEL        CL B NEW   084670702   11,039     127,840   Defined      2            119,850  7,990
+BERKSHIRE
+  HATHAWAY
+  INC DEL        CL B NEW   084670702    1,098      13,173    Sole              13,173
+BHP BILLITON     SPONSORED
+  LTD            ADR        088606108      311       4,390   Defined      2              4,080    310
+BIG LOTS INC     COM        089302103      230       7,890   Defined      2              7,890      -
+BOEING CO        COM        097023105    3,992      56,672   Defined      2             54,883  1,789
+BOSTON PRIVATE
+  FINL HLDGS IN  COM        101119105      102      11,441    Sole              11,441
+BOSTON
+  PROPERTIES
+  INC            COM        101121101      372       3,432    Sole               3,432
+BP PLC           SPONSORED
+                 ADR        055622104      299       6,976   Defined      2              6,976      -
+BRISTOL MYERS
+  SQUIBB CO      COM        110122108   10,644     320,110   Defined      2            314,100  6,010
+BRISTOL MYERS
+  SQUIBB CO      COM        110122108      308       8,568    Sole               8,568
+BROADCOM
+  CORP           CL A       111320107    7,654     242,690   Defined      2            230,870 11,820
+BROWN FORMAN
+  CORP           CL B       115637209      216       3,375   Defined      2              3,375      -
+CAMERON
+  INTERNATIONAL
+  CORP           COM        13342B105      239       5,604    Sole               5,604
+CAPITAL ONE
+  FINL CORP      COM        14040H105   11,131     184,990   Defined      2            176,285  8,705
+CAPSTONE
+  TURBINE CORP   COM        14067D102       15      15,000   Defined      2             15,000      -
+CARDINAL
+  HEALTH INC     COM        14149Y108      361       8,593    Sole               8,593
+CATERPILLAR
+  INC DEL        COM        149123101    4,812      56,737   Defined      2             54,927  1,810
+CATERPILLAR
+  INC DEL        COM        149123101      269       3,165    Sole               3,165
+CELGENE CORP     COM        151020104   10,396     141,733   Defined      2            134,723  7,010
+CENTERPOINT
+  ENERGY INC     COM        15189T107      207      10,022    Sole              10,022
+CHECK POINT
+  SOFTWARE
+  TECH LT        ORD        M22465104   11,813     265,349   Defined      2            252,163 13,186
+CHEVRON CORP
+  NEW            COM        166764100   57,373     520,430   Defined      2            488,485 31,945
+CHEVRON CORP
+  NEW            COM        166764100    1,081      10,247    Sole              10,247
+CHURCH &
+  DWIGHT INC     COM        171340102      765      15,071   Defined      2             14,921    150
+</TABLE>
+
+                                                                       TDAM USA
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                        FAIR MARKET AMOUNT OF                       VOTING AUTHORITY
+                   TITLE OF                VALUE    SECURITY  INVESTMENT  OTHER   ---------------------
+NAME OF ISSUER       CLASS      CUSIP    (X$1000)     (SH)    DISCRETION MANAGERS  SOLE   SHARE   NONE
+--------------     ---------- --------- ----------- --------- ---------- -------- ------ ------- ------
+<S>                <C>        <C>       <C>         <C>       <C>        <C>      <C>    <C>     <C>
+CIGNA
+  CORPORATION      COM        125509109      913      17,906   Defined      2             17,906      -
+CIMAREX ENERGY
+  CO               COM        171798101      402       7,026   Defined      2              2,471  4,555
+CISCO SYS INC      COM        17275R102   17,087     996,621   Defined      2            941,822 54,799
+CISCO SYS INC      COM        17275R102      475      27,671   Sole               27,671
+CITIGROUP INC      COM NEW    172967424      421      15,344   Sole               15,344
+CLOROX CO DEL      COM        189054109      465       6,438   Defined      2              4,823  1,615
+COACH INC          COM        189754104      214       3,822   Defined      2              1,222  2,600
+COCA COLA CO       COM        191216100   35,390     951,869   Defined      2            919,029 32,840
+COCA COLA CO       COM        191216100      923      11,800   Sole               11,800
+COGNIZANT
+  TECHNOLOGY
+  SOLUTIO          CL A       192446102    1,035      15,527   Defined      2             15,072    455
+COLGATE
+  PALMOLIVE CO     COM        194162103   34,468     328,389   Defined      2            300,416 27,973
+COMCAST CORP
+  NEW              CL A       20030N101   10,233     272,703   Defined      2            260,383 12,320
+COMCAST CORP
+  NEW              CL A       20030N101      468      14,638   Sole               14,638
+CONOCOPHILLIPS     COM        20825C104   23,299     402,748   Defined      2            382,400 20,348
+CONOCOPHILLIPS     COM        20825C104      407       7,277   Sole                7,277
+CONSOLIDATED
+  EDISON INC       COM        209115104      607      10,048   Defined      2             10,048      -
+CORNING INC        COM        219350105      150      12,760   Defined      2             10,980  1,780
+COSTCO WHSL
+  CORP NEW         COM        22160K105      238       2,413   Defined      2              2,313    100
+CVS CAREMARK
+  CORPORATION      COM        126650100    1,444      31,130   Defined      2             31,130      -
+CVS CAREMARK
+  CORPORATION      COM        126650100      333       7,133   Sole                7,133
+DANAHER CORP
+  DEL              COM        235851102   17,088     330,338   Defined      2            296,023 34,315
+DEERE & CO         COM        244199105    1,111      13,000   Defined      2             10,313  2,687
+DENTSPLY INTL INC
+  NEW              COM        249030107      545      14,791   Defined      2             14,791      -
+DIAGEO P L C       SPON ADR
+                   NEW        25243Q205   11,206      98,093   Defined      2             93,574  4,519
+DIAMOND
+  OFFSHORE
+  DRILLING IN      COM        25271C102      280       4,050   Defined      2              4,050      -
+DISH NETWORK
+  CORP             CL A       25470M109      283       9,922   Sole                9,922
+DISNEY WALT CO     COM
+                   DISNEY     254687106   27,053     550,747   Defined      2            518,023 32,724
+DISNEY WALT CO     COM
+                   DISNEY     254687106      481       9,920   Sole                9,920
+DOMINION RES INC
+  VA NEW           COM        25746U109      441       8,350   Defined      2              8,350      -
+DOW CHEM CO        COM        260543103    1,066      36,391   Defined      2             34,746  1,645
+DOW CHEM CO        COM        260543103      202       6,422   Sole                6,422
+DU PONT E I DE
+  NEMOURS & CO     COM        263534109    5,616     126,136   Defined      2            115,026 11,110
+DU PONT E I DE
+  NEMOURS & CO     COM        263534109      241       4,772   Sole                4,772
+E M C CORP MASS    COM        268648102   20,053     821,177   Defined      2            772,462 48,715
+EBAY INC           COM        278642103      258       6,134   Sole                6,134
+ECOLAB INC         COM        278865100   12,918     185,597   Defined      2            167,144 18,453
+EDAC
+  TECHNOLOGIES
+  CORP             COM        279285100      241      18,000   Defined      2                  - 18,000
+EMERSON ELEC CO    COM        291011104   15,375     317,467   Defined      2            294,954 22,513
+ENTERPRISE PRODS
+  PARTNERS L       COM        293792107      316       6,000   Defined      2              1,050  4,950
+EXELON CORP        COM        30161N101      735      20,547   Defined      2             19,037  1,510
+EXPRESS SCRIPTS
+  HLDG CO          COM        30219G108    4,638      75,363   Defined      2             67,795  7,568
+EXXON MOBIL
+  CORP             COM        30231G102   85,854     941,690   Defined      2            884,797 56,893
+EXXON MOBIL
+  CORP             COM        30231G102    2,178      25,455   Sole               25,455
+FASTENAL CO        COM        311900104      381       8,522   Defined      2              8,522      -
+FEDEX CORP         COM        31428X106    1,909      20,752   Defined      2             14,302  6,450
+FLOWSERVE CORP     COM        34354P105      283       2,090   Defined      2              2,090      -
+FORD MTR CO DEL    COM PAR
+                   $0.01      345370860      195      20,323   Sole               20,323
+FRANKLIN RES INC   COM        354613101      955       7,470   Defined      2              3,670  3,800
+FREEPORT-
+  MCMORAN
+  COPPER & GO      COM        35671D857   18,073     464,845   Defined      2            445,077 19,768
+GALLAGHER
+  ARTHUR J & CO    COM        363576109      379      10,708   Defined      2              6,233  4,475
+GENERAL CABLE
+  CORP DEL NEW     COM        369300108      278       9,730   Defined      2              9,730      -
+GENERAL
+  DYNAMICS CORP    COM        369550108      285       4,180   Defined      2              4,180      -
+GENERAL
+  ELECTRIC CO      COM        369604103   18,138     861,244   Defined      2            820,237 41,007
+GENERAL
+  ELECTRIC CO      COM        369604103    1,177      56,499   Sole               56,499
+GENERAL MLS INC    COM        370334104      408      10,190   Defined      2             10,190      -
+GERON CORP         COM        374163103       30      17,576   Sole               17,576
+GILEAD SCIENCES
+  INC              COM        375558103   17,625     262,381   Defined      2            250,751 11,630
+GLAXOSMITHKLINE    SPONSORED
+  PLC              ADR        37733W105      245       5,453   Defined      2              5,453      -
+GOLDMAN SACHS
+  GROUP INC        COM        38141G104      261       2,724   Sole                2,724
+GOOGLE INC         CL A       38259P508    1,157       1,701   Defined      2              1,061    640
+GOOGLE INC         CL A       38259P508      821       1,415   Sole                1,415
+GRAINGER W W INC   COM        384802104      217       1,075   Defined      2              1,075      -
+GREEN MTN
+  COFFEE
+  ROASTERS IN      COM        393122106      226       9,363   Defined      2              9,363      -
+GREENHAVEN
+  CONT CMDTY       UNIT BEN
+  INDEX            INT        395258106      230       7,800   Defined      2              7,800      -
+HARTFORD FINL
+  SVCS GROUP INC   COM        416515104      260      11,960   Defined      2             11,960      -
+HCP INC            COM        40414L109      438       9,922   Sole                9,922
+HEINZ H J CO       COM        423074103      766      13,327   Defined      2             12,227  1,100
+HESS CORP          COM        42809H107      222       4,248   Defined      2              4,248      -
+HEWLETT
+  PACKARD CO       COM        428236103      751      54,195   Defined      2             52,985  1,210
+HEWLETT
+  PACKARD CO       COM        428236103      228      11,342   Sole               11,342
+HOME DEPOT INC     COM        437076102   46,174     752,269   Defined      2            707,090 45,179
+HONEYWELL INTL
+  INC              COM        438516106    6,164     100,653   Defined      2             91,283  9,370
+HUMANA INC         COM        444859102      343       4,429   Sole                4,429
+ILLINOIS TOOL
+  WKS INC          COM        452308109   22,495     366,793   Defined      2            343,666 23,127
+INGERSOLL-RAND
+  PLC              SHS        G47791101      379       8,981   Sole                8,981
+</TABLE>
+
+                                                                       TDAM USA
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                         FAIR MARKET AMOUNT OF                         VOTING AUTHORITY
+                    TITLE OF                VALUE    SECURITY  INVESTMENT  OTHER   ------------------------
+NAME OF ISSUER       CLASS       CUSIP    (X$1000)     (SH)    DISCRETION MANAGERS  SOLE    SHARE    NONE
+--------------     ----------- --------- ----------- --------- ---------- -------- ------ --------- -------
+<S>                <C>         <C>       <C>         <C>       <C>        <C>      <C>    <C>       <C>
+INTEL CORP         COM         458140100   20,818      962,444  Defined      2              927,360  35,084
+INTEL CORP         COM         458140100      721       27,067   Sole              27,067
+INTERNATIONAL
+  BUSINESS MACHS   COM         459200101   46,027      236,605  Defined      2              223,232  13,373
+INTERNATIONAL
+  BUSINESS MACHS   COM         459200101    1,177        6,018   Sole               6,018
+INTERNATIONAL
+  FLAVORS&FRAGRA   COM         459506101      952       14,730  Defined      2               12,370   2,360
+INTUITIVE
+  SURGICAL INC     COM NEW     46120E602      454          819   Sole                 819
+INVESCO VAN
+  KAMP DYN CRDT
+  OP               COM         46132R104      191       15,000  Defined      2                    -  15,000
+ISHARES INC        MSCI EMU
+                   INDEX       464286608      593       19,250  Defined      2               19,250       -
+ISHARES TR         MSCI EAFE
+                   INDEX       464287465   30,421      567,814  Defined      2              499,910  67,904
+ISHARES TR         BARCLYS
+                   TIPS BD     464287176   15,853      129,388  Defined      2              117,705  11,683
+ISHARES TR         IBOXX INV
+                   CPBD        464287242   15,109      122,816  Defined      2              114,270   8,546
+ISHARES TR         HIGH YLD
+                   CORP        464288513   12,579      135,851  Defined      2              127,516   8,335
+ISHARES TR         BARCLYS
+                   7-10 YR     464287440   11,441      106,041  Defined      2               97,689   8,352
+ISHARES TR         BARCLYS
+                   1-3 YR      464287457    7,796       92,348  Defined      2               88,177   4,171
+ISHARES TR         S&P500
+                   GRW         464287309    6,075       80,326  Defined      2               71,355   8,971
+ISHARES TR         S&P MC
+                   400 GRW     464287606    3,946       35,662  Defined      2               30,613   5,049
+ISHARES TR         COHEN&ST
+                   RLTY        464287564    3,806       49,523  Defined      2               47,782   1,741
+ISHARES TR         S&P
+                   SMLCP
+                   GROW        464287887    3,605       44,099  Defined      2               37,351   6,748
+ISHARES TR         S&P 100
+                   IDX FD      464287101    3,554       54,833  Defined      2               54,217     616
+ISHARES TR         S&P MIDCP
+                   VALU        464287705    2,849       33,681  Defined      2               29,744   3,937
+ISHARES TR         S&P
+                   SMLCP
+                   VALU        464287879    2,591       33,459  Defined      2               29,054   4,405
+ISHARES TR         MSCI
+                   EMERG
+                   MKT         464287234    2,076       50,459  Defined      2               39,630  10,829
+ISHARES TR         RUSSELL
+                   MCP GR      464287481    1,256       20,675  Defined      2               19,841     834
+ISHARES TR         RUSL 2000
+                   GROW        464287648    1,029       11,122  Defined      2               10,679     443
+ISHARES TR         S&P GBL
+                   INF         464287291      716       10,848  Defined      2               10,548     300
+ISHARES TR         RUSSELL
+                   MCP VL      464287473      582       11,936  Defined      2               11,596     340
+ISHARES TR         RUSSELL
+                   2000        464287655      452        5,534  Defined      2                5,534       -
+ISHARES TR         S&P 500
+                   INDEX       464287200      413        2,919  Defined      2                2,919       -
+ISHARES TR         S&P
+                   SMLCAP
+                   600         464287804      375        4,981  Defined      2                4,981       -
+ISHARES TR         RUSL 2000
+                   VALU        464287630      375        5,147  Defined      2                5,064      83
+ISHARES TR         S&P
+                   MIDCAP
+                   400         464287507      292        2,986  Defined      2                2,986       -
+ISHARES TR         DJ SEL DIV
+                   INX         464287168      271        4,685  Defined      2                4,685       -
+JOHNSON &
+  JOHNSON          COM         478160104   48,453      684,170  Defined      2              650,043  34,127
+JOHNSON &
+  JOHNSON          COM         478160104    1,000       14,808   Sole              14,808
+JOHNSON CTLS INC   COM         478366107      651       25,285  Defined      2               25,285       -
+JPMORGAN
+  CHASE & CO       COM         46625H100   32,289      774,690  Defined      2              746,509  28,181
+JPMORGAN
+  CHASE & CO       COM         46625H100      744       20,817   Sole              20,817
+KELLOGG CO         COM         487836108      220        4,213  Defined      2                4,213       -
+KIMBERLY CLARK
+  CORP             COM         494368103    6,253       74,928  Defined      2               65,928   9,000
+KINDER MORGAN
+  ENERGY           UT LTD
+  PARTNER          PARTNER     494550106      378        4,520  Defined      2                4,520       -
+KOHLS CORP         COM         500255104      295        6,476   Sole               6,476
+KRAFT FOODS INC    CL A        50075N104      359        9,298   Sole               9,298
+L-3
+  COMMUNICATIONS
+  HLDGS INC        COM         502424104      643        8,717  Defined      2                8,717       -
+LAKELAND
+  BANCORP INC      COM         511637100    1,025      103,186  Defined      2              103,186       -
+LEXICON
+  PHARMACEUTICALS
+  INC              COM         528872104       92       40,999   Sole              40,999
+LILLY ELI & CO     COM         532457108      475        9,770  Defined      2                9,520     250
+LINCOLN ELEC
+  HLDGS INC        COM         533900106      399        9,210  Defined      2                9,210       -
+LINCOLN NATL
+  CORP IND         COM         534187109      204        8,240  Defined      2                7,754     486
+LOCKHEED MARTIN
+  CORP             COM         539830109    8,997       96,046  Defined      2               93,266   2,780
+LORILLARD INC      COM         544147101    8,292        71478  Defined      2               69,308   2,170
+LOWES COS INC      COM         548661107      649       20,047  Defined      2               19,747     300
+MAGELLAN
+  MIDSTREAM        COM UNIT
+  PRTNRS LP        RP LP       559080106      239        5,500  Defined      2                5,500       -
+MANNKIND CORP      COM         56400P201       45       19,735   Sole              19,735
+MARATHON OIL
+  CORP             COM         565849106   10,052      334,397  Defined      2              324,297  10,100
+MARATHON PETE
+  CORP             COM         56585A102    8,107      147,596  Defined      2              143,861   3,735
+MASCO CORP         COM         574599106      181       12,000  Defined      2               12,000       -
+MASTERCARD INC     CL A        57636Q104      261          607   Sole                 607
+MCCORMICK & CO     COM NON
+  INC              VTG         579780206    2,063       33,478  Defined      2               17,778  15,700
+MCDONALDS CORP     COM         580135101   20,649      237,896  Defined      2              223,403  14,493
+MCDONALDS CORP     COM         580135101      471        5,321   Sole               5,321
+MEDTRONIC INC      COM         585055106    4,580      110,147  Defined      2              101,545   8,602
+MERCK & CO INC
+  NEW              COM         58933Y105   35,596      780,097  Defined      2              716,343  63,754
+MERCK & CO INC
+  NEW              COM         58933Y105      688       16,480   Sole              16,480
+METLIFE INC        COM         59156R108      531       14,958  Defined      2               14,958       -
+MFA FINANCIAL
+  INC              COM         55272X102       85       10,731   Sole              10,731
+MICROSOFT CORP     COM         594918104   45,578    1,596,988  Defined      2            1,496,548 100,440
+MICROSOFT CORP     COM         594918104    1,275       41,674   Sole              41,674
+MONSANTO CO
+  NEW              COM         61166W101    3,305       38,404  Defined      2               36,353   2,051
+MOODYS CORP        COM         615369105      239        4,964  Defined      2                4,964       -
+MOTOROLA
+  SOLUTIONS INC    COM NEW     620076307      421        8,756   Sole               8,756
+MURPHY OIL CORP    COM         626717102      663       11,052  Defined      2                2,652   8,400
+NATIONAL FUEL
+  GAS CO N J       COM         636180101      264        5,000  Defined      2                5,000       -
+NATIONAL
+  OILWELL VARCO
+  INC              COM         637071101      263        3,563  Defined      2                2,963     600
+NEWS CORP          CL A        65248E104      229       10,275   Sole              10,275
+NEXTERA ENERGY
+  INC              COM         65339F101   25,040      357,415  Defined      2              342,875  14,540
+</TABLE>
+
+                                                                       TDAM USA
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                               FAIR MARKET AMOUNT OF                        VOTING AUTHORITY
+                                                  VALUE    SECURITY  INVESTMENT  OTHER   ----------------------
+NAME OF ISSUER       TITLE OF CLASS    CUSIP    (X$1000)     (SH)    DISCRETION MANAGERS  SOLE   SHARE   NONE
+--------------       --------------  --------- ----------- --------- ---------- -------- ------ ------- -------
+<S>                  <C>             <C>       <C>         <C>       <C>        <C>      <C>    <C>     <C>
+NIKE INC              CL B           654106103    6,213       67,988  Defined      2             63,643   4,345
+NIKE INC              CL B           654106103      218        2,487   Sole               2,487
+NORFOLK
+  SOUTHERN CORP       COM            655844108    5,073       82,689  Defined      2             73,013   9,676
+NOVARTIS A G          SPONSORED
+                      ADR            66987V109      959       15,863  Defined      2              9,533   6,330
+NOVO-NORDISK A S      ADR            670100205      976        6,088  Defined      2              6,088       -
+NUCOR CORP            COM            670346105      263        6,543  Defined      2              5,743     800
+ORACLE CORP           COM            68389X105   17,234      554,503  Defined      2            528,378  26,125
+ORACLE CORP           COM            68389X105      809       27,223   Sole              27,223
+PALL CORP             COM            696429307      352        5,590  Defined      2              5,590       -
+PEOPLES UNITED
+  FINANCIAL INC       COM            712704105      371       30,834  Defined      2             19,348  11,486
+PEPSICO INC           COM            713448108   25,208      364,068  Defined      2            340,565  23,503
+PFIZER INC            COM            717081103   25,157    1,011,547  Defined      2            955,285  56,262
+PFIZER INC            COM            717081103      990       43,049   Sole              43,049
+PHILIP MORRIS INTL
+  INC                 COM            718172109   29,547      333,637  Defined      2            319,897  13,740
+PHILLIPS 66           COM            718546104    3,929       83,317  Defined      2             79,581   3,736
+PIMCO
+  CORPORATE &
+  INCOME OPP          COM            72201B101      203       10,000  Defined      2             10,000       -
+PIMCO INCOME
+  STRATEGY FUND I     COM            72201J104      126       11,060  Defined      2             11,060       -
+PNC FINL SVCS
+  GROUP INC           COM            693475105    5,910      101,540  Defined      2             97,180   4,360
+POWERSHARES ETF       DWA TECH
+  TRUST               LDRS           73935X153      371       13,545  Defined      2                  -  13,545
+PRAXAIR INC           COM            74005P104    3,302       31,094  Defined      2             26,735   4,359
+PRECISION
+  CASTPARTS CORP      COM            740189105    6,648       38,415  Defined      2             36,655   1,760
+PRICE T ROWE
+  GROUP INC           COM            74144T108      416        6,412  Defined      2              6,287     125
+PRICE T ROWE
+  GROUP INC           COM            74144T108      395        6,276   Sole               6,276
+PROCTER & GAMBLE
+  CO                  COM            742718109   38,061      549,692  Defined      2            530,658  19,034
+PROCTER & GAMBLE
+  CO                  COM            742718109      917       14,974   Sole              14,974
+PUBLIC SVC
+  ENTERPRISE
+  GROUP               COM            744573106      467       14,585  Defined      2             13,385   1,200
+QEP RES INC           COM            74733V100      462       15,931  Defined      2              1,031  14,900
+QUALCOMM INC          COM            747525103   15,524      264,862  Defined      2            252,182  12,680
+QUALCOMM INC          COM            747525103      472        8,480   Sole               8,480
+QUEST
+  DIAGNOSTICS INC     COM            74834L100    3,571       61,866  Defined      2             56,105   5,761
+QUESTAR CORP          COM            748356102      330       16,281  Defined      2              1,381  14,900
+REPUBLIC SVCS INC     COM            760759100      253        9,579   Sole               9,579
+ROCKVILLE FINL
+  INC NEW             COM            774188106      378       28,438  Defined      2             28,438       -
+ROYAL BK CDA
+  MONTREAL QUE        COM            780087102      304        5,330  Defined      2              5,330       -
+ROYAL DUTCH
+  SHELL PLC           SPONS ADR A    780259206      999       14,585  Defined      2             14,585       -
+SCHLUMBERGER
+  LTD                 COM            806857108    3,250       46,748  Defined      2             39,509   7,239
+SCHLUMBERGER
+  LTD                 COM            806857108      442        6,817   Sole               6,817
+SCORPIO TANKERS
+  INC                 SHS            Y7542C106      138       25,300  Defined      2             10,300  15,000
+SELECT SECTOR
+  SPDR TR             TECHNOLOGY     81369Y803    1,478       51,200  Defined      2             16,200  35,000
+SEMPRA ENERGY         COM            816851109    6,290       90,184  Defined      2             77,871  12,313
+SHERWIN WILLIAMS
+  CO                  COM            824348106      905        6,348  Defined      2              6,348       -
+SIGMA ALDRICH
+  CORP                COM            826552101    4,033       57,472  Defined      2             53,132   4,340
+SILICON IMAGE INC     COM            82705T102       45       10,979   Sole              10,979
+SIMON PPTY GROUP
+  INC NEW             COM            828806109      228        1,466   Sole               1,466
+SMUCKER J M CO        COM NEW        832696405      224        2,963   Sole               2,963
+SOUTHERN CO           COM            842587107   20,495      437,560  Defined      2            411,986  25,574
+SOUTHERN CO           COM            842587107      204        4,397   Sole               4,397
+SOUTHWESTERN
+  ENERGY CO           COM            845467109      236        7,403   Sole               7,403
+SPDR GOLD TRUST       GOLD SHS       78463V107   77,636      465,360  Defined      2            441,031  24,329
+SPDR S&P 500 ETF TR   TR UNIT        78462F103   54,684      386,868  Defined      2            318,713  68,155
+SPDR SERIES TRUST     S&P DIVID
+                      ETF            78464A763      590       10,175  Defined      2             10,000     175
+SPECTRA ENERGY
+  CORP                COM            847560109   15,749      545,505  Defined      2            522,185  23,320
+SPRINT NEXTEL
+  CORP                COM SER 1      852061100      237       72,724   Sole              72,724
+ST JUDE MED INC       COM            790849103      486       12,699  Defined      2             12,699       -
+STANLEY BLACK &
+  DECKER INC          COM            854502101      274        4,263   Sole               4,263
+STAPLES INC           COM            855030102      227       19,743  Defined      2             19,643     100
+STARBUCKS CORP        COM            855244109    7,660      166,884  Defined      2            158,629   8,255
+STATE STR CORP        COM            857477103    4,227       94,849  Defined      2             87,565   7,284
+STRYKER CORP          COM            863667101    2,197       41,767  Defined      2             29,182  12,585
+SUNCOR ENERGY
+  INC NEW             COM            867224107      389       11,561  Defined      2             11,161     400
+SYNGENTA AG           SPONSORED
+                      ADR            87160A100    1,352       17,342  Defined      2             12,842   4,500
+SYSCO CORP            COM            871829107    1,518       48,863  Defined      2             31,763  17,100
+TARGET CORP           COM            87612E106    2,134       33,482  Defined      2             32,147   1,335
+TASEKO MINES LTD      COM            876511106      210       76,500  Defined      2             76,500       -
+TECHNE CORP           COM            878377100      613        9,104  Defined      2              7,014   2,090
+TEVA
+  PHARMACEUTICAL
+  INDS LTD            ADR            881624209      341        8,428  Defined      2              8,353      75
+TEXAS INSTRS INC      COM            882508104      417       14,828  Defined      2             14,178     650
+TIFFANY & CO NEW      COM            886547108      381        6,024  Defined      2              6,024       -
+TIME WARNER INC       COM NEW        887317303      219        5,677   Sole               5,677
+TORONTO
+  DOMINION BK
+  ONT                 COM NEW        891160509   11,688      143,694  Defined      2             17,120 126,574
+TRANSOCEAN LTD        REG SHS        H8817H100   14,909      326,307  Defined      2            311,967  14,340
+TUPPERWARE
+  BRANDS CORP         COM            899896104      310        5,245  Defined      2              5,245       -
+UGI CORP NEW          COM            902681105    1,575       48,792  Defined      2             48,792       -
+UNION PAC CORP        COM            907818108   10,097       82,066  Defined      2             77,063   5,003
+UNITED
+  MICROELECTRONICS    SPON ADR
+  CORP                NEW            910873405       43       19,700   Sole              19,700
+</TABLE>
+
+                                                                       TDAM USA
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                        FAIR MARKET AMOUNT OF                        VOTING AUTHORITY
+                   TITLE OF                VALUE    SECURITY   INVESTMENT  OTHER   ---------------------
+NAME OF ISSUER      CLASS       CUSIP    (X$1000)     (SH)     DISCRETION MANAGERS  SOLE   SHARE   NONE
+--------------    ----------- --------- ----------- ---------- ---------- -------- ------ ------- ------
+<S>               <C>         <C>       <C>         <C>        <C>        <C>      <C>    <C>     <C>
+UNITED ONLINE
+  INC             COM         911268100         49      11,717   Sole              11,717
+UNITED PARCEL
+  SERVICE INC     CL B        911312106     12,400     169,282  Defined      2            158,416 10,866
+UNITED PARCEL
+  SERVICE INC     CL B        911312106        400       5,081   Sole               5,081
+UNITED
+  TECHNOLOGIES
+  CORP            COM         913017109     18,189     232,709  Defined      2            218,896 13,813
+UNITEDHEALTH
+  GROUP INC       COM         91324P102      6,121     109,303  Defined      2            101,790  7,513
+UNITEDHEALTH
+  GROUP INC       COM         91324P102        342       5,844   Sole               5,844
+US BANCORP DEL    COM NEW     902973304     16,704     502,985  Defined      2            478,236 24,749
+VALERO ENERGY
+  CORP NEW        COM         91913Y100        684      23,490  Defined      2             23,490      -
+VALLEY NATL
+  BANCORP         COM         919794107        123      12,583  Defined      2             12,583      -
+VANGUARD INTL     MSCI EMR
+  EQUITY INDEX F  MKT ETF     922042858      4,723     113,811  Defined      2             92,383 21,428
+VANGUARD
+  SCOTTSDALE      SHRT-TERM
+  FDS             CORP        92206C409     28,038     347,438  Defined      2            347,438      -
+VANGUARD          FINANCIALS
+  WORLD FDS       ETF         92204A405        838      25,174  Defined      2             11,224 13,950
+VANTAGE
+  DRILLING
+  COMPANY         ORD SHS     G93205113         61      40,480   Sole              40,480
+VERIZON
+  COMMUNICATIONS
+  INC             COM         92343V104     29,286     656,048  Defined      2            600,494 55,554
+VERIZON
+  COMMUNICATIONS
+  INC             COM         92343V104        643      14,459   Sole              14,459
+VISA INC          COM CL A    92826C839        474       3,838   Sole               3,838
+VODAFONE GROUP    SPONS ADR
+  PLC NEW         NEW         92857W209        512      18,796  Defined      2             18,796      -
+WALGREEN CO       COM         931422109      8,555     242,825  Defined      2            228,385 14,440
+WAL-MART
+  STORES INC      COM         931142103      6,499      86,628  Defined      2             80,003  6,625
+WAL-MART
+  STORES INC      COM         931142103      1,301      18,665   Sole              18,665
+WELLPOINT INC     COM         94973V107      4,973      81,120  Defined      2             77,660  3,460
+WELLS FARGO &
+  CO NEW          COM         949746101     21,678     643,443  Defined      2            596,383 47,060
+WELLS FARGO &
+  CO NEW          COM         949746101        896      26,786   Sole              26,786
+WEYERHAEUSER
+  CO              COM         962166104        290      12,963   Sole              12,963
+XEROX CORP        COM         984121103        263      33,475   Sole              33,475
+XEROX CORP        COM         984121103         97      15,000  Defined      2             15,000      -
+YUM BRANDS INC    COM         988498101     13,844     197,456  Defined      2            186,023 11,433
+ZIMMER HLDGS
+  INC             COM         98956P102      4,899      76,301  Defined      2             68,443  7,858
+                                         ---------  ----------
+              328                        1,954,805  36,043,568
+                                         ---------  ----------
+</TABLE>
+
+                                                                       TDAM USA
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

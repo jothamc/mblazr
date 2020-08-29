@@ -1,0 +1,242 @@
+<SEC-DOCUMENT>0000894579-12-000238.txt : 20120814
+<SEC-HEADER>0000894579-12-000238.hdr.sgml : 20120814
+<ACCEPTANCE-DATETIME>20120814121008
+ACCESSION NUMBER:		0000894579-12-000238
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120630
+FILED AS OF DATE:		20120814
+DATE AS OF CHANGE:		20120814
+EFFECTIVENESS DATE:		20120814
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Mawer Investment Management Ltd.
+		CENTRAL INDEX KEY:			0001538449
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14623
+		FILM NUMBER:		121030881
+
+	BUSINESS ADDRESS:	
+		STREET 1:		603 SEVENTH AVENUE S. W.
+		STREET 2:		SUITE 900
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2P 2T5
+		BUSINESS PHONE:		403-262-4673
+
+	MAIL ADDRESS:	
+		STREET 1:		603 SEVENTH AVENUE S. W.
+		STREET 2:		SUITE 900
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2P 2T5
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>mawer13fhr081312.txt
+<DESCRIPTION>FORM 13F-HR
+<TEXT>
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 13F
+
+                              FORM 13F COVER PAGE
+            Report for the Calendar Year or Quarter Ended:      June 30, 2012
+                                                               -----------------
+
+Check here if Amendment [  ];            Amendment Number:     -----------------
+
+This Amendment (check only one):     [  ] is a restatement
+                                     [  ] add new holdings entries
+
+Institutional Investment Manager Filing this Report:
+
+Name:        Mawer Investment Management Ltd.
+Address:     603 Seventh Avenue S. W., Suite 900
+             Calgary, Alberta, Canada T2P 2T5
+
+Form 13F File Number: 028-14623
+                      ---------
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that is understood that all required items, statements, schedules,
+lists, and tables are considered integral parts of this form.
+
+Person signing this Report on Behalf of Reporting Manager:
+
+Name:     Michael Mezei
+Title:    President and Chief Compliance Officer
+Phone:    403-774-4183
+
+Signature, Place and Date of Signing:
+
+/s/ Michael Mezei           Calgary, Canada            August 14, 2012
+-----------------           ---------------            ---------------
+  [Signature]                [City, State]                [Date]
+
+Report Type (Check only one)
+
+[X]   13F HOLDINGS REPORT (Check here if all holdings of this reporting
+      manager are reported in this report)
+
+[  ]  13F NOTICE (Check here if no holdings reported are in this report, and
+      all holdings are reported by other reporting manager(s).)
+
+[  ]  13F COMBINATION REPORT (Check here if a portion of the holdings for
+      this reporting manager are reported in this report and a portion are
+      reported by other reporting manager(s).)
+
+<PAGE>
+
+                             FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:               0
+                                         ---------------
+Form 13F Information Table Entry Total:         78
+                                         ---------------
+Form 13F Information Table Value Total:     $1,549,815
+                                         ---------------
+                                            (thousands)
+
+
+List of Other Included Managers:
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+NONE
+
+<PAGE>
+
+                        MAWER INVESTMENT MANAGEMENT LTD.
+                       JUNE 30, 2012 US SECURITY HOLDINGS
+                 FIRM TOTALS FOR SEC FORM 13F QUARTERLY FILING
+
+<TABLE>
+<CAPTION>
+
+<S>                                   <C>          <C>        <C>      <C>        <C>  <C>   <C>         <C>     <C>    <C>     <C>
+
+                                      CLASS OF                MV $US              SH/  PUT/               OTHER   VOTING AUTHORITY
+NAME OF ISSUER                        SECURITY      CUSIP    (1000's)   QUANTITY  PRN  CALL  DISCRETION  MANAGER  SOLE  SHARED  NONE
+-------------------------             --------      -----     -------   --------  ---  ----  ----------  -------  ----  ------  ----
+ACTUANT CORPORATION                    COMMON      00508X203   14,815    545,475  SH   N/A      SOLE              SOLE
+ADMINISTRADORA DE FONDOS DE
+ PENSIONES PROVIDA SA ADR              SPON ADR    00709P108      909     10,900  SH   N/A      SOLE              SOLE
+AFLAC INC                              COMMON      001055102    6,828    160,325  SH   N/A      SOLE              SOLE
+AMETEK INC                             COMMON      031100100   23,906    478,992  SH   N/A      SOLE              SOLE
+AMTRUST FINANCIAL SERVICES             COMMON      032359309   23,571    793,383  SH   N/A      SOLE              SOLE
+ANHEUSER-BUSCH INBEV ADR               SPON ADR    03524A108    9,989    126,578  SH   N/A      SOLE              SOLE
+ASPEN INSURANCE HOLDINGS LTD           COMMON      G05384105   41,057  1,419,012  SH   N/A      SOLE              SOLE
+ATRION CORPORATION                     COMMON      049904105    1,233      6,017  SH   N/A      SOLE              SOLE
+BANCO BILBAO VIZCAYA ARGENTARIA
+ SA ADR                                SPON ADR    05946K101    2,294    324,418  SH   N/A      SOLE              SOLE
+BECTON DICKINSON AND CO                COMMON      075887109   36,098    483,352  SH   N/A      SOLE              SOLE
+BHP BILLITON LTD ADR                   SPON ADR    088606108    7,270    111,846  SH   N/A      SOLE              SOLE
+BHP BILLITON PLC ADR                   SPON ADR    075887109   37,699    659,534  SH   N/A      SOLE              SOLE
+CANON INC ADR                          SPON ADR    138006309   33,699    845,698  SH   N/A      SOLE              SOLE
+CHEVRON CORP                           COMMON      166764100   38,370    364,196  SH   N/A      SOLE              SOLE
+CISCO SYSTEMS INC                      COMMON      17275R102   22,853  1,333,720  SH   N/A      SOLE              SOLE
+CME GROUP INC                          COMMON      12572Q105   12,440     46,400  SH   N/A      SOLE              SOLE
+COPART INC                             COMMON      217204106   21,353    901,125  SH   N/A      SOLE              SOLE
+COSTCO WHOLESALE CORP                  COMMON      22160K105    5,069     53,354  SH   N/A      SOLE              SOLE
+DENTSPLY INTERNATIONAL INC             COMMON      249030107   13,481    356,535  SH   N/A      SOLE              SOLE
+DONALDSON CO INC                       COMMON      257651109   14,991    449,228  SH   N/A      SOLE              SOLE
+DOVER CORPORATION                      COMMON      260003108   14,358    267,815  SH   N/A      SOLE              SOLE
+DREYFUS TREASURY PRIME CASH
+MANAGEMENT                             OEIC        261941405    1,191  1,190,792  SH   N/A      SOLE              SOLE
+E.I  DU PONT DE NEMOURS                COMMON      263534109   32,907    653,647  SH   N/A      SOLE              SOLE
+EMERSON ELECTRIC CO                    COMMON      291011104   21,977    474,359  SH   N/A      SOLE              SOLE
+ERICSSON (LM) TEL                      ADR B
+                                       SEK 10      294821608   15,136  1,662,090  SH   N/A      SOLE              SOLE
+EXXON MOBIL CORP                       COMMON      30231G102   38,338    448,888  SH   N/A      SOLE              SOLE
+GAZIT-GLOBE LTD. (US LISTED)           SHS         M4793C102   17,905  1,839,581  SH   N/A      SOLE              SOLE
+GENERAL ELECTRIC CO                    COMMON      369604103   20,572    987,125  SH   N/A      SOLE              SOLE
+GLAXOSMITHKLINE PLC ADR                SPON ADR    37733W105   11,139    244,567  SH   N/A      SOLE              SOLE
+GOOGLE INC - CL A                      CL A        38259P508   24,760     42,744  SH   N/A      SOLE              SOLE
+GRACO INC                              COMMON      384109104   23,715    517,155  SH   N/A      SOLE              SOLE
+GT GROUP TELECOM INC                   COMMON      362359408        0     15,000  SH   N/A      SOLE              SOLE
+HONDA MOTOR CO LTD ADR                 AMERN SHS   438128308   29,931    866,713  SH   N/A      SOLE              SOLE
+HONG KONG & CHINA GAS CO LTD ADR       SPON ADR    438550303       27     12,833  SH   N/A      SOLE              SOLE
+HSBC HOLDINGS PLC ADR                  SPON ADR    404280406   43,488    985,538  SH   N/A      SOLE              SOLE
+ILLINOIS TOOL WORKS INC                COMMON      452308109   22,751    430,155  SH   N/A      SOLE              SOLE
+INTERNATIONAL BUSINESS MACHINES CORP   COMMON      459200101   41,867    214,525  SH   N/A      SOLE              SOLE
+ISHARES MSCI EMERGING MARKETS INDEX    ISHARES     464287234      223      5,700  SH   N/A      SOLE              SOLE
+JOHNSON & JOHNSON                      COMMON      478160104   27,980    414,734  SH   N/A      SOLE              SOLE
+JPMORGAN CHASE & CO                    COMMON      46625H100   30,909    865,317  SH   N/A      SOLE              SOLE
+KRAFT FOODS INC.                       CL A        50075N104   14,932    386,640  SH   N/A      SOLE              SOLE
+LOWES COS INC                          COMMON      548661107   10,881    382,595  SH   N/A      SOLE              SOLE
+MARSH & MCLENNAN COS INC               COMMON      571748102   19,226    596,530  SH   N/A      SOLE              SOLE
+MCGRAW-HILL COMPANIES                  COMMON      580645109   25,284    561,865  SH   N/A      SOLE              SOLE
+MESA LABORATORIES INC                  COMMON      59064R109    3,392     72,955  SH   N/A      SOLE              SOLE
+MICROSOFT CORP                         COMMON      594918104    6,581    215,150  SH   N/A      SOLE              SOLE
+MOLYCORP INC (MCP)                     COMMON      608753109    4,090    189,779  SH   N/A      SOLE              SOLE
+NEWMARKET CORP                         COMMON      651587107    3,855     17,800  SH   N/A      SOLE              SOLE
+NIKE INC                               CL B        654106103   23,865    272,136  SH   N/A      SOLE              SOLE
+PATTERSON COS INC                      COMMON      703395103   14,748    427,852  SH   N/A      SOLE              SOLE
+PAYCHEX INC                            COMMON      704326107   24,255    774,209  SH   N/A      SOLE              SOLE
+PEPSICO INC/NC                         COMMON      713448108   27,985    396,784  SH   N/A      SOLE              SOLE
+PETROLEO BRASILEIRO SA ADR             SPON ADR    71654V101    7,509    413,973  SH   N/A      SOLE              SOLE
+
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+<S>                                   <C>         <C>      <C>        <C>        <C>  <C>   <C>         <C>     <C>    <C>     <C>
+
+                                      CLASS OF               MV $US              SH/  PUT/               OTHER   VOTING AUTHORITY
+NAME OF ISSUER                        SECURITY     CUSIP    (1000's)   QUANTITY  PRN  CALL  DISCRETION  MANAGER  SOLE  SHARED  NONE
+-------------------------             --------     -----     -------   --------  ---  ----  ----------  -------  ----  ------  ----
+POSCO ADR                             SPON ADR   693483109    29,818    371,339  SH   N/A      SOLE              SOLE
+PROCTER & GAMBLE CO/THE               COMMON     742718109    25,794    422,055  SH   N/A      SOLE              SOLE
+ROYAL DUTCH SHELL PLC ADR             SPON ADR   780259206    62,820    932,319  SH   N/A      SOLE              SOLE
+RPM INTERNATIONAL INC.                COMMON     749685103     9,895    363,770  SH   N/A      SOLE              SOLE
+SASOL LTD ADR                         SPON ADR   803866300    37,288    879,115  SH   N/A      SOLE              SOLE
+SHERWIN-WILLIAMS CO/THE               COMMON     824348106     6,246     47,190  SH   N/A      SOLE              SOLE
+SIEMENS AG ADR                        SPON ADR   826197501    36,036    429,144  SH   N/A      SOLE              SOLE
+SMITH & NEPHEW PLC ADR                SPON ADR   83175M205    10,861    218,529  SH   N/A      SOLE              SOLE
+STATE STREET CORP                     COMMON     857477103    28,585    641,558  SH   N/A      SOLE              SOLE
+SYSCO CORP                            COMMON     871829107    14,889    499,465  SH   N/A      SOLE              SOLE
+T ROWE PRICE GROUP INC                COMMON     74144T108    20,261    322,692  SH   N/A      SOLE              SOLE
+TOTAL SA ADR                          SPON ADR   89151E109    47,565  1,058,707  SH   N/A      SOLE              SOLE
+TOWER GROUP INC                       COMMON     891777104     2,383    114,200  SH   N/A      SOLE              SOLE
+UFP TECHNOLOGIES INC                  COMMON     902673102     3,837    227,044  SH   N/A      SOLE              SOLE
+UNILEVER PLC ADR                      SPON ADR   904767704    54,313  1,611,393  SH   N/A      SOLE              SOLE
+UNITED TECHNOLOGIES CORPORATION       COMMON     913017109    11,394    150,855  SH   N/A      SOLE              SOLE
+VCA ANTECH INC                        COMMON     918194101     9,652    439,135  SH   N/A      SOLE              SOLE
+VISA INC                              CL A       92826C839    12,161     98,370  SH   N/A      SOLE              SOLE
+VODAFONE GROUP PLC ADR                SPON ADR   92857W209    68,292  2,425,794  SH   N/A      SOLE              SOLE
+VULCAN MATERIALS CO                   COMMON     929160109     5,719    144,015  SH   N/A      SOLE              SOLE
+WALGREEN CO                           COMMON     931422109    15,333    518,876  SH   N/A      SOLE              SOLE
+WELLS FARGO & CO                      COMMON     949746101    34,375  1,029,349  SH   N/A      SOLE              SOLE
+WESTERN UNION CO/THE                  COMMON     959802109     2,032    120,645  SH   N/A      SOLE              SOLE
+WESTWOOD HOLDINGS GROUP INC           COMMON     961765104     1,954     52,445  SH   N/A      SOLE              SOLE
+WRIGHT EXPRESS CORP                   COMMON     98233Q105    24,608    398,700  SH   N/A      SOLE              SOLE
+
+                                                           1,549,815
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

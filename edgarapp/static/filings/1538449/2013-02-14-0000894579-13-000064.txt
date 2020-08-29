@@ -1,0 +1,243 @@
+<SEC-DOCUMENT>0000894579-13-000064.txt : 20130214
+<SEC-HEADER>0000894579-13-000064.hdr.sgml : 20130214
+<ACCEPTANCE-DATETIME>20130213191146
+ACCESSION NUMBER:		0000894579-13-000064
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20121231
+FILED AS OF DATE:		20130214
+DATE AS OF CHANGE:		20130213
+EFFECTIVENESS DATE:		20130214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Mawer Investment Management Ltd.
+		CENTRAL INDEX KEY:			0001538449
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14623
+		FILM NUMBER:		13605342
+
+	BUSINESS ADDRESS:	
+		STREET 1:		603 SEVENTH AVENUE S. W.
+		STREET 2:		SUITE 900
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2P 2T5
+		BUSINESS PHONE:		403-262-4673
+
+	MAIL ADDRESS:	
+		STREET 1:		603 SEVENTH AVENUE S. W.
+		STREET 2:		SUITE 900
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2P 2T5
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>mawer13fhr021113.txt
+<DESCRIPTION>FORM 13F-HR
+<TEXT>
+
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 13F
+
+                              FORM 13F COVER PAGE
+            Report for the Calendar Year or Quarter Ended:     December 31, 2012
+                                                               -----------------
+
+Check here if Amendment [  ];            Amendment Number:     -----------------
+
+This Amendment (check only one):     [  ] is a restatement
+                                     [  ] add new holdings entries
+
+Institutional Investment Manager Filing this Report:
+
+Name:        Mawer Investment Management Ltd.
+Address:     603 Seventh Avenue S. W., Suite 900
+             Calgary, Alberta, Canada T2P 2T5
+
+Form 13F File Number: 028-14623
+                      ---------
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that is understood that all required items, statements, schedules,
+lists, and tables are considered integral parts of this form.
+
+Person signing this Report on Behalf of Reporting Manager:
+
+Name:     Michael Mezei
+Title:    President
+Phone:    403-774-4183
+
+Signature, Place and Date of Signing:
+
+/s/ Michael Mezei           Calgary, Canada            February 14, 2013
+-----------------           ---------------            -----------------
+  [Signature]                [City, State]                [Date]
+
+Report Type (Check only one)
+
+[X]   13F HOLDINGS REPORT (Check here if all holdings of this reporting
+      manager are reported in this report)
+
+[  ]  13F NOTICE (Check here if no holdings reported are in this report, and
+      all holdings are reported by other reporting manager(s).)
+
+[  ]  13F COMBINATION REPORT (Check here if a portion of the holdings for
+      this reporting manager are reported in this report and a portion are
+      reported by other reporting manager(s).)
+
+<PAGE>
+
+                             FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:               0
+                                         ---------------
+Form 13F Information Table Entry Total:         82
+                                         ---------------
+Form 13F Information Table Value Total:     $2,234,459
+                                         ---------------
+                                            (thousands)
+
+
+List of Other Included Managers:
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+NONE
+
+<PAGE>
+
+                        MAWER INVESTMENT MANAGEMENT LTD.
+                     DECEMBER 31, 2012 US SECURITY HOLDINGS
+                 FIRM TOTALS FOR SEC FORM 13F QUARTERLY FILING
+<TABLE>
+<CAPTION>
+
+<S>                              <C>               <C>        <C>       <C>        <C>  <C>   <C>         <C>   <C>    <C>    <C>
+                                 CLASS OF                      MV $US              SH/  PUT/               OTHER  VOTING AUTHORITY
+NAME OF ISSUER                   SECURITY            CUSIP    (1000's)   QUANTITY  PRN  CALL  DISCRETION  MANAGER SOLE SHARED NONE
+-------------------------        --------          ---------  --------   --------  ---  ----  ----------  ------- ---- ------ ----
+ACTUANT CORPORATION              CL A              00508X203    16,981    608,430  SH   N/A      SOLE            16,981
+ADMINISTRADORA DE FONDOS DE
+ PENSIONES PROVIDA SA ADR        ADR               00709P108     1,134     10,900  SH   N/A      SOLE             1,134
+AFLAC INC                        ORDINARY SHARES   001055102     9,922    186,780  SH   N/A      SOLE             9,922
+AIR PRODUCTS & CHEMICALS INC     ORDINARY SHARES   009158106    13,649    162,451  SH   N/A      SOLE            13,649
+AMETEK INC                       ORDINARY SHARES   031100100    31,177    829,842  SH   N/A      SOLE            31,177
+AMTRUST FINANCIAL SERVICES       ORDINARY SHARES   032359309    60,131  2,095,904  SH   N/A      SOLE            60,131
+ANHEUSER-BUSCH INBEV ADR         ADR               03524A108    15,726    180,279  SH   N/A      SOLE            15,726
+ASPEN INSURANCE HOLDINGS LTD     ORDINARY SHARES   G05384105    52,212  1,628,651  SH   N/A      SOLE            52,212
+BECTON DICKINSON AND CO          ORDINARY SHARES   075887109    58,102    743,427  SH   N/A      SOLE            58,102
+BHP BILLITON LTD ADR             ADR               088606108     8,752    111,912  SH   N/A      SOLE             8,752
+BHP BILLITON PLC ADR             ADR               05545E209    55,157    783,931  SH   N/A      SOLE            55,157
+BLACKROCK INC                    ORDINARY SHARES   09247X101    37,473    181,281  SH   N/A      SOLE            37,473
+CANON INC ADR                    ADR               138006309    46,508  1,186,525  SH   N/A      SOLE            46,508
+CHEVRON CORP                     ORDINARY SHARES   166764100    54,100    500,524  SH   N/A      SOLE            54,100
+CISCO SYSTEMS INC                ORDINARY SHARES   17275R102    19,854  1,010,414  SH   N/A      SOLE            19,854
+CME GROUP INC                    ORDINARY SHARES   12572Q105    20,478    404,145  SH   N/A      SOLE            20,478
+COMMUNITY BANK SYSTEMS INC       ORDINARY SHARES   203607106       596     21,800  SH   N/A      SOLE               596
+COPART INC                       ORDINARY SHARES   217204106    31,671  1,074,556  SH   N/A      SOLE            31,671
+COSTCO WHOLESALE CORP            ORDINARY SHARES   22160K105     3,372     34,150  SH   N/A      SOLE             3,372
+CREDIT ACCEPTANCE CORP.          ORDINARY SHARES   225310101     1,744     17,150  SH   N/A      SOLE             1,744
+DENTSPLY INTERNATIONAL INC       ORDINARY SHARES   249030107    16,542    417,610  SH   N/A      SOLE            16,542
+DIAGEO PLC ADR                   ADR               25243Q205     1,306     11,200  SH   N/A      SOLE             1,306
+DONALDSON CO INC                 ORDINARY SHARES   257651109    16,274    495,545  SH   N/A      SOLE            16,274
+DOVER CORPORATION                ORDINARY SHARES   260003108    18,473    281,135  SH   N/A      SOLE            18,473
+E.I  DU PONT DE NEMOURS          ORDINARY SHARES   263534109    35,606    792,122  SH   N/A      SOLE            35,606
+EMERSON ELECTRIC CO              ORDINARY SHARES   291011104    26,326    497,510  SH   N/A      SOLE            26,326
+ERICSSON (LM) TEL-SP ADR         ADR               294821608    17,549  1,738,553  SH   N/A      SOLE            17,549
+EXXON MOBIL CORP                 ORDINARY SHARES   30231G102    55,416    640,611  SH   N/A      SOLE            55,416
+GAZIT-GLOBE LTD.                 ORDINARY SHARES   M4793C102    27,208  2,066,848  SH   N/A      SOLE            27,208
+GENERAL ELECTRIC CO              ORDINARY SHARES   369604103    29,980  1,428,319  SH   N/A      SOLE            29,980
+GLAXOSMITHKLINE PLC ADR          ADR               37733W105    15,047    346,870  SH   N/A      SOLE            15,047
+GOOGLE INC                       CL A              38259P508    47,959     67,827  SH   N/A      SOLE            47,959
+GRACO INC                        ORDINARY SHARES   384109104    15,280    296,760  SH   N/A      SOLE            15,280
+GT GROUP TELECOM INC             ORDINARY SHARES   362359408         0     15,000  SH   N/A      SOLE                 0
+
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+<S>                                <C>              <C>        <C>       <C>         <C>  <C>   <C>         <C>     <C>  <C>    <C>
+                                   CLASS OF                     MV $US               SH/  PUT/               OTHER  VOTING AUTHORITY
+NAME OF ISSUER                     SECURITY           CUSIP     (1000's)   QUANTITY  PRN  CALL  DISCRETION  MANAGER SOLE SHARED NONE
+-------------------------          --------          ---------  --------   --------  ---  ----  ----------  ------- ---- ------ ----
+HONDA MOTOR CO LTD ADR             ADR               438128308    37,457  1,014,721  SH   N/A     SOLE              37,457
+HONG KONG & CHINA GAS CO LTD
+ ADR                               ADR               438550303        35     12,833  SH   N/A     SOLE                  35
+HSBC HOLDINGS PLC ADR              ADR               404280406    62,266  1,173,990  SH   N/A     SOLE              62,266
+ILLINOIS TOOL WORKS INC            ORDINARY SHARES   452308109    46,262    761,238  SH   N/A     SOLE              46,262
+INTERNATIONAL BUSINESS MACHINES
+CORP                               ORDINARY SHARES   459200101    64,051    334,569  SH   N/A     SOLE              64,051
+ISHARE MSCI JAPAN INDEX            ETF               464286848     4,720    485,096  SH   N/A     SOLE               4,720
+ISHARE MSCI SWEDEN INDEX           ETF               464286756     2,146     71,170  SH   N/A     SOLE               2,146
+JOHNSON & JOHNSON                  ORDINARY SHARES   478160104    44,288    632,155  SH   N/A     SOLE              44,288
+JPMORGAN CHASE & CO                ORDINARY SHARES   46625H100    48,893  1,112,532  SH   N/A     SOLE              48,893
+KRAFT FOODS GROUP INC              ORDINARY SHARES   50076Q106    16,917    372,045  SH   N/A     SOLE              16,917
+LOWES COS INC                      ORDINARY SHARES   548661107    12,243    344,680  SH   N/A     SOLE              12,243
+MARSH & MCLENNAN COS INC           ORDINARY SHARES   571748102    22,908    664,580  SH   N/A     SOLE              22,908
+MATERIAL SELECT SECTOR SPDR FUND   ETF               81369Y100     4,824    128,500  SH   N/A     SOLE               4,824
+MCGRAW-HILL COMPANIES              ORDINARY SHARES   580645109    45,561    833,380  SH   N/A     SOLE              45,561
+MESA LABORATORIES INC              ORDINARY SHARES   59064R109     3,900     77,821  SH   N/A     SOLE               3,900
+MICROSOFT CORP                     ORDINARY SHARES   594918104     9,589    359,015  SH   N/A     SOLE               9,589
+MONDELEZ INTERNATIONAL INC         CL A              609207105    22,698    891,745  SH   N/A     SOLE              22,698
+NEWMARKET CORP                     ORDINARY SHARES   651587107     4,772     18,200  SH   N/A     SOLE               4,772
+NIKE INC                           CL B              654106103    31,386    608,815  SH   N/A     SOLE              31,386
+NOVARTIS AG ADR                    ADR               66987V109     7,613    120,519  SH   N/A     SOLE               7,613
+ORACLE CORP                        ORDINARY SHARES   68389X105    35,244  1,058,136  SH   N/A     SOLE              35,244
+PATTERSON COS INC                  ORDINARY SHARES   703395103    16,578    484,310  SH   N/A     SOLE              16,578
+PAYCHEX INC                        ORDINARY SHARES   704326107    30,387    977,792  SH   N/A     SOLE              30,387
+PEPSICO INC/NC                     ORDINARY SHARES   713448108    34,792    508,742  SH   N/A     SOLE              34,792
+POSCO ADR                          ADR               693483109    24,687    300,701  SH   N/A     SOLE              24,687
+PROCTER & GAMBLE CO                ORDINARY SHARES   742718109    33,465    493,299  SH   N/A     SOLE              33,465
+ROYAL DUTCH SHELL PLC ADR          ADR               780259206    73,071  1,060,146  SH   N/A     SOLE              73,071
+RPM INTERNATIONAL INC.             ORDINARY SHARES   749685103    27,159    925,036  SH   N/A     SOLE              27,159
+SASOL LTD ADR                      ADR               803866300    41,883    967,913  SH   N/A     SOLE              41,883
+SHERWIN-WILLIAMS CO/THE            ORDINARY SHARES   824348106     6,417     41,720  SH   N/A     SOLE               6,417
+SIEMENS AG ADR                     ADR               826197501    55,137    503,960  SH   N/A     SOLE              55,137
+SMITH & NEPHEW PLC ADR             ADR               83175M205    18,249    329,991  SH   N/A     SOLE              18,249
+STATE STREET CORP                  ORDINARY SHARES   857477103    37,107    789,850  SH   N/A     SOLE              37,107
+SYSCO CORP                         ORDINARY SHARES   871829107    21,386    675,495  SH   N/A     SOLE              21,386
+T ROWE PRICE GROUP INC             ORDINARY SHARES   74144T108    23,649    363,532  SH   N/A     SOLE              23,649
+TOTAL SA ADR                       ADR               89151E109    67,704  1,302,369  SH   N/A     SOLE              67,704
+TOWER GROUP INC                    ORDINARY SHARES   891777104     1,720     96,700  SH   N/A     SOLE               1,720
+UFP TECHNOLOGIES INC               ORDINARY SHARES   902673102     4,384    244,625  SH   N/A     SOLE               4,384
+UNILEVER PLC ADR                   ADR               904767704    71,382  1,844,549  SH   N/A     SOLE              71,382
+UNITED TECHNOLOGIES CORPORATION    ORDINARY SHARES   913017109    23,041    280,950  SH   N/A     SOLE              23,041
+VCA ANTECH INC                     ORDINARY SHARES   918194101    10,153    482,325  SH   N/A     SOLE              10,153
+VISA INC                           ORDINARY SHARES   92826C839    17,401    114,795  SH   N/A     SOLE              17,401
+VODAFONE GROUP PLC ADR             ADR               92857W209    79,082  3,140,589  SH   N/A     SOLE              79,082
+VULCAN MATERIALS CO                ORDINARY SHARES   929160109     5,661    108,765  SH   N/A     SOLE               5,661
+WALGREEN CO                        ORDINARY SHARES   931422109    25,394    686,539  SH   N/A     SOLE              25,394
+WELLS FARGO & CO                   ORDINARY SHARES   949746101    52,393  1,533,551  SH   N/A     SOLE              52,393
+WESTWOOD HOLDINGS GROUP INC        ORDINARY SHARES   961765104     4,088     99,960  SH   N/A     SOLE               4,088
+WEX INC.                           ORDINARY SHARES   96208T104    38,614    512,320  SH   N/A     SOLE              38,614
+
+                                                               2,234,459
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,833 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>q251-10.txt
+<TEXT>
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     Washington, D.C.  20549
+
+                            FORM 10-Q
+
+        QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d)
+             OF THE SECURITIES EXCHANGE ACT OF 1934
+
+         For the quarterly period ended:  March 31, 2010
+
+               Commission File Number:  000-50609
+
+                   AEI INCOME & GROWTH FUND 25 LLC
+      (Exact name of registrant as specified in its charter)
+
+       State of Delaware                   75-3074973
+(State or other jurisdiction of         (I.R.S. Employer
+incorporation or organization)        Identification No.)
+
+    30 East 7th Street, Suite 1300, St. Paul, Minnesota 55101
+             (Address of principal executive offices)
+
+                         (651) 227-7333
+                 (Registrant's telephone number)
+
+                         Not Applicable
+ (Former name, former address and former fiscal year, if changed
+                       since last report)
+
+Indicate  by check mark whether the registrant (1) has filed  all
+reports  required  to be filed by Section  13  or  15(d)  of  the
+Securities  Exchange Act of 1934 during the preceding  12  months
+(or  for such shorter period that the registrant was required  to
+file  such  reports),  and (2) has been subject  to  such  filing
+requirements for the past 90 days.                [X] Yes  [ ] No
+
+Indicate  by  check  mark  whether the registrant  has  submitted
+electronically  and posted on its corporate  Web  site,  if  any,
+every  Interactive Data File required to be submitted and  posted
+pursuant  to Rule 405 of Regulation S-T (232.405 of this chapter)
+during  the preceding 12 months (or for such shorter period  that
+the registrant was required to submit and post such files).
+                                                  [ ] Yes  [ ] No
+
+Indicate  by  check  mark  whether  the  registrant  is  a  large
+accelerated filer, an accelerated filer, a non-accelerated filer,
+or  a  smaller reporting company.  See the definitions of  "large
+accelerated  filer," "accelerated filer" and  "smaller  reporting
+company" in Rule 12b-2 of the Exchange Act.
+
+  Large accelerated filer [ ]     Accelerated filer [ ]
+
+  Non-accelerated filer [ ]       Smaller reporting company  [X]
+
+Indicate by check mark whether the registrant is a shell  company
+(as  defined in Rule 12b-2 of the Exchange Act).   [ ] Yes [X] No
+
+                 AEI INCOME & GROWTH FUND 25 LLC
+
+                              INDEX
+
+
+Part I - Financial Information
+
+ Item 1. Financial Statements:
+
+         Balance Sheet as of March 31, 2010 and December 31, 2009
+
+         Statements for the Three Months ended March 31, 2010 and 2009:
+
+           Income
+
+           Cash Flows
+
+           Changes in Members' Equity (Deficit)
+
+         Notes to Financial Statements
+
+ Item 2. Management's Discussion and Analysis  of  Financial Condition
+           and Results of Operations
+
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+ Item 4. Controls and Procedures
+
+Part II - Other Information
+
+ Item 1. Legal Proceedings
+
+ Item 1A. Risk Factors
+
+ Item 2. Unregistered Sales of Equity Securities and  Use  of Proceeds
+
+ Item 3. Defaults Upon Senior Securities
+
+ Item 5. Other Information
+
+ Item 6. Exhibits
+
+         Signatures
+
+<PAGE>
+                 AEI INCOME & GROWTH FUND 25 LLC
+                          BALANCE SHEET
+              MARCH 31, 2010 AND DECEMBER 31, 2009
+
+                             ASSETS
+
+                                                     2010          2009
+CURRENT ASSETS:
+   Cash                                          $ 1,591,125   $ 1,410,759
+
+INVESTMENTS IN REAL ESTATE:
+   Land                                           10,618,109    10,618,109
+   Buildings and Equipment                        22,476,027    22,476,027
+   Accumulated Depreciation                       (4,189,070)   (3,960,807)
+                                                  -----------   -----------
+                                                  28,905,066    29,133,329
+  Real Estate Held for Sale                        2,117,695     2,289,115
+                                                  -----------   -----------
+      Net Investments in Real Estate              31,022,761    31,422,444
+                                                  -----------   -----------
+           Total  Assets                         $32,613,886   $32,833,203
+                                                  ===========   ===========
+
+                        LIABILITIES AND MEMBERS' EQUITY
+
+CURRENT LIABILITIES:
+  Payable to AEI Fund Management, Inc.           $    90,477   $    89,328
+  Distributions Payable                              544,950       544,950
+  Unearned Rent                                       28,829        76,536
+                                                  -----------   -----------
+      Total Current Liabilities                      664,256       710,814
+                                                  -----------   -----------
+MEMBERS' EQUITY:
+  Managing Members                                       229           859
+  Limited Members, $1,000 per Unit;
+   50,000 Units authorized; 42,435 Units issued;
+   42,019 Units outstanding                       31,949,401    32,121,530
+                                                  -----------   -----------
+      Total Members' Equity                       31,949,630    32,122,389
+                                                  -----------   -----------
+        Total Liabilities and Members' Equity    $32,613,886   $32,833,203
+                                                  ===========   ===========
+
+ The accompanying Notes to Financial Statements are an integral
+                     part of this statement.
+</PAGE>
+<PAGE>
+                 AEI INCOME & GROWTH FUND 25 LLC
+                       STATEMENT OF INCOME
+               FOR THE THREE MONTHS ENDED MARCH 31
+
+
+                                                     2010          2009
+
+RENTAL INCOME                                    $   616,676   $   611,178
+
+EXPENSES:
+  LLC Administration - Affiliates                     86,237        89,743
+  LLC Administration and Property
+     Management - Unrelated Parties                   10,384        14,441
+  Depreciation                                       228,263       205,266
+                                                  -----------   -----------
+      Total Expenses                                 324,884       309,450
+                                                  -----------   -----------
+
+OPERATING INCOME                                     291,792       301,728
+
+OTHER INCOME:
+  Interest Income                                      3,126         1,628
+                                                  -----------   -----------
+
+INCOME FROM CONTINUING OPERATIONS                    294,918       303,356
+
+Income from Discontinued Operations                   77,273        60,768
+                                                  -----------   -----------
+NET INCOME                                       $   372,191   $   364,124
+                                                  ===========   ===========
+NET INCOME ALLOCATED:
+  Managing Members                               $    15,719   $    10,924
+  Limited Members                                    356,472       353,200
+                                                  -----------   -----------
+                                                 $   372,191   $   364,124
+                                                  ===========   ===========
+NET INCOME PER LLC UNIT:
+   Continuing Operations                         $      6.81   $      7.00
+   Discontinued Operations                              1.67          1.41
+                                                  -----------   -----------
+         Total                                   $      8.48   $      8.41
+                                                  ===========   ===========
+Weighted Average Units Outstanding -
+  Basic and Diluted                                   42,019        42,019
+                                                  ===========   ===========
+
+
+ The accompanying Notes to Financial Statements are an integral
+                     part of this statement.
+</PAGE>
+<PAGE>
+                  AEI INCOME & GROWTH FUND 25 LLC
+                     STATEMENT OF CASH FLOWS
+               FOR THE THREE MONTHS ENDED MARCH 31
+
+
+                                                     2010           2009
+
+CASH FLOWS FROM OPERATING ACTIVITIES:
+  Net Income                                    $   372,191    $   364,124
+
+  Adjustments To Reconcile Net Income
+  To Net Cash Provided By Operating Activities:
+     Depreciation                                   228,263        205,266
+     Gain on Sale of Real Estate                    (28,180)             0
+     Decrease in Receivables                              0          2,833
+     Increase in Payable to
+        AEI Fund Management, Inc.                     1,149         17,796
+     Decrease in Unearned Rent                      (47,707)       (16,271)
+                                                 -----------    -----------
+       Total Adjustments                            153,525        209,624
+                                                 -----------    -----------
+       Net Cash Provided By
+           Operating Activities                     525,716        573,748
+                                                 -----------    -----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Proceeds from Sale of Real Estate                 199,600              0
+                                                 -----------    -----------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Distributions Paid to Members                    (544,950)      (545,152)
+                                                 -----------    -----------
+
+NET INCREASE IN CASH                                180,366         28,596
+
+CASH, beginning of period                         1,410,759        808,826
+                                                 -----------    -----------
+CASH, end of period                             $ 1,591,125    $   837,422
+                                                 ===========    ===========
+
+
+ The accompanying Notes to Financial Statements are an integral
+                     part of this statement.
+</PAGE>
+<PAGE>
+                 AEI INCOME & GROWTH FUND 25 LLC
+        STATEMENT OF CHANGES IN MEMBERS' EQUITY (DEFICIT)
+               FOR THE THREE MONTHS ENDED MARCH 31
+
+
+                                                                   Limited
+                                                                    Member
+                              Managing     Limited                  Units
+                              Members      Members      Total    Outstanding
+
+
+BALANCE, December 31, 2008   $    188   $33,008,473  $33,008,661   42,019.28
+
+  Distributions Declared      (15,313)     (528,797)    (544,110)
+
+  Net Income                   10,924       353,200      364,124
+                              --------   -----------  -----------  ----------
+BALANCE, March 31, 2009      $ (4,201)  $32,832,876  $32,828,675   42,019.28
+                              ========   ===========  ===========  ==========
+
+
+BALANCE, December 31, 2009   $    859   $32,121,530  $32,122,389   42,019.28
+
+  Distributions Declared      (16,349)     (528,601)    (544,950)
+
+  Net Income                   15,719       356,472      372,191
+                              --------   -----------  -----------  ----------
+BALANCE, March 31, 2010      $    229   $31,949,401  $31,949,630   42,019.28
+                              ========   ===========  ===========  ==========
+
+
+ The accompanying Notes to Financial Statements are an integral
+                     part of this statement.
+</PAGE>
+<PAGE>
+                 AEI INCOME & GROWTH FUND 25 LLC
+                  NOTES TO FINANCIAL STATEMENTS
+                         MARCH 31, 2010
+
+(1)  The  condensed  statements included herein have been  prepared
+     by  the  registrant, without audit, pursuant to the rules  and
+     regulations  of  the Securities and Exchange  Commission,  and
+     reflect   all  adjustments  which  are,  in  the  opinion   of
+     management,  necessary to a fair statement of the  results  of
+     operations for the interim period, on a basis consistent  with
+     the  annual audited statements.  The adjustments made to these
+     condensed   statements  consist  only  of   normal   recurring
+     adjustments.   Certain information, accounting  policies,  and
+     footnote    disclosures   normally   included   in   financial
+     statements  prepared  in  accordance with  generally  accepted
+     accounting principles have been condensed or omitted  pursuant
+     to   such  rules  and  regulations,  although  the  registrant
+     believes  that  the  disclosures  are  adequate  to  make  the
+     information  presented not misleading.  It is  suggested  that
+     these  condensed financial statements be read  in  conjunction
+     with  the  financial statements and the summary of significant
+     accounting  policies  and  notes  thereto  included   in   the
+     registrant's latest annual report on Form 10-K.
+
+(2)  Organization -
+
+     AEI  Income  &  Growth  Fund 25 LLC ("Company"),  a  Limited
+     Liability  Company, was formed on June 24, 2002  to  acquire
+     and  lease commercial properties to operating tenants.   The
+     Company's operations are managed by AEI Fund Management XXI,
+     Inc.  ("AFM"), the Managing Member.  Robert P. Johnson,  the
+     President  and sole director of AFM, serves as  the  Special
+     Managing  Member.  AFM is a wholly owned subsidiary  of  AEI
+     Capital  Corporation of which Mr. Johnson  is  the  majority
+     shareholder.    AEI  Fund  Management,  Inc.   ("AEI"),   an
+     affiliate  of AFM, performs the administrative and operating
+     functions for the Company.
+
+     The terms of the offering called for a subscription price of
+     $1,000  per  LLC Unit, payable on acceptance of  the  offer.
+     The  Company commenced operations on September 11, 2003 when
+     minimum  subscriptions of 1,500 LLC Units ($1,500,000)  were
+     accepted.   The offering terminated May 12, 2005,  when  the
+     extended  offering  period expired.   The  Company  received
+     subscriptions for 42,434.763 Units.  Under the terms of  the
+     Operating  Agreement,  the  Limited  Members  and   Managing
+     Members   contributed  funds  of  $42,434,763  and   $1,000,
+     respectively.  The Company shall continue until December 31,
+     2053,  unless dissolved, terminated and liquidated prior  to
+     that date.
+
+     During operations, any Net Cash Flow, as defined, which  the
+     Managing Members determine to distribute will be distributed
+     97%  to  the Limited Members and 3% to the Managing Members.
+     Distributions to Limited Members will be made  pro  rata  by
+     Units.
+
+                 AEI INCOME & GROWTH FUND 25 LLC
+                  NOTES TO FINANCIAL STATEMENTS
+                           (Continued)
+
+(2)  Organization - (Continued)
+
+     Any  Net  Proceeds  of Sale, as defined, from  the  sale  or
+     financing of properties which the Managing Members determine
+     to distribute will, after provisions for debts and reserves,
+     be  paid  in  the following manner: (i) first,  99%  to  the
+     Limited  Members  and 1% to the Managing Members  until  the
+     Limited  Members  receive  an amount  equal  to:  (a)  their
+     Adjusted Capital Contribution plus (b) an amount equal to 7%
+     of their Adjusted Capital Contribution per annum, cumulative
+     but not compounded, to the extent not previously distributed
+     from  Net  Cash  Flow; (ii) any remaining  balance  will  be
+     distributed  90%  to  the Limited Members  and  10%  to  the
+     Managing Members.  Distributions to the Limited Members will
+     be made pro rata by Units.
+
+     For  tax  purposes,  profits  from  operations,  other  than
+     profits  attributable  to  the  sale,  exchange,  financing,
+     refinancing  or  other  disposition  of  property,  will  be
+     allocated 97% to the Limited Members and 3% to the  Managing
+     Members.   Net losses from operations will be allocated  99%
+     to the Limited Members and 1% to the Managing Members.
+
+     For  tax purposes, profits arising from the sale, financing,
+     or  other  disposition  of property  will  be  allocated  in
+     accordance  with  the Operating Agreement  as  follows:  (i)
+     first,  to  those  Members with deficit  balances  in  their
+     capital  accounts  in an amount equal to  the  sum  of  such
+     deficit  balances; (ii) second, 99% to the  Limited  Members
+     and  1%  to the Managing Members until the aggregate balance
+     in  the Limited Members' capital accounts equals the sum  of
+     the Limited Members' Adjusted Capital Contributions plus  an
+     amount  equal  to 7% of their Adjusted Capital Contributions
+     per  annum, cumulative but not compounded, to the extent not
+     previously  allocated;  (iii)  third,  the  balance  of  any
+     remaining  gain  will then be allocated 90% to  the  Limited
+     Members  and  10% to the Managing Members.  Losses  will  be
+     allocated 99% to the Limited Members and 1% to the  Managing
+     Members.
+
+     The  Managing Members are not required to currently  fund  a
+     deficit capital balance.  Upon liquidation of the Company or
+     withdrawal  by a Managing Member, the Managing Members  will
+     contribute to the Company an amount equal to the  lesser  of
+     the  deficit balances in their capital accounts or 1.01%  of
+     the  total capital contributions of the Limited Members over
+     the amount previously contributed by the Managing Members.
+
+(3)  Reclassification -
+
+     Certain  items  related to discontinued  operations  in  the
+     prior  period's financial statements have been  reclassified
+     to  conform  to  2010 presentation.  These reclassifications
+     had no effect on Members' capital, net income or cash flows.
+
+                 AEI INCOME & GROWTH FUND 25 LLC
+                  NOTES TO FINANCIAL STATEMENTS
+                           (Continued)
+
+(4)  Payable to AEI Fund Management, Inc. -
+
+     AEI  Fund  Management, Inc. performs the administrative  and
+     operating  functions for the Company.  The  payable  to  AEI
+     Fund   Management  represents  the  balance  due  for  those
+     services.    This  balance  is  non-interest   bearing   and
+     unsecured  and  is  to  be  paid in  the  normal  course  of
+     business.
+
+(5)  Discontinued Operations -
+
+     During  the  second and third quarter of 2009,  the  Company
+     sold  15.329%  of  the Applebee's restaurant  in  Macedonia,
+     Ohio,  in  two  separate transactions,  to  unrelated  third
+     parties.   The Company received total net sale  proceeds  of
+     $555,272,  which  resulted in a net gain of  $114,685.   The
+     cost  and  related accumulated depreciation of the interests
+     sold was $480,533 and $39,946, respectively.
+
+     On February 25, 2010, the Company sold an additional 5.9641%
+     of  the  Applebee's  restaurant in Macedonia,  Ohio,  to  an
+     unrelated  third  party.   The  Company  received  net  sale
+     proceeds  of  $199,600, which resulted  in  a  net  gain  of
+     $28,180.   The cost and related accumulated depreciation  of
+     the  interests  sold was $186,962 and $15,542, respectively.
+     The  Company  is  attempting to sell its remaining  73.6791%
+     interest  in  the property.  At March 31, 2010 and  December
+     31,  2009,  the property was classified as Real Estate  Held
+     for Sale with a carrying value of $2,117,695 and $2,289,115,
+     respectively.
+
+     During   the  first  three  months  of  2009,  the   Company
+     distributed $50,505 of net sale proceeds to the Limited  and
+     Managing  Members as part of their quarterly  distributions,
+     which represented a return of capital of $1.19 per LLC Unit.
+     The Company anticipates the remaining net sale proceeds will
+     either  be  reinvested in additional property or distributed
+     to the Members in the future.
+
+     The  financial  results for this property are  reflected  as
+     Discontinued   Operations  in  the  accompanying   financial
+     statements.   The following are the results of  discontinued
+     operations for the three months ended March 31:
+
+
+                                                    2010         2009
+
+     Rental Income                              $   49,628    $   60,918
+     Property Management Expenses                     (535)         (150)
+     Gain on Disposal of Real Estate                28,180             0
+                                                 ----------    ----------
+     Income from Discontinued Operations        $   77,273    $   60,768
+                                                 ==========    ==========
+
+(6)  Fair Value Measurements
+
+     As  of  March  31,  2010,  the  Company  has  no  assets  or
+     liabilities measured at fair value on a recurring  basis  or
+     nonrecurring basis.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+        AND RESULTS OF OPERATIONS.
+
+        This  section contains "forward-looking statements" which
+represent management's expectations or beliefs concerning  future
+events, including statements regarding anticipated application of
+cash, expected returns from rental income, growth in revenue, the
+sufficiency  of  cash  to  meet  operating  expenses,  rates   of
+distribution,  and  other  matters.  These,  and  other  forward-
+looking  statements,  should be evaluated in  the  context  of  a
+number  of  factors  that  may  affect  the  Company's  financial
+condition and results of operations, including the following:
+
+    Market  and  economic conditions which affect the  value
+    of  the  properties the Company owns and the cash  from
+    rental income such properties generate;
+
+    the  federal  income tax consequences of rental  income,
+    deductions,  gain  on  sales and other  items  and  the
+    effects of these consequences for Members;
+
+    resolution  by  the Managing Members of  conflicts  with
+    which they may be confronted;
+
+    the   success  of  the  Managing  Members  of   locating
+    properties with favorable risk return characteristics;
+
+    the effect of tenant defaults; and
+
+    the  condition of the industries in which the  tenants  of
+    properties owned by the Company operate.
+
+Application of Critical Accounting Policies
+
+        The  preparation  of  the Company's financial  statements
+requires  management to make estimates and assumptions  that  may
+affect the reported amounts of assets, liabilities, revenues  and
+expenses,  and  related  disclosure  of  contingent  assets   and
+liabilities. Management evaluates these estimates on  an  ongoing
+basis,  including  those related to the carrying  value  of  real
+estate  and  the  allocation  by AEI  Fund  Management,  Inc.  of
+expenses to the Company as opposed to other funds they manage.
+
+       Prior to January 1, 2009, the Company purchased properties
+and  recorded them in the financial statements at cost (including
+capitalized acquisition expenses).  For acquisitions completed on
+or  after January 1, 2009, acquisition-related transaction  costs
+will  be expensed as incurred as a result of the Company adopting
+new  guidance on business combinations that expands the scope  of
+acquisition accounting. The Company tests long-lived  assets  for
+recoverability  when events or changes in circumstances  indicate
+that  the  carrying value may not be recoverable.  For properties
+the  Company will hold and operate, management determines whether
+impairment  has occurred by comparing the property's probability-
+weighted  future undiscounted cash flows to its current  carrying
+value.   For  properties  held  for sale,  management  determines
+whether  impairment  has  occurred by  comparing  the  property's
+estimated  fair  value less cost to sell to its current  carrying
+value.   If  the  carrying value is greater than  the  realizable
+value,  an  impairment loss is recorded to  reduce  the  carrying
+value  of the property to its realizable value.  Changes in these
+assumptions  or  analysis  may  cause  material  changes  in  the
+carrying value of the properties.
+
+ITEM 2.   MANAGEMENT'S DISCUSSION AND ANALYSIS.  (Continued)
+
+        AEI  Fund Management, Inc. allocates expenses to each  of
+the  funds  they manage primarily on the basis of the  number  of
+hours  devoted  by their employees to each fund's affairs.   They
+also  allocate  expenses at the end of each month  that  are  not
+directly related to a fund's operations based upon the number  of
+investors  in the fund and the fund's capitalization relative  to
+other  funds they manage.  The Company reimburses these  expenses
+subject  to  detailed  limitations  contained  in  the  Operating
+Agreement.
+
+        Management  of the Company has discussed the  development
+and   selection  of  the  above  accounting  estimates  and   the
+management  discussion  and analysis disclosures  regarding  them
+with the managing member of the Company.
+
+Results of Operations
+
+        For  the three months ended March 31, 2010 and 2009,  the
+Company  recognized rental income from continuing  operations  of
+$616,676  and  $611,178, respectively.  In  2010,  rental  income
+increased due to rent increases on four properties.
+
+        For  the three months ended March 31, 2010 and 2009,  the
+Company  incurred  LLC  administration expenses  from  affiliated
+parties   of   $86,237   and   $89,743,   respectively.     These
+administration  expenses  include  costs  associated   with   the
+management of the properties, processing distributions, reporting
+requirements and communicating with the Limited Members.   During
+the  same  periods,  the Company incurred LLC administration  and
+property  management expenses from unrelated parties  of  $10,384
+and  $14,441,  respectively.   These  expenses  represent  direct
+payments  to  third  parties for legal and  filing  fees,  direct
+administrative costs, outside audit costs, taxes,  insurance  and
+other property costs.
+
+        For  the  three  months ended March 31,  2010  and  2009,
+depreciation  expense  was $228,263 and  $205,266,  respectively.
+The  increase  was  due to the Company reclassifying  the  Sports
+Authority  store in Wichita, Kansas from held-for-sale status  to
+held-for-use status during the fourth quarter of 2009.
+
+        For  the three months ended March 31, 2010 and 2009,  the
+Company   recognized  interest  income  of  $3,126  and   $1,628,
+respectively.   In  2010 interest income  increased  due  to  the
+Company having more money invested in a money market account  due
+to property sales.
+
+        Upon complete disposal of a property or classification of
+a property as Real Estate Held for Sale, the Company includes the
+operating  results  and  sale  of the  property  in  discontinued
+operations.   In  addition, the Company  reclassifies  the  prior
+periods'  operating  results  of  the  property  to  discontinued
+operations.   For  the  three months ended March  31,  2010,  the
+Company recognized income from discontinued operations of $77,273
+representing rental income less property management  expenses  of
+$49,093 and gain on disposal of real estate of $28,180.  For  the
+three  months ended March 31, 2009, the Company recognized income
+from  discontinued  operations  of  $60,768  representing  rental
+income less property management expenses.
+
+ITEM 2.   MANAGEMENT'S DISCUSSION AND ANALYSIS.  (Continued)
+
+        During  the second and third quarter of 2009, the Company
+sold 15.329% of the Applebee's restaurant in Macedonia, Ohio,  in
+two  separate  transactions,  to unrelated  third  parties.   The
+Company  received  total  net sale proceeds  of  $555,272,  which
+resulted  in  a  net  gain of $114,685.   The  cost  and  related
+accumulated  depreciation of the interests sold was $480,533  and
+$39,946, respectively.
+
+        On  February  25,  2010, the Company sold  an  additional
+5.9641%  of the Applebee's restaurant in Macedonia, Ohio,  to  an
+unrelated third party.  The Company received net sale proceeds of
+$199,600, which resulted in a net gain of $28,180.  The cost  and
+related  accumulated  depreciation  of  the  interests  sold  was
+$186,962 and $15,542, respectively.  The Company is attempting to
+sell  its remaining 73.6791% interest in the property.  At  March
+31,  2010  and December 31, 2009, the property was classified  as
+Real Estate Held for Sale with a carrying value of $2,117,695 and
+$2,289,115, respectively.
+
+         Management  believes  inflation  has  not  significantly
+affected  income  from  operations.   Leases  may  contain   rent
+increases, based on the increase in the Consumer Price Index over
+a  specified period, which will result in an increase  in  rental
+income over the term of the leases.  Inflation also may cause the
+real  estate  to  appreciate in value.   However,  inflation  and
+changing  prices  may  have an adverse impact  on  the  operating
+margins  of  the  properties' tenants, which could  impair  their
+ability  to  pay rent and subsequently reduce the Net  Cash  Flow
+available for distributions.
+
+Liquidity and Capital Resources
+
+        During  the  three  months  ended  March  31,  2010,  the
+Company's  cash balances increased $180,366 as a result  of  cash
+generated  from the sale of property, which was partially  offset
+by  distributions paid to the Members in excess of cash generated
+from  operating activities.  During the three months ended  March
+31,  2009,  the Company's cash balances increased  $28,596  as  a
+result  of cash generated from operating activities in excess  of
+distributions paid to the Members.
+
+        Net  cash provided by operating activities decreased from
+$573,748 in 2009 to $525,716 in 2010 as a result of a decrease in
+total   rental  and  interest  income  in  2010  and  net  timing
+differences  in the collection of payments from the  tenants  and
+the  payment  of  expenses,  which were  partially  offset  by  a
+decrease  in LLC administration and property management  expenses
+in 2010.
+
+        The  major  components of the Company's  cash  flow  from
+investing activities are investments in real estate and  proceeds
+from  the  sale  of real estate.  During the three  months  ended
+March 31, 2010, the Company generated cash flow from the sale  of
+real estate of $199,600.
+
+        The  Company's  primary  use of  cash  flow,  other  than
+investment   in  real  estate,  is  distribution  and  redemption
+payments  to Members.  The Company declares its regular quarterly
+distributions  before  the  end of  each  quarter  and  pays  the
+distribution  in  the first week after the end of  each  quarter.
+The  Company attempts to maintain a stable distribution rate from
+quarter  to  quarter.  Redemption payments are paid to  redeeming
+Members on a semi-annual basis.
+ITEM 2.   MANAGEMENT'S DISCUSSION AND ANALYSIS.  (Continued)
+
+        For  the three months ended March 31, 2010 and 2009,  the
+Company   declared  distributions  of  $544,950   and   $544,110,
+respectively.  Pursuant to the Operating Agreement, distributions
+of Net Cash Flow were allocated 97% to the Limited Members and 3%
+to  the Managing Members.  Distributions of Net Proceeds of  Sale
+were  allocated 99% to the Limited Members and 1% to the Managing
+Members.   The Limited Members received distributions of $528,601
+and  $528,797 and the Managing Members received distributions  of
+$16,349 and $15,313 for the periods, respectively.
+
+        During  the  first  three months  of  2009,  the  Company
+distributed  $50,505  of net sale proceeds  to  the  Limited  and
+Managing Members as part of their quarterly distributions,  which
+represented  a  return of capital of $1.19  per  LLC  Unit.   The
+Company  anticipates the remaining net sale proceeds will  either
+be  reinvested  in  additional property  or  distributed  to  the
+Members in the future.
+
+        The  Company may acquire Units from Limited  Members  who
+have  tendered  their Units to the Company.  Such  Units  may  be
+acquired  at  a discount.  The Company will not be  obligated  to
+purchase  in any year more than 2% of the total number  of  Units
+outstanding  on  January 1 of such year.  In no event  shall  the
+Company be obligated to purchase Units if, in the sole discretion
+of the Managing Member, such purchase would impair the capital or
+operation of the Company.  During 2009 and the first three months
+of  2010,  the Company did not redeem any Units from the  Limited
+Members.   In prior years, 8 Limited Members redeemed a total  of
+415.48   Units  for  $305,680.   The  redemptions  increase   the
+remaining Limited Member's ownership interest in the Company.
+
+       The continuing rent payments from the properties, together
+with  cash  generated from property sales, should be adequate  to
+fund  continuing distributions and meet other Company obligations
+on both a short-term and long-term basis.
+
+The Economy and Market Conditions
+
+       The impact of conditions in the current economy, including
+the  turmoil  in the credit markets, has adversely affected  many
+real  estate investment funds.  However, the absence of  mortgage
+financing  on  the Company's properties eliminates the  risks  of
+foreclosure and debt-refinancing that can negatively  impact  the
+value  and  distributions  of leveraged  real  estate  investment
+funds.  Nevertheless, a prolonged economic downturn may adversely
+affect  the  operations of the Company's tenants and  their  cash
+flows.  If a tenant were to default on its lease obligations, the
+Company's  income would decrease, its distributions would  likely
+be reduced and the value of its properties might decline.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+       Not required for a smaller reporting company.
+
+ITEM 4.   CONTROLS AND PROCEDURES.
+
+       (a)  Disclosure Controls and Procedures.
+
+        Under  the  supervision  and with  the  participation  of
+management, including its President and Chief Financial  Officer,
+the Managing Member of the Company evaluated the effectiveness of
+the   design  and  operation  of  our  disclosure  controls   and
+procedures  (as  defined in Rule 13a-15(e) under  the  Securities
+Exchange  Act  of  1934 (the "Exchange Act")).  Based  upon  that
+evaluation,  the  President and Chief Financial  Officer  of  the
+Managing  Member  concluded that, as of the  end  of  the  period
+covered  by  this report, our disclosure controls and  procedures
+were  effective  in  ensuring  that information  required  to  be
+disclosed  by us in the reports that we file or submit under  the
+Exchange  Act  is  recorded, processed, summarized  and  reported
+within  the time periods specified in applicable rules and  forms
+and  that  such  information is accumulated and  communicated  to
+management,  including the President and Chief Financial  Officer
+of  the Managing Member, in a manner that allows timely decisions
+regarding required disclosure.
+
+       (b)  Changes in Internal Control Over Financial Reporting.
+
+        (i) During the most recent period covered by this report,
+there  has  been no change in our internal control over financial
+reporting  (as defined in Rule 13a-15(f) under the Exchange  Act)
+that  has  materially  affected,  or  is  reasonably  likely   to
+materially affect, our internal control over financial reporting.
+
+                   PART II - OTHER INFORMATION
+
+ITEM 1.   LEGAL PROCEEDINGS.
+
+        There are no material pending legal proceedings to  which
+the  Company  is  a party or of which the Company's  property  is
+subject.
+
+ITEM 1A.  RISK FACTORS.
+
+       Not required for a smaller reporting company.
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS.
+
+       (a) None.
+
+       (b) Not applicable.
+
+        (c)  Pursuant to Section 7.7 of the Operating  Agreement,
+each Limited Member has the right to present Units to the Company
+for  purchase by submitting notice to the Managing Member  during
+January or July of each year.  The purchase price of the Units is
+equal  to  80% of the net asset value per Unit, as of  the  first
+business  day  of January or July of each year, as determined  by
+the  Managing  Member in accordance with the  provisions  of  the
+Operating  Agreement.   Units  tendered  to  the  Company  during
+January  and  July  are redeemed on April 1st  and  October  1st,
+respectively, of each year subject to the following  limitations.
+The  Company will not be obligated to purchase in any  year  more
+than 2% of the total number of Units outstanding on January 1  of
+such  year.   In  no  event  shall the Company  be  obligated  to
+purchase Units if, in the sole discretion of the Managing Member,
+such  purchase  would  impair the capital  or  operation  of  the
+Company.   During the period covered by this report, the  Company
+did not purchase any Units.
+
+                   PART II - OTHER INFORMATION
+                           (Continued)
+
+ITEM 3.   DEFAULTS UPON SENIOR SECURITIES.
+
+       None.
+
+ITEM 5.   OTHER INFORMATION.
+
+       None.
+
+ITEM 6.   EXHIBITS.
+
+    31.1  Certification  of Chief Executive Officer  of  Managing
+    Member  pursuant to Rule 15d-14(a)(17 CFR 240.15d-14(a))  and
+    Section 302 of the Sarbanes-Oxley Act of 2002.
+
+    31.2  Certification  of Chief Financial Officer  of  Managing
+    Member  pursuant to Rule 15d-14(a)(17 CFR 240.15d-14(a))  and
+    Section 302 of the Sarbanes-Oxley Act of 2002.
+
+    32    Certification  of  Chief Executive  Officer  and  Chief
+    Financial Officer of Managing Member pursuant to Section  906
+    of the Sarbanes-Oxley Act of 2002.
+
+
+
+                           SIGNATURES
+
+        Pursuant  to the requirements of the Securities  Exchange
+Act  of  1934, the registrant has duly caused this report  to  be
+signed   on   its  behalf  by  the  undersigned  thereunto   duly
+authorized.
+
+
+Dated:  May 12, 2010          AEI Income & Growth Fund 25 LLC
+                              By:  AEI Fund Management XXI, Inc.
+                              Its: Managing Member
+
+
+
+                              By: /s/ ROBERT P JOHNSON
+                                      Robert P. Johnson
+                                      President
+                                      (Principal Executive Officer)
+
+
+
+                              By: /s/ PATRICK W KEENE
+                                      Patrick W. Keene
+                                      Chief Financial Officer
+                                      (Principal Accounting Officer)
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,571 @@
+<SEC-DOCUMENT>0001193125-12-346092.txt : 20120809
+<SEC-HEADER>0001193125-12-346092.hdr.sgml : 20120809
+<ACCEPTANCE-DATETIME>20120809105233
+ACCESSION NUMBER:		0001193125-12-346092
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120630
+FILED AS OF DATE:		20120809
+DATE AS OF CHANGE:		20120809
+EFFECTIVENESS DATE:		20120809
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TDAM USA INC.
+		CENTRAL INDEX KEY:			0001115941
+		IRS NUMBER:				133849588
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-05929
+		FILM NUMBER:		121019022
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CANADA TRUST TOWER, BCE PLACE
+		STREET 2:		161 BAY STREET, 35TH, FLOOR
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5J 2T2
+		BUSINESS PHONE:		416-308-5346
+
+	MAIL ADDRESS:	
+		STREET 1:		CANADA TRUST TOWER, BCE PLACE
+		STREET 2:		161 BAY STREET, 35TH, FLOOR
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5J 2T2
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TD ASSET MANAGEMENT USA INC.
+		DATE OF NAME CHANGE:	20051114
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WATERHOUSE ASSET MANAGEMENT INC
+		DATE OF NAME CHANGE:	20040323
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TD WATERHOUSE ASSET MANAGEMENT INC
+		DATE OF NAME CHANGE:	20000531
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d394347d13fhr.txt
+<DESCRIPTION>13F-HR
+<TEXT>
+<PAGE>
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+
+                                   FORM 13F
+                              FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: June 30th, 2012
+
+Check here if Amendment [_]:      Amendment Number  ----
+
+This Amendment (Check only one):  [_] is a restatement
+
+                                  [_] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    TDAM USA Inc.
+
+Address: Canada Trust Tower, BCE Place, 161 Bay Street, 35th Floor,
+         Toronto, Ontario, M5J 2T2
+
+Form 13F File Number: 28-05929
+
+     This institutional investment manager filing this report and the person by
+whom it is signed hereby represent that the person signing the report is
+authorized to submit it, that all information contained herein is true, correct
+and complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+     Person Signing this Report on Behalf of Reporting Manager:
+
+     Name:   Barbara Callbeck
+
+     Title:  Managing Director
+
+     Phone:  416-308-5346
+
+     Signature, Place, and Date of Signing:
+
+     'Barbara Callbeck'       Toronto, Ontario          August 7th, 2012
+     [Signature]              [City, State]             [Date]
+
+     Report Type (Check only one):
+
+[X]  13F HOLDINGS REPORT. (Check here if all holdings of this reporting manager
+     are reported in this report)
+
+[_]  13F NOTICE (Check here if no holdings reported are in this report, and all
+     holdings are reported by other reporting manager(s).)
+
+[_]  13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+     reporting manager are reported in this report and a portion is reported by
+     other reporting manager(s).)
+
+<PAGE>
+
+                             FORM 13F SUMMARY PAGE
+
+     Report summary:
+
+     Number of Other Included Managers: Two (1)
+
+     Form 13F Information Table Entry Total: 343
+
+     Form 13F Information Table Value Total: US$ 1,863,963 (thousands)
+
+List of Other Included Managers:
+
+     Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+     No.  Form 13F File Number  Name
+     ---  --------------------  -----------
+
+     1    28-04365              TD Bank N.A
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                        Fair Market Amount of                        Voting Authority
+                                                           Value    Security  Investment  Other   -----------------------
+Name of Issuer                 Title of Class   Cusip    (x$1000)     (Sh)    Discretion Managers  Sole    Share    None
+--------------                 -------------- --------- ----------- --------- ---------- -------- ------ --------- ------
+<S>                            <C>            <C>       <C>         <C>       <C>        <C>      <C>    <C>       <C>
+3M CO                          COM            88579Y101      29,562   329,932               1              307,547 22,385
+ABBOTT LABS                    COM            002824100      42,496   659,165               1              613,919 45,246
+ABBOTT LABS                    COM            002824100         542     8,405    Sole              8,405
+ACE LTD                        SHS            H0023R105      13,331   179,835               1              169,040 10,795
+ACTIVISION BLIZZARD INC        COM            00507V109         316    26,330    Sole             26,330
+ADOBE SYS INC                  COM            00724F101         228     7,030               1                6,530    500
+ADVANCED SEMICONDUCTOR ENGR    SPONSORED ADR  00756M404          54    13,203    Sole             13,203
+AFLAC INC                      COM            001055102       5,513   129,440               1              113,710 15,730
+AIR PRODS & CHEMS INC          COM            009158106         495     6,128               1                6,128    -
+ALCOA INC                      COM            013817101         119    13,605               1               13,505    100
+ALLSTATE CORP                  COM            020002101         475    13,533    Sole             13,533
+ALTRIA GROUP INC               COM            02209S103         794    22,971               1               15,951  7,020
+AMAZON COM INC                 COM            023135106         517     2,262    Sole              2,262
+AMAZON COM INC                 COM            023135106         298     1,306               1                1,306    -
+AMERICAN CAP LTD               COM            02503Y103         110    10,918    Sole             10,918
+AMERICAN EXPRESS CO            COM            025816109      23,894   410,487               1              382,687 27,800
+AMERICAN EXPRESS CO            COM            025816109         359     6,162    Sole              6,162
+AMERICAN FINL GROUP INC OHIO   COM            025932104         229     5,833               1                5,833    -
+AMERICAN INTL GROUP INC        COM NEW        026874784         327    10,198    Sole             10,198
+AMERICAN SCIENCE & ENGR INC    COM            029429107         327     5,800                                5,800    -
+AMERICAN TOWER CORP NEW        COM            03027X100         450     6,443                                6,443    -
+AMGEN INC                      COM            031162100         841    11,528               1               10,128  1,400
+AMGEN INC                      COM            031162100         387     5,301    Sole              5,301
+ANADARKO PETE CORP             COM            032511107         591     8,928               1                3,869  5,059
+ANALOG DEVICES INC             COM            032654105       5,363   142,378               1              123,303 19,075
+ANNALY CAP MGMT INC            COM            035710409         257    15,340               1               15,340    -
+APACHE CORP                    COM            037411105      19,621   223,248               1              212,470 10,778
+APPLE INC                      COM            037833100       4,228     7,240               1                6,320    920
+APPLE INC                      COM            037833100       2,460     4,212    Sole              4,212
+APPLIED MATLS INC              COM            038222105         158    13,790               1               13,290    500
+ARCHER DANIELS MIDLAND CO      COM            039483102      11,191   379,105               1              358,135 20,970
+AT&T INC                       COM            00206R102      27,075   759,251               1              714,326 44,925
+AT&T INC                       COM            00206R102       1,173    32,900    Sole             32,900
+AU OPTRONICS CORP              SPONSORED ADR  002255107          43    10,800    Sole             10,800
+AUTODESK INC                   COM            052769106       4,741   135,484               1              123,590 11,894
+AUTOMATIC DATA PROCESSING IN   COM            053015103       9,061   162,800               1              142,509 20,291
+AVALONBAY CMNTYS INC           COM            053484101         299     2,112    Sole              2,112
+AVON PRODS INC                 COM            054303102         449    27,673               1               25,273  2,400
+BABSON CAP CORPORATE INVS      COM            05617K109         269    17,526               1               17,526    -
+BANCORP NEW JERSEY INC NEW     COM            059915108         220    23,000               1               23,000    -
+BANK NOVA SCOTIA HALIFAX       COM            064149107         260     5,020               1                5,020    -
+BANK OF AMERICA CORPORATION    COM            060505104       1,169   142,907               1              131,431 11,476
+BANK OF AMERICA CORPORATION    COM            060505104         480    58,648    Sole             58,648
+BANK OF NEW YORK MELLON CORP   COM            064058100       3,680   167,642               1              160,608  7,034
+BARD C R INC                   COM            067383109       1,066     9,923               1                9,323    600
+BAXTER INTL INC                COM            071813109       6,947   130,712               1              126,852  3,860
+BB&T CORP                      COM            054937107         471    15,255               1               15,255    -
+BEAM INC                       COM            073730103         464     7,420               1                4,220  3,200
+BECTON DICKINSON & CO          COM            075887109       1,423    19,036               1               19,036    -
+BED BATH & BEYOND INC          COM            075896100      11,588   187,508               1              176,468 11,040
+BEMIS INC                      COM            081437105         578    18,437               1               13,937  4,500
+BERKSHIRE HATHAWAY INC DEL     CL A           084670108      20,866       167               1                  167    -
+BERKSHIRE HATHAWAY INC DEL     CL B NEW       084670702      11,025   132,301               1              125,611  6,690
+BERKSHIRE HATHAWAY INC DEL     CL B NEW       084670702       1,098    13,173    Sole             13,173
+BHP BILLITON LTD               SPONSORED ADR  088606108         313     4,800               1                4,490    310
+BIG LOTS INC                   COM            089302103         343     8,400               1                8,400    -
+BOEING CO                      COM            097023105       3,627    48,813               1               46,764  2,049
+BOSTON PRIVATE FINL HLDGS IN   COM            101119105         102    11,441    Sole             11,441
+BOSTON PROPERTIES INC          COM            101121101         372     3,432    Sole              3,432
+BP PLC                         SPONSORED ADR  055622104         302     7,449               1                7,449    -
+BRISTOL MYERS SQUIBB CO        COM            110122108       9,635   268,010               1              262,210  5,800
+BRISTOL MYERS SQUIBB CO        COM            110122108         308     8,568    Sole              8,568
+BROADCOM CORP                  CL A           111320107       7,739   229,230               1              215,850 13,380
+BROWN FORMAN CORP              CL B           115637209         218     2,250               1                2,250    -
+CAMERON INTERNATIONAL CORP     COM            13342B105         239     5,604    Sole              5,604
+CANADIAN NATL RY CO            COM            136375102         262     3,109               1                3,109    -
+CAPITAL ONE FINL CORP          COM            14040H105      11,251   205,833               1              194,398 11,435
+CAPSTONE TURBINE CORP          COM            14067D102          15    15,000               1               15,000    -
+CARDINAL HEALTH INC            COM            14149Y108         361      8593    Sole              8,593
+CATERPILLAR INC DEL            COM            149123101       3,884    45,737               1               44,187  1,550
+CATERPILLAR INC DEL            COM            149123101         269     3,165    Sole              3,165
+CELGENE CORP                   COM            151020104      10,234   159,513               1              150,203  9,310
+CENTERPOINT ENERGY INC         COM            15189T107         207    10,022    Sole             10,022
+CHECK POINT SOFTWARE TECH LT   ORD            M22465104      13,233   266,854               1              251,668 15,186
+CHEVRON CORP NEW               COM            166764100      51,882   491,777               1              458,032 33,745
+</TABLE>
+
+                                                                       TDAM USA
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                        Fair Market Amount of                        Voting Authority
+                                                           Value    Security  Investment  Other   -----------------------
+Name of Issuer                 Title of Class   Cusip    (x$1000)     (Sh)    Discretion Managers  Sole    Share    None
+--------------                 -------------- --------- ----------- --------- ---------- -------- ------ --------- ------
+<S>                            <C>            <C>       <C>         <C>       <C>        <C>      <C>    <C>       <C>
+CHEVRON CORP NEW               COM            166764100       1,081    10,247    Sole             10,247
+CHURCH & DWIGHT INC            COM            171340102         941    16,968               1               16,218    750
+CIGNA CORPORATION              COM            125509109         791    17,966               1               17,966    -
+CIMAREX ENERGY CO              COM            171798101         404     7,332               1                2,777  4,555
+CINCINNATI BELL INC NEW        COM            171871106          37    10,000               1               10,000    -
+CISCO SYS INC                  COM            17275R102      18,724 1,090,520               1            1,024,016 66,504
+CISCO SYS INC                  COM            17275R102         475    27,671    Sole             27,671
+CITIGROUP INC                  COM NEW        172967424         421    15,344    Sole             15,344
+CLOROX CO DEL                  COM            189054109         482     6,658               1                5,043  1,615
+COACH INC                      COM            189754104         246     4,202               1                1,702  2,500
+COCA COLA CO                   COM            191216100      34,475   440,910               1              423,050 17,860
+COCA COLA CO                   COM            191216100         923    11,800    Sole             11,800
+COGNIZANT TECHNOLOGY SOLUTIO   CL A           192446102       1,093    18,222               1               17,767    455
+COLGATE PALMOLIVE CO           COM            194162103      37,264   357,959               1              324,746 33,213
+COMCAST CORP NEW               CL A           20030N101         468    14,638    Sole             14,638
+CONOCOPHILLIPS                 COM            20825C104      12,735   227,898               1              213,407 14,491
+CONOCOPHILLIPS                 COM            20825C104         407     7,277    Sole              7,277
+CONSOLIDATED EDISON INC        COM            209115104         647    10,408               1               10,408    -
+CORNING INC                    COM            219350105         162    12,519               1                9,869  2,650
+COSTCO WHSL CORP NEW           COM            22160K105         239     2,513               1                2,413    100
+CSX CORP                       COM            126408103         485    21,680               1               21,680    -
+CVS CAREMARK CORPORATION       COM            126650100       1,512    32,347               1               32,347    -
+CVS CAREMARK CORPORATION       COM            126650100         333     7,133    Sole              7,133
+DANAHER CORP DEL               COM            235851102      19,159   367,880               1              328,165 39,715
+DEERE & CO                     COM            244199105       1,112    13,752               1               11,065  2,687
+DENTSPLY INTL INC NEW          COM            249030107         587    15,514               1               15,514    -
+DIAGEO P L C                   SPON ADR NEW   25243Q205      14,862   144,196               1              135,652  8,544
+DIAMOND OFFSHORE DRILLING IN   COM            25271C102         258     4,360               1                4,360    -
+DISH NETWORK CORP              CL A           25470M109         283     9,922    Sole              9,922
+DISNEY WALT CO                 COM DISNEY     254687106      28,528   588,198               1              550,579 37,619
+DISNEY WALT CO                 COM DISNEY     254687106         481     9,920    Sole              9,920
+DOMINION RES INC VA NEW        COM            25746U109         468     8,660               1                8,660    -
+DOW CHEM CO                    COM            260543103         455    14,441               1               13,096  1,345
+DOW CHEM CO                    COM            260543103         202     6,422    Sole              6,422
+DU PONT E I DE NEMOURS & CO    COM            263534109       5,372   106,222               1               97,922  8,300
+DU PONT E I DE NEMOURS & CO    COM            263534109         241     4,772    Sole              4,772
+DUKE ENERGY CORP NEW           COM            26441C105       7,420   321,767               1              296,727 25,040
+E M C CORP MASS                COM            268648102      23,684   924,060               1              843,071 80,989
+EATON VANCE CORP               COM NON VTG    278265103         362    13,418               1                7,518  5,900
+EBAY INC                       COM            278642103         258     6,134    Sole              6,134
+ECOLAB INC                     COM            278865100      17,328   252,857               1              227,807 25,050
+EDAC TECHNOLOGIES CORP         COM            279285100         203    18,000               1                  -   18,000
+EMERSON ELEC CO                COM            291011104      13,399   287,653               1              264,545 23,108
+ENTERPRISE PRODS PARTNERS L    COM            293792107         344     6,710               1                1,760  4,950
+EXELON CORP                    COM            30161N101         814    21,627               1               20,117  1,510
+EXPEDITORS INTL WASH INC       COM            302130109         280     7,236               1                7,146     90
+EXPRESS SCRIPTS HLDG CO        COM            30219G108       4,562    81,706               1               74,138  7,568
+EXXON MOBIL CORP               COM            30231G102      79,409   927,998               1              856,615 71,383
+EXXON MOBIL CORP               COM            30231G102       2,178    25,455    Sole             25,455
+FASTENAL CO                    COM            311900104         345     8,554               1                8,554    -
+FEDEX CORP                     COM            31428X106       1,931    21,077               1               14,627  6,450
+FLOWSERVE CORP                 COM            34354P105         263     2,290               1                2,290    -
+FORD MTR CO DEL                COM PAR $0.01  345370860         195    20,323    Sole             20,323
+FRANKLIN RES INC               COM            354613101         866     7,807               1                4,007  3,800
+FREEPORT-MCMORAN COPPER & GO   COM            35671D857      11,020   323,465               1              305,677 17,788
+GALLAGHER ARTHUR J & CO        COM            363576109         425    12,114               1                7,639  4,475
+GENERAL CABLE CORP DEL NEW     COM            369300108         271    10,450               1               10,450    -
+GENERAL DYNAMICS CORP          COM            369550108         289     4,380               1                4,380    -
+GENERAL ELECTRIC CO            COM            369604103      19,110   916,999               1              856,345 60,654
+GENERAL ELECTRIC CO            COM            369604103       1,177    56,499    Sole             56,499
+GENERAL MLS INC                COM            370334104         419    10,880               1               10,880    -
+GERON CORP                     COM            374163103          30    17,576    Sole             17,576
+GILEAD SCIENCES INC            COM            375558103      17,855   348,183               1              329,523 18,660
+GLAXOSMITHKLINE PLC            SPONSORED ADR  37733W105         258     5,651               1                5,651    -
+GOLDMAN SACHS GROUP INC        COM            38141G104         261     2,724    Sole              2,724
+GOOGLE INC                     CL A           38259P508         821     1,415    Sole              1,415
+GOOGLE INC                     CL A           38259P508         752     1,296               1                  686    610
+GRAINGER W W INC               COM            384802104         210     1,100               1                1,100    -
+GREENHAVEN CONT CMDTY INDEX    UNIT BEN INT   395258106         221     7,800               1                7,800    -
+HCP INC                        COM            40414L109         438     9,922    Sole              9,922
+HEINZ H J CO                   COM            423074103         725    13,327               1               12,227  1,100
+HERSHEY CO                     COM            427866108         206     2,856               1                2,856    -
+HEWLETT PACKARD CO             COM            428236103       1,538    76,480               1               68,830  7,650
+HEWLETT PACKARD CO             COM            428236103         228    11,342    Sole             11,342
+HOME DEPOT INC                 COM            437076102      41,787   788,584               1              733,830 54,754
+</TABLE>
+
+                                                                       TDAM USA
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                        Fair Market Amount of                        Voting Authority
+                                                           Value    Security  Investment  Other   -----------------------
+Name of Issuer                 Title of Class   Cusip    (x$1000)     (Sh)    Discretion Managers  Sole    Share    None
+--------------                 -------------- --------- ----------- --------- ---------- -------- ------ --------- ------
+<S>                            <C>            <C>       <C>         <C>       <C>        <C>      <C>    <C>       <C>
+HONEYWELL INTL INC             COM            438516106       5,025    89,985               1               81,015  8,970
+HUMANA INC                     COM            444859102         343     4,429    Sole              4,429
+ILLINOIS TOOL WKS INC          COM            452308109      20,779   392,877               1              365,049 27,828
+INGERSOLL-RAND PLC             SHS            G47791101         379     8,981    Sole              8,981
+INTEL CORP                     COM            458140100      21,783   817,374               1              782,000 35,374
+INTEL CORP                     COM            458140100         721    27,067    Sole             27,067
+INTERNATIONAL BUSINESS MACHS   COM            459200101      46,458   237,538               1              220,755 16,783
+INTERNATIONAL BUSINESS MACHS   COM            459200101       1,177     6,018    Sole              6,018
+INTERNATIONAL FLAVORS&FRAGRA   COM            459506101         750    13,680               1               12,320  1,360
+INTUITIVE SURGICAL INC         COM NEW        46120E602         454       819    Sole                819
+INVESCO VAN KAMP DYN CRDT OP   COM            46132R104         176    15,000               1                  -   15,000
+ISHARES INC                    MSCI EMU INDEX 464286608         528    19,250               1               19,250    -
+ISHARES TR                     MSCI EAFE
+                               INDEX          464287465      20,717   414,680               1              356,842 57,838
+ISHARES TR                     IBOXX INV CPBD 464287242      13,999   119,048               1              111,251  7,797
+ISHARES TR                     BARCLYS TIPS
+                               BD             464287176      12,198   101,906               1               91,501 10,405
+ISHARES TR                     BARCLYS 7-10
+                               YR             464287440      10,496    97,247               1               90,085  7,162
+ISHARES TR                     HIGH YLD CORP  464288513       8,373    91,721               1               86,956  4,765
+ISHARES TR                     BARCLYS 1-3 YR 464287457       7,719    91,495               1               85,953  5,542
+ISHARES TR                     S&P500 GRW     464287309       4,995    67,946               1               62,455  5,491
+ISHARES TR                     COHEN&ST RLTY  464287564       4,198    53,382               1               51,451  1,931
+ISHARES TR                     S&P 100 IDX FD 464287101       3,472    55,575               1               54,103  1,472
+ISHARES TR                     S&P MC 400 GRW 464287606       2,779    26,254               1               22,899  3,355
+ISHARES TR                     S&P SMLCP
+                               GROW           464287887       2,574    31,880               1               27,285  4,595
+ISHARES TR                     BARCLY USAGG
+                               B              464287226       2,185    19,632               1               19,632    -
+ISHARES TR                     S&P MIDCP
+                               VALU           464287705       2,023    24,791               1               21,502  3,289
+ISHARES TR                     MSCI EMERG
+                               MKT            464287234       1,913    48,893               1               38,845 10,048
+ISHARES TR                     S&P SMLCP
+                               VALU           464287879       1,778    23,919               1               20,188  3,731
+ISHARES TR                     RUSSELL 2000   464287655       1,724    21,671               1               18,801  2,870
+ISHARES TR                     RUSSELL MCP
+                               GR             464287481       1,257    21,238               1               20,068  1,170
+ISHARES TR                     RUSL 2000 GROW 464287648       1,015    11,092               1               10,512    580
+ISHARES TR                     BARCLYS MBS
+                               BD             464288588         831     7,665               1                7,665    -
+ISHARES TR                     S&P GBL INF    464287291         810    12,508               1               12,208    300
+ISHARES TR                     BARCLYS CR BD  464288620         808     7,276               1                7,276    -
+ISHARES TR                     RUSSELL MCP VL 464287473         561    12,101               1               11,561    540
+ISHARES TR                     BARCLYS 3-7 YR 464288661         398     3,235               1                3,235    -
+ISHARES TR                     S&P SMLCAP 600 464287804         386     5,267               1                5,267    -
+ISHARES TR                     S&P 500 INDEX  464287200         365     2,669               1                2,669    -
+ISHARES TR                     RUSL 2000 VALU 464287630         357     5,071               1                4,899    172
+ISHARES TR                     S&P MIDCAP 400 464287507         315     3,344               1                3,344    -
+JOHNSON & JOHNSON              COM            478160104      44,269   655,259               1              613,250 42,009
+JOHNSON & JOHNSON              COM            478160104       1,000    14,808    Sole             14,808
+JOHNSON CTLS INC               COM            478366107         739    26,685               1               26,685    -
+JPMORGAN CHASE & CO            COM            46625H100      27,268   763,170               1              719,707 43,463
+JPMORGAN CHASE & CO            COM            46625H100         744    20,817    Sole             20,817
+KELLOGG CO                     COM            487836108         208     4,213               1                4,213    -
+KIMBERLY CLARK CORP            COM            494368103       5,253    62,710               1               54,590  8,120
+KINDER MORGAN ENERGY PARTNER   UT LTD
+                               PARTNER        494550106         358     4,550               1                4,550    -
+KOHLS CORP                     COM            500255104         295     6,476    Sole              6,476
+KRAFT FOODS INC                CL A           50075N104       8,044   208,277               1              198,743  9,534
+KRAFT FOODS INC                CL A           50075N104         359     9,298    Sole              9,298
+L-3 COMMUNICATIONS HLDGS INC   COM            502424104       7,869   106,317               1              100,922  5,395
+LAKELAND BANCORP INC           COM            511637100       1,089   103,540               1              103,540    -
+LEXICON PHARMACEUTICALS INC    COM            528872104          92    40,999    Sole             40,999
+LILLY ELI & CO                 COM            532457108         426     9,920               1                9,670    250
+LINCOLN ELEC HLDGS INC         COM            533900106         403     9,210               1                9,210    -
+LINCOLN NATL CORP IND          COM            534187109         228    10,444               1                9,958    486
+LOCKHEED MARTIN CORP           COM            539830109       6,301    72,357               1               70,037  2,320
+LORILLARD INC                  COM            544147101       7,750    58,733               1               56,963  1,770
+LOWES COS INC                  COM            548661107         618    21,740               1               21,440    300
+MANNKIND CORP                  COM            56400P201          45    19,735    Sole             19,735
+MARATHON OIL CORP              COM            565849106      13,599   531,831               1              507,841 23,990
+MARATHON PETE CORP             COM            56585A102       5,153   114,719               1              111,794  2,925
+MASCO CORP                     COM            574599106         170    12,280               1               12,280    -
+MASTERCARD INC                 CL A           57636Q104         261       607    Sole                607
+MCCORMICK & CO INC             COM NON VTG    579780206       2,112    34,827               1               19,127 15,700
+MCDONALDS CORP                 COM            580135101      18,824   212,623               1              197,655 14,968
+MCDONALDS CORP                 COM            580135101         471     5,321    Sole              5,321
+MEDTRONIC INC                  COM            585055106       5,003   129,166               1              110,338 18,828
+MERCK & CO INC NEW             COM            58933Y105      33,027   791,066               1              720,782 70,284
+MERCK & CO INC NEW             COM            58933Y105         688    16,480    Sole             16,480
+METLIFE INC                    COM            59156R108         472    15,308               1               15,308    -
+MFA FINANCIAL INC              COM            55272X102          85    10,731    Sole             10,731
+MICROSOFT CORP                 COM            594918104      46,899 1,533,149               1            1,437,182 95,967
+MICROSOFT CORP                 COM            594918104       1,275    41,674    Sole             41,674
+MOHAWK INDS INC                COM            608190104         240     3,434               1                3,384     50
+</TABLE>
+
+                                                                       TDAM USA
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                        Fair Market Amount of                       Voting Authority
+                                                           Value    Security  Investment  Other   ---------------------
+Name of Issuer                 Title of Class   Cusip    (x$1000)     (Sh)    Discretion Managers  Sole   Share   None
+--------------                 -------------- --------- ----------- --------- ---------- -------- ------ ------- ------
+<S>                            <C>            <C>       <C>         <C>       <C>        <C>      <C>    <C>     <C>
+MONSANTO CO NEW                COM            61166W101       3,337    40,310               1             37,740  2,570
+MOTOROLA SOLUTIONS INC         COM NEW        620076307         421     8,756    Sole              8,756
+MURPHY OIL CORP                COM            626717102         556    11,052               1              2,652  8,400
+NATIONAL FUEL GAS CO N J       COM            636180101         235     5,000               1              5,000    -
+NATIONAL OILWELL VARCO INC     COM            637071101         283     4,395               1              3,795    600
+NETAPP INC                     COM            64110D104       6,158   193,535               1            182,255 11,280
+NEWS CORP                      CL A           65248E104         229    10,275    Sole             10,275
+NEXTERA ENERGY INC             COM            65339F101      25,091   364,641               1            346,321 18,320
+NIKE INC                       CL B           654106103       5,091    57,998               1             54,133  3,865
+NIKE INC                       CL B           654106103         218     2,487    Sole              2,487
+NORFOLK SOUTHERN CORP          COM            655844108       5,491    76,512               1             64,056 12,456
+NOVARTIS A G                   SPONSORED
+                               ADR            66987V109       1,086    19,424               1             11,764  7,660
+NOVO-NORDISK A S               ADR            670100205       1,165     8,014               1              7,014  1,000
+NUCOR CORP                     COM            670346105         278     7,325               1              6,525    800
+ORACLE CORP                    COM            68389X105      11,294   380,270               1            360,285 19,985
+ORACLE CORP                    COM            68389X105         809    27,223    Sole             27,223
+PALL CORP                      COM            696429307         306     5,590               1              5,590    -
+PAYCHEX INC                    COM            704326107         433    13,781               1              3,971  9,810
+PEOPLES UNITED FINANCIAL INC   COM            712704105         408    35,145               1             23,659 11,486
+PEPSICO INC                    COM            713448108      23,255   329,109               1            305,711 23,398
+PFIZER INC                     COM            717081103      19,269   837,804               1            776,007 61,797
+PFIZER INC                     COM            717081103         990    43,049    Sole             43,049
+PG&E CORP                      COM            69331C108         483    10,680               1              9,480  1,200
+PHILIP MORRIS INTL INC         COM            718172109      29,659   339,887               1            325,527 14,360
+PHILLIPS 66                    COM            718546104       2,561    77,044               1             73,438  3,606
+PIMCO CORPORATE & INCOME OPP   COM            72201B101         187    10,000               1             10,000    -
+PIMCO INCOME STRATEGY FUND I   COM            72201J104         116    11,060               1             11,060    -
+PNC FINL SVCS GROUP INC        COM            693475105       6,710   109,810               1            104,020  5,790
+POWERSHARES DB CMDTY IDX TRA   UNIT BEN INT   73935S105         242     9,415               1              9,101    314
+POWERSHARES ETF TRUST          DWA TECH
+                               LDRS           73935X153         358    13,545               1                -   13,545
+PRAXAIR INC                    COM            74005P104       1,966    18,083               1             13,689  4,394
+PRECISION CASTPARTS CORP       COM            740189105         308     1,870               1              1,870    -
+PRICE T ROWE GROUP INC         COM            74144T108         447     7,106               1              6,981    125
+PRICE T ROWE GROUP INC         COM            74144T108         395     6,276    Sole              6,276
+PROCTER & GAMBLE CO            COM            742718109      40,604   662,921               1            633,785 29,136
+PROCTER & GAMBLE CO            COM            742718109         917    14,974    Sole             14,974
+PROGRESS ENERGY INC            COM            743263105         270     4,485               1              4,485    -
+PUBLIC SVC ENTERPRISE GROUP    COM            744573106         273     8,405               1              7,205  1,200
+QEP RES INC                    COM            74733V100         498    16,631               1              1,731 14,900
+QUALCOMM INC                   COM            747525103      12,241   219,854               1            207,644 12,210
+QUALCOMM INC                   COM            747525103         472     8,480    Sole              8,480
+QUEST DIAGNOSTICS INC          COM            74834L100       3,904    65,181               1             58,905  6,276
+QUESTAR CORP                   COM            748356102         354    16,981               1              2,081 14,900
+REPUBLIC SVCS INC              COM            760759100         253     9,579    Sole              9,579
+ROCKVILLE FINL INC NEW         COM            774188106         329    28,438               1             28,438    -
+ROYAL BK CDA MONTREAL QUE      COM            780087102         283     5,530               1              5,530    -
+ROYAL DUTCH SHELL PLC          SPONS ADR A    780259206       1,361    20,183               1             14,645  5,538
+SCANA CORP NEW                 COM            80589M102         211     4,408               1              3,208  1,200
+SCHLUMBERGER LTD               COM            806857108       3,176    48,936               1             41,497  7,439
+SCHLUMBERGER LTD               COM            806857108         442     6,817    Sole              6,817
+SCORPIO TANKERS INC            SHS            Y7542C106         227    35,467               1             12,467 23,000
+SELECT SECTOR SPDR TR          TECHNOLOGY     81369Y803       1,471    51,200               1             16,200 35,000
+SEMPRA ENERGY                  COM            816851109       6,468    93,905               1             80,758 13,147
+SHERWIN WILLIAMS CO            COM            824348106         860     6,498               1              6,348    150
+SIGMA ALDRICH CORP             COM            826552101       5,379    72,759               1             67,436  5,323
+SILICON IMAGE INC              COM            82705T102          45    10,979    Sole             10,979
+SIMON PPTY GROUP INC NEW       COM            828806109         228     1,466    Sole              1,466
+SMUCKER J M CO                 COM NEW        832696405         224     2,963    Sole              2,963
+SOUTHERN CO                    COM            842587107      16,846   363,837               1            339,927 23,910
+SOUTHERN CO                    COM            842587107         204     4,397    Sole              4,397
+SOUTHWESTERN ENERGY CO         COM            845467109         236     7,403    Sole              7,403
+SPDR GOLD TRUST                GOLD SHS       78463V107      67,587   435,512               1            411,751 23,761
+SPDR S&P 500 ETF TR            TR UNIT        78462F103      49,630   364,646               1            304,279 60,367
+SPDR S&P MIDCAP 400 ETF TR     UTSER1
+                               S&PDCRP        78467Y107         201     1,176               1              1,176    -
+SPDR SERIES TRUST              S&P DIVID
+                               ETF            78464A763         627    11,274               1             11,099    175
+SPDR SERIES TRUST              BRCLYS AGG
+                               ETF            78464A649         212     3,611               1              3,611    -
+SPECTRA ENERGY CORP            COM            847560109      15,537   534,644               1            506,524 28,120
+SPRINT NEXTEL CORP             COM SER 1      852061100         237    72,724    Sole             72,724
+ST JUDE MED INC                COM            790849103         507    12,699               1             12,699    -
+STANLEY BLACK & DECKER INC     COM            854502101         274     4,263    Sole              4,263
+STAPLES INC                    COM            855030102         315    24,154               1             24,054    100
+STARBUCKS CORP                 COM            855244109      12,469   233,854               1            220,229 13,625
+STATE STR CORP                 COM            857477103       4,465   100,023               1             92,324  7,699
+STRYKER CORP                   COM            863667101       2,423    43,967               1             31,132 12,835
+SUNCOR ENERGY INC NEW          COM            867224107         348    12,006               1             11,606    400
+</TABLE>
+
+                                                                       TDAM USA
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                        Fair Market Amount of                        Voting Authority
+                                                           Value    Security  Investment  Other   ----------------------
+Name of Issuer                 Title of Class   Cusip    (x$1000)     (Sh)    Discretion Managers  Sole   Share   None
+--------------                 -------------- --------- ----------- --------- ---------- -------- ------ ------- -------
+<S>                            <C>            <C>       <C>         <C>       <C>        <C>      <C>    <C>     <C>
+SWISS HELVETIA FD INC          COM            870875101         109    10,770               1             10,770     -
+SYNGENTA AG                    SPONSORED
+                               ADR            87160A100       1,175    17,172               1             12,772   4,400
+SYSCO CORP                     COM            871829107       1,576    52,868               1             35,768  17,100
+TARGET CORP                    COM            87612E106       2,079    35,734               1             34,174   1,560
+TECHNE CORP                    COM            878377100         658     8,874               1              6,784   2,090
+TEVA PHARMACEUTICAL INDS LTD   ADR            881624209         451    11,429               1             10,604     825
+TEXAS INSTRS INC               COM            882508104         507    17,682               1             16,832     850
+TIFFANY & CO NEW               COM            886547108         305     5,754               1              5,754     -
+TIME WARNER INC                COM NEW        887317303         219     5,677    Sole              5,677
+TJX COS INC NEW                COM            872540109         212     4,946               1              3,946   1,000
+TORONTO DOMINION BK ONT        COM NEW        891160509      11,224   143,468               1              2,613 140,855
+TRANSOCEAN LTD                 REG SHS        H8817H100         242     5,402               1              1,002   4,400
+TUPPERWARE BRANDS CORP         COM            899896104         287     5,240               1              5,240     -
+UGI CORP NEW                   COM            902681105       1,436    48,792               1             48,792     -
+UNION PAC CORP                 COM            907818108      11,021    92,375               1             86,302   6,073
+UNITED MICROELECTRONICS CORP   SPON ADR
+                               NEW            910873405          43    19,700    Sole             19,700
+UNITED ONLINE INC              COM            911268100          49    11,717    Sole             11,717
+UNITED PARCEL SERVICE INC      CL B           911312106      19,483   247,376               1            197,165  50,211
+UNITED PARCEL SERVICE INC      CL B           911312106         400     5,081    Sole              5,081
+UNITED TECHNOLOGIES CORP       COM            913017109      16,691   220,980               1            206,641  14,339
+UNITEDHEALTH GROUP INC         COM            91324P102       6,788   116,028               1            107,654   8,374
+UNITEDHEALTH GROUP INC         COM            91324P102         342     5,844    Sole              5,844
+US BANCORP DEL                 COM NEW        902973304      17,639   548,490               1            516,608  31,882
+VALERO ENERGY CORP NEW         COM            91913Y100         575    23,820               1             23,820     -
+VALLEY NATL BANCORP            COM            919794107         133    12,583               1             12,583     -
+VANGUARD INTL EQUITY INDEX F   MSCI EMR
+                               MKT ETF        922042858       3,124    78,242               1             60,074  18,168
+VANGUARD WORLD FDS             FINANCIALS
+                               ETF            92204A405         828    26,644               1             12,194  14,450
+VANTAGE DRILLING COMPANY       ORD SHS        G93205113          61    40,480    Sole             40,480
+VERIZON COMMUNICATIONS INC     COM            92343V104      30,768   692,350               1            627,547  64,803
+VERIZON COMMUNICATIONS INC     COM            92343V104         643    14,459    Sole             14,459
+VISA INC                       COM CL A       92826C839         474     3,838    Sole              3,838
+VODAFONE GROUP PLC NEW         SPONS ADR
+                               NEW            92857W209         552    19,578               1             17,063   2,515
+WALGREEN CO                    COM            931422109         708    23,930               1             19,930   4,000
+WAL-MART STORES INC            COM            931142103       6,339    90,925               1             83,535   7,390
+WAL-MART STORES INC            COM            931142103       1,301    18,665    Sole             18,665
+WELLPOINT INC                  COM            94973V107       5,436    85,220               1             80,520   4,700
+WELLS FARGO & CO NEW           COM            949746101      23,124   691,505               1            637,085  54,420
+WELLS FARGO & CO NEW           COM            949746101         896    26,786    Sole             26,786
+WEYERHAEUSER CO                COM            962166104         290    12,963    Sole             12,963
+XEROX CORP                     COM            984121103         263    33,475    Sole             33,475
+XEROX CORP                     COM            984121103         118    15,000               1             15,000     -
+YUM BRANDS INC                 COM            988498101      16,424   254,954               1            238,095  16,859
+ZIMMER HLDGS INC               COM            98956P102       5,062    78,646               1             70,455   8,191
+                                                          ---------
+                          343                             1,863,963
+                                                          ---------
+</TABLE>
+
+                                                                       TDAM USA
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

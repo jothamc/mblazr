@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001140361-12-036486.txt : 20120813
+<SEC-HEADER>0001140361-12-036486.hdr.sgml : 20120813
+<ACCEPTANCE-DATETIME>20120813135740
+ACCESSION NUMBER:		0001140361-12-036486
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120630
+FILED AS OF DATE:		20120813
+DATE AS OF CHANGE:		20120813
+EFFECTIVENESS DATE:		20120813
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HS Management Partners, LLC
+		CENTRAL INDEX KEY:			0001455253
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13328
+		FILM NUMBER:		121027036
+
+	BUSINESS ADDRESS:	
+		STREET 1:		598 MADISON AVE, 14TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			11791
+		BUSINESS PHONE:		212-888-0060
+
+	MAIL ADDRESS:	
+		STREET 1:		598 MADISON AVE, 14TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			11791
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>form13fhr.txt
+<DESCRIPTION>NONE
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+                               Form 13F COVER PAGE
+Report for the Calendar Year or Quarter Ended: 6/30/2012
+Check here if Amendment []; Amendment Number:
+                                               -------
+This Amendment (Check only one.):               [] is a restatement.
+                                                [] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+
+Name:      HS Management Partners, LLC
+
+Address:   598 Madison Ave; 14th Floor
+           New York, NY  10022
+
+
+Form 13F File Number:
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this submission.
+
+Persons Signing this Report on Behalf of Reporting Manager:
+
+Name:   Ronald R. Staib
+Title:  CCO/SVP
+Phone:  212-823-0576
+
+Signature,  Place,  and  Date  of  Signing:
+
+/s/ Ronald R. Staib                New York, NY 10022                 8/13/2012
+---------------------------------  ---------------------------------  ----------
+[Signature]                        [City, State]                      [Date]
+
+
+
+Report  Type  (Check  only  one):
+
+[ ]     13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+        manager are reported in this report.)
+
+[ ]     13F NOTICE. (Check here if no holdings reported are in this report,
+        and all holdings are reported by other reporting manager(s).)
+
+[X]     13F COMBINATION REPORT. (Check here if a portion of the holdings for
+        this reporting manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+
+13F File Number  Name
+
+028-01190        Frank Russell Company
+---------------  ---------------------------------------------------------------
+
+
+<PAGE>
+                              Form 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:                    0
+
+Form 13F Information Table Entry Total:              23
+
+Form 13F Information Table Value Total:  $    1,006,779
+                                         --------------
+                                         (In Thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+NONE
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+              COLUMN 1                   COLUMN 2    COLUMN 3  COLUMN 4      COLUMN 5       COLUMN 6  COLUMN 7       COLUMN 8
+------------------------------------- -------------- --------- -------- ------------------ ---------- -------- ---------------------
+                                                                VALUE    SHRS OR  SH/ PUT/ INVESTMENT  OTHER     VOTING AUTHORITY
+           NAME OF ISSUER             TITLE OF CLASS   CUSIP   (x$1000)  PRN AMT  PRN CALL DISCRETION MANAGERS   SOLE    SHARED NONE
+------------------------------------- -------------- --------- -------- --------- --- ---- ---------- -------- --------- ------ ----
+<S>                                   <C>            <C>       <C>      <C>       <C> <C>  <C>        <C>      <C>       <C>    <C>
+ANHEUSER BUSCH INBEV SA/NV            SPONSORED ADR  03524A108   35,481   445,460 SH       SOLE                  445,460      0    0
+SPONSOREDADR
+BLACKROCK INC COM STK                 COM            09247X101   63,592   374,465 SH       SOLE                  374,465      0    0
+CHEESECAKE FACTORY INC COM            COM            163072101   25,992   813,280 SH       SOLE                  813,280      0    0
+COCA COLA CO COM                      COM            191216100   27,548   352,315 SH       SOLE                  352,315      0    0
+DIAGEO PLC SPONSORED ADR NEW          SPONSORED ADR  25243Q205   33,474   324,765 SH       SOLE                  324,765      0    0
+DISCOVERY COMMUNICATIONSINC A         COM            25470F104   20,736   384,005 SH       SOLE                  384,005      0    0
+DOMINOS PIZZA INC COM                 COM            25754A201   42,248 1,366,809 SH       SOLE                1,366,809      0    0
+DR PEPPER SNAPPLE GROUP INC COM STK   COM            26138E109   43,124   985,685 SH       SOLE                  985,685      0    0
+EBAY INC                              COM            278642103   62,908 1,497,451 SH       SOLE                1,497,451      0    0
+GOOGLE INC CL A                       CL A           38259P508   76,526   131,926 SH       SOLE                  131,926      0    0
+MACYS INC COM STK                     COM            55616P104   52,544 1,529,665 SH       SOLE                1,529,665      0    0
+MC DONALDS CORP COM                   COM            580135101   47,394   535,341 SH       SOLE                  535,341      0    0
+MCGRAW-HILL COS COM USD1              COM            580645109   14,411   320,250 SH       SOLE                  320,250      0    0
+MICROSOFT CORP COM                    COM            594918104   74,386 2,431,720 SH       SOLE                2,431,720      0    0
+NIELSEN HOLDINGS N V                  COM            N63218106   24,243   924,600 SH       SOLE                  924,600      0    0
+OPENTABLE INC                         COM            68372A104   21,675   481,550 SH       SOLE                  481,550      0    0
+SCHWAB CHARLES CORP COM NEW           COM            808513105   22,427 1,734,475 SH       SOLE                1,734,475      0    0
+SCRIPPS NETWORKS INTERACTIVE INC CL   CL A NEW       811065101   56,688   996,967 SH       SOLE                  996,967      0    0
+A COM STK
+TARGET CORP COM STK                   COM            87612E106   53,270   915,452 SH       SOLE                  915,452      0    0
+TIME WARNER INC USD0.01               COM NEW        887317303   70,499 1,831,130 SH       SOLE                1,831,130      0    0
+UNILEVER N V NEW YORK SHS NEW         SPONSORED ADR  904767704   33,655 1,009,145 SH       SOLE                1,009,145      0    0
+WALT DISNEY CO                        COM            254687106   65,288 1,346,149 SH       SOLE                1,346,149      0    0
+WILLIAMS SONOMA INC COM               COM            969904101   38,671 1,105,843 SH       SOLE                1,105,843      0    0
+</TABLE>
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

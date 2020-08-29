@@ -1,0 +1,341 @@
+<SEC-DOCUMENT>0001140361-16-076135.txt : 20160812
+<SEC-HEADER>0001140361-16-076135.hdr.sgml : 20160812
+<ACCEPTANCE-DATETIME>20160812143353
+ACCESSION NUMBER:		0001140361-16-076135
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20160630
+FILED AS OF DATE:		20160812
+DATE AS OF CHANGE:		20160812
+EFFECTIVENESS DATE:		20160812
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COURAGE CAPITAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001119376
+		IRS NUMBER:				621749393
+		STATE OF INCORPORATION:			TN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10362
+		FILM NUMBER:		161827765
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4400 HARDING ROAD
+		STREET 2:		SUITE 503
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37205
+		BUSINESS PHONE:		6157426280
+
+	MAIL ADDRESS:	
+		STREET 1:		4400 HARDING ROAD
+		STREET 2:		SUITE 503
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37205
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001119376</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2016</reportCalendarOrQuarter>
+      <filingManager>
+        <name>COURAGE CAPITAL MANAGEMENT LLC</name>
+        <address>
+          <com:street1>4400 HARDING ROAD</com:street1>
+          <com:street2>SUITE 503</com:street2>
+          <com:city>NASHVILLE</com:city>
+          <com:stateOrCountry>TN</com:stateOrCountry>
+          <com:zipCode>37205</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-10362</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Richard C. Patton</name>
+      <title>Chief Manager</title>
+      <phone>6153690110</phone>
+      <signature>Richard C. Patton</signature>
+      <city>Nashville</city>
+      <stateOrCountry>TN</stateOrCountry>
+      <signatureDate>08-12-2016</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>14</tableEntryTotal>
+      <tableValueTotal>178903</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">		<infoTable>
+			<nameOfIssuer>Alphabet Inc Class C Non-voting</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>02079K107</cusip>
+			<value>3393</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>4902</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>3393</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Antares Pharmaceuticals Ord Shs</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>036642106</cusip>
+			<value>473</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>450000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>473</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>BJ&apos;s restaurants Ord Shs</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>09180C106</cusip>
+			<value>4230</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>96510</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>4230</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Facebook Ord Shs</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>30303M102</cusip>
+			<value>1029</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>9000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>1029</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Forbes Energy Services Ord Shs</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>345143101</cusip>
+			<value>54</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>293059</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>54</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Market Vectors Gold Miners ETF</nameOfIssuer>
+			<titleOfClass>ETF</titleOfClass>
+			<cusip>57061R544</cusip>
+			<value>1563</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>56400</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>1563</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>North American Tankers Ltd</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>G65773106</cusip>
+			<value>2392</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>172200</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<putCall>Put</putCall>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>2392</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>SPDR Gold Shares ETF</nameOfIssuer>
+			<titleOfClass>ETF</titleOfClass>
+			<cusip>78463V107</cusip>
+			<value>2988</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>23625</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>2988</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>SPDR S&amp;P 500 ETF</nameOfIssuer>
+			<titleOfClass>ETF</titleOfClass>
+			<cusip>78462F103</cusip>
+			<value>250</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>1194</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>250</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>SPDR S&amp;P 500 ETF</nameOfIssuer>
+			<titleOfClass>ETF</titleOfClass>
+			<cusip>78462F103</cusip>
+			<value>87982</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>420000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<putCall>Put</putCall>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>87982</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Vanguard Scottsdale Bond Fund</nameOfIssuer>
+			<titleOfClass>ETF</titleOfClass>
+			<cusip>92206C870</cusip>
+			<value>501</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>5600</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>501</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Vereit Ord Shs</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>92339V100</cusip>
+			<value>9791</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>965600</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>9791</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>WalMart Stores Ord Shs</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>931142103</cusip>
+			<value>405</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>5550</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>405</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>Yahoo Ord Shs</nameOfIssuer>
+			<titleOfClass>Common</titleOfClass>
+			<cusip>984332106</cusip>
+			<value>63852</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>1700000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>63852</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

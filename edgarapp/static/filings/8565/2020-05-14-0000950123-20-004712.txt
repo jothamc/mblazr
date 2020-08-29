@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0000950123-20-004712.txt : 20200514
+<SEC-HEADER>0000950123-20-004712.hdr.sgml : 20200514
+<ACCEPTANCE-DATETIME>20200514060624
+ACCESSION NUMBER:		0000950123-20-004712
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200331
+FILED AS OF DATE:		20200514
+DATE AS OF CHANGE:		20200514
+EFFECTIVENESS DATE:		20200514
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COMMONWEALTH BANK OF AUSTRALIA
+		CENTRAL INDEX KEY:			0000008565
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMERCIAL BANKS, NEC [6029]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			C3
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14376
+		FILM NUMBER:		20875175
+
+	BUSINESS ADDRESS:	
+		STREET 1:		GROUND FLOOR, TOWER 1
+		STREET 2:		201 SUSSEX STREET
+		CITY:			SYDNEY, NSW
+		STATE:			C3
+		ZIP:			2000
+		BUSINESS PHONE:		(61-2) 9118 7208
+
+	MAIL ADDRESS:	
+		STREET 1:		GROUND FLOOR, TOWER 1
+		STREET 2:		201 SUSSEX STREET
+		CITY:			SYDNEY, NSW
+		STATE:			C3
+		ZIP:			2000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0000008565</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2020</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2020</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Commonwealth Bank of Australia</name>
+        <address>
+          <ns1:street1>GROUND FLOOR, TOWER 1</ns1:street1>
+          <ns1:street2>201 SUSSEX STREET</ns1:street2>
+          <ns1:city>SYDNEY, NSW</ns1:city>
+          <ns1:stateOrCountry>C3</ns1:stateOrCountry>
+          <ns1:zipCode>2000</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-14376</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Kara Nicholls</name>
+      <title>Company Secretary</title>
+      <phone>612-91187110</phone>
+      <signature>Kara Nicholls</signature>
+      <city>Sydney, NSW</city>
+      <stateOrCountry>C3</stateOrCountry>
+      <signatureDate>05-14-2020</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>5</otherIncludedManagersCount>
+      <tableEntryTotal>0</tableEntryTotal>
+      <tableValueTotal>0</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-14422</form13FFileNumber>
+            <name>Colonial Holding Company Ltd</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-14418</form13FFileNumber>
+            <name>Commonwealth Insurance Holdings Limited</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>3</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-14425</form13FFileNumber>
+            <name>Colonial First State Group Limited</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>4</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-14417</form13FFileNumber>
+            <name>Capital 121 Pty Ltd</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>5</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-14421</form13FFileNumber>
+            <name>Colonial First State Investments Limited</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<DESCRIPTION>INFORMATION TABLE FOR FORM 13F
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <infoTable>
+       <nameOfIssuer>0</nameOfIssuer>
+       <titleOfClass>0</titleOfClass>
+       <cusip>000000000</cusip>
+       <value>0</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>0</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>SOLE</investmentDiscretion>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

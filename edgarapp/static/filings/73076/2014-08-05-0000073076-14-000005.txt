@@ -1,0 +1,135 @@
+<SEC-DOCUMENT>0000073076-14-000005.txt : 20140805
+<SEC-HEADER>0000073076-14-000005.hdr.sgml : 20140805
+<ACCEPTANCE-DATETIME>20140805135448
+ACCESSION NUMBER:		0000073076-14-000005
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20140630
+FILED AS OF DATE:		20140805
+DATE AS OF CHANGE:		20140805
+EFFECTIVENESS DATE:		20140805
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORTHWESTERN MUTUAL LIFE INSURANCE CO
+		CENTRAL INDEX KEY:			0000073076
+		IRS NUMBER:				390509570
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-00229
+		FILM NUMBER:		141015577
+
+	BUSINESS ADDRESS:	
+		STREET 1:		720 E WISCONSIN AVENUE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+		BUSINESS PHONE:		4142992508
+
+	MAIL ADDRESS:	
+		STREET 1:		720 EAST WISCONSIN AVENUE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0000073076</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2014</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2014</reportCalendarOrQuarter>
+      <filingManager>
+        <name>NORTHWESTERN MUTUAL LIFE INSURANCE CO</name>
+        <address>
+          <com:street1>720 EAST WISCONSIN AVENUE</com:street1>
+          <com:city>MILWAUKEE</com:city>
+          <com:stateOrCountry>WI</com:stateOrCountry>
+          <com:zipCode>53202</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F COMBINATION REPORT</reportType>
+      <form13FFileNumber>028-00229</form13FFileNumber>
+      <otherManagersInfo>
+        <otherManager>
+          <form13FFileNumber>028-01096</form13FFileNumber>
+          <name>RUSSELL TRUST COMPANY</name>
+        </otherManager>
+        <otherManager>
+          <form13FFileNumber>028-01190</form13FFileNumber>
+          <name>FRANK RUSSELL COMPANY</name>
+        </otherManager>
+        <otherManager>
+          <form13FFileNumber>028-10206</form13FFileNumber>
+          <name>MASON STREET ADVISORS, LLC</name>
+        </otherManager>
+        <otherManager>
+          <form13FFileNumber>028-11160</form13FFileNumber>
+          <name>NORTHWESTERN MUTUAL WEALTH MANAGEMENT COMPANY</name>
+        </otherManager>
+        <otherManager>
+          <form13FFileNumber>028-06374</form13FFileNumber>
+          <name>NORTHWESTERN MUTUAL INVESTMENT SERVICES, LLC</name>
+        </otherManager>
+      </otherManagersInfo>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Ronald P. Joelson</name>
+      <title>Chief Investment Officer</title>
+      <phone>414-665-3766</phone>
+      <signature>Ronald P. Joelson</signature>
+      <city>Milwaukee</city>
+      <stateOrCountry>WI</stateOrCountry>
+      <signatureDate>08-05-2014</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>6</tableEntryTotal>
+      <tableValueTotal>41136</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>nml14q2.inftab.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><infoTable><nameOfIssuer>CHIMERIX INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>16934W106</cusip><value>622</value><shrsOrPrnAmt><sshPrnamt>28359</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>28359</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>CORNERSTONE ONDEMAND INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>21925Y103</cusip><value>263</value><shrsOrPrnAmt><sshPrnamt>5714</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>5714</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>GOGO INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>38046C109</cusip><value>6248</value><shrsOrPrnAmt><sshPrnamt>319449</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>319449</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>HORSEHEAD HLDG CORP</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>440694305</cusip><value>11686</value><shrsOrPrnAmt><sshPrnamt>640000</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>640000</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>NEWSTAR FINANCIAL INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>65251F105</cusip><value>21870</value><shrsOrPrnAmt><sshPrnamt>1555459</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>1555459</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>SOLARCITY CORP</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>83416T100</cusip><value>447</value><shrsOrPrnAmt><sshPrnamt>6337</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>6337</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable></informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

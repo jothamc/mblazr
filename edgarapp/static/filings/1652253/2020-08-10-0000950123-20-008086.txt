@@ -1,0 +1,128 @@
+<SEC-DOCUMENT>0000950123-20-008086.txt : 20200810
+<SEC-HEADER>0000950123-20-008086.hdr.sgml : 20200810
+<ACCEPTANCE-DATETIME>20200810171535
+ACCESSION NUMBER:		0000950123-20-008086
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200630
+FILED AS OF DATE:		20200810
+DATE AS OF CHANGE:		20200810
+EFFECTIVENESS DATE:		20200810
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Indigo Latam Management LLC
+		CENTRAL INDEX KEY:			0001652253
+		IRS NUMBER:				272992462
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-16995
+		FILM NUMBER:		201090305
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2525 E. CAMELBACK ROAD, SUITE 900
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85016
+		BUSINESS PHONE:		602-224-1500
+
+	MAIL ADDRESS:	
+		STREET 1:		2525 E. CAMELBACK ROAD, SUITE 900
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85016
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sec.gov/edgar/thirteenffiler">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags/>
+      <filer>
+        <credentials>
+          <cik>0001652253</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2020</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2020</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>Indigo Latam Management LLC</name>
+        <address>
+          <ns1:street1>2525 E. Camelback Road, Suite 900</ns1:street1>
+          <ns1:city>Phoenix</ns1:city>
+          <ns1:stateOrCountry>AZ</ns1:stateOrCountry>
+          <ns1:zipCode>85016</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-16995</form13FFileNumber>
+      <provideInfoForInstruction5>Y</provideInfoForInstruction5>
+      <additionalInformation>The filer exercises investment discretion over accounts that hold American Depositary Shares, which are evidenced by the ADRs listed on the information table.</additionalInformation>
+    </coverPage>
+    <signatureBlock>
+      <name>Kenneth E. Klingler</name>
+      <title>Chief Financial Officer</title>
+      <phone>602-224-1500</phone>
+      <signature>/s/ Kenneth E. Klingler</signature>
+      <city>Phoenix</city>
+      <stateOrCountry>AZ</stateOrCountry>
+      <signatureDate>08-10-2020</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>1</tableEntryTotal>
+      <tableValueTotal>73593</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>974.xml
+<DESCRIPTION>INFORMATION TABLE FOR FORM 13F
+<TEXT>
+<XML>
+<informationTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+  <infoTable>
+    <nameOfIssuer>CONTROLADORA VUELA CIA DE AV</nameOfIssuer>
+    <titleOfClass>SPON ADR RP 10</titleOfClass>
+    <cusip>21240E105</cusip>
+    <value>73593</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>139380930</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>139380930</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

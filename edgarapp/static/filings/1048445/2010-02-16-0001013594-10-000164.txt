@@ -1,0 +1,275 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KwxdGAIo08UeiWI/tQfDoyukjxzkXfchsHETwU/nJ39m8znEw3lwbLroJFFTcKTQ
+ K9A/53G5EWGsas4x9AiMnw==
+
+<SEC-DOCUMENT>0001013594-10-000164.txt : 20100216
+<SEC-HEADER>0001013594-10-000164.hdr.sgml : 20100215
+<ACCEPTANCE-DATETIME>20100216135914
+ACCESSION NUMBER:		0001013594-10-000164
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20091231
+FILED AS OF DATE:		20100216
+DATE AS OF CHANGE:		20100216
+EFFECTIVENESS DATE:		20100216
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ELLIOTT MANAGEMENT CORP
+		CENTRAL INDEX KEY:			0001048445
+		IRS NUMBER:				133798650
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-05115
+		FILM NUMBER:		10606075
+
+	BUSINESS ADDRESS:	
+		STREET 1:		712 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212506299
+
+	MAIL ADDRESS:	
+		STREET 1:		712 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STONINGTON MANAGEMENT CORP
+		DATE OF NAME CHANGE:	19971024
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>elliott13fhr-021610.txt
+<DESCRIPTION>FEBRUARY 16, 2010
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:  December 31, 2009
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one):              [  ] is a restatement
+                                              [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:      Elliott Management Corporation
+Address:   712 Fifth Avenue, 36th floor
+           New York, NY 10019
+
+13F File Number:  28-5115
+
+The institutional  investment  manager filing this report and the person by whom
+it is signed hereby  represent that the person signing this report is authorized
+to  submit  it,  that all  information  contained  herein is true,  correct  and
+complete,  and  that  it is  understood  that  all  reqired  items,  statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Paul Singer
+Phone:     212-974-6000
+Signature, Place, and Date of Signing:
+
+/s/ Paul Singer       New York, New York      February 16, 2010
+- ---------------       ------------------      -----------------
+  Signature              City, State              Date
+
+
+Report Type (Check only one.):
+
+[ X ]        13F HOLDINGS REPORT.
+
+[   ]        13F NOTICE.
+
+[   ]        13F COMBINATION REPORT.
+
+
+List of Other Managers Reporting for this Manager:
+
+
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES AND EXCHANGE ACT OF 1934.
+
+<PAGE>
+                              FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:            2
+
+Form 13F Information Table Entry Total:       126
+
+Form 13F Information Table Value Total:       $1,023,069
+
+
+
+List of Other Included Managers:
+
+ No.  13F File Number     Name
+ 01   28-4724             ELLIOTT ASSOCIATES, L.P.
+ 02   28-6628             ELLIOTT INTERNATIONAL, L.P.
+
+<PAGE>
+<TABLE>
+
+                                              FORM 13F INFORMATION TABLE
+<CAPTION>
+                               TITLE OF                       VALUE    SHARES/     SH/  PUT/ INVSTMT   OTHER      VOTING AUTHORITY
+NAME OF ISSUER                  CLASS                CUSIP    (x$1000) PRN AMT     PRN  CALL DSCRETN  MANAGERS SOLE   SHARED    NONE
+<S>                            <C>                   <C>       <C>     <C>         <C>  <C>  <C>        <C>    <C>    <C>
+- -----------------------------------------------------------------------------------------------------------------------------------
+ALLIANT TECHSYSTEMS INC        NOTE 3.000% 8/1       018804AK   3,512   2,800,000  PRN       DEFINED    01     0       2,800,000
+AMERICAN MED SYS HLDGS INC     NOTE 4.000% 9/1       02744MAB   1,889   1,554,000  PRN       DEFINED    01     0       1,554,000
+AMYLIN PHARMACEUTICALS INC     NOTE 3.000% 6/1       032346AF   3,114   4,000,000  PRN       DEFINED    01     0       4,000,000
+AVI BIOPHARMA INC              COM                   02346104      29      20,000  SHS       DEFINED    01     0          20,000
+BERKSHIRE HATHAWAY INC DEL     CL A                  84670108   8,531          86  SHS       DEFINED    01     0              86
+BIODELIVERY SCIENCES INTL IN   COM                   09060J10     854     217,219  SHS       DEFINED    01     0         217,219
+BOARDWALK PIPELINE PARTNERS    UT LTD PARTNER        96627104   5,255     175,000  SHS       DEFINED    01     0         175,000
+CAL DIVE INTL INC              NOTE 3.250%12/1       127914AB   2,712   3,000,000  PRN       DEFINED    01     0       3,000,000
+CIENA CORP                     NOTE 0.875% 6/1       171779AE     692   1,200,000  PRN       DEFINED    01     0       1,200,000
+COHERENT INC                   COM                   19247910   5,574     187,471  SHS       DEFINED    01     0         187,471
+COMPUWARE CORP                 COM                   20563810   1,591     220,000  SHS       DEFINED    01     0         220,000
+D R HORTON INC                 NOTE 2.000% 5/1       23331ABB   8,850   8,000,000  PRN       DEFINED    01     0       8,000,000
+DOLE FOOD CO INC NEW           COM                   25660310     776      62,500  SHS       DEFINED    01     0          62,500
+DRYSHIPS INC.                  NOTE 5.000%12/0       262498AB   2,040   2,000,000  PRN       DEFINED    01     0       2,000,000
+E M C CORP MASS                NOTE 1.750%12/0       268648AM   8,715   7,000,000  PRN       DEFINED    01     0       7,000,000
+ENDO PHARMACEUTICALS HLDGS I   NOTE 1.750% 4/1       29264FAA   8,325   9,000,000  PRN       DEFINED    01     0       9,000,000
+ENDOLOGIX INC                  COM                   29266S10  12,057   2,292,222  SHS       DEFINED    01     0       2,292,222
+EPICOR SOFTWARE CORP           NOTE 2.375% 5/1       29426LAA  20,839  24,516,000  PRN       DEFINED    01     0      24,516,000
+EPICOR SOFTWARE CORP           COM                   29426L10  26,624   3,494,001  SHS       DEFINED    01     0       3,494,001
+FLAGSTAR BANCORP INC           COM                   33793010     144     239,999  SHS       DEFINED    01     0         239,999
+FORD MTR CO DEL                NOTE 4.250%11/1       345370CN   9,343   7,400,000  PRN       DEFINED    01     0       7,400,000
+FRONTEER DEV GROUP INC         COM                   35903Q10   1,231     312,000  SHS       DEFINED    01     0         312,000
+GAP INC DEL                    COM                   36476010     850      40,555  SHS       DEFINED    01     0          40,555
+GENERAL MOLY INC               COM                   37037310   1,151     553,349  SHS       DEFINED    01     0         553,349
+IMMERSION CORP                 COM                   45252110     811     177,766  SHS       DEFINED    01     0         177,766
+INGERSOLL-RAND GLOBAL HLDG C   NOTE 4.500% 4/1       45687AAD  44,785  21,800,000  PRN       DEFINED    01     0      21,800,000
+INTERNATIONAL COAL GRP INC N   NOTE 9.000% 8/0       45928HAD   1,317   1,200,000  PRN       DEFINED    01     0       1,200,000
+ISHARES TR                     PUT                                          6,660  SHS  P    DEFINED    01     0           6,660
+ISHARES TR INDEX               RUSSELL 2000          46428765   8,887     142,325  SHS       DEFINED    01     0         142,325
+JANUS CAP GROUP INC            NOTE 3.250% 7/1       47102XAG   6,494   5,400,000  PRN       DEFINED    01     0       5,400,000
+JEFFERIES GROUP INC NEW        DBCV 3.875%11/0 ADDED 472319AG   1,777   1,800,000  PRN       DEFINED    01     0       1,800,000
+KING PHARMACEUTICALS INC       NOTE 1.250% 4/0       495582AJ   1,479   1,600,000  PRN       DEFINED    01     0       1,600,000
+KOHLS CORP                     COM                   50025510     854      15,838  SHS       DEFINED    01     0          15,838
+LIFEPOINT HOSPITALS INC        NOTE 3.500% 5/1       53219LAH   8,084   8,682,000  PRN       DEFINED    01     0       8,682,000
+LOEWS CORP                     COM                   54042410  16,721     460,000  SHS       DEFINED    01     0         460,000
+MENTOR GRAPHICS CORP           COM                   58720010  10,775   1,220,302  SHS       DEFINED    01     0       1,220,302
+MICROCHIP TECHNOLOGY INC       SDCV 2.125%12/1       595017AB   2,027   2,000,000  PRN       DEFINED    01     0       2,000,000
+MOHAWK INDS INC                PUT                                            600  SHS  P    DEFINED    01     0             600
+MYLAN INC                      PFD CONV              62853020  56,700      49,500  SHS       DEFINED    01     0          49,500
+NAVISTAR INTL CORP NEW         NOTE 3.000%10/1       63934EAL   2,688   2,600,000  PRN       DEFINED    01     0       2,600,000
+OMNICARE INC                   DBCV 3.250%12/1       681904AL  15,628  19,000,000  PRN       DEFINED    01     0      19,000,000
+PACIFIC RIM MNG CORP           COM NEW               69491520     154     854,075  SHS       DEFINED    01     0         854,075
+PARKER DRILLING CO             NOTE 2.125% 7/1       701081AR   7,220   8,000,000  PRN       DEFINED    01     0       8,000,000
+PETROHAWK ENERGY CORP          COM                   71649510   4,318     180,000  SHS       DEFINED    01     0         180,000
+PIONEER NAT RES CO             NOTE 2.875% 1/1       723787AH  18,970  17,921,600  PRN       DEFINED    01     0      17,921,600
+POWERSHARES QQQ TRUST          PUT                                          4,660  SHS  P    DEFINED    01     0           4,660
+PROTEIN DESIGN LABS INC        NOTE 2.000% 2/1       74369LAF   3,069   3,200,000  PRN       DEFINED    01     0       3,200,000
+QWEST COMMUNICATIONS INTL IN   NOTE 3.500%11/1       749121BY  15,126  14,600,000  PRN       DEFINED    01     0      14,600,000
+RIVERBED TECHNOLOGY INC        COM                   76857310   4,364     190,000  SHS       DEFINED    01     0         190,000
+ROSS STORES INC                COM                   77829610     855      20,010  SHS       DEFINED    01     0          20,010
+SIMON PPTY GROUP INC NEW       PUT                                          4,000  SHS  P    DEFINED    01     0           4,000
+SK TELECOM LTD                 SPONSORED ADR         78440P10   5,824     358,200  SHS       DEFINED    01     0         358,200
+SMITHFIELD FOODS INC           NOTE 4.000% 6/3       832248AR   8,831   9,000,000  PRN       DEFINED    01     0       9,000,000
+SPDR SERIES TRUST              PUT                                          3,160  SHS  P    DEFINED    01     0           3,160
+STEEL DYNAMICS INC             NOTE 5.125% 6/1       858119AP   5,095   4,000,000  PRN       DEFINED    01     0       4,000,000
+STERLITE INDS INDIA LTD        NOTE 4.000%10/3       859737AB   1,888   1,800,000  PRN       DEFINED    01     0       1,800,000
+SYNOPSYS INC                   CALL                                         1,000  SHS  C    DEFINED    01     0           1,000
+SYNOPSYS INC                   COM                   87160710   6,461     289,999  SHS       DEFINED    01     0         289,999
+TEXTRON INC                    NOTE 4.500% 5/0       883203BN   3,211   2,000,000  PRN       DEFINED    01     0       2,000,000
+TJX COS INC NEW                COM                   87254010     856      23,427  SHS       DEFINED    01     0          23,427
+UNITED STATES STL CORP NEW     NOTE 4.000% 5/1       912909AE  42,621  22,800,000  PRN       DEFINED    01     0      22,800,000
+V F CORP                       COM                   91820410     914      12,481  SHS       DEFINED    01     0          12,481
+VALE CAP II                    GTD CV 6.75%12        91912F20   2,093      25,000  PRN       DEFINED    01     0          25,000
+VALEANT PHARMACEUTICALS INTL   NOTE 3.000% 8/1       91911XAB   2,414   2,200,000  PRN       DEFINED    01     0       2,200,000
+ALLIANT TECHSYSTEMS INC        NOTE 3.000% 8/1       018804AK   5,269   4,200,000  PRN       DEFINED    02     0       4,200,000
+AMERICAN MED SYS HLDGS INC     NOTE 4.000% 9/1       02744MAB   2,833   2,331,000  PRN       DEFINED    02     0       2,331,000
+AMYLIN PHARMACEUTICALS INC     NOTE 3.000% 6/1       032346AF   4,671   6,000,000  PRN       DEFINED    02     0       6,000,000
+AVI BIOPHARMA INC              COM                   2346104       44      30,000  SHS       DEFINED    02     0          30,000
+BERKSHIRE HATHAWAY INC DEL     CL A                  84670108  13,094         132  SHS       DEFINED    02     0             132
+BIODELIVERY SCIENCES INTL IN   COM                   09060J10     544     138,328  SHS       DEFINED    02     0         138,328
+CAL DIVE INTL INC              NOTE 3.250%12/1       127914AB   4,067   4,500,000  PRN       DEFINED    02     0       4,500,000
+CIENA CORP                     NOTE 0.875% 6/1       171779AE   1,038   1,800,000  PRN       DEFINED    02     0       1,800,000
+CIT GROUP INC                  COM NEW               12558180     223       8,085  SHS       DEFINED    02     0           8,085
+COHERENT INC                   COM                   19247910   8,360     281,204  SHS       DEFINED    02     0         281,204
+COMPUWARE CORP                 COM                   20563810   2,386     330,000  SHS       DEFINED    02     0         330,000
+D R HORTON INC                 NOTE 2.000% 5/1       23331ABB  13,275  12,000,000  PRN       DEFINED    02     0      12,000,000
+DOLE FOOD CO INC NEW           COM                   25660310     776      62,500  SHS       DEFINED    02     0          62,500
+DRYSHIPS INC.                  NOTE 5.000%12/0       262498AB   3,060   3,000,000  PRN       DEFINED    02     0       3,000,000
+E M C CORP MASS                NOTE 1.750%12/0       268648AM  13,073  10,500,000  PRN       DEFINED    02     0      10,500,000
+ENDO PHARMACEUTICALS HLDGS I   NOTE 1.750% 4/1       29264FAA  12,488  13,500,000  PRN       DEFINED    02     0      13,500,000
+ENDOLOGIX INC                  COM                   29266S10  18,086   3,438,338  SHS       DEFINED    02     0       3,438,338
+EPICOR SOFTWARE CORP           NOTE 2.375% 5/1       29426LAA  31,258  36,774,000  PRN       DEFINED    02     0      36,774,000
+EPICOR SOFTWARE CORP           COM                   29426L10  39,936   5,240,999  SHS       DEFINED    02     0       5,240,999
+FLAGSTAR BANCORP INC           COM                   33793010     216     360,001  SHS       DEFINED    02     0         360,001
+FORD MTR CO DEL                NOTE 4.250%11/1       345370CN  14,014  11,100,000  PRN       DEFINED    02     0      11,100,000
+FRONTEER DEV GROUP INC         COM                   35903Q10   1,846     468,000  SHS       DEFINED    02     0         468,000
+GAP INC DEL                    COM                   36476010   1,274      60,832  SHS       DEFINED    02     0          60,832
+GENERAL MOLY INC               COM                   37037310   1,726     830,034  SHS       DEFINED    02     0         830,034
+IMMERSION CORP                 COM                   45252110   1,216     266,649  SHS       DEFINED    02     0         266,649
+INGERSOLL-RAND GLOBAL HLDG C   NOTE 4.500% 4/1       45687AAD  67,177  32,700,000  PRN       DEFINED    02     0      32,700,000
+INTERNATIONAL COAL GRP INC N   NOTE 9.000% 8/0       45928HAD   1,975   1,800,000  PRN       DEFINED    02     0       1,800,000
+ISHARES TR                     PUT                                          9,990  SHS  P    DEFINED    02     0           9,990
+ISHARES TR INDEX               RUSSELL 2000          46428765  13,330     213,487  SHS       DEFINED    02     0         213,487
+JANUS CAP GROUP INC            NOTE 3.250% 7/1       47102XAG   9,741   8,100,000  PRN       DEFINED    02     0       8,100,000
+JEFFERIES GROUP INC NEW        DBCV 3.875%11/0 ADDED 472319AG   2,665   2,700,000  PRN       DEFINED    02     0       2,700,000
+KING PHARMACEUTICALS INC       NOTE 1.250% 4/0       495582AJ   2,218   2,400,000  PRN       DEFINED    02     0       2,400,000
+KOHLS CORP                     COM                   50025510   1,281      23,758  SHS       DEFINED    02     0          23,758
+LIFEPOINT HOSPITALS INC        NOTE 3.500% 5/1       53219LAH  12,125  13,023,000  PRN       DEFINED    02     0      13,023,000
+LOEWS CORP                     COM                   54042410  25,082     690,000  SHS       DEFINED    02     0         690,000
+MENTOR GRAPHICS CORP           COM                   58720010  15,972   1,808,797  SHS       DEFINED    02     0       1,808,797
+MICROCHIP TECHNOLOGY INC       SDCV 2.125%12/1       595017AB   3,040   3,000,000  PRN       DEFINED    02     0       3,000,000
+MOHAWK INDS INC                PUT                                            900  SHS  P    DEFINED    02     0             900
+NAVISTAR INTL CORP NEW         NOTE 3.000%10/1       63934EAL   4,032   3,900,000  PRN       DEFINED    02     0       3,900,000
+OMNICARE INC                   DBCV 3.250%12/1       681904AL  23,441  28,500,000  PRN       DEFINED    02     0      28,500,000
+PACIFIC RIM MNG CORP           COM NEW               69491520     154     854,110  SHS       DEFINED    02     0         854,110
+PARKER DRILLING CO             NOTE 2.125% 7/1       701081AR  10,830  12,000,000  PRN       DEFINED    02     0      12,000,000
+PETROHAWK ENERGY CORP          COM                   71649510   6,477     270,000  SHS       DEFINED    02     0         270,000
+PIONEER NAT RES CO             NOTE 2.875% 1/1       723787AH  28,455  26,882,400  PRN       DEFINED    02     0      26,882,400
+POWERSHARES QQQ TRUST          PUT                                          6,990  SHS  P    DEFINED    02     0           6,990
+PROTEIN DESIGN LABS INC        NOTE 2.000% 2/1       74369LAF   4,604   4,800,000  PRN       DEFINED    02     0       4,800,000
+QWEST COMMUNICATIONS INTL IN   NOTE 3.500%11/1       749121BY  22,688  21,900,000  PRN       DEFINED    02     0      21,900,000
+RIVERBED TECHNOLOGY INC        COM                   76857310   6,546     285,000  SHS       DEFINED    02     0         285,000
+ROSS STORES INC                COM                   77829610   1,282      30,014  SHS       DEFINED    02     0          30,014
+SIMON PPTY GROUP INC NEW       PUT                                          6,000  SHS  P    DEFINED    02     0           6,000
+SK TELECOM LTD                 SPONSORED ADR         78440P10   8,736     537,300  SHS       DEFINED    02     0         537,300
+SMITHFIELD FOODS INC           NOTE 4.000% 6/3       832248AR  13,247  13,500,000  PRN       DEFINED    02     0      13,500,000
+SPDR SERIES TRUST              PUT                                          4,740  SHS  P    DEFINED    02     0           4,740
+STEEL DYNAMICS INC             NOTE 5.125% 6/1       858119AP   7,643   6,000,000  PRN       DEFINED    02     0       6,000,000
+STERLITE INDS INDIA LTD        NOTE 4.000%10/3       859737AB   2,832   2,700,000  PRN       DEFINED    02     0       2,700,000
+SYNOPSYS INC                   CALL                                         1,500  SHS  C    DEFINED    02     0           1,500
+SYNOPSYS INC                   COM                   87160710   9,692     435,001  SHS       DEFINED    02     0         435,001
+TEXTRON INC                    NOTE 4.500% 5/0       883203BN   4,816   3,000,000  PRN       DEFINED    02     0       3,000,000
+TJX COS INC NEW                COM                   87254010   1,284      35,141  SHS       DEFINED    02     0          35,141
+UNITED STATES STL CORP NEW     NOTE 4.000% 5/1       912909AE  63,932  34,200,000  PRN       DEFINED    02     0      34,200,000
+V F CORP                       COM                   91820410   1,371      18,722  SHS       DEFINED    02     0          18,722
+VALEANT PHARMACEUTICALS INTL   NOTE 3.000% 8/1       91911XAB   3,621   3,300,000  PRN       DEFINED    02     0       3,300,000
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

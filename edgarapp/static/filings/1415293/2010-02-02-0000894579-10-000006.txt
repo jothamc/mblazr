@@ -1,0 +1,161 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WOlG8je1ynovaAdDXNB1IsmHTrTprn2pcwuhe2BfRuO8RaseM19/AQ3OFBsnm+Jd
+ zVxstmv1MwgT7xb8Ksj7Pg==
+
+<SEC-DOCUMENT>0000894579-10-000006.txt : 20100202
+<SEC-HEADER>0000894579-10-000006.hdr.sgml : 20100202
+<ACCEPTANCE-DATETIME>20100202125043
+ACCESSION NUMBER:		0000894579-10-000006
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20091231
+FILED AS OF DATE:		20100202
+DATE AS OF CHANGE:		20100202
+EFFECTIVENESS DATE:		20100202
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sloane Robinson LLP
+		CENTRAL INDEX KEY:			0001415293
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12596
+		FILM NUMBER:		10565950
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 ST DUNSTANS HILL
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC3R 8ND
+		BUSINESS PHONE:		00442079298842
+
+	MAIL ADDRESS:	
+		STREET 1:		20 ST DUNSTANS HILL
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC3R 8ND
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>sr13fhr012810.txt
+<DESCRIPTION>FORM 13F-HR SLOANE ROBINSON LLP
+<TEXT>
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                     Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:  December 31, 2009
+
+Check here if Amendment [  ];     Amendment Number: ___
+This Amendment (Check only one):     [   ] is a restatement.
+                                     [   ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name: Sloane Robinson LLP
+Address: 20 St Dunstan's Hill, London, EC3R 8ND
+
+Form 13F File Number: 28-12596
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Tanya Farrell
+Title:     Head of Legal and Compliance
+Phone:     +44 207 929 8839
+
+Signature, Place, and Date of Signing:
+
+
+
+/s/ Tanya Farrell          London, England          February 1, 2010
+- -----------------          ---------------          ----------------
+Signature                    City, State                  Date
+
+Report Type     (Check only one):
+
+[X]     13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+        manager are reported in this report.)
+
+[ ]     13F NOTICE.  (Check here if no holdings reported are in this report, and
+        all holdings are reported by other reporting manager(s).)
+
+[ ]     13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+        this reporting manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager: None
+
+<PAGE>
+                             Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:          nil
+
+Form 13F Information Table Entry Total:     17
+
+Form 13F Information Table Value Total:     $434,764
+                                           (thousands)
+<PAGE>
+                              SLOANE ROBINSON LLP
+
+                           Form 13F Information Table
+
+<TABLE>
+<CAPTION>
+
+
+
+<S>                               <C>               <C>        <C>      <C>        <C> <C>  <C>        <C>    <C>      <C>     <C>
+NAME                              TITLE OF CLASS    CUSIP      VALUE    SHRS OR    SH/ PUT/ INVESTMENT  OTHER    VOTING AUTHORITY
+                                                               X$1000   OR PRN     PRN CALL DISCRETION MANAGERS SOLE   SHARED   NONE
+                                                                        AMOUNT
+- ------------------------------    --------------    ---------  -------  ---------  --- ---- ---------- -------- ----   ------   ----
+AMERICA MOVIL SAB DE CV           SPON ADR L SHS    02364W105   52,773  1,123,311  SH          SOLE           1,123,311
+ANGLOGOLD ASHANTI LTD             SPONSORED ADR     035128206   71,649  1,783,200  SH          SOLE           1,783,200
+BAIDU INC                         SPON ADR REP A    056752108      164        400  SH          SOLE                 400
+BARRICK GOLD CORP                      COM          067901108   18,446    468,400  SH          SOLE             468,400
+CTRIP COM INTL LTD                     ADR          22943F100      151      2,100  SH          SOLE               2,100
+DESARROLLADORA HOMEX S A DE       SPONSORED ADR     25030W100   12,520    372,400  SH          SOLE             372,400
+GAFISA S A                        SPONS ADR         362607301    7,168    221,500  SH          SOLE             221,500
+GOLD FIELDS LTD                   SPONSORED ADR     38059T106   31,695  2,417,600  SH          SOLE           2,417,600
+ITAU UNIBANCO HLDG SA             SPON ADR REP PFD  465562106  120,009  5,254,319  SH          SOLE           5,254,319
+MICROSOFT CORP                         COM          594918104    3,995    131,074  SH          SOLE             131,074
+MOBILE TELESYSTEMS OJSC           SPONSORED ADR     607409109      821     16,800  SH          SOLE              16,800
+NEW ORIENTAL ED & TECH GRP I      SPON ADR          647581107   32,180    425,600  SH          SOLE             425,600
+PETROLEO BRASILEIRO SA PETRO      SPONSORED ADR     71654V408   47,256    991,100  SH          SOLE             991,100
+SHANDA INTERACTIVE ENTMT LTD      SPONSORED ADR     81941Q203      137      2,600  SH          SOLE               2,600
+TELEFONOS DE MEXICO S A B         SPON ADR ORD L    879403780    1,777    107,200  SH          SOLE             107,200
+TEVA PHARMACEUTICAL INDS LTD           ADR          881624209   32,107    571,500  SH          SOLE             571,500
+VALE S A                               ADR          91912E105    1,916     66,000  SH          SOLE              66,000
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

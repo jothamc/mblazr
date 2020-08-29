@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0000894579-12-000305.txt : 20121106
+<SEC-HEADER>0000894579-12-000305.hdr.sgml : 20121106
+<ACCEPTANCE-DATETIME>20121106132421
+ACCESSION NUMBER:		0000894579-12-000305
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120930
+FILED AS OF DATE:		20121106
+DATE AS OF CHANGE:		20121106
+EFFECTIVENESS DATE:		20121106
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sloane Robinson LLP
+		CENTRAL INDEX KEY:			0001415293
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12596
+		FILM NUMBER:		121182577
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 ST DUNSTAN'S HILL
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC3R 8ND
+		BUSINESS PHONE:		00442079292771
+
+	MAIL ADDRESS:	
+		STREET 1:		20 ST DUNSTAN'S HILL
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC3R 8ND
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>sr13f110612.txt
+<DESCRIPTION>FORM 13F-HR
+<TEXT>
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:  September 30, 2012
+
+Check here if Amendment [  ];     Amendment Number: ___
+This Amendment (Check only one):     [   ] is a restatement.
+                                     [   ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name: Sloane Robinson LLP
+Address: 20 St Dunstan's Hill, London, EC3R 8ND
+
+Form 13F File Number: 28-12596
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      John Cutler
+
+Title:     Head of Legal and Compliance
+
+Phone:     +44 207 929 2771
+
+
+Signature, Place, and Date of Signing:
+
+
+/s/ John Cutler              London, England            6th November 2012
+-----------------            ---------------            -----------------
+Signature                    City, State                Date
+
+Report Type     (Check only one):
+
+[X]   13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+      manager are reported in this report.)
+
+[ ]   13F NOTICE.  (Check here if no holdings reported are in this report, and
+      all holdings are reported by other reporting manager(s).)
+
+[ ]   13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+      this reporting manager are reported in this report and a portion are
+      reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager: None
+
+
+<PAGE>
+                             Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:                nil
+
+Form 13F Information Table Entry Total:           34
+
+Form 13F Information Table Value Total:           $146,375
+                                                  (thousands)
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+<S>                            <C>             <C>        <C>     <C>            <C>   <C>   <C>        <C>   <C>      <C>     <C>
+                                                                  Total number
+                                Title                      Value   of shares     SH/   Put/  Investment  Other
+Name of issuer                 of Class          CUSIP     x$1000     held       PRN   Call  Discretion Managers Sole  Shared  None
+----------------------------   --------        ---------   ------ ------------   ---   ----  ---------- -------- ----  ------  ----
+AIRMEDIA GROUP INC             SPONSORED ADR   009411109   1,011      163,200    SH             SOLE            163,200
+APPLE INC                      COM             037833100      64          100    SH             SOLE                100
+ARCHER DANIELS MIDLAND CO      COM             039483102     138        5,000    SH             SOLE              5,000
+BARCLAYS BANK PLC              ETN DJUBS
+                               AGRI37          06739H206   1,073       18,300    SH             SOLE             18,300
+CHECK POINT SOFTWARE TECH LT   ORD             M22465104     170        3,000    SH             SOLE              3,000
+COMPANHIA DE BEBIDAS DAS AME   SPONSORED
+                               ADR PFD         20441W203     626       16,400    SH             SOLE             16,400
+FOMENTO ECONOMICO MEXICANO     SPONSORED
+                               ADR UNITS       344419106     932       13,600    SH             SOLE             13,600
+HALLIBURTON CO                 COM             406216101   6,868      187,800    SH             SOLE            187,800
+ISHARES INC MSCI HONG KONG     ETF             464286871      58        3,300    SH             SOLE              3,300
+ISHARES TR BARCLYS TIPS BD     ETF             464287176     213        1,800    SH             SOLE              1,800
+ISHARES TR MSCI EMERG MKT      ETF             464287234   4,293      108,052    SH             SOLE            108,052
+JOY GLOBAL INC                 COM             481165108   1,353       24,000    SH             SOLE             24,000
+MARKET VECTORS ETF TR AGRIBUS  ETF             57060U605     417        8,200    SH             SOLE              8,200
+MARKET VECTORS ETF TR VIETNAM  ETF             57060U761     127        6,700    SH             SOLE              6,700
+MEAD JOHNSON NUTRITION CO      COM             582839106      15          200    SH             SOLE                200
+MECHEL OAO                     SPON ADR PFD    583840509     234       34,139    SH             SOLE             34,139
+MELCO CROWN ENTMT LTD          ADR             585464100      14        1,100    SH             SOLE              1,100
+MICROSOFT CORP                 COM             594918104     296        9,700    SH             SOLE              9,700
+MINDRAY MEDICAL INTL LTD       SPONSORED ADR   602675100      28          800    SH             SOLE                800
+MOBILE TELESYSTEMS OJSC        SPONSORED ADR   607409109      89        5,000    SH             SOLE              5,000
+MOSAIC CO                      NEW COM         61945C103     163        3,000    SH             SOLE              3,000
+NATIONAL OILWELL VARCO INC     COM             637071101  29,621      384,500    SH             SOLE            384,500
+NEW ORIENTAL ED & TECH GRP I   SPONSORED ADR   647581107  17,982      855,300    SH             SOLE            855,300
+NEWMONT MINING CORP            COM             651639106     246        4,800    SH             SOLE              4,800
+NEWS CORP                      CLA             65248E104  27,181    1,314,100    SH             SOLE          1,314,100
+NICE SYS LTD                   SPONSORED ADR   653656108     151        4,700    SH             SOLE              4,700
+QIHOO 360 TECHNOLOGY CO LTD    ADS             74734M109     655       30,000    SH             SOLE             30,000
+RYDER SYS INC                  COM             783549108     151        3,700    SH             SOLE              3,700
+SAFEWAY INC                    COM NEW         786514208     147        8,900    SH             SOLE              8,900
+SINA CORP                      ORD             G81477104     398        6,300    SH             SOLE              6,300
+TAIWAN SEMICONDUCTOR MFG LTD   SPONSORED ADR   874039100   1,124       72,200    SH             SOLE             72,200
+VIRGIN MEDIA INC               COM             92769L101   5,281      206,800    SH             SOLE            206,800
+YANDEX N V                     SHS CLASS A     N97284108  13,921      658,500    SH             SOLE            658,500
+YUM BRANDS INC                 COM             988498101  31,335      472,600    SH             SOLE            472,600
+
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

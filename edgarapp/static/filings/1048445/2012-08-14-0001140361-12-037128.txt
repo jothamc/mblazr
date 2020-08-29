@@ -1,0 +1,257 @@
+<SEC-DOCUMENT>0001140361-12-037128.txt : 20120814
+<SEC-HEADER>0001140361-12-037128.hdr.sgml : 20120814
+<ACCEPTANCE-DATETIME>20120814170803
+ACCESSION NUMBER:		0001140361-12-037128
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120630
+FILED AS OF DATE:		20120814
+DATE AS OF CHANGE:		20120814
+EFFECTIVENESS DATE:		20120814
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ELLIOTT MANAGEMENT CORP
+		CENTRAL INDEX KEY:			0001048445
+		IRS NUMBER:				133798650
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-05115
+		FILM NUMBER:		121034150
+
+	BUSINESS ADDRESS:	
+		STREET 1:		40 WEST 57TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212-974-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		40 WEST 57TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STONINGTON MANAGEMENT CORP
+		DATE OF NAME CHANGE:	19971024
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>form13fhr.txt
+<DESCRIPTION>NONE
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+                               Form 13F COVER PAGE
+Report for the Calendar Year or Quarter Ended: 6/30/2012
+Check here if Amendment []; Amendment Number:
+                                               -------
+This Amendment (Check only one.):               [] is a restatement.
+                                                [] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+
+Name:      Elliott Management Corporation
+
+Address:   40 West 57th Street
+           New York, New York 10019
+
+
+Form 13F File Number: 28-5115
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this submission.
+
+Persons Signing this Report on Behalf of Reporting Manager:
+
+Name:   Paul Singer
+Title:  &nbsp;
+Phone:  212-974-6000
+
+Signature,  Place,  and  Date  of  Signing:
+
+/s/ Paul Singer                    New York, New York                 8/14/2012
+---------------------------------  ---------------------------------  ----------
+[Signature]                        [City, State]                      [Date]
+
+
+
+Report  Type  (Check  only  one):
+
+[X]     13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+        manager are reported in this report.)
+
+[ ]     13F NOTICE. (Check here if no holdings reported are in this report,
+        and all holdings are reported by other reporting manager(s).)
+
+[ ]     13F COMBINATION REPORT. (Check here if a portion of the holdings for
+        this reporting manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+
+
+
+<PAGE>
+                              Form 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:                    2
+
+Form 13F Information Table Entry Total:              87
+
+Form 13F Information Table Value Total:  $    3,156,843
+                                         --------------
+                                         (In Thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+No.   Form 13F File Number  Name
+
+01    28-4724               ELLIOTT ASSOCIATES, L.P.
+----  --------------------  ----------------------------------------------------
+02    28-6628               ELLIOTT INTERNATIONAL, L.P.
+----  --------------------  ----------------------------------------------------
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+          COLUMN 1               COLUMN 2     COLUMN 3  COLUMN 4      COLUMN 5        COLUMN 6  COLUMN 7       COLUMN 8
+---------------------------- ---------------- --------- -------- ------------------- ---------- -------- --------------------
+                                                         VALUE    SHRS OR   SH/ PUT/ INVESTMENT  OTHER     VOTING AUTHORITY
+       NAME OF ISSUER         TITLE OF CLASS    CUSIP   (x$1000)  PRN AMT   PRN CALL DISCRETION MANAGERS SOLE   SHARED   NONE
+---------------------------- ---------------- --------- -------- ---------- --- ---- ---------- -------- ---- ---------- ----
+<S>                          <C>              <C>       <C>      <C>        <C> <C>  <C>        <C>      <C>  <C>        <C>
+AMYLIN PHARMACEUTICALS INC   COM              32346108     7,181    254,386 SH       DEFINED    01          0    254,386    0
+AVON PRODS INC               COM              54303102     1,418     87,500 SH  CALL DEFINED    01          0     87,500    0
+BMC SOFTWARE INC             COM              55921100   156,280  3,661,680 SH       DEFINED    01          0  3,661,680    0
+BROCADE COMMUNICATIONS SYS I COM NEW          111621306   71,946 14,593,563 SH       DEFINED    01          0 14,593,563    0
+CADENCE DESIGN SYSTEM INC    NOTE 2.625% 6/0  127387AJ7    3,299  2,125,000 PRN      DEFINED    01          0  2,125,000    0
+CHINA GROWTH EQUITY INV LTD  *W EXP 99/99/999 G2114K123       20     40,000 SH       DEFINED    01          0     40,000    0
+COMPUWARE CORP               COM              205638109   27,963  3,010,016 SH       DEFINED    01          0  3,010,016    0
+CORMEDIX INC                 COM              21900C100       65    312,576 SH       DEFINED    01          0    312,576    0
+CORMEDIX INC                 *W EXP 03/24/201 21900C118        0    156,288 SH       DEFINED    01          0    156,288    0
+CORONADO BIOSCIENCES         COM              21976U109    6,555  1,305,948 SH       DEFINED    01          0  1,305,948    0
+DICKS SPORTING GOODS INC     COM              253393102    2,486     51,800 SH       DEFINED    01          0     51,800    0
+DELPHI AUTOMOTIVE PLC        SHS              G27823106  307,983 12,077,796 SH       DEFINED    01          0 12,077,796    0
+EMULEX CORP                  COM              292475209    8,449  1,173,513 SH       DEFINED    01          0  1,173,513    0
+ENERGY XXI (BERMUDA) LTD     USD UNRS SHS     G10082140   36,142  1,155,439 SH       DEFINED    01          0  1,155,439    0
+FLAGSTONE REINSURANCE HOLDIN COM              L3466T104   19,311  2,410,902 SH       DEFINED    01          0  2,410,902    0
+FORD MTR CO DEL              *W EXP 01/01/201 345370134      448    400,000 SH       DEFINED    01          0    400,000    0
+GENERAL MTRS CO              *W EXP 07/10/201 37045V118    1,558    141,430 SH       DEFINED    01          0    141,430    0
+GENERAL MTRS CO              *W EXP 07/10/201 37045V126      958    141,430 SH       DEFINED    01          0    141,430    0
+HARTFORD FINL SVCS GROUP INC *W EXP 06/26/201 416515120    1,421    140,000 SH       DEFINED    01          0    140,000    0
+ISHARES  TR                  S&P 100 IDX FD   464287101   39,087    491,300 SH  PUT  DEFINED    01          0    491,300    0
+JUNIPER NETWORKS INC         COM              48203R104    7,114    436,200 SH  CALL DEFINED    01          0    436,200    0
+LINCOLN NATL CORP IND        *W EXP 07/10/201 534187117      195     14,000 SH       DEFINED    01          0     14,000    0
+MCMORAN EXPLORATION CO       COM              582411104    3,707    292,647 SH       DEFINED    01          0    292,647    0
+MEL CO CROWN ENTMT LTD       ADR              585464100   28,859  2,507,357 SH       DEFINED    01          0  2,507,357    0
+MITEL NETWORK CORP           COM              60671Q104    2,548    576,490 SH       DEFINED    01          0    576,490    0
+NEOSTEM INC                  COM              640650305       77    157,639 SH       DEFINED    01          0    157,639    0
+NIKE INC                     CL B             654106103    2,488     28,350 SH       DEFINED    01          0     28,350    0
+NEWS CORP                    CL B             65248E104   78,542  3,490,783 SH       DEFINED    01          0  3,490,783    0
+ORACLE CORP                  COM              68389X105    4,395    148,000 SH  PUT  DEFINED    01          0    148,000    0
+POWERSHARES QQQ TRUST        COM              73935A104   63,325    987,000 SH  PUT  DEFINED    01          0    987,000    0
+QLOGIC CORP                  COM              747277101    6,571    480,036 SH       DEFINED    01          0    480,036    0
+QUEST SOFTWARE INC           COM              74834T103    3,202    115,021 SH       DEFINED    01          0    115,021    0
+SANDRIDGE ENERGY INC         COM              80007P307   17,919  2,678,611 SH       DEFINED    01          0  2,678,611    0
+SANDRIDGE ENERGY INC         COM              80007P307   11,884  1,776,500 SH  PUT  DEFINED    01          0  1,776,500    0
+SPDR S&P 500 ETF TR          TR UNIT          78462F103  142,910  1,050,000 SH  PUT  DEFINED    01          0  1,050,000    0
+SPRINT NEXTEL CORP           COM SER 1        852061100   10,554  3,237,500 SH  PUT  DEFINED    01          0  3,237,500    0
+UNITED STATES STL CORP NEW   NOTE 4.000% 5/1  912909AE8    4,780  4,725,000 PRN      DEFINED    01          0  4,725,000    0
+UNITED STATES STL CORP NEW   COM              912909108      181      8,800 SH  PUT  DEFINED    01          0      8,800    0
+VENTRUS BIOSCIENCES INC      COM              922822101    2,086    490,863 SH       DEFINED    01          0    490,863    0
+VIRGIN MEDIA INC             NOTE 6.5% 11/1   92769LAB7    6,148  4,125,000 PRN      DEFINED    01          0  4,125,000    0
+VMWARE INC                   CL A COM         928563402   15,932    175,000 SH       DEFINED    01          0    175,000    0
+VMWARE INC                   CL A COM         928563402   15,932    175,000 SH  PUT  DEFINED    01          0    175,000    0
+ZIONS BANCORPORATION         *W EXP 5/22/202  989701115      404    146,000 SH       DEFINED    01          0    146,000    0
+SPDR SERIES TRUST            S&P HOMEBUILD    78464A888    3,361    157,500 SH  PUT  DEFINED    01          0    157,500    0
+AMYLIN PHARMACEUTICALS INC   COM              32346108    13,336    472,429 SH       DEFINED    02          0    472,429    0
+AVON PRODS INC               COM              54303102     2,634    162,500 SH  CALL DEFINED    02          0    162,500    0
+BMC SOFTWARE INC             COM              55921100   288,402  6,757,320 SH       DEFINED    02          0  6,757,320    0
+BROCADE COMMUNICATIONS SYS I COM NEW          111621306  131,909 26,756,437 SH       DEFINED    02          0 26,756,437    0
+CADENCE DESIGN SYSTEM INC    NOTE 2.625% 6/0  127387AJ7    4,463  2,875,000 PRN      DEFINED    02          0  2,875,000    0
+CHINA GROWTH EQUITY INV LTD  *W EXP 99/99/999 G2114K123       30     60,000 SH       DEFINED    02          0     60,000    0
+COMPUWARE CORP               COM              205638109   51,930  5,589,984 SH       DEFINED    02          0  5,589,984    0
+CORMEDIX INC                 COM              21900C100       98    468,864 SH       DEFINED    02          0    468,864    0
+CORMEDIX INC                 *W EXP 03/24/201 21900C118        -    234,432 SH       DEFINED    02          0    234,432    0
+CORONADO BIOSCIENCES         COM              21976U109   12,175  2,425,331 SH       DEFINED    02          0  2,425,331    0
+DICKS SPORTING GOODS INC     COM              253393102    4,617     96,200 SH       DEFINED    02          0     96,200    0
+DELPHI AUTOMOTIVE PLC        SHS              G27823106  571,969 22,430,193 SH       DEFINED    02          0 22,430,193    0
+EMULEX CORP                  COM              292475209   15,691  2,179,362 SH       DEFINED    02          0  2,179,362    0
+ENERGY XXI (BERMUDA) LTD     USD UNRS SHS     G10082140   67,120  2,145,795 SH       DEFINED    02          0  2,145,795    0
+FLAGSTONE REINSURANCE HOLDIN COM              L3466T104   30,018  3,747,588 SH       DEFINED    02          0  3,747,588    0
+FORD MTR CO DEL              *W EXP 01/01/201 345370134      672    600,000 SH       DEFINED    02          0    600,000    0
+</TABLE>
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+          COLUMN 1               COLUMN 2     COLUMN 3  COLUMN 4      COLUMN 5        COLUMN 6  COLUMN 7       COLUMN 8
+---------------------------- ---------------- --------- -------- ------------------- ---------- -------- --------------------
+                                                         VALUE    SHRS OR   SH/ PUT/ INVESTMENT  OTHER     VOTING AUTHORITY
+       NAME OF ISSUER         TITLE OF CLASS    CUSIP   (x$1000)  PRN AMT   PRN CALL DISCRETION MANAGERS SOLE   SHARED   NONE
+---------------------------- ---------------- --------- -------- ---------- --- ---- ---------- -------- ---- ---------- ----
+<S>                          <C>              <C>       <C>      <C>        <C> <C>  <C>        <C>      <C>  <C>        <C>
+GENERAL MTRS CO              *W EXP 07/10/201 37045V118    2,894    262,654 SH       DEFINED    02          0    262,654    0
+GENERAL MTRS CO              *W EXP 07/10/201 37045V126    1,780    262,654 SH       DEFINED    02          0    262,654    0
+HARTFORD FINL SVCS GROUP INC *W EXP 06/26/201 416515120    2,131    210,000 SH       DEFINED    02          0    210,000    0
+ISHARES  TR                  S&P 100 IDX FD   464287101   64,244    912,700 SH  PUT  DEFINED    02          0    912,700    0
+JUNIPER NETWORKS INC         COM              48203R104   13,273    813,800 SH  CALL DEFINED    02          0    813,800    0
+LINCOLN NATL CORP IND        *W EXP 07/10/201 534187117      293     21,000 SH       DEFINED    02          0     21,000    0
+MCMORAN EXPLORATION CO       COM              582411104    6,885    543,488 SH       DEFINED    02          0    543,488    0
+MEL CO CROWN ENTMT LTD       ADR              585464100   53,596  4,656,543 SH       DEFINED    02          0  4,656,543    0
+MITEL NETWORK CORP           COM              60671Q104    4,348    983,810 SH       DEFINED    02          0    983,810    0
+NIKE INC                     CL B             654106103    4,621     52,650 SH       DEFINED    02          0     52,650    0
+ORACLE CORP                  COM              68389X105    8,167    275,000 SH  PUT  DEFINED    02          0    275,000    0
+NEWS CORP                    CL B             65248E104  137,238  6,099,493 SH       DEFINED    02          0  6,099,493    0
+POWERSHARES QQQ TRUST        COM              73935A104  117,605  1,833,000 SH  PUT  DEFINED    02          0  1,833,000    0
+QLOGIC CORP                  COM              747277101   12,229    893,331 SH       DEFINED    02          0    893,331    0
+QUEST SOFTWARE INC           COM              74834T103    5,946    213,607 SH       DEFINED    02          0    213,607    0
+SANDRIDGE ENERGY INC         COM              80007P307   33,279  4,974,565 SH       DEFINED    02          0  4,974,565    0
+SANDRIDGE ENERGY INC         COM              80007P307   22,071  3,299,200 SH  PUT  DEFINED    02          0  3,299,200    0
+SPDR S&P 500 ETF TR          TR UNIT          78462F103  265,404  1,950,000 SH  PUT  DEFINED    02          0  1,950,000    0
+SPRINT NEXTEL CORP           COM SER 1        852061100   19,600  6,012,500 SH  PUT  DEFINED    02          0  6,012,500    0
+UNITED STATES STL CORP NEW   NOTE 4.000% 5/1  912909AE8    8,877  8,775,000 PRN      DEFINED    02          0  8,775,000    0
+UNITED STATES STL CORP NEW   COM              912909108      333     16,200 SH  PUT  DEFINED    02          0     16,200    0
+VENTRUS BIOSCIENCES INC      COM              922822101    3,129    736,295 SH       DEFINED    02          0    736,295    0
+VIRGIN MEDIA INC             NOTE 6.5% 11/1   92769LAB7    8,757  5,875,000 PRN      DEFINED    02          0  5,875,000    0
+VMWARE INC                   CL A COM         928563402   29,588    325,000 SH       DEFINED    02          0    325,000    0
+VMWARE INC                   CL A COM         928563402    2,958    325,000 SH  PUT  DEFINED    02          0    325,000    0
+ZIONS BANCORPORATION         *W EXP 5/22/202  989701115      606    219,000 SH       DEFINED    02          0    219,000    0
+SPDR SERIES TRUST            S&P HOMEBUILD    78464A888    6,243    292,500 SH  PUT  DEFINED    02          0    292,500    0
+</TABLE>
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

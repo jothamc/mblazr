@@ -1,0 +1,117 @@
+<SEC-DOCUMENT>0001766908-19-000001.txt : 20190212
+<SEC-HEADER>0001766908-19-000001.hdr.sgml : 20190212
+<ACCEPTANCE-DATETIME>20190212094036
+ACCESSION NUMBER:		0001766908-19-000001
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20181231
+FILED AS OF DATE:		20190212
+DATE AS OF CHANGE:		20190212
+EFFECTIVENESS DATE:		20190212
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ShawSpring Partners LLC
+		CENTRAL INDEX KEY:			0001766908
+		IRS NUMBER:				454472028
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-19108
+		FILM NUMBER:		19588098
+
+	BUSINESS ADDRESS:	
+		STREET 1:		171 NEWBURY STREET
+		STREET 2:		SUITE 4
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		6173104877
+
+	MAIL ADDRESS:	
+		STREET 1:		171 NEWBURY STREET
+		STREET 2:		SUITE 4
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001766908</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2018</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2018</reportCalendarOrQuarter>
+      <filingManager>
+        <name>ShawSpring Partners LLC</name>
+        <address>
+          <com:street1>171 NEWBURY STREET</com:street1>
+          <com:street2>SUITE 4</com:street2>
+          <com:city>BOSTON</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02116</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-19108</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Paul Lashway</name>
+      <title>Chief Financial Officer &amp; Chief Compliance Officer</title>
+      <phone>617 310 4877</phone>
+      <signature>Paul Lashway</signature>
+      <city>Boston</city>
+      <stateOrCountry>MA</stateOrCountry>
+      <signatureDate>02-12-2019</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>3</tableEntryTotal>
+      <tableValueTotal>96631</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>ShawSpring_Form13F_Q4.inftab.xml
+<DESCRIPTION>INFO TABLE
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><infoTable><nameOfIssuer>CARVANA CO</nameOfIssuer><titleOfClass>CL A</titleOfClass><cusip>146869102</cusip><value>22762</value><shrsOrPrnAmt><sshPrnamt>695861</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>695861</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>IAC INTERACTIVECORP</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>44919P508</cusip><value>46193</value><shrsOrPrnAmt><sshPrnamt>252363</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>252363</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>JD COM INC</nameOfIssuer><titleOfClass>Spon ADR CL A</titleOfClass><cusip>47215P106</cusip><value>27676</value><shrsOrPrnAmt><sshPrnamt>1322297</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager> </otherManager><votingAuthority><Sole>1322297</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable></informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

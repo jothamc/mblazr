@@ -1,0 +1,180 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IdhX2vtitcJCtk8u5RRyHjvzKalBjStT/Cd7umd+gWmBkEF8sHJ8gku4Uk4KQCbB
+ jiyiTXk7HgBv06/k5Miu9g==
+
+<SEC-DOCUMENT>0001140361-11-003569.txt : 20110120
+<SEC-HEADER>0001140361-11-003569.hdr.sgml : 20110120
+<ACCEPTANCE-DATETIME>20110120164937
+ACCESSION NUMBER:		0001140361-11-003569
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20101231
+FILED AS OF DATE:		20110120
+DATE AS OF CHANGE:		20110120
+EFFECTIVENESS DATE:		20110120
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HS Management Partners, LLC
+		CENTRAL INDEX KEY:			0001455253
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13328
+		FILM NUMBER:		11539136
+
+	BUSINESS ADDRESS:	
+		STREET 1:		598 MADISON AVE, 14TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			11791
+		BUSINESS PHONE:		212-888-0060
+
+	MAIL ADDRESS:	
+		STREET 1:		598 MADISON AVE, 14TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			11791
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>form13fhr.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+                               Form 13F COVER PAGE
+Report for the Calendar Year or Quarter Ended: 12/31/2010
+Check here if Amendment []; Amendment Number:
+                                               -------
+This Amendment (Check only one.):               [] is a restatement.
+                                                [] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+
+Name:      HS Management Partners, LLC
+
+Address:   598 Madison Ave; 14th Floor
+           New York, NY  10022
+
+
+Form 13F File Number: 028-13328
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Persons Signing this Report on Behalf of Reporting Manager:
+
+Name:   Ronald R. Staib
+Title:  CCCO/SVP
+Phone:  212-823-0576
+
+Signature,  Place,  and  Date  of  Signing:
+
+/s/ Ronald R. Staib                New York, NY 10022                 1/20/2011
+- ---------------------------------  ---------------------------------  ----------
+[Signature]                        [City, State]                      [Date]
+
+
+
+Report  Type  (Check  only  one):
+
+[X]     13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+        manager are reported in this report.)
+
+[ ]     13F NOTICE. (Check here if no holdings reported are in this report,
+        and all holdings are reported by other reporting manager(s).)
+
+[ ]     13F COMBINATION REPORT. (Check here if a portion of the holdings for
+        this reporting manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+
+
+
+<PAGE>
+                              Form 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:                    0
+
+Form 13F Information Table Entry Total:              23
+
+Form 13F Information Table Value Total:  $      506,551
+                                         --------------
+                                         (In Thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+NONE
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+              COLUMN 1                   COLUMN 2    COLUMN 3  COLUMN 4      COLUMN 5       COLUMN 6  COLUMN 7       COLUMN 8
+- ------------------------------------- -------------- --------- -------- ------------------ ---------- -------- ---------------------
+                                                                VALUE    SHRS OR  SH/ PUT/ INVESTMENT  OTHER     VOTING AUTHORITY
+           NAME OF ISSUER             TITLE OF CLASS   CUSIP   (x$1000)  PRN AMT  PRN CALL DISCRETION MANAGERS   SOLE    SHARED NONE
+- ------------------------------------- -------------- --------- -------- --------- --- ---- ---------- -------- --------- ------ ----
+<S>                                   <C>            <C>       <C>      <C>       <C> <C>  <C>        <C>      <C>       <C>    <C>
+3M CO COM                             COM            88579Y101   31,981   370,575 SH       SOLE                  370,575      0    0
+ADOBE SYSTEMS INC                     COM            00724F101   31,574 1,025,790 SH       SOLE                1,025,790      0    0
+AMAZON COM INC                        COM            23135106    11,051    61,395 SH       SOLE                   61,395      0    0
+ANHEUSER BUSCH INBEV SA/NV            SPONSORED ADR  03524A108   21,951   384,495 SH       SOLE                  384,495      0    0
+SPONSOREDADR
+COCA COLA CO COM                      COM            191216100   24,156   367,275 SH       SOLE                  367,275      0    0
+COSTCO WHOLESALE CORP NEW COM         COM            22160K105   10,466   144,943 SH       SOLE                  144,943      0    0
+DIAGEO PLC SPONSORED ADR NEW          SPONSORED ADR  25243Q205   24,951   335,680 SH       SOLE                  335,680      0    0
+EBAY INC                              COM            278642103   15,119   543,266 SH       SOLE                  543,266      0    0
+GARTNER INC COM                       COM            366651107    1,174    35,375 SH       SOLE                   35,375      0    0
+GOOGLE INC CLASS A                    COM            38259P508   26,820    45,153 SH       SOLE                   45,153      0    0
+H J HEINZ                             COM            423074103   17,523   354,285 SH       SOLE                  354,285      0    0
+HANESBRANDS INC                       COM            410345102   25,513 1,004,465 SH       SOLE                1,004,465      0    0
+HASBRO INC COM                        COM            418056107   16,651   352,930 SH       SOLE                  352,930      0    0
+KELLOGG CO COM USD0.25                COM            487836108   20,943   410,010 SH       SOLE                  410,010      0    0
+MC DONALDS CORP                       COM            580135101   26,730   348,230 SH       SOLE                  348,230      0    0
+SCOTTS MIRACLE-GRO CLASS'A'COM NPV    COM            810186106   16,087   316,860 SH       SOLE                  316,860      0    0
+SCRIPPS NETWORKS INTERACTIVE INC CL   COM            808513105   16,794   324,515 SH       SOLE                  324,515      0    0
+A COM STK
+TARGET CORP COM STK                   COM            811065101   32,061   533,197 SH       SOLE                  533,197      0    0
+TIME WARNER INC USD0.01               COM            887317303   36,077 1,121,461 SH       SOLE                1,121,461      0    0
+UNILEVER N V NEW YORK SHS NEW         SPONSORED ADR  887317105   27,935   889,645 SH       SOLE                  889,645      0    0
+WALGREEN CO COM                       COM            931422109   21,593   554,240 SH       SOLE                  554,240      0    0
+WALT DISNEY CO                        COM            904767704   27,848   742,425 SH       SOLE                  742,425      0    0
+WESTERN UNION CO                      COM            959802109   21,553 1,160,632 SH       SOLE                1,160,632      0    0
+</TABLE>
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,347 @@
+<SEC-DOCUMENT>0000950123-14-002692.txt : 20140214
+<SEC-HEADER>0000950123-14-002692.hdr.sgml : 20140214
+<ACCEPTANCE-DATETIME>20140214170645
+ACCESSION NUMBER:		0000950123-14-002692
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20131231
+FILED AS OF DATE:		20140214
+DATE AS OF CHANGE:		20140214
+EFFECTIVENESS DATE:		20140214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RED MOUNTAIN CAPITAL PARTNERS LLC
+		CENTRAL INDEX KEY:			0001374588
+		IRS NUMBER:				731726370
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13680
+		FILM NUMBER:		14618941
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10100 SANTA MONICA BOULEVARD
+		STREET 2:		SUITE 925
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+		BUSINESS PHONE:		(310) 432-0207
+
+	MAIL ADDRESS:	
+		STREET 1:		10100 SANTA MONICA BOULEVARD
+		STREET 2:		SUITE 925
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001374588</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2013</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2013</reportCalendarOrQuarter>
+      <filingManager>
+        <name>RED MOUNTAIN CAPITAL PARTNERS LLC</name>
+        <address>
+          <ns1:street1>10100 SANTA MONICA BOULEVARD</ns1:street1>
+          <ns1:street2>SUITE 925</ns1:street2>
+          <ns1:city>LOS ANGELES</ns1:city>
+          <ns1:stateOrCountry>CA</ns1:stateOrCountry>
+          <ns1:zipCode>90067</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-13680</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Willem Mesdag</name>
+      <title>Authorized Signatory</title>
+      <phone>(310) 432-0200</phone>
+      <signature>/s/ Willem Mesdag</signature>
+      <city>Los Angeles</city>
+      <stateOrCountry>CA</stateOrCountry>
+      <signatureDate>02-14-2014</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>1</otherIncludedManagersCount>
+      <tableEntryTotal>13</tableEntryTotal>
+      <tableValueTotal>334205</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>28-13678</form13FFileNumber>
+            <name>RMCP GP LLC</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<DESCRIPTION>INFORMATION TABLE FOR FORM 13F
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <infoTable>
+       <nameOfIssuer>AIR TRANSPORT SERVICES GRP I</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>00922R105</cusip>
+       <value>90223</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>11152425</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1</otherManager>
+       <votingAuthority>
+           <Sole>11152425</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>ANDERSONS INC</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>034164103</cusip>
+       <value>16973</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>190340</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1</otherManager>
+       <votingAuthority>
+           <Sole>190340</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>BRAVO BRIO RESTAURANT GROUP</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>10567B109</cusip>
+       <value>29990</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>1843281</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1</otherManager>
+       <votingAuthority>
+           <Sole>1843281</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>DESTINATION XL GROUP INC</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>25065K104</cusip>
+       <value>31786</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>4838054</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1</otherManager>
+       <votingAuthority>
+           <Sole>4838054</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>ENCORE CAP GROUP INC</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>292554102</cusip>
+       <value>66948</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>1332036</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1</otherManager>
+       <votingAuthority>
+           <Sole>1332036</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>GLOBAL CASH ACCESS HLDGS INC</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>378967103</cusip>
+       <value>6523</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>653000</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1</otherManager>
+       <votingAuthority>
+           <Sole>653000</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>HAWAIIAN TELCOM HOLDCO INC</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>420031106</cusip>
+       <value>3040</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>103509</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1</otherManager>
+       <votingAuthority>
+           <Sole>103509</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>MARLIN BUSINESS SVCS CORP</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>571157106</cusip>
+       <value>32045</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>1271608</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1</otherManager>
+       <votingAuthority>
+           <Sole>1271608</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>NATURAL GAS SERVICES GROUP</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>63886Q109</cusip>
+       <value>3403</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>123427</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1</otherManager>
+       <votingAuthority>
+           <Sole>123427</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>NATURES SUNSHINE PRODUCTS IN</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>639027101</cusip>
+       <value>42189</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>2435877</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1</otherManager>
+       <votingAuthority>
+           <Sole>2435877</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>QUALITY DISTR INC FLA</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>74756M102</cusip>
+       <value>2854</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>222443</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1</otherManager>
+       <votingAuthority>
+           <Sole>222443</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>RADNET INC</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>750491102</cusip>
+       <value>1739</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>1041218</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1</otherManager>
+       <votingAuthority>
+           <Sole>1041218</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>STR HLDGS INC</nameOfIssuer>
+       <titleOfClass>COM</titleOfClass>
+       <cusip>78478V100</cusip>
+       <value>6492</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>4134982</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1</otherManager>
+       <votingAuthority>
+           <Sole>4134982</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

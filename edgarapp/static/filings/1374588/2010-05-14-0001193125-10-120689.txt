@@ -1,0 +1,175 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ppu/5Y2/eTOX/UWU0SdFf7Kc8/S0/0SJJ/9RuXV/xtl48YhHQoIJ6riGqVs4oam0
+ 8K6cR1ebzR8PvYKEugNAVA==
+
+<SEC-DOCUMENT>0001193125-10-120689.txt : 20100514
+<SEC-HEADER>0001193125-10-120689.hdr.sgml : 20100514
+<ACCEPTANCE-DATETIME>20100514161049
+ACCESSION NUMBER:		0001193125-10-120689
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100331
+FILED AS OF DATE:		20100514
+DATE AS OF CHANGE:		20100514
+EFFECTIVENESS DATE:		20100514
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RED MOUNTAIN CAPITAL PARTNERS LLC
+		CENTRAL INDEX KEY:			0001374588
+		IRS NUMBER:				731726370
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13680
+		FILM NUMBER:		10833486
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10100 SANTA MONICA BOULEVARD, SUITE 925
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+		BUSINESS PHONE:		(310) 432-0207
+
+	MAIL ADDRESS:	
+		STREET 1:		10100 SANTA MONICA BOULEVARD, SUITE 925
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d13fhr.txt
+<DESCRIPTION>FORM 13F HOLDINGS REPORT
+<TEXT>
+<PAGE>
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+
+                               FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: March 31, 2010
+
+Check here if Amendment [_]; Amendment Number: _______
+
+      This Amendment (Check only one): [_] is a restatement.
+                                       [_] adds new holdings entries.
+
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Red Mountain Capital Partners LLC
+Address: 10100 Santa Monica Boulevard, Suite 925
+         Los Angeles, California  90067
+
+Form 13F File Number: 28- 13680
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:  Willem Mesdag
+Title: Authorized Signatory
+Phone: (310) 432-0200
+
+Signature, Place, and Date of Signing:
+
+/s/ Willem Mesdag                          Los Angeles, CA    May 14, 2010
+- ----------------------------------------   ----------------   -----------------
+[Signature]                                [City, State]         [Date]
+
+
+Report Type (Check only one):
+
+[X]   13F HOLDINGS REPORT. (Check here if all holdings of this reporting manager
+      are reported in this report.)
+
+[_]   13F NOTICE. (Check here if no holdings reported are in this report, and
+      all holdings are reported by other reporting manager(s).)
+
+[_]   13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+      reporting manager are reported in this report and a portion are reported
+      by other reporting manager(s).)
+
+<PAGE>
+
+
+                              FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:                          1
+                                        ----------------------------------
+
+Form 13F Information Table Entry Total:                     8
+                                        ----------------------------------
+
+Form 13F Information Table Value Total:               $128,956
+                                        ----------------------------------
+                                                    (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+      No.        Form 13F File Number           Name
+
+      1          28- 13678                      RMCP GP LLC
+      ---        -----------------              --------------------------------
+
+<PAGE>
+
+
+                           FORM 13F INFORMATION TABLE
+
+<TABLE>
+<CAPTION>
+        COLUMN 1               COLUMN 2    COLUMN 3  COLUMN 4       COLUMN 5        COLUMN 6  COLUMN 7         COLUMN 8
+- -------------------------  --------------- --------- -------- -------------------- ---------- -------- ------------------------
+                                                                                                           VOTING AUTHORITY
+                                                      VALUE     SHRS OR   SH/ PUT/ INVESTMENT  OTHER   ------------------------
+NAME OF ISSUER             TITLE OF CLASS    CUSIP   (X$1000)   PRN AMT   PRN CALL DISCRETION MANAGERS     SOLE     SHARED NONE
+- -------------------------  --------------- --------- -------- ----------- --- ---- ---------- -------- ----------- ------- ----
+<S>                           <C>          <C>       <C>      <C>         <C> <C>  <C>          <C>    <C>         <C>     <C>
+AFFIRMATIVE INSURANCE
+HLDGS INC                     COM          008272106    4,018     854,818 SH       DEFINED       1         854,818     0     0
+AIR TRANSPORT SERVICE
+GRP I                         COM          00922R105   28,039   8,382,230 SH       DEFINED       1       8,382,230     0     0
+CORNELL COMPANIES INC         COM          219141108    1,685      92,008 SH       DEFINED       1          92,008     0     0
+COST PLUS INC CALIF           COM          221485105    5,712   2,759,461 SH       DEFINED       1       2,759,461     0     0
+ENCORE CAP GROUP INC          COM          292554102   56,507   3,435,062 SH       DEFINED       1       3,435,062     0     0
+MARLIN BUSINESS SVCS CORP     COM          571157106   10,560   1,040,374 SH       DEFINED       1       1,040,374     0     0
+NATURES SUNSHINE
+PRODUCTS IN                   COM          639027101   10,975   1,317,474 SH       DEFINED       1       1,317,474     0     0
+WEST COAST BANCORP ORE
+NEW                           COM          952145100   11,460   4,441,700 SH       DEFINED       1       4,441,700     0     0
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
