@@ -147,5 +147,5 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 # To access filings
 STATICFILES_DIRS = [
-    ('filings', '/mnt/filings/files/'),
+    ('filings', '../../mnt/filings/files/'),
 ]
