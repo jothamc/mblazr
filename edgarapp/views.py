@@ -107,7 +107,10 @@ def SearchResultsView(request):
         if aLast == bLast:
           # first check jaccard index to speed up algo, threshold of .65
           b = set([s for s in personB if s != "," and s != "." and s != " "])
-          jaccard = float(len(a.intersection(b)) / len(a.union(b)))
+          if (len(a.union(b)) != 0):
+            jaccard = float(len(a.intersection(b)) / len(a.union(b)))
+          else:
+            jaccard = 1
           # print(personA, personB, jaccard)
           if (jaccard > 0.65):
             # run Ratcliff-Obershel for further matching, threshold of .75 and prevent self-match
@@ -205,7 +208,10 @@ def SearchFilingView(request):
         if aLast == bLast:
           # first check jaccard index to speed up algo, threshold of .65
           b = set([s for s in personB if s != "," and s != "." and s != " "])
-          jaccard = float(len(a.intersection(b)) / len(a.union(b)))
+          if (len(a.union(b)) != 0):
+            jaccard = float(len(a.intersection(b)) / len(a.union(b)))
+          else:
+            jaccard = 1
           # print(personA, personB, jaccard)
           if (jaccard > 0.65):
             # run Ratcliff-Obershel for further matching, threshold of .75 and prevent self-match

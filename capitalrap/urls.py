@@ -18,7 +18,7 @@ from django.urls import include, path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('edgarapp.urls')),
+    path('', include('edgarapp.urls'))
 ]
 
 handler404 = 'edgarapp.views.handler404'

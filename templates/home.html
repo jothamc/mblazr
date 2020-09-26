@@ -5,7 +5,7 @@
 {% load static %}
 
 {% block head %}
-  <title>Capital Rap</title>
+  <title>mBlazr</title>
   <script src="../../static/bootstrap/js/typeahead.bundle.min.js"></script>
   <script src="../../static/bootstrap/js/handlebars.js"></script>
   <script type="text/javascript">
@@ -14,6 +14,13 @@
       var tickers = new Bloodhound({
         datumTokenizer: Bloodhound.tokenizers.obj.whitespace('ticker'),
         queryTokenizer: Bloodhound.tokenizers.whitespace,
+        sorter: function(a, b) {
+          if (String(a.ticker) < String(b.ticker)) {
+            return -1;
+          } else if (String(a.ticker) > String(b.ticker)) {
+            return 1;
+          } else return 0;
+        },
         prefetch: {
           url: "{% static 'bootstrap/js/tickers.json' %}",
           ttl: 1 // in milliseconds
@@ -46,6 +53,9 @@
       $('.typeahead').keyup(function(e) {
         if ( !(e.key === "Enter") && !(e.key === "ArrowUp") && !(e.key === "ArrowDown")) {
           $('#myBtn').prop('disabled', true);
+        }
+        if (e.key === "Enter") {
+          $('.tt-selectable').first().click();
         }
       });
 
@@ -110,8 +120,9 @@
     <!------------------------------------------>
     <div class="jumbotron">
       <h2>&nbsp;</h2>
-      <center><h2>Search SEC Filings</h2>
-      <p class="lead">An easy financial tool to look up company filings, including 10-K, 10-Q, 8-K, and Proxy Statements.</p></center>
+      <center><h2>Your Fundamental Analysis Tool</h2>
+      <p class="lead">An easy way to read company filings including 10-K, 10-Q and Proxy statements.</p>
+      <p class="lead">Take a test drive with Home Depot (HD)</p></center>
       <!--searchBar-->
       <div class="row">
         <div class="col-sm-3"></div>
@@ -141,30 +152,30 @@
 
     <!----------- Tool Features ---------------->
     <!------------------------------------------>
-    <div class="bs-docs-section">
+    <!--<div class="bs-docs-section">
       <div class="page-header">
       </div>
-      <div class="row">
+      <div class="row">-->
         <!--1st column-->
-        <div class="col-sm-4">
+        <!--<div class="col-sm-4">
           <h4><center>Easy access sec filings</center></h4>
           <p>Nullam quis risus eget <a href="#">urna mollis ornare</a> vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula.</p>
           <p><small>This line of text is meant to be treated as fine print.</small></p>
           <p>The following snippet of text is <strong>rendered as bold text</strong>.</p>
           <p>The following snippet of text is <em>rendered as italicized text</em>.</p>
           <p>An abbreviation of the word attribute is <abbr title="attribute">attr</abbr>.</p>
-        </div>
+        </div>-->
         <!--2nd column-->
-        <div class="col-sm-4" style="background-color:lavenderblush;">
+        <!--<div class="col-sm-4" style="background-color:lavenderblush;">
           <h4><center>Clear analytics</center></h4>
           <p>Nullam quis risus eget <a href="#">urna mollis ornare</a> vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula.</p>
           <p><small>This line of text is meant to be treated as fine print.</small></p>
           <p>The following snippet of text is <strong>rendered as bold text</strong>.</p>
           <p>The following snippet of text is <em>rendered as italicized text</em>.</p>
           <p>An abbreviation of the word attribute is <abbr title="attribute">attr</abbr>.</p>
-        </div>
+        </div>-->
         <!--3rd column-->
-        <div class="col-sm-4">
+        <!--<div class="col-sm-4">
           <h4><center>Additional features</center></h4>
           <p>Nullam quis risus eget <a href="#">urna mollis ornare</a> vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula.</p>
           <p><small>This line of text is meant to be treated as fine print.</small></p>
@@ -173,7 +184,7 @@
           <p>An abbreviation of the word attribute is <abbr title="attribute">attr</abbr>.</p>
         </div>
       </div>
-    </div>
+    </div>-->
 
     <!----------- Footer ----------------------->
     <!------------------------------------------>

@@ -51,6 +51,14 @@
       });
 
     });
+
+    function formatDate(date) {
+      var myDate = new Date(date);
+      var month = ["January", "February", "March", "April", "May", "June",
+        "July", "August", "September", "October", "November", "December"][myDate.getMonth()];
+      var str = month + " " + myDate.getDate() + ", " + myDate.getFullYear();
+      return str;
+    }
   </script>
 
   <style type="text/css">
@@ -227,6 +235,7 @@
 
     #qbg {
       background-color: #71c2ff;
+      border-radius: 5px;
     }
     #qbg:hover {
       background-color: #62BBED;
@@ -234,6 +243,7 @@
 
     #kbg {
       background-color: #519FFF;
+      border-radius: 5px;
     }
     #kbg:hover {
       background-color: #4298ED;
@@ -264,7 +274,7 @@
             </button>
           </div>
         </form>
-        <button id="myBtn1">Funds</button>
+        <button id="myBtn1" style="border-radius: 5px;">Funds</button>
 
         <div id="myModal" class="modal">
           <!-- Modal content -->
@@ -318,11 +328,18 @@
           }
 
           // When the user clicks anywhere outside of the modal, close it
-          window.onclick = function(event) {
+          window.addEventListener("click", function(event) {
             if (event.target == modal) {
               modal.style.display = "none";
             }
-          }
+          });
+
+          window.addEventListener("keydown", function(event) {
+            if (event.keyCode == '27') {
+              modal.style.display = "none";
+            }
+          });
+
         </script>
         <script type="text/javascript">
 
@@ -430,7 +447,7 @@
           }
 
         </script>
-        <button id="myBtn2">Directors</button>
+        <button id="myBtn2" style="border-radius: 5px;">Directors</button>
 
         <div id="myModal2" class="modal">
           <!-- Modal content -->
@@ -494,17 +511,24 @@
             modal2.style.display = "none";
           }
 
-          // When the user clicks anywhere outside of the modal, close it
-          window.onclick = function(event) {
-            if (event.target == modal2) {
+          window.addEventListener("click", function(event) {
+            if (event.target == modal) {
               modal2.style.display = "none";
             }
-          }
+          });
+
+          // When the user clicks anywhere outside of the modal, close it
+          window.addEventListener("keydown", function(event) {
+            if (event.keyCode == '27') {
+              modal2.style.display = "none";
+            }
+          });
+
           document.getElementById("dynamicDirector-header").innerHTML = "Directors of {{ object_list.1.0 }} as of the " + date.getFullYear() + " proxy statement";
 
         </script>
 
-        <button id="myBtn3">Executives</button>
+        <button id="myBtn3" style="border-radius: 5px;">Executives</button>
 
         <div id="myModal3" class="modal">
           <div class="modal-content">
@@ -540,12 +564,19 @@
             modal3.style.display = "none";
           }
 
-          // When the user clicks anywhere outside of the modal, close it
-          window.onclick = function(event) {
-            if (event.target == modal3) {
+          window.addEventListener("click", function(event) {
+            if (event.target == modal) {
               modal3.style.display = "none";
             }
-          }
+          });
+
+          // When the user clicks anywhere outside of the modal, close it
+          window.addEventListener("keydown", function(event) {
+            if (event.keyCode == '27') {
+              modal3.style.display = "none";
+            }
+          });
+
           document.getElementById("dynamicExecutive-header").innerHTML = "Executives of {{ object_list.1.0 }} as of the " + date.getFullYear() + " 2020 proxy statement";
 
         </script>
@@ -556,7 +587,7 @@
             <thead>
               <tr>
                 <th><center>Type</center></th>
-                <th>SEC Filing Reference</th>
+                <th></th>
               </tr>
             </thead>
             <tbody>
@@ -578,7 +609,7 @@
             <thead>
               <tr>
                 <th><center>Type</center></th>
-                <th>SEC Filing Reference</th>
+                <th></th>
               </tr>
             </thead>
             <tbody>
