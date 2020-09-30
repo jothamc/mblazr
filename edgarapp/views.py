@@ -262,7 +262,7 @@ def SearchFilingView(request):
 
   object_list = []
   object_list.append((query, fid))
-  object_list.append((mycompany.name, mycompany.name))
+  object_list.append((mycompany.name, mycompany.ticker))
   object_list.append(filings)
   object_list.append(filing)
   object_list.append(funds)
