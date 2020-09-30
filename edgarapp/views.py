@@ -224,7 +224,7 @@ def SearchFilingView(request):
       comps.append('Director is not on the board of any other companies')
     matches.append(comps)
 
-  url = 'edgarapp/static/filings/'+filing.filingpath
+  url = '/mnt/filings-static/capitalrap/edgarapp/static/filings/'+filing.filingpath
   
   page = open(url)
   finder = filing.filingpath.split('/')[1]+"#"
