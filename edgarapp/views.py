@@ -7,6 +7,7 @@ from django.db.models import Q
 from datetime import datetime
 from bs4 import BeautifulSoup
 import requests
+from django.templatetags.static import static
 # For contact View
 from django.http import HttpResponse, HttpResponseRedirect
 from django.contrib.auth.decorators import login_required
@@ -224,7 +225,7 @@ def SearchFilingView(request):
       comps.append('Director is not on the board of any other companies')
     matches.append(comps)
 
-  url = '/mnt/filings/files/'+filing.filingpath
+  url = static('filings/' + filing.filingpath)
   
   page = open(url)
   finder = filing.filingpath.split('/')[1]+"#"
