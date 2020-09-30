@@ -35,7 +35,7 @@
               $(".tt-dataset").text('No companies match the current query');
             },
             suggestion: function(data) {
-              return '<p style="font-size:15px;padding:3px 20px;margin:0;text-transform:uppercase;"><strong>' + data.ticker + '</strong> - ' + data.name + '</p>';
+              return '<p style="font-size:15px;padding:3px 20px;margin:0;text-transform:uppercase;"><strong>' + data.ticker + '</strong> – ' + data.name + '</p>';
             }
           },
       });
@@ -238,21 +238,6 @@
     #kbg:hover {
       background-color: #4298ED;
     }
-    #table_filing {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-#filing_td {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-#filing_tr:nth-child(even) {
-  background-color: #dddddd;
-}
   </style>
 {% endblock %}
 
@@ -662,16 +647,8 @@
       <script>
         $('iframe').load(function() {
           $("#iFrame").contents().find("FILENAME").css('display', 'none');
-        });
-
-        function reloadFrame(value) {
-          document.getElementById('iFrame').src = "{% static 'filings/' %}{{ object_list.3.filingpath }}"+value;  
-          // console.log('reloaded')
-        }
-        // $('iframe').scroll(function() {
-        //   console.log("{{ object_list.3.filingpath }}")
-        // })
-        // document.getElementById('iFrame2').contentWindow.document.write("{% static 'filings/' %}{{ object_list.3.filingpath }}");
+      });
+        document.getElementById('iFrame2').contentWindow.document.write("{% static 'filings/' %}{{ object_list.3.filingpath }}");
       </script>
 
       <!--------------------------------------->
@@ -685,18 +662,16 @@
           <h5 style="margin:10px;font-size:1.3em;color:black;font-weight:bold;">{{ object_list.1.1 }} {{ object_list.3.filingtype }} Report</h5>
           <hr style="margin-bottom:1%;">
         </div>
-        <table class="table table-striped table-hover " id="table_filing">
+        <table class="table table-striped table-hover " id="3rdmenu">
           <thead>
             <tr>
-              <th><center>TABLE OF CONTENT</center></th>
+              <th>Company and Filing List for Test</th>
             </tr>
           </thead>
           <tbody>
-            {% for filing in object_list.7 %}
-              <tr id="filing_tr">
-                <td onclick="reloadFrame('{{ filing.url }}')" id="filing_td" style="cursor: pointer;">
-                  <a style="text-decoration: none;">{{ filing.value }}</a>
-                </td>
+            {% for filing in object_list.2 %}
+              <tr>
+                  <td>{{ object_list.1.1 }}, {{ filing.name }}, {{ filing.cik }}, {{ filing.filingtype }}, {{ filing.filingdate }}, <a href="{% url 'companyFiling' %}?q={{ object_list.0.0 }}&fid={{ filing.id }}">Filed {{ filing.filingdate }}</a>, {{ filing.filingpath }}</td>
               </tr>
             {% endfor %}
           </tbody>

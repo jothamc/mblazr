@@ -5,8 +5,7 @@ from django.shortcuts import render, redirect
 from .models import Filing, Company, Funds, Directors, Proxies, Executives
 from django.db.models import Q
 from datetime import datetime
-from bs4 import BeautifulSoup
-import requests
+
 # For contact View
 from django.http import HttpResponse, HttpResponseRedirect
 from django.contrib.auth.decorators import login_required
@@ -224,41 +223,6 @@ def SearchFilingView(request):
       comps.append('Director is not on the board of any other companies')
     matches.append(comps)
 
-  url = 'edgarapp/static/filings/'+filing.filingpath
-  
-  page = open(url)
-  finder = filing.filingpath.split('/')[1]+"#"
-  soup = BeautifulSoup(page.read())
-  links = []
-  verify = []
-  for link in soup.find_all('a'):
-    x = link.get('href')
-    if str(x).startswith('https') or str(x).startswith('http'):
-      if x.find('#') != -1:
-        if link.string.find('Table of Contents') == -1 or x.endswith("#INDEX") == -1:
-          # print(link.string.endswith("Index"))
-          if link.string.endswith("Index") == False:
-            # print('not present')
-            if x in verify:
-              for item in links:
-                if x.find(item["url"]) != -1:
-                  # print(link.string)
-                  itemIndex = links.index(item)
-                  # print("index", itemIndex)
-                  del links[itemIndex]
-                  store = {
-                    "value": item["value"] + " " + link.string,
-                    "url": item["url"]
-                  }
-                  links.append(store)
-            else: 
-              # print('false')
-              verify.append(x)
-              store = {
-                "value": link.string,
-                "url": "#"+x.split('#')[1]
-              }
-              links.append(store)
 
   object_list = []
   object_list.append((query, fid))
@@ -268,16 +232,12 @@ def SearchFilingView(request):
   object_list.append(funds)
   object_list.append(zip(directors, matches))
   object_list.append(zip(exectable, matches))
-  object_list.append(links)
-
-  # print(finder)
-
-  # object_list is ((q, fid), (companyname, name), (filings object), (filing))
+  
+  # object_list is ((q, fid), (companyname, ticker), (filings object), (filing))
   return render(
     request, template_name,
     {'object_list': object_list, 'extended_template': extended_template}
   )
-
 
 
 def AboutView(request):
